@@ -6,12 +6,12 @@
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/flyv2ray.jpg"
         },
         "type": "vless",
-        "config": "vless://26ba66de-efbf-470a-a7b8-757d8474d74e@discord.gg:2087?path=/&security=tls&encryption=none&host=configngnixV2rayng.shhproxy.cfd&type=ws&sni=configngnixV2rayng.shhproxy.cfd#رایگان | VLESS | @flyv2ray | XX | 0️⃣1️⃣",
-        "ping": 4.04,
+        "config": "vless://0e56c796-9dbf-4f44-b84f-2b6a47ded58e@104.18.202.232:2096?path=Telegram Channel : @freeiranweb&security=tls&encryption=none&host=it1.vlessx.xyz&type=ws&sni=it1.vlessx.xyz#رایگان | VLESS | @flyv2ray | XX | 0️⃣2️⃣",
+        "ping": 2.17,
         "country_code": "XX",
-        "ip": "162.159.134.234",
+        "ip": "104.18.202.232",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:57"
+        "time": "2023-11-12 21:50:24"
     },
     {
         "channel": {
@@ -20,12 +20,54 @@
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/flyv2ray.jpg"
         },
         "type": "vless",
-        "config": "vless://0e56c796-9dbf-4f44-b84f-2b6a47ded58e@104.18.202.232:2096?path=Telegram Channel : @freeiranweb&security=tls&encryption=none&host=it1.vlessx.xyz&type=ws&sni=it1.vlessx.xyz#رایگان | VLESS | @flyv2ray | XX | 0️⃣2️⃣",
-        "ping": 1.71,
+        "config": "vless://26ba66de-efbf-470a-a7b8-757d8474d74e@discord.gg:2087?path=/&security=tls&encryption=none&host=configngnixV2rayng.shhproxy.cfd&type=ws&sni=configngnixV2rayng.shhproxy.cfd#رایگان | VLESS | @flyv2ray | XX | 0️⃣1️⃣",
+        "ping": 6.9,
         "country_code": "XX",
-        "ip": "104.18.202.232",
+        "ip": "162.159.134.234",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:57"
+        "time": "2023-11-12 21:50:23"
+    },
+    {
+        "channel": {
+            "username": "forwardv2ray",
+            "title": "FORWARDV2RAY",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/forwardv2ray.jpg"
+        },
+        "type": "vless",
+        "config": "vless://0e56c796-9dbf-4f44-b84f-2b6a47ded58e@172.67.66.43:8443?path=/?ed=2048&security=tls&encryption=none&host=it1.vlessx.xyz&fp=randomized&type=ws&sni=it1.vlessx.xyz#رایگان | VLESS | @forwardv2ray | XX | 0️⃣3️⃣",
+        "ping": 1.69,
+        "country_code": "XX",
+        "ip": "172.67.66.43",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:50:20"
+    },
+    {
+        "channel": {
+            "username": "forwardv2ray",
+            "title": "FORWARDV2RAY",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/forwardv2ray.jpg"
+        },
+        "type": "vless",
+        "config": "vless://338469e5-b7d6-43f2-ab41-837b9fbea6a4@172.67.192.245:443?path=CHANNEL-@V2rayy_napsternetv@V2rayy_napsternetv#رایگان | VLESS | @forwardv2ray | XX | 0️⃣2️⃣",
+        "ping": 2.28,
+        "country_code": "XX",
+        "ip": "172.67.192.245",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:50:19"
+    },
+    {
+        "channel": {
+            "username": "forwardv2ray",
+            "title": "FORWARDV2RAY",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/forwardv2ray.jpg"
+        },
+        "type": "vless",
+        "config": "vless://3068f324-e024-47ce-8e7c-3a0d973fd16b@104.20.154.101:80?path=/?ed=2048&security=none&encryption=none&host=gb1.vlessx.us&type=ws#رایگان | VLESS | @forwardv2ray | XX | 0️⃣1️⃣",
+        "ping": 1.65,
+        "country_code": "XX",
+        "ip": "104.20.154.101",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:50:18"
     },
     {
         "channel": {
@@ -35,11 +77,11 @@
         },
         "type": "vless",
         "config": "vless://c91b21d9-2a01-4e62-8b01-002a2ef5f361@v2parsin.site:19837?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#رایگان | VLESS | @V2parsin | XX | 0️⃣2️⃣",
-        "ping": 95.06,
+        "ping": 96.27,
         "country_code": "XX",
         "ip": "128.140.107.154",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:54"
+        "time": "2023-11-12 21:50:16"
     },
     {
         "channel": {
@@ -49,11 +91,25 @@
         },
         "type": "vless",
         "config": "vless://c91b21d9-2a01-4e62-8b01-002a2ef5f361@v2parsin.site:19837?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#رایگان | VLESS | @V2parsin | XX | 0️⃣1️⃣",
-        "ping": 96.15,
+        "ping": 97.18,
         "country_code": "XX",
-        "ip": "128.140.107.154",
+        "ip": "157.90.16.192",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:53"
+        "time": "2023-11-12 21:50:15"
+    },
+    {
+        "channel": {
+            "username": "forwardv2ray",
+            "title": "FORWARDV2RAY",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/forwardv2ray.jpg"
+        },
+        "type": "vmess",
+        "config": "vmess://eyJhZGQiOiI5NS4yMTYuMjMyLjE2OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2YWJlMGM2Ni05NWJjLTQ1M2MtZGIzZi0zZDk2MDdjZGI4MzEiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIzODQxMCIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAZm9yd2FyZHYycmF5IHwgWFggfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==",
+        "ping": 113.13,
+        "country_code": "XX",
+        "ip": "95.216.232.169",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:50:14"
     },
     {
         "channel": {
@@ -63,39 +119,11 @@
         },
         "type": "vless",
         "config": "vless://0e56c796-9dbf-4f44-b84f-2b6a47ded58e@104.18.202.232:2096?path=Telegram Channel : @m4dvpn&security=tls&encryption=none&host=it1.vlessx.xyz&type=ws&sni=it1.vlessx.xyz#رایگان | VLESS | @Capoit | XX | 0️⃣2️⃣",
-        "ping": 1.67,
+        "ping": 1.66,
         "country_code": "XX",
         "ip": "104.18.202.232",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:48"
-    },
-    {
-        "channel": {
-            "username": "forwardv2ray",
-            "title": "FORWARDV2RAY",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/forwardv2ray.jpg"
-        },
-        "type": "reality",
-        "config": "vless://V2ray_Alpha_Vip@5.75.212.140:443?mode=gun&security=reality&encryption=none&pbk=UPPbUTVR7DKRZ6T48hykJAV-dFEal3CadT-sp8lZmRY&fp=chrome&spx=/&type=grpc&serviceName=@v2ray_alpha_vip,@v2ray_alpha_vip,@v2ray_alpha_vip,@v2ray_alpha_vip,@v2ray_alpha_vip,@v2ray_alpha_vip,@v2ray_alpha_vip&sni=account.zula.ir&sid=d8125979#رایگان | REALITY | @forwardv2ray | XX | 0️⃣3️⃣",
-        "ping": 105.39,
-        "country_code": "XX",
-        "ip": "5.75.212.140",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:48"
-    },
-    {
-        "channel": {
-            "username": "forwardv2ray",
-            "title": "FORWARDV2RAY",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/forwardv2ray.jpg"
-        },
-        "type": "vless",
-        "config": "vless://16884754-8162-4b6a-99ce-c123ec4e39d6@food.teach-methods.click:8443?type=tcp&security=tls&sni=comparethemarket.com&headerType=http&path=/&host=www.epitiro.com#رایگان | VLESS | @forwardv2ray | XX | 0️⃣1️⃣",
-        "ping": 121.79,
-        "country_code": "XX",
-        "ip": "5.75.153.112",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:46"
+        "time": "2023-11-12 21:50:08"
     },
     {
         "channel": {
@@ -105,25 +133,11 @@
         },
         "type": "vless",
         "config": "vless://f6188c8c-4ec2-455e-b487-e29c01c97043@mci.vpnprosec.com:443?type=grpc&serviceName=&security=tls&fp=&alpn=http/1.1,h2&sni=V2ray.SvnBuy.online#رایگان | VLESS | @VpnFreeSec | XX | 0️⃣3️⃣",
-        "ping": 2.02,
+        "ping": 1.77,
         "country_code": "XX",
         "ip": "104.21.65.133",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:45"
-    },
-    {
-        "channel": {
-            "username": "VpnFreeSec",
-            "title": "Mamlekat | اینترنت آزاد",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/VpnFreeSec.jpg"
-        },
-        "type": "vless",
-        "config": "vless://69137742-cbf3-4293-8b93-099ccf43120a@mtn.vpnprosec.com:443?type=grpc&serviceName=&security=tls&fp=&alpn=http/1.1,h2&sni=V2ray.svnreallity.online#رایگان | VLESS | @VpnFreeSec | XX | 0️⃣2️⃣",
-        "ping": 75.95,
-        "country_code": "XX",
-        "ip": "104.21.65.133",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:44"
+        "time": "2023-11-12 21:50:03"
     },
     {
         "channel": {
@@ -133,11 +147,25 @@
         },
         "type": "vless",
         "config": "vless://05f34c5a-c39f-4058-b584-2fbd7d55a091@mci.vpnprosec.com:443?type=grpc&serviceName=&security=tls&fp=&alpn=http/1.1,h2&sni=V2ray.SvnBuy.online#رایگان | VLESS | @VpnFreeSec | XX | 0️⃣1️⃣",
-        "ping": 49.31,
+        "ping": 40.63,
         "country_code": "XX",
-        "ip": "104.21.65.133",
+        "ip": "172.67.163.123",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:44"
+        "time": "2023-11-12 21:50:02"
+    },
+    {
+        "channel": {
+            "username": "VpnFreeSec",
+            "title": "Mamlekat | اینترنت آزاد",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/VpnFreeSec.jpg"
+        },
+        "type": "vless",
+        "config": "vless://69137742-cbf3-4293-8b93-099ccf43120a@mtn.vpnprosec.com:443?type=grpc&serviceName=&security=tls&fp=&alpn=http/1.1,h2&sni=V2ray.svnreallity.online#رایگان | VLESS | @VpnFreeSec | XX | 0️⃣2️⃣",
+        "ping": 14.57,
+        "country_code": "XX",
+        "ip": "172.67.163.123",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:50:02"
     },
     {
         "channel": {
@@ -147,11 +175,11 @@
         },
         "type": "vless",
         "config": "vless://44060775-7c01-4a05-847d-1f8637c0a7f8@all.v-2rayngvpn.cfd:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@FreeNapsternetV-@FreeNapsternetV&sni=Loop.v2rayvpn2.sbs#رایگان | VLESS | @v2rayng_vpnrog | XX | 0️⃣3️⃣",
-        "ping": 18.5,
+        "ping": 28.9,
         "country_code": "XX",
         "ip": "190.93.246.241",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:40"
+        "time": "2023-11-12 21:49:57"
     },
     {
         "channel": {
@@ -161,25 +189,11 @@
         },
         "type": "vless",
         "config": "vless://ac985d8a-1149-42b9-b967-2231d16e005a@www.canva.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=confignginxV2rayng.vpncustomize.Website&fp=chrome&type=ws&sni=confignginxV2rayng.vpncustomize.Website#رایگان | VLESS | @v2rayng_vpnrog | XX | 0️⃣1️⃣",
-        "ping": 2.19,
+        "ping": 2.22,
         "country_code": "XX",
-        "ip": "104.17.239.159",
+        "ip": "104.16.224.149",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:39"
-    },
-    {
-        "channel": {
-            "username": "polproxy",
-            "title": "پروکسی ناب | فیلترشکن | سرور V2ray",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/polproxy.jpg"
-        },
-        "type": "vless",
-        "config": "vless://a4df02db-46f6-49f4-b73c-3920a069bcda@mci.Bluemoien.space:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,&sni=Iran.Polproxy.Space#رایگان | VLESS | @polproxy | XX | 0️⃣2️⃣",
-        "ping": 172.97,
-        "country_code": "XX",
-        "ip": "104.19.155.206",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:34"
+        "time": "2023-11-12 21:49:56"
     },
     {
         "channel": {
@@ -189,11 +203,25 @@
         },
         "type": "vless",
         "config": "vless://e8c619d7-f8ea-48c4-c036-734127fceea9@All.Tlgram-Polproxy.space:2087?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1,h3&fp=chrome&type=grpc&serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,&sni=Iran.Polproxy.Space#رایگان | VLESS | @polproxy | XX | 0️⃣3️⃣",
-        "ping": 229.9,
+        "ping": 211.5,
         "country_code": "XX",
         "ip": "104.21.80.212",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:34"
+        "time": "2023-11-12 21:49:50"
+    },
+    {
+        "channel": {
+            "username": "polproxy",
+            "title": "پروکسی ناب | فیلترشکن | سرور V2ray",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/polproxy.jpg"
+        },
+        "type": "vless",
+        "config": "vless://a4df02db-46f6-49f4-b73c-3920a069bcda@mci.Bluemoien.space:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,&sni=Iran.Polproxy.Space#رایگان | VLESS | @polproxy | XX | 0️⃣2️⃣",
+        "ping": 10.11,
+        "country_code": "XX",
+        "ip": "104.19.155.206",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:49:49"
     },
     {
         "channel": {
@@ -203,25 +231,11 @@
         },
         "type": "vless",
         "config": "vless://b1aca64b-9b29-4cf2-cf88-4e616f087d80@mtn.Moienmusic.space:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,&sni=Iran.Polproxy.Space#رایگان | VLESS | @polproxy | XX | 0️⃣1️⃣",
-        "ping": 104.95,
+        "ping": 9.65,
         "country_code": "XX",
         "ip": "104.16.245.65",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:33"
-    },
-    {
-        "channel": {
-            "username": "VPNCLOP",
-            "title": "VPN CLOP",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/VPNCLOP.jpg"
-        },
-        "type": "reality",
-        "config": "vless://637c8201-88fd-4155-cf06-9abe6bc92abc@5.75.238.19:443?mode=gun&security=reality&encryption=none&pbk=Dubos01AC-tpQjeDfzjQ3s7gDx-Seswl2VM7tqIVHW0&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=638ca3d3#رایگان | REALITY | @VPNCLOP | XX | 0️⃣3️⃣",
-        "ping": 90.3,
-        "country_code": "XX",
-        "ip": "5.75.238.19",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:25"
+        "time": "2023-11-12 21:49:48"
     },
     {
         "channel": {
@@ -231,11 +245,25 @@
         },
         "type": "reality",
         "config": "vless://04ba3531-57a5-4ef6-aba5-971867e3c9e4@65.108.56.15:443?mode=gun&security=reality&encryption=none&pbk=jMfM7BYlDPHYczhcqlbyW4_N5ez2NT6d9ZWvPv8oF2g&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=ftp.debian.org&sid=0e596c3b#رایگان | REALITY | @VPNCLOP | XX | 0️⃣2️⃣",
-        "ping": 113.16,
+        "ping": 113.23,
         "country_code": "XX",
         "ip": "65.108.56.15",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:24"
+        "time": "2023-11-12 21:49:41"
+    },
+    {
+        "channel": {
+            "username": "VPNCLOP",
+            "title": "VPN CLOP",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/VPNCLOP.jpg"
+        },
+        "type": "reality",
+        "config": "vless://637c8201-88fd-4155-cf06-9abe6bc92abc@5.75.238.19:443?mode=gun&security=reality&encryption=none&pbk=Dubos01AC-tpQjeDfzjQ3s7gDx-Seswl2VM7tqIVHW0&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=638ca3d3#رایگان | REALITY | @VPNCLOP | XX | 0️⃣3️⃣",
+        "ping": 90.35,
+        "country_code": "XX",
+        "ip": "5.75.238.19",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:49:41"
     },
     {
         "channel": {
@@ -245,25 +273,11 @@
         },
         "type": "vless",
         "config": "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@198.41.202.5:443?path=/?ed=2048&security=tls&encryption=none&host=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev#رایگان | VLESS | @VPNCLOP | XX | 0️⃣1️⃣",
-        "ping": 17.35,
+        "ping": 17.42,
         "country_code": "XX",
         "ip": "198.41.202.5",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:24"
-    },
-    {
-        "channel": {
-            "username": "Hope_Net",
-            "title": "🕊 Hope Net",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/Hope_Net.jpg"
-        },
-        "type": "vmess",
-        "config": "vmess://eyJhZGQiOiI3Ny43My4xMzEuMTczIiwiYWlkIjoiMCIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiJiMGY1ZDQwNC0xNTk0LTQ0NTgtOWU1NC1jZTllMTRmN2FlMjMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNDQzIiwicHMiOiJcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDYgfCBWTUVTUyB8IEBIb3BlX05ldCB8IFhYIHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=",
-        "ping": 79.55,
-        "country_code": "XX",
-        "ip": "151.101.194.219",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:23"
+        "time": "2023-11-12 21:49:40"
     },
     {
         "channel": {
@@ -273,137 +287,53 @@
         },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiI3Ny43My4xMzEuMTczIiwiYWlkIjoiMCIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiIwYmU3NDllYS1jNGUyLTQzNGItOTQwOC02YzExODIwOTE5NDAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNDQzIiwicHMiOiJcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDYgfCBWTUVTUyB8IEBIb3BlX05ldCB8IFhYIHwgMFx1ZmUwZlx1MjBlMzJcdWZlMGZcdTIwZTMiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=",
-        "ping": 2.64,
+        "ping": 1.76,
         "country_code": "XX",
-        "ip": "151.101.66.219",
+        "ip": "151.101.2.219",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:23"
+        "time": "2023-11-12 21:49:39"
     },
     {
         "channel": {
-            "username": "free1_vpn",
-            "title": "Free_VPN",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/free1_vpn.jpg"
-        },
-        "type": "vless",
-        "config": "vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.56.140:443?path=/vless/b0138d55-a493-4dc3-9932-c6f0391707c1?ed=2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#رایگان | VLESS | @free1_vpn | XX | 0️⃣2️⃣",
-        "ping": 1.85,
-        "country_code": "XX",
-        "ip": "172.67.56.140",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:20"
-    },
-    {
-        "channel": {
-            "username": "free1_vpn",
-            "title": "Free_VPN",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/free1_vpn.jpg"
-        },
-        "type": "vless",
-        "config": "vless://e28bb3f8-e64a-4419-9496-33c46220354b@172.67.194.57:443?path=/?ed=2048&security=tls&encryption=none&host=sdgf.bdfstt.sbs&type=ws&sni=sdgf.bdfstt.sbs#رایگان | VLESS | @free1_vpn | XX | 0️⃣1️⃣",
-        "ping": 2.24,
-        "country_code": "XX",
-        "ip": "172.67.194.57",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:20"
-    },
-    {
-        "channel": {
-            "username": "free1_vpn",
-            "title": "Free_VPN",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/free1_vpn.jpg"
-        },
-        "type": "vless",
-        "config": "vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@104.16.60.79:2052?path=Telegram Channel : @freeiranweb&security=none&encryption=none&host=workerr.hashdiler.workers.dev&type=ws#رایگان | VLESS | @free1_vpn | XX | 0️⃣3️⃣",
-        "ping": 1.75,
-        "country_code": "XX",
-        "ip": "104.16.60.79",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:20"
-    },
-    {
-        "channel": {
-            "username": "free1_vpn",
-            "title": "Free_VPN",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/free1_vpn.jpg"
-        },
-        "type": "vless",
-        "config": "vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@104.16.60.79:2052?path=Telegram Channel : @freeiranweb&security=none&encryption=none&host=workerr.hashdiler.workers.dev&type=ws#رایگان | VLESS | @free1_vpn | XX | 0️⃣3️⃣",
-        "ping": 2.03,
-        "country_code": "XX",
-        "ip": "104.16.60.79",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:19"
-    },
-    {
-        "channel": {
-            "username": "free1_vpn",
-            "title": "Free_VPN",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/free1_vpn.jpg"
-        },
-        "type": "vless",
-        "config": "vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.56.140:443?path=/vless/b0138d55-a493-4dc3-9932-c6f0391707c1?ed=2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#رایگان | VLESS | @free1_vpn | XX | 0️⃣2️⃣",
-        "ping": 1.85,
-        "country_code": "XX",
-        "ip": "172.67.56.140",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:18"
-    },
-    {
-        "channel": {
-            "username": "free1_vpn",
-            "title": "Free_VPN",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/free1_vpn.jpg"
-        },
-        "type": "vless",
-        "config": "vless://e28bb3f8-e64a-4419-9496-33c46220354b@172.67.194.57:443?path=/?ed=2048&security=tls&encryption=none&host=sdgf.bdfstt.sbs&type=ws&sni=sdgf.bdfstt.sbs#رایگان | VLESS | @free1_vpn | XX | 0️⃣1️⃣",
-        "ping": 1.88,
-        "country_code": "XX",
-        "ip": "172.67.194.57",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:18"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB",
-            "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/ConfigsHUB.jpg"
-        },
-        "type": "vless",
-        "config": "vless://e629cf66-bb2d-4c19-be34-a43d7d5552b7@v2rayngcloud.ddns.net:8080?security=none&encryption=none&host=fra.servervless.de&type=ws#رایگان | VLESS | @ConfigsHUB | XX | 0️⃣3️⃣",
-        "ping": 5.37,
-        "country_code": "XX",
-        "ip": "104.18.203.232",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:41:06"
-    },
-    {
-        "channel": {
-            "username": "forwardv2ray",
-            "title": "FORWARDV2RAY",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/forwardv2ray.jpg"
+            "username": "Hope_Net",
+            "title": "🕊 Hope Net",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/Hope_Net.jpg"
         },
         "type": "vmess",
-        "config": "vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAZm9yd2FyZHYycmF5IHwgWFggfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsImFkZCI6IjExOG5haGFsLmlyIiwicG9ydCI6IjQ0MyIsImlkIjoiYTA5YWFiM2YtZWJiNS00MjNhLTlhMjYtNWJhOTE4MzM4YzNjIiwiYWlkIjoiMCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1IiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJyZXZlcnNldHVyay5uaWthbmlzdGhlcmUuc2l0ZSIsInBhdGgiOiJcL0E2aGpPNUdXT2wxbld4QmwyUVRXS1AiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJyZXZlcnNldHVyay5uaWthbmlzdGhlcmUuc2l0ZSIsImFscG4iOiJodHRwXC8xLjEifQ==",
-        "ping": 13.22,
+        "config": "vmess://eyJhZGQiOiI3Ny43My4xMzEuMTczIiwiYWlkIjoiMCIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiJiMGY1ZDQwNC0xNTk0LTQ0NTgtOWU1NC1jZTllMTRmN2FlMjMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNDQzIiwicHMiOiJcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDYgfCBWTUVTUyB8IEBIb3BlX05ldCB8IFhYIHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=",
+        "ping": 26.84,
         "country_code": "XX",
-        "ip": "104.21.84.174",
+        "ip": "151.101.194.219",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:59"
+        "time": "2023-11-12 21:49:38"
     },
     {
         "channel": {
-            "username": "lrnbymaa",
-            "title": "Lrn By MAA",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/lrnbymaa.jpg"
+            "username": "free1_vpn",
+            "title": "Free_VPN",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/free1_vpn.jpg"
         },
         "type": "vless",
-        "config": "vless://d9c53ccc-4467-4a2e-8e4e-5c841d6f2ef7@193.227.99.66:8443?security=tls&encryption=none&type=grpc&sni=ch.donaldvpn.sbs&fp=chrome&alpn=h2,http/1.1#رایگان | VLESS | @lrnbymaa | XX | 0️⃣2️⃣",
-        "ping": 1.46,
+        "config": "vless://e28bb3f8-e64a-4419-9496-33c46220354b@172.67.194.57:443?path=/?ed=2048&security=tls&encryption=none&host=sdgf.bdfstt.sbs&type=ws&sni=sdgf.bdfstt.sbs#رایگان | VLESS | @free1_vpn | XX | 0️⃣1️⃣",
+        "ping": 2.01,
         "country_code": "XX",
-        "ip": "193.227.99.66",
+        "ip": "172.67.194.57",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:59"
+        "time": "2023-11-12 21:49:35"
+    },
+    {
+        "channel": {
+            "username": "free1_vpn",
+            "title": "Free_VPN",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/free1_vpn.jpg"
+        },
+        "type": "vless",
+        "config": "vless://e28bb3f8-e64a-4419-9496-33c46220354b@172.67.194.57:443?path=/?ed=2048&security=tls&encryption=none&host=sdgf.bdfstt.sbs&type=ws&sni=sdgf.bdfstt.sbs#رایگان | VLESS | @free1_vpn | XX | 0️⃣1️⃣",
+        "ping": 1.85,
+        "country_code": "XX",
+        "ip": "172.67.194.57",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:49:33"
     },
     {
         "channel": {
@@ -413,11 +343,25 @@
         },
         "type": "vless",
         "config": "vless://d9c53ccc-4467-4a2e-8e4e-5c841d6f2ef7@173.245.58.41:8443?security=tls&encryption=none&type=grpc&sni=ch.donaldvpn.sbs&fp=chrome&alpn=h2,http/1.1#رایگان | VLESS | @lrnbymaa | XX | 0️⃣3️⃣",
-        "ping": 1.4,
+        "ping": 1.82,
         "country_code": "XX",
         "ip": "173.245.58.41",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:59"
+        "time": "2023-11-12 21:49:16"
+    },
+    {
+        "channel": {
+            "username": "lrnbymaa",
+            "title": "Lrn By MAA",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/lrnbymaa.jpg"
+        },
+        "type": "vless",
+        "config": "vless://d9c53ccc-4467-4a2e-8e4e-5c841d6f2ef7@193.227.99.66:8443?security=tls&encryption=none&type=grpc&sni=ch.donaldvpn.sbs&fp=chrome&alpn=h2,http/1.1#رایگان | VLESS | @lrnbymaa | XX | 0️⃣2️⃣",
+        "ping": 1.63,
+        "country_code": "XX",
+        "ip": "193.227.99.66",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:49:16"
     },
     {
         "channel": {
@@ -427,11 +371,11 @@
         },
         "type": "vless",
         "config": "vless://529902ad-5900-4521-9dc7-a189ca2a6164@173.245.58.41:8443?security=tls&encryption=none&type=grpc&sni=ch.donaldvpn.sbs&fp=chrome&alpn=h2,http/1.1#رایگان | VLESS | @lrnbymaa | XX | 0️⃣1️⃣",
-        "ping": 1.67,
+        "ping": 1.86,
         "country_code": "XX",
         "ip": "173.245.58.41",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:58"
+        "time": "2023-11-12 21:49:16"
     },
     {
         "channel": {
@@ -441,39 +385,11 @@
         },
         "type": "vless",
         "config": "vless://ad9ac4b3-a28d-4be2-a363-a59eea1bdeba@unpkg.com:2052?path=/?ed=2048&security=none&encryption=none&host=nl9.vlessx.us&type=ws#رایگان | VLESS | @MehradLearn | XX | 0️⃣3️⃣",
-        "ping": 1.94,
+        "ping": 2.25,
         "country_code": "XX",
-        "ip": "104.16.126.175",
+        "ip": "104.16.124.175",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:55"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB",
-            "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/ConfigsHUB.jpg"
-        },
-        "type": "vmess",
-        "config": "vmess://eyJhZGQiOiI5NS4yMTYuMjMyLjE2OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxOWQxOWUwMS1lMjY3LTRmNGQtYTAxOS1iNzY1MDhlOWNmYzMiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIzMTg2NyIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAQ29uZmlnc0hVQiB8IFhYIHwgMFx1ZmUwZlx1MjBlMzNcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imd1biIsInYiOiIyIn0=",
-        "ping": 113.99,
-        "country_code": "XX",
-        "ip": "95.216.232.169",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:55"
-    },
-    {
-        "channel": {
-            "username": "sinabigo",
-            "title": "VPN FREE",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/sinabigo.jpg"
-        },
-        "type": "vless",
-        "config": "vless://10221e99-bb18-4d22-87ea-daa48470d098@www.speedtest.net:8880?path=/?ed=2048&security=none&encryption=none&host=fr2.vlessx.xyz&type=ws#رایگان | VLESS | @sinabigo | XX | 0️⃣3️⃣",
-        "ping": 120.27,
-        "country_code": "XX",
-        "ip": "104.18.202.232",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:53"
+        "time": "2023-11-12 21:49:12"
     },
     {
         "channel": {
@@ -483,11 +399,25 @@
         },
         "type": "vless",
         "config": "vless://7a5fd57c-0370-40a5-8c13-35473cf5e9d1@190.93.246.241:80?path=/?ed=2048&security=none&encryption=none&host=fr1.vlessx.xyz&type=ws#رایگان | VLESS | @sinabigo | XX | 0️⃣2️⃣",
-        "ping": 1.98,
+        "ping": 1.48,
         "country_code": "XX",
         "ip": "190.93.246.241",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:53"
+        "time": "2023-11-12 21:49:09"
+    },
+    {
+        "channel": {
+            "username": "sinabigo",
+            "title": "VPN FREE",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/sinabigo.jpg"
+        },
+        "type": "vless",
+        "config": "vless://10221e99-bb18-4d22-87ea-daa48470d098@www.speedtest.net:8880?path=/?ed=2048&security=none&encryption=none&host=fr2.vlessx.xyz&type=ws#رایگان | VLESS | @sinabigo | XX | 0️⃣3️⃣",
+        "ping": 54.47,
+        "country_code": "XX",
+        "ip": "104.18.202.232",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:49:09"
     },
     {
         "channel": {
@@ -497,11 +427,11 @@
         },
         "type": "vless",
         "config": "vless://c84b4077-3ede-4ac9-c90e-aed466a16d40@172.66.47.84:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LIGHTNING6&sni=Z.LiV2ray.top#رایگان | VLESS | @sinabigo | XX | 0️⃣1️⃣",
-        "ping": 3.11,
+        "ping": 1.99,
         "country_code": "XX",
         "ip": "172.66.47.84",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:53"
+        "time": "2023-11-12 21:49:08"
     },
     {
         "channel": {
@@ -511,11 +441,11 @@
         },
         "type": "vmess",
         "config": "vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBARGFpbHlWMlJZIHwgWFggfCAwXHVmZTBmXHUyMGUzMlx1ZmUwZlx1MjBlMyIsImFkZCI6InZtZXNzcHJvdG9jb2wudGVsZWdyYW0tdm1lc3Nwcm90b2NvbC1jaGFubmVsLnNwYWNlIiwicG9ydCI6IjQ0MyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Im9waGVsaWEubW9tIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJvcGhlbGlhLm1vbSIsImFscG4iOiIiLCJmcCI6ImNocm9tZSJ9",
-        "ping": 2.32,
+        "ping": 2.51,
         "country_code": "XX",
         "ip": "104.21.53.12",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:52"
+        "time": "2023-11-12 21:49:07"
     },
     {
         "channel": {
@@ -525,25 +455,11 @@
         },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiJvZGVsaWEuYXV0b3MiLCJhaWQiOiIxIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDYgfCBWTUVTUyB8IEBEYWlseVYyUlkgfCBYWCB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9",
-        "ping": 240.46,
+        "ping": 21.83,
         "country_code": "XX",
         "ip": "104.21.21.88",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:51"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB",
-            "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/ConfigsHUB.jpg"
-        },
-        "type": "vless",
-        "config": "vless://df00a8f4-4f9a-48e9-9b4a-9a95324c5f84@vip1.netprivate.xyz:4990?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#رایگان | VLESS | @ConfigsHUB | XX | 0️⃣2️⃣",
-        "ping": 211.06,
-        "country_code": "XX",
-        "ip": "62.60.179.226",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:51"
+        "time": "2023-11-12 21:49:07"
     },
     {
         "channel": {
@@ -553,11 +469,11 @@
         },
         "type": "reality",
         "config": "vless://1a74db6c-c9d1-49ae-a5e4-5731a63c9107@amsa.carfin.tech:8880?encryption=none&security=reality&sni=skyroom.online&fp=chrome&pbk=WxmtkFSKzV-0YesAK_ch8JzaYJrbLvkkNHP6F0DpEzI&sid=0178dbd0&spx=/&type=tcp&headerType=http&host=skyroom.online#رایگان | REALITY | @DailyV2RY | XX | 0️⃣3️⃣",
-        "ping": 106.73,
+        "ping": 107.09,
         "country_code": "XX",
         "ip": "104.248.83.19",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:50"
+        "time": "2023-11-12 21:49:05"
     },
     {
         "channel": {
@@ -567,11 +483,11 @@
         },
         "type": "vless",
         "config": "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.66.44.172:443?path=/?ed=2048&security=tls&encryption=none&host=cf-wkrs-pages-vless-aoy.pages.dev&fp=chrome&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev#رایگان | VLESS | @DailyV2RY | XX | 0️⃣1️⃣",
-        "ping": 1.52,
+        "ping": 1.63,
         "country_code": "XX",
         "ip": "172.66.44.172",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:49"
+        "time": "2023-11-12 21:49:04"
     },
     {
         "channel": {
@@ -581,25 +497,11 @@
         },
         "type": "reality",
         "config": "vless://ef5ae00e-d05f-48c3-a6b7-0bc4fada0907@65.21.158.218:443?hiddify=1&sni=www.roblox.com&type=grpc&alpn=http/1.1&path=wSCsWpaXkxfvgKqrdcUIjZS&serviceName=wSCsWpaXkxfvgKqrdcUIjZS&mode=gun&encryption=none&fp=chrome&headerType=None&security=reality&pbk=bx2foZdnU-hC0hNTUSDyxZ_21OW4_-O73VomBA39VHs&sid=e9a52e6dbcc14bf2#رایگان | REALITY | @DailyV2RY | XX | 0️⃣2️⃣",
-        "ping": 113.25,
+        "ping": 113.6,
         "country_code": "XX",
         "ip": "65.21.158.218",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:49"
-    },
-    {
-        "channel": {
-            "username": "VmessProtocol",
-            "title": "V2ray Vless | فیلترشکن | سرور اختصاصی",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/VmessProtocol.jpg"
-        },
-        "type": "vless",
-        "config": "vless://ece7a2bc-41cd-47cb-a7dd-d78791866f1f@141.101.113.89:443?path=/cypherpunks?ed=4096&security=tls&encryption=none&alpn=http/1.1&host=russ.cypherpunks.asia&fp=chrome&type=ws&sni=russ.cypherpunks.asia#رایگان | VLESS | @VmessProtocol | XX | 0️⃣2️⃣",
-        "ping": 1.83,
-        "country_code": "XX",
-        "ip": "141.101.113.89",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:48"
+        "time": "2023-11-12 21:49:04"
     },
     {
         "channel": {
@@ -609,25 +511,25 @@
         },
         "type": "vless",
         "config": "vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@ada3.qowch.com:443?path=users?ed=2048&security=tls&encryption=none&type=ws#رایگان | VLESS | @VmessProtocol | XX | 0️⃣1️⃣",
-        "ping": 145.83,
+        "ping": 77.96,
         "country_code": "XX",
         "ip": "5.78.57.197",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:47"
+        "time": "2023-11-12 21:49:02"
     },
     {
         "channel": {
-            "username": "ConfigsHUB",
-            "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/ConfigsHUB.jpg"
+            "username": "VmessProtocol",
+            "title": "V2ray Vless | فیلترشکن | سرور اختصاصی",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/VmessProtocol.jpg"
         },
         "type": "vless",
-        "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@3254.outline-vpn.cloud:2087?path=/?ed=2048&security=tls&encryption=none&host=baipiao1.curly-train.pages.dev&type=ws&sni=baipiao1.curly-train.pages.dev#رایگان | VLESS | @ConfigsHUB | XX | 0️⃣1️⃣",
-        "ping": 59.5,
+        "config": "vless://ece7a2bc-41cd-47cb-a7dd-d78791866f1f@141.101.113.89:443?path=/cypherpunks?ed=4096&security=tls&encryption=none&alpn=http/1.1&host=russ.cypherpunks.asia&fp=chrome&type=ws&sni=russ.cypherpunks.asia#رایگان | VLESS | @VmessProtocol | XX | 0️⃣2️⃣",
+        "ping": 1.97,
         "country_code": "XX",
-        "ip": "172.67.139.111",
+        "ip": "141.101.113.89",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:46"
+        "time": "2023-11-12 21:49:02"
     },
     {
         "channel": {
@@ -637,25 +539,11 @@
         },
         "type": "trojan",
         "config": "trojan://bf432b0411@103.106.228.223:443?security=tls&headerType=none&type=tcp&sni=jp1.connecton.surf#رایگان | TROJAN | @VmessProtocol | XX | 0️⃣3️⃣",
-        "ping": 164.05,
+        "ping": 166.69,
         "country_code": "XX",
         "ip": "103.106.228.223",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:46"
-    },
-    {
-        "channel": {
-            "username": "ConfigsHUB",
-            "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/ConfigsHUB.jpg"
-        },
-        "type": "vmess",
-        "config": "vmess://eyJhZGQiOiJpcmFuMDEuYmlxaWJhby5zaXRlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkZTYuYmlxaWJhby5zaXRlIiwiaWQiOiJlNjk2N2QxNy1mM2RiLTRlMjUtOGU2Zi0yZGI4YTgxNDlmNzMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3B1YmxpYyIsInBvcnQiOiIyMDUyIiwicHMiOiJcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDYgfCBWTUVTUyB8IEBDb25maWdzSFVCIHwgWFggfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
-        "ping": 17.33,
-        "country_code": "XX",
-        "ip": "104.21.69.36",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:42"
+        "time": "2023-11-12 21:49:01"
     },
     {
         "channel": {
@@ -665,11 +553,11 @@
         },
         "type": "vless",
         "config": "vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@plus2---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=current.iraniancp.click&type=ws&sni=current.iraniancp.click#رایگان | VLESS | @vmess_vless_v2rayng | XX | 0️⃣2️⃣",
-        "ping": 20.29,
+        "ping": 72.9,
         "country_code": "XX",
         "ip": "104.21.211.74",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:32"
+        "time": "2023-11-12 21:48:52"
     },
     {
         "channel": {
@@ -679,11 +567,11 @@
         },
         "type": "vless",
         "config": "vless://821315c8-7ef6-4c18-b251-bef67354c555@all.shhproxy.cfd:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&sni=uGshhproxyV2raykufukfkyKuyk-irancel-Mokhabera-Sshpr-raitel-MIc.Snappfoodd.site#رایگان | VLESS | @vmess_vless_v2rayng | XX | 0️⃣1️⃣",
-        "ping": 8,
+        "ping": 7.73,
         "country_code": "XX",
         "ip": "190.93.246.241",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:32"
+        "time": "2023-11-12 21:48:51"
     },
     {
         "channel": {
@@ -693,25 +581,11 @@
         },
         "type": "reality",
         "config": "vless://a1921c19-e497-4f4e-98d9-c48ce16d4b00@tel-xsv2ray.xalixv2ray.space:443?mode=gun&security=reality&encryption=none&pbk=jNUJT2tnKrteerSeMMKqoC1qO1M7oECcNh-yRUKsxTM&fp=chrome&spx=/&type=grpc&serviceName=@XsV2ray,@XsV2ray&sni=tgju.org&sid=2a718e4a#رایگان | REALITY | @MTConfig | XX | 0️⃣1️⃣",
-        "ping": 105.34,
+        "ping": 94.38,
         "country_code": "XX",
         "ip": "104.248.25.55",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:24"
-    },
-    {
-        "channel": {
-            "username": "v2ray1_ng",
-            "title": "V2RayNg & Napsternet V",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/v2ray1_ng.jpg"
-        },
-        "type": "vmess",
-        "config": "vmess://eyJhZGQiOiIxNzMuMjQ1LjU4LjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDA4NTdmNTAtOWI4OS00ZDljLWQwYjEtM2YzZDA5YTgxZTFjIiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAdjJyYXkxX25nIHwgWFggfCAwXHVmZTBmXHUyMGUzMlx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiJteS5oaWdodGVocmFuLmNmZCIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9",
-        "ping": 11.2,
-        "country_code": "XX",
-        "ip": "172.67.196.92",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:20"
+        "time": "2023-11-12 21:48:47"
     },
     {
         "channel": {
@@ -721,11 +595,39 @@
         },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiIxMDQuMjAuNzcuMTMxIiwiYWlkIjoiMCIsImFscG4iOiJodHRwXC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJ0cmVlLmJsYW5rdS5tZSIsImlkIjoiOTFhNGVkMWYtZjY5My00Njg1LWE2YmUtZjA5ODFkNmYyNjEzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC93c3MyODg4NSIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NiB8IFZNRVNTIHwgQHYycmF5MV9uZyB8IFhYIHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoicm9ja3AuYmxhbmt1Lm1lIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=",
-        "ping": 58.74,
+        "ping": 10.73,
         "country_code": "XX",
-        "ip": "172.67.209.60",
+        "ip": "104.21.93.108",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:20"
+        "time": "2023-11-12 21:48:42"
+    },
+    {
+        "channel": {
+            "username": "v2ray1_ng",
+            "title": "V2RayNg & Napsternet V",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/v2ray1_ng.jpg"
+        },
+        "type": "vmess",
+        "config": "vmess://eyJhZGQiOiIxNzMuMjQ1LjU4LjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDA4NTdmNTAtOWI4OS00ZDljLWQwYjEtM2YzZDA5YTgxZTFjIiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAdjJyYXkxX25nIHwgWFggfCAwXHVmZTBmXHUyMGUzMlx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiJteS5oaWdodGVocmFuLmNmZCIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9",
+        "ping": 190.36,
+        "country_code": "XX",
+        "ip": "172.67.196.92",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:48:42"
+    },
+    {
+        "channel": {
+            "username": "v2ray1_ng",
+            "title": "V2RayNg & Napsternet V",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/v2ray1_ng.jpg"
+        },
+        "type": "vless",
+        "config": "vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@104.16.60.79:2052?path=Telegram Channel : @freeiranweb&security=none&encryption=none&host=workerr.hashdiler.workers.dev&type=ws#رایگان | VLESS | @v2ray1_ng | XX | 0️⃣3️⃣",
+        "ping": 1.43,
+        "country_code": "XX",
+        "ip": "104.16.60.79",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:48:40"
     },
     {
         "channel": {
@@ -734,12 +636,26 @@
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/v2ray1_ng.jpg"
         },
         "type": "reality",
-        "config": "vless://eefcf749-fcfc-4321-b974-2828d4acb15c@142.132.183.55:2096?security=reality&encryption=none&pbk=GWLTRxw3B1iy29ZW4SqQH113-Gjup6-4vkOMksfEHB0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=spiegel.de&sid=0d8de1aa#رایگان | REALITY | @v2ray1_ng | XX | 0️⃣1️⃣",
-        "ping": 90.18,
+        "config": "vless://738c5e99-7faa-4893-81a8-4d6655adde37@5.75.208.216:443?mode=gun&security=reality&encryption=none&pbk=e2VGvHwmGudsNxadrgFCv3ENvRLyD_8x9csN6tTMGns&fp=firefox&spx=/&type=grpc&serviceName=@Digiv2ray&sni=www.speedtest.net&sid=ab7b40b2#رایگان | REALITY | @v2ray1_ng | XX | 0️⃣2️⃣",
+        "ping": 90.6,
         "country_code": "XX",
-        "ip": "142.132.183.55",
+        "ip": "5.75.208.216",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:18"
+        "time": "2023-11-12 21:48:40"
+    },
+    {
+        "channel": {
+            "username": "v2ray1_ng",
+            "title": "V2RayNg & Napsternet V",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/v2ray1_ng.jpg"
+        },
+        "type": "vless",
+        "config": "vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.56.140:443?path=/vless/b0138d55-a493-4dc3-9932-c6f0391707c1?ed=2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#رایگان | VLESS | @v2ray1_ng | XX | 0️⃣1️⃣",
+        "ping": 1.94,
+        "country_code": "XX",
+        "ip": "172.67.56.140",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:48:40"
     },
     {
         "channel": {
@@ -749,11 +665,11 @@
         },
         "type": "vless",
         "config": "vless://8fac0e66-13a0-443f-fd7a-8c0b027e4632@All-MsV2ray.ddns.net:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray&sni=us.MsV2ray.cfd#رایگان | VLESS | @MsV2ray | XX | 0️⃣3️⃣",
-        "ping": 192.7,
+        "ping": 224.58,
         "country_code": "XX",
-        "ip": "104.16.219.215",
+        "ip": "172.64.163.38",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:16"
+        "time": "2023-11-12 21:48:34"
     },
     {
         "channel": {
@@ -763,11 +679,11 @@
         },
         "type": "vless",
         "config": "vless://8fac0e66-13a0-443f-fd7a-8c0b027e4632@mci-MsV2ray.ddns.net:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray&sni=us.MsV2ray.cfd#رایگان | VLESS | @MsV2ray | XX | 0️⃣2️⃣",
-        "ping": 74.78,
+        "ping": 81,
         "country_code": "XX",
-        "ip": "172.67.81.238",
+        "ip": "104.24.176.7",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:16"
+        "time": "2023-11-12 21:48:33"
     },
     {
         "channel": {
@@ -777,25 +693,11 @@
         },
         "type": "vless",
         "config": "vless://8fac0e66-13a0-443f-fd7a-8c0b027e4632@mtn.MsV2ray.space:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray&sni=us.MsV2ray.cfd#رایگان | VLESS | @MsV2ray | XX | 0️⃣1️⃣",
-        "ping": 13.73,
+        "ping": 11.73,
         "country_code": "XX",
         "ip": "45.67.215.70",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:15"
-    },
-    {
-        "channel": {
-            "username": "proxyymeliii",
-            "title": "کانال پروکسی وکانفیگ🇪🇸🔥 V2ray",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/proxyymeliii.jpg"
-        },
-        "type": "vless",
-        "config": "vless://7098f356-eb4b-4e7e-b6da-a784c4772437@discord.gg:2087?path=/&security=tls&encryption=none&host=configngnixV2rayng.shhproxy.cfd&type=ws&sni=configngnixV2rayng.shhproxy.cfd#رایگان | VLESS | @proxyymeliii | XX | 0️⃣1️⃣",
-        "ping": 4.36,
-        "country_code": "XX",
-        "ip": "162.159.134.234",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:13"
+        "time": "2023-11-12 21:48:33"
     },
     {
         "channel": {
@@ -805,25 +707,25 @@
         },
         "type": "vless",
         "config": "vless://f1d8a150-0b73-48db-bfc3-6e6d73db6ba9@discord.gg:2087?path=/&security=tls&encryption=none&host=configngnixV2rayng.shhproxy.cfd&type=ws&sni=configngnixV2rayng.shhproxy.cfd#رایگان | VLESS | @proxyymeliii | XX | 0️⃣2️⃣",
-        "ping": 5.75,
+        "ping": 4.89,
         "country_code": "XX",
-        "ip": "162.159.134.234",
+        "ip": "162.159.135.234",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:13"
+        "time": "2023-11-12 21:48:31"
     },
     {
         "channel": {
-            "username": "hcv2ray",
-            "title": "❤️‍🔥 V2rayNG _ آزادنت ❤️‍🔥",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/hcv2ray.jpg"
+            "username": "proxyymeliii",
+            "title": "کانال پروکسی وکانفیگ🇪🇸🔥 V2ray",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/proxyymeliii.jpg"
         },
         "type": "vless",
-        "config": "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@1bia.freev2alpha.cfd:443?path=/?ed=2048&security=tls&encryption=none&host=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev#رایگان | VLESS | @hcv2ray | XX | 0️⃣1️⃣",
-        "ping": 153.06,
+        "config": "vless://7098f356-eb4b-4e7e-b6da-a784c4772437@discord.gg:2087?path=/&security=tls&encryption=none&host=configngnixV2rayng.shhproxy.cfd&type=ws&sni=configngnixV2rayng.shhproxy.cfd#رایگان | VLESS | @proxyymeliii | XX | 0️⃣1️⃣",
+        "ping": 7.73,
         "country_code": "XX",
-        "ip": "104.22.13.192",
+        "ip": "162.159.134.234",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:06"
+        "time": "2023-11-12 21:48:30"
     },
     {
         "channel": {
@@ -833,11 +735,25 @@
         },
         "type": "vless",
         "config": "vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@bia-2.freev2alpha.cfd:443?path=/?ed=2048&security=tls&encryption=none&host=current.iraniancp.click&type=ws&sni=current.iraniancp.click#رایگان | VLESS | @hcv2ray | XX | 0️⃣3️⃣",
-        "ping": 45.1,
+        "ping": 8.35,
         "country_code": "XX",
-        "ip": "104.16.60.79",
+        "ip": "104.21.211.74",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:06"
+        "time": "2023-11-12 21:48:22"
+    },
+    {
+        "channel": {
+            "username": "hcv2ray",
+            "title": "❤️‍🔥 V2rayNG _ آزادنت ❤️‍🔥",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/hcv2ray.jpg"
+        },
+        "type": "vless",
+        "config": "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@1bia.freev2alpha.cfd:443?path=/?ed=2048&security=tls&encryption=none&host=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev#رایگان | VLESS | @hcv2ray | XX | 0️⃣1️⃣",
+        "ping": 25.99,
+        "country_code": "XX",
+        "ip": "104.22.13.192",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:48:22"
     },
     {
         "channel": {
@@ -847,11 +763,11 @@
         },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiIxMDQuMjEuNTMuMTIiLCJhaWQiOiIxIiwiaG9zdCI6Im9waGVsaWEubW9tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAUXYycmF5RE9OQVRFRCB8IFhYIHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMiLCJzbmkiOiJvcGhlbGlhLm1vbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9",
-        "ping": 373.59,
+        "ping": 85.07,
         "country_code": "XX",
-        "ip": "172.67.207.114",
+        "ip": "104.21.53.12",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:04"
+        "time": "2023-11-12 21:48:20"
     },
     {
         "channel": {
@@ -861,25 +777,11 @@
         },
         "type": "vless",
         "config": "vless://d199009b-e002-4ac5-ab2f-d72ae9fea01e@104.17.231.69:2083?encryption=none&security=tls&sni=rayeganvasehame.flchlast.online&alpn=h2&type=grpc&serviceName=grpc17979&mode=gun#رایگان | VLESS | @Qv2rayDONATED | XX | 0️⃣3️⃣",
-        "ping": 1.74,
+        "ping": 2.18,
         "country_code": "XX",
         "ip": "104.17.231.69",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:03"
-    },
-    {
-        "channel": {
-            "username": "Qv2rayDONATED",
-            "title": "DONATED",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/Qv2rayDONATED.jpg"
-        },
-        "type": "vless",
-        "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:8443?path=/?ed=2048&security=tls&encryption=none&host=baipiao1.curly-train.pages.dev&type=ws&sni=baipiao1.curly-train.pages.dev#رایگان | VLESS | @Qv2rayDONATED | XX | 0️⃣2️⃣",
-        "ping": 1.75,
-        "country_code": "XX",
-        "ip": "172.67.139.111",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:02"
+        "time": "2023-11-12 21:48:19"
     },
     {
         "channel": {
@@ -889,11 +791,25 @@
         },
         "type": "reality",
         "config": "vless://eefcf749-fcfc-4321-b974-2828d4acb15c@allrevolt.r8volt.com:443?security=reality&encryption=none&pbk=imTeVCUujulNZ2LJNaZrWlOGcN0tgm0km15N8jc55j4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=guerrilla-games.com&sid=dcd651ed#رایگان | REALITY | @Qv2rayDONATED | XX | 0️⃣1️⃣",
-        "ping": 189.53,
+        "ping": 117.01,
         "country_code": "XX",
         "ip": "185.142.238.106",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:02"
+        "time": "2023-11-12 21:48:18"
+    },
+    {
+        "channel": {
+            "username": "Qv2rayDONATED",
+            "title": "DONATED",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/Qv2rayDONATED.jpg"
+        },
+        "type": "vless",
+        "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:8443?path=/?ed=2048&security=tls&encryption=none&host=baipiao1.curly-train.pages.dev&type=ws&sni=baipiao1.curly-train.pages.dev#رایگان | VLESS | @Qv2rayDONATED | XX | 0️⃣2️⃣",
+        "ping": 1.61,
+        "country_code": "XX",
+        "ip": "172.67.139.111",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:48:18"
     },
     {
         "channel": {
@@ -903,11 +819,11 @@
         },
         "type": "reality",
         "config": "vless://7e52d87c-27c2-4fa7-a958-6c8d09bd5891@146.59.126.11:8443?type=grpc&encryption=none&flow=&sni=discord.com&fp=ios&security=reality&pbk=KGTEQ_Un_yiB5EvuXbby0jP0oPbD4mfUCHmw2Yix7EM&sid=46a4fe1e#رایگان | REALITY | @EUT_VPN | XX | 0️⃣1️⃣",
-        "ping": 104.89,
+        "ping": 100.65,
         "country_code": "XX",
         "ip": "146.59.126.11",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:40:01"
+        "time": "2023-11-12 21:48:16"
     },
     {
         "channel": {
@@ -921,7 +837,7 @@
         "country_code": "XX",
         "ip": "136.244.112.121",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:56"
+        "time": "2023-11-12 21:48:14"
     },
     {
         "channel": {
@@ -935,7 +851,21 @@
         "country_code": "XX",
         "ip": "108.181.22.239",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:55"
+        "time": "2023-11-12 21:48:13"
+    },
+    {
+        "channel": {
+            "username": "ConfigsHUB",
+            "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/ConfigsHUB.jpg"
+        },
+        "type": "vmess",
+        "config": "vmess://eyJhZGQiOiJpcmFuMDEuYmlxaWJhby5zaXRlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkZTYuYmlxaWJhby5zaXRlIiwiaWQiOiJlNjk2N2QxNy1mM2RiLTRlMjUtOGU2Zi0yZGI4YTgxNDlmNzMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3B1YmxpYyIsInBvcnQiOiIyMDUyIiwicHMiOiJcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDYgfCBWTUVTUyB8IEBDb25maWdzSFVCIHwgWFggfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
+        "ping": 9.96,
+        "country_code": "XX",
+        "ip": "172.67.203.157",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:48:08"
     },
     {
         "channel": {
@@ -945,11 +875,11 @@
         },
         "type": "vless",
         "config": "vless://fc42e32a-47fa-427c-95b8-c39aa355feac@jioin-severnett5.numalla.top:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&sni=jioin-severnett5.numalla.top#رایگان | VLESS | @ServerNett | XX | 0️⃣3️⃣",
-        "ping": 266.14,
+        "ping": 255.28,
         "country_code": "XX",
         "ip": "172.67.214.166",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:53"
+        "time": "2023-11-12 21:48:07"
     },
     {
         "channel": {
@@ -959,11 +889,11 @@
         },
         "type": "vless",
         "config": "vless://0442f53c-5c35-4650-ac9d-ae9fbb4fe2f5@jioin-severnett8.numalla.top:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&sni=jioin-severnett8.numalla.top#رایگان | VLESS | @ServerNett | XX | 0️⃣2️⃣",
-        "ping": 262.8,
+        "ping": 12.1,
         "country_code": "XX",
-        "ip": "104.21.45.134",
+        "ip": "172.67.214.166",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:52"
+        "time": "2023-11-12 21:48:07"
     },
     {
         "channel": {
@@ -973,11 +903,11 @@
         },
         "type": "reality",
         "config": "vless://17917e90-da50-498b-80c6-a92dab96f43a@141.95.100.86:17370?mode=gun&security=reality&encryption=none&pbk=cji-n_sNON1m2eiW1FB3nHTQdZZ6qboGQ0WESrmolgs&fp=firefox&spx=/&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&sni=bitcommand.com&sid=3b104c12#رایگان | REALITY | @ServerNett | XX | 0️⃣1️⃣",
-        "ping": 107.12,
+        "ping": 87.81,
         "country_code": "XX",
         "ip": "141.95.100.86",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:51"
+        "time": "2023-11-12 21:48:06"
     },
     {
         "channel": {
@@ -986,26 +916,12 @@
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/ShadowProxy66.jpg"
         },
         "type": "vless",
-        "config": "vless://38ace213-5184-477b-ac3e-d800d0cf3cd9@104.31.16.65:2095?path=/?ed=2048&security=none&encryption=none&host=de1.vlessx.xyz&type=ws#رایگان | VLESS | @ShadowProxy66 | XX | 0️⃣3️⃣",
-        "ping": 1.57,
+        "config": "vless://38ace213-5184-477b-ac3e-d800d0cf3cd9@104.31.16.65:2095?path=/?ed=2048&security=none&encryption=none&host=de1.vlessx.xyz&type=ws#رایگان | VLESS | @ShadowProxy66 | XX | 0️⃣2️⃣",
+        "ping": 1.69,
         "country_code": "XX",
         "ip": "104.31.16.65",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:48"
-    },
-    {
-        "channel": {
-            "username": "ShadowProxy66",
-            "title": "ShadowProxy66",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/ShadowProxy66.jpg"
-        },
-        "type": "vless",
-        "config": "vless://07b27f63-ed1a-48d8-a4e8-689c90829cf0@95.179.140.32:39882?security=none&encryption=none&host=internet.life.com.by&headerType=http&type=tcp#رایگان | VLESS | @ShadowProxy66 | XX | 0️⃣2️⃣",
-        "ping": 81,
-        "country_code": "XX",
-        "ip": "95.179.140.32",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:48"
+        "time": "2023-11-12 21:48:01"
     },
     {
         "channel": {
@@ -1015,11 +931,11 @@
         },
         "type": "vless",
         "config": "vless://74ee8b58-b56f-4145-b61c-9fbc1952208a@104.20.185.180:2082?path=/?ed=2048&security=none&encryption=none&host=sg1.vlessx.us&type=ws#رایگان | VLESS | @ShadowProxy66 | XX | 0️⃣1️⃣",
-        "ping": 1.44,
+        "ping": 1.64,
         "country_code": "XX",
         "ip": "104.20.185.180",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:47"
+        "time": "2023-11-12 21:48:01"
     },
     {
         "channel": {
@@ -1029,11 +945,11 @@
         },
         "type": "vless",
         "config": "vless://c688395a-b36b-4071-974b-bc91ac2ad2c4@edtunnel-b6t.pages.dev:443?path=/&security=tls&encryption=none&type=ws#رایگان | VLESS | @FalconPolV2rayNG | XX | 0️⃣2️⃣",
-        "ping": 29.78,
+        "ping": 10.86,
         "country_code": "XX",
-        "ip": "172.66.47.174",
+        "ip": "172.66.44.82",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:46"
+        "time": "2023-11-12 21:47:59"
     },
     {
         "channel": {
@@ -1043,11 +959,11 @@
         },
         "type": "vless",
         "config": "vless://d8a98383-26db-4cd7-8d88-c14c180b5c75@vl25.rnd.biz.id:443?path=/?ed&security=tls&encryption=none&type=ws&sni=vl25.rnd.biz.id#رایگان | VLESS | @FalconPolV2rayNG | XX | 0️⃣1️⃣",
-        "ping": 219.57,
+        "ping": 251.31,
         "country_code": "XX",
-        "ip": "104.21.78.131",
+        "ip": "172.67.221.199",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:46"
+        "time": "2023-11-12 21:47:59"
     },
     {
         "channel": {
@@ -1057,11 +973,11 @@
         },
         "type": "vless",
         "config": "vless://18af9253-7860-496c-c2c0-4153a17bb542@6bia-channel.unlimiteddev.xyz:80?path=/&security=none&encryption=none&host=bia-to-channel.unlimiteddev.xyz&type=ws#رایگان | VLESS | @v2rayngvpn | XX | 0️⃣2️⃣",
-        "ping": 3.79,
+        "ping": 5.13,
         "country_code": "XX",
         "ip": "104.17.34.51",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:44"
+        "time": "2023-11-12 21:47:57"
     },
     {
         "channel": {
@@ -1071,11 +987,11 @@
         },
         "type": "vless",
         "config": "vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@172.67.161.1:80?path=/?ed=2048&security=none&encryption=none&host=workerr.hashdiler.workers.dev&type=ws#رایگان | VLESS | @v2rayngvpn | XX | 0️⃣1️⃣",
-        "ping": 1.72,
+        "ping": 1.46,
         "country_code": "XX",
         "ip": "172.67.161.1",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:44"
+        "time": "2023-11-12 21:47:57"
     },
     {
         "channel": {
@@ -1085,11 +1001,11 @@
         },
         "type": "reality",
         "config": "vless://6b7376dd-11d8-443c-804a-996072aefd81@ec16.kiava.fun:8443?security=reality&encryption=none&pbk=PwbddglC0-4XFRm_2mIWaSNlC1K7FBLvztnW-5sEQQk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#رایگان | REALITY | @v2rayNG_Matsuri | XX | 0️⃣3️⃣",
-        "ping": 208.15,
+        "ping": 354.71,
         "country_code": "XX",
         "ip": "13.51.255.89",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:43"
+        "time": "2023-11-12 21:47:56"
     },
     {
         "channel": {
@@ -1099,11 +1015,11 @@
         },
         "type": "reality",
         "config": "vless://6b7376dd-11d8-443c-804a-996072aefd81@ec15.kiava.fun:8443?security=reality&encryption=none&pbk=7hHGiwMf-lVhALF7TO6t-UCBA-jrKu2nNqqQdbtE-Eg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#رایگان | REALITY | @v2rayNG_Matsuri | XX | 0️⃣2️⃣",
-        "ping": 380.73,
+        "ping": 127.69,
         "country_code": "XX",
         "ip": "13.50.111.182",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:43"
+        "time": "2023-11-12 21:47:55"
     },
     {
         "channel": {
@@ -1113,11 +1029,11 @@
         },
         "type": "reality",
         "config": "vless://6b7376dd-11d8-443c-804a-996072aefd81@ec14.kiava.fun:8443?security=reality&encryption=none&pbk=0RdPa9AcKaOcD7KnABx3C7_2UlcbA6NsjaTQWPh0ngs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#رایگان | REALITY | @v2rayNG_Matsuri | XX | 0️⃣1️⃣",
-        "ping": 126.98,
+        "ping": 175.94,
         "country_code": "XX",
         "ip": "13.53.45.216",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:42"
+        "time": "2023-11-12 21:47:54"
     },
     {
         "channel": {
@@ -1127,11 +1043,11 @@
         },
         "type": "vless",
         "config": "vless://9a785170-5fb0-4c91-8baf-c3835a2cb13d@bia-to-channel.vmessorg.fun:80?encryption=none&security=none&type=ws&path=/#رایگان | VLESS | @vmessorg | XX | 0️⃣2️⃣",
-        "ping": 199.19,
+        "ping": 10.51,
         "country_code": "XX",
         "ip": "104.21.39.253",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:40"
+        "time": "2023-11-12 21:47:52"
     },
     {
         "channel": {
@@ -1141,25 +1057,11 @@
         },
         "type": "vless",
         "config": "vless://8d8db74b-77fd-4f5b-d9a2-1f0e6da190a2@joinbedevmessorg.mokhin.me:80?encryption=none&security=none&type=ws&host=bia-to-channel.vmessorg.fun&path=/#رایگان | VLESS | @vmessorg | XX | 0️⃣1️⃣",
-        "ping": 31.84,
+        "ping": 28.78,
         "country_code": "XX",
         "ip": "104.21.80.4",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:39"
-    },
-    {
-        "channel": {
-            "username": "UnlimitedDev",
-            "title": "Unlimited",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/UnlimitedDev.jpg"
-        },
-        "type": "vless",
-        "config": "vless://d9a26025-c356-4a68-a821-b0b9cb77171b@3bia-channel.unlimiteddev.xyz:80?security=none&type=ws&path=/&host=bia-to-channel.unlimiteddev.xyz&encryption=none#رایگان | VLESS | @UnlimitedDev | XX | 0️⃣3️⃣",
-        "ping": 2.03,
-        "country_code": "XX",
-        "ip": "104.21.20.148",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:38"
+        "time": "2023-11-12 21:47:51"
     },
     {
         "channel": {
@@ -1169,11 +1071,25 @@
         },
         "type": "vless",
         "config": "vless://d9a26025-c356-4a68-a821-b0b9cb77171b@2bia-channel.unlimiteddev.xyz:80?security=none&type=ws&path=/&host=bia-to-channel.unlimiteddev.xyz&encryption=none#رایگان | VLESS | @UnlimitedDev | XX | 0️⃣2️⃣",
-        "ping": 8.45,
+        "ping": 7.89,
         "country_code": "XX",
         "ip": "198.41.215.205",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:38"
+        "time": "2023-11-12 21:47:50"
+    },
+    {
+        "channel": {
+            "username": "UnlimitedDev",
+            "title": "Unlimited",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/UnlimitedDev.jpg"
+        },
+        "type": "vless",
+        "config": "vless://d9a26025-c356-4a68-a821-b0b9cb77171b@3bia-channel.unlimiteddev.xyz:80?security=none&type=ws&path=/&host=bia-to-channel.unlimiteddev.xyz&encryption=none#رایگان | VLESS | @UnlimitedDev | XX | 0️⃣3️⃣",
+        "ping": 1.98,
+        "country_code": "XX",
+        "ip": "172.67.193.36",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:47:50"
     },
     {
         "channel": {
@@ -1183,11 +1099,11 @@
         },
         "type": "vless",
         "config": "vless://d9a26025-c356-4a68-a821-b0b9cb77171b@1bia-channel.unlimiteddev.xyz:80?security=none&type=ws&path=/&host=bia-to-channel.unlimiteddev.xyz&encryption=none#رایگان | VLESS | @UnlimitedDev | XX | 0️⃣1️⃣",
-        "ping": 16.99,
+        "ping": 7.67,
         "country_code": "XX",
         "ip": "104.17.148.252",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:38"
+        "time": "2023-11-12 21:47:49"
     },
     {
         "channel": {
@@ -1197,11 +1113,11 @@
         },
         "type": "vless",
         "config": "vless://e2e554b9-5d61-457a-82df-0392bdb148b7@www.unpkg.com:8080?path=/?ed=2048&security=none&encryption=none&host=sg29.vlessx.us&type=ws#رایگان | VLESS | @prrofile_purple | XX | 0️⃣2️⃣",
-        "ping": 6.02,
+        "ping": 74.38,
         "country_code": "XX",
-        "ip": "104.16.122.175",
+        "ip": "104.16.126.175",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:31"
+        "time": "2023-11-12 21:47:38"
     },
     {
         "channel": {
@@ -1211,11 +1127,11 @@
         },
         "type": "vless",
         "config": "vless://d92f2c5c-5fe5-4034-b48a-6e50ff820877@104.16.122.175:8080?path=/?ed=2048&security=none&encryption=none&host=de7.vlessx.us&type=ws#رایگان | VLESS | @prrofile_purple | XX | 0️⃣1️⃣",
-        "ping": 2.17,
+        "ping": 1.81,
         "country_code": "XX",
         "ip": "104.16.122.175",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:31"
+        "time": "2023-11-12 21:47:37"
     },
     {
         "channel": {
@@ -1225,11 +1141,11 @@
         },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiI3Ny45MS4xMDMuNDciLCJhaWQiOiIwIiwiaG9zdCI6ImZpMS54djJyYXkubmV0IiwiaWQiOiIwOWUzNWZlMC0yZWZkLTQ0YzEtOTZmYi00NmI3YjNjYzI4ZWIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDYgfCBWTUVTUyB8IEB2MnJheV9vdXRsaW5laXIgfCBYWCB8IDBcdWZlMGZcdTIwZTMyXHVmZTBmXHUyMGUzIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=",
-        "ping": 136.52,
+        "ping": 184.38,
         "country_code": "XX",
         "ip": "77.91.103.47",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:19"
+        "time": "2023-11-12 21:47:29"
     },
     {
         "channel": {
@@ -1239,11 +1155,11 @@
         },
         "type": "vless",
         "config": "vless://d8192736-c8d5-419d-d81c-7f6b28b76294@LIGHTNING6-joinbede.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LIGHTNING6&sni=Z.LiV2ray.top#رایگان | VLESS | @V2rayNGn | XX | 0️⃣1️⃣",
-        "ping": 6.05,
+        "ping": 6.76,
         "country_code": "XX",
         "ip": "190.93.244.103",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:13"
+        "time": "2023-11-12 21:47:17"
     },
     {
         "channel": {
@@ -1253,11 +1169,11 @@
         },
         "type": "reality",
         "config": "vless://980594a8-6e6c-41e7-db61-78efc31d5ab0@5.75.238.19:2087?mode=gun&security=reality&encryption=none&pbk=WnT8w6Vtfzx2u47S6hTHPRAPn3myMXmqsyx__R_GFyE&fp=firefox&type=grpc&serviceName=&sni=greenpepper.ir&sid=638ca3d3#رایگان | REALITY | @ProxyForOpeta | XX | 0️⃣1️⃣",
-        "ping": 90.21,
+        "ping": 90.27,
         "country_code": "XX",
         "ip": "5.75.238.19",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:39:12"
+        "time": "2023-11-12 21:47:11"
     },
     {
         "channel": {
@@ -1267,11 +1183,11 @@
         },
         "type": "reality",
         "config": "vless://cff0ee2b-e5a8-43ce-8825-f5c8adb18550@65.109.184.213:443?type=grpc&serviceName=@Everyday_VPN&security=reality&fp=chrome&pbk=dTGmUPDOGQhE1VI97cGpw-DOnsW_rzm7a-YMDcDkx2c&sni=gsmarena.com&sid=a786cf49&spx=/#رایگان | REALITY | @azadi_az_inja_migzare | XX | 0️⃣1️⃣",
-        "ping": 112.96,
+        "ping": 112.97,
         "country_code": "XX",
         "ip": "65.109.184.213",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:38:52"
+        "time": "2023-11-12 21:46:45"
     },
     {
         "channel": {
@@ -1285,7 +1201,7 @@
         "country_code": "XX",
         "ip": "108.181.22.239",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:38:46"
+        "time": "2023-11-12 21:46:43"
     },
     {
         "channel": {
@@ -1299,7 +1215,7 @@
         "country_code": "XX",
         "ip": "108.181.24.7",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:38:45"
+        "time": "2023-11-12 21:46:43"
     },
     {
         "channel": {
@@ -1313,21 +1229,7 @@
         "country_code": "XX",
         "ip": "108.181.22.205",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:38:45"
-    },
-    {
-        "channel": {
-            "username": "iP_CF",
-            "title": "| IP_CF | Channel",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/iP_CF.jpg"
-        },
-        "type": "vless",
-        "config": "vless://aed17d1b-a498-4d0b-8298-5580c495ceb3@51.81.201.204:31970?encryption=none&flow=&security=none&sni=&type=tcp&headerType=http#رایگان | VLESS | @iP_CF | XX | 0️⃣1️⃣",
-        "ping": 69.41,
-        "country_code": "XX",
-        "ip": "51.81.201.204",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:38:38"
+        "time": "2023-11-12 21:46:42"
     },
     {
         "channel": {
@@ -1337,11 +1239,11 @@
         },
         "type": "vless",
         "config": "vless://6c70992d-1c50-4fe7-9936-30421c03632c@104.16.31.197:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF@IP_CF&sni=myjfkuyktfkytf.mic-mokhaderat-irancell-shatel-irancel.shop#رایگان | VLESS | @iP_CF | XX | 0️⃣3️⃣",
-        "ping": 1.56,
+        "ping": 1.53,
         "country_code": "XX",
         "ip": "104.16.31.197",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:38:38"
+        "time": "2023-11-12 21:46:32"
     },
     {
         "channel": {
@@ -1351,11 +1253,25 @@
         },
         "type": "reality",
         "config": "vless://81901b26-7ac8-4ac6-95a1-9e377b31f6b4@135.148.27.204:443?encryption=none&flow=&security=reality&sni=zula.ir&fp=chrome&pbk=rgWUmPVq0MhWrnUYTXOAx5JlIgaJ_KsLDNxDuxV7WiE&sid=9e911db9&spx=&type=tcp&headerType=none#رایگان | REALITY | @iP_CF | XX | 0️⃣2️⃣",
-        "ping": 2.79,
+        "ping": 7.53,
         "country_code": "XX",
         "ip": "135.148.27.204",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:38:38"
+        "time": "2023-11-12 21:46:32"
+    },
+    {
+        "channel": {
+            "username": "iP_CF",
+            "title": "| IP_CF | Channel",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/iP_CF.jpg"
+        },
+        "type": "vless",
+        "config": "vless://aed17d1b-a498-4d0b-8298-5580c495ceb3@51.81.201.204:31970?encryption=none&flow=&security=none&sni=&type=tcp&headerType=http#رایگان | VLESS | @iP_CF | XX | 0️⃣1️⃣",
+        "ping": 63.87,
+        "country_code": "XX",
+        "ip": "51.81.201.204",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:46:31"
     },
     {
         "channel": {
@@ -1365,11 +1281,11 @@
         },
         "type": "trojan",
         "config": "trojan://3ed4d5f3-68e9-42fc-978a-22afc2523e5a@5.104.107.143:443?security=tls&headerType=none&type=tcp&sni=de1.xn--mes358a9urctx.com#رایگان | TROJAN | @iP_CF | XX | 0️⃣3️⃣",
-        "ping": 83.32,
+        "ping": 83.23,
         "country_code": "XX",
         "ip": "5.104.107.143",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:38:36"
+        "time": "2023-11-12 21:46:29"
     },
     {
         "channel": {
@@ -1379,39 +1295,11 @@
         },
         "type": "reality",
         "config": "vless://27cfd9bc-00eb-4543-bb08-d4cdbf5e9e35@turk.liq-english-78.site:15376?mode=gun&security=reality&encryption=none&pbk=J-CK7aYgtY2xr-b7fhRnm7nlw0uH3dsTCEiG4dannR4&fp=chrome&spx=/&type=grpc&serviceName=&sni=duckduckgo.com&sid=9a31bfb5#رایگان | REALITY | @liq_VPN | XX | 0️⃣2️⃣",
-        "ping": 124.48,
+        "ping": 125.88,
         "country_code": "XX",
         "ip": "185.113.223.249",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:38:13"
-    },
-    {
-        "channel": {
-            "username": "Awlix_V2RAY",
-            "title": "Awlix | V2RAY",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/Awlix_V2RAY.jpg"
-        },
-        "type": "vless",
-        "config": "vless://9c528672-1720-4660-8fb1-0083479719cf@104.16.104.11:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=mjgkkhgvkutfkhg.mic-mokhaderat-irancell-shatel-irancel.shop#رایگان | VLESS | @Awlix_V2RAY | XX | 0️⃣3️⃣",
-        "ping": 2.24,
-        "country_code": "XX",
-        "ip": "104.16.104.11",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:38:12"
-    },
-    {
-        "channel": {
-            "username": "Awlix_V2RAY",
-            "title": "Awlix | V2RAY",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/Awlix_V2RAY.jpg"
-        },
-        "type": "vless",
-        "config": "vless://3d39930a-b33a-45d0-b511-f2b8d4d00c1e@91.195.110.245:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=kfkjhkuyg.mic-mokhaderat-irancell-shatel-irancel.shop#رایگان | VLESS | @Awlix_V2RAY | XX | 0️⃣1️⃣",
-        "ping": 1.76,
-        "country_code": "XX",
-        "ip": "91.195.110.245",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:38:11"
+        "time": "2023-11-12 21:46:15"
     },
     {
         "channel": {
@@ -1421,11 +1309,39 @@
         },
         "type": "vless",
         "config": "vless://2a93a49b-d7dd-43fd-834c-b8786c063f44@104.17.175.151:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=hukfyukgilkgil.mic-mokhaderat-irancell-shatel-irancel.shop#رایگان | VLESS | @Awlix_V2RAY | XX | 0️⃣2️⃣",
-        "ping": 1.71,
+        "ping": 1.9,
         "country_code": "XX",
         "ip": "104.17.175.151",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:38:11"
+        "time": "2023-11-12 21:46:13"
+    },
+    {
+        "channel": {
+            "username": "Awlix_V2RAY",
+            "title": "Awlix | V2RAY",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/Awlix_V2RAY.jpg"
+        },
+        "type": "vless",
+        "config": "vless://9c528672-1720-4660-8fb1-0083479719cf@104.16.104.11:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=mjgkkhgvkutfkhg.mic-mokhaderat-irancell-shatel-irancel.shop#رایگان | VLESS | @Awlix_V2RAY | XX | 0️⃣3️⃣",
+        "ping": 1.4,
+        "country_code": "XX",
+        "ip": "104.16.104.11",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:46:13"
+    },
+    {
+        "channel": {
+            "username": "Awlix_V2RAY",
+            "title": "Awlix | V2RAY",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/Awlix_V2RAY.jpg"
+        },
+        "type": "vless",
+        "config": "vless://3d39930a-b33a-45d0-b511-f2b8d4d00c1e@91.195.110.245:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=kfkjhkuyg.mic-mokhaderat-irancell-shatel-irancel.shop#رایگان | VLESS | @Awlix_V2RAY | XX | 0️⃣1️⃣",
+        "ping": 1.54,
+        "country_code": "XX",
+        "ip": "91.195.110.245",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:46:12"
     },
     {
         "channel": {
@@ -1435,11 +1351,11 @@
         },
         "type": "vless",
         "config": "vless://af3ecce2-4187-4a03-9398-ba7babc77166@104.18.202.232:80?path=/vless&security=none&encryption=none&host=de1vl.cdn-03.live&type=ws#رایگان | VLESS | @DarkTeam_VPN | XX | 0️⃣3️⃣",
-        "ping": 1.5,
+        "ping": 1.66,
         "country_code": "XX",
         "ip": "104.18.202.232",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:38:04"
+        "time": "2023-11-12 21:46:09"
     },
     {
         "channel": {
@@ -1449,11 +1365,11 @@
         },
         "type": "vless",
         "config": "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.64.153.211:443?path=/?ed=2048&security=tls&encryption=none&host=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev#رایگان | VLESS | @DarkTeam_VPN | XX | 0️⃣1️⃣",
-        "ping": 1.6,
+        "ping": 1.41,
         "country_code": "XX",
         "ip": "172.64.153.211",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:38:04"
+        "time": "2023-11-12 21:46:08"
     },
     {
         "channel": {
@@ -1463,25 +1379,11 @@
         },
         "type": "vless",
         "config": "vless://443dd82b-68b9-40a6-aefd-094ad8c63ec3@All.digiv2ray.shop:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray, @Digiv2ray, @Digiv2ray&sni=DigiV2ray-IrOnly-Mci-rG-mkH-mTn.digiv2ray.xyz#رایگان | VLESS | @DigiV2ray | XX | 0️⃣3️⃣",
-        "ping": 9.85,
+        "ping": 11.23,
         "country_code": "XX",
         "ip": "190.93.246.241",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:38:03"
-    },
-    {
-        "channel": {
-            "username": "DigiV2ray",
-            "title": "Digiv2ray | vpn",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/DigiV2ray.jpg"
-        },
-        "type": "reality",
-        "config": "vless://738c5e99-7faa-4893-81a8-4d6655adde33@5.75.208.216:443?mode=gun&security=reality&encryption=none&pbk=e2VGvHwmGudsNxadrgFCv3ENvRLyD_8x9csN6tTMGns&fp=firefox&spx=/&type=grpc&serviceName=@Digiv2ray&sni=www.speedtest.net&sid=ab7b40b2#رایگان | REALITY | @DigiV2ray | XX | 0️⃣2️⃣",
-        "ping": 89.93,
-        "country_code": "XX",
-        "ip": "5.75.208.216",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:38:02"
+        "time": "2023-11-12 21:46:05"
     },
     {
         "channel": {
@@ -1491,11 +1393,25 @@
         },
         "type": "vless",
         "config": "vless://443dd82b-68b9-40a6-aefd-094ad8c63ec6@All.digiv2ray.shop:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray, @Digiv2ray, @Digiv2ray&sni=DigiV2ray-IrOnly-Mci-rG-mkH-mTn.digiv2ray.xyz#رایگان | VLESS | @DigiV2ray | XX | 0️⃣1️⃣",
-        "ping": 14.32,
+        "ping": 8.58,
         "country_code": "XX",
         "ip": "190.93.246.241",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:38:02"
+        "time": "2023-11-12 21:46:04"
+    },
+    {
+        "channel": {
+            "username": "DigiV2ray",
+            "title": "Digiv2ray | vpn",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/DigiV2ray.jpg"
+        },
+        "type": "reality",
+        "config": "vless://738c5e99-7faa-4893-81a8-4d6655adde33@5.75.208.216:443?mode=gun&security=reality&encryption=none&pbk=e2VGvHwmGudsNxadrgFCv3ENvRLyD_8x9csN6tTMGns&fp=firefox&spx=/&type=grpc&serviceName=@Digiv2ray&sni=www.speedtest.net&sid=ab7b40b2#رایگان | REALITY | @DigiV2ray | XX | 0️⃣2️⃣",
+        "ping": 90.51,
+        "country_code": "XX",
+        "ip": "5.75.208.216",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:46:04"
     },
     {
         "channel": {
@@ -1505,25 +1421,11 @@
         },
         "type": "vless",
         "config": "vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@bypass.dd-6b2.workers.dev:443?path=@bypass_filter/?ed=2048&security=tls&encryption=none&host=bypass.dd-6b2.workers.dev&type=ws&sni=bypass.dd-6b2.workers.dev#رایگان | VLESS | @bypass_filter | XX | 0️⃣3️⃣",
-        "ping": 33.13,
+        "ping": 34.14,
         "country_code": "XX",
         "ip": "104.21.95.103",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:38:00"
-    },
-    {
-        "channel": {
-            "username": "bypass_filter",
-            "title": "Bypass Filter",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/bypass_filter.jpg"
-        },
-        "type": "vless",
-        "config": "vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@bypassfilter.nuktsv.workers.dev:443?path=@bypass_filter/?ed=2048&security=tls&encryption=none&host=bypassfilter.nuktsv.workers.dev&type=ws&sni=bypassfilter.nuktsv.workers.dev#رایگان | VLESS | @bypass_filter | XX | 0️⃣1️⃣",
-        "ping": 11.28,
-        "country_code": "XX",
-        "ip": "172.67.166.119",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:37:59"
+        "time": "2023-11-12 21:46:01"
     },
     {
         "channel": {
@@ -1533,11 +1435,25 @@
         },
         "type": "vless",
         "config": "vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@bypassfilter.wrevdav.workers.dev:443?path=@bypass_filter/?ed=2048&security=tls&encryption=none&host=bypassfilter.wrevdav.workers.dev&type=ws&sni=bypassfilter.wrevdav.workers.dev#رایگان | VLESS | @bypass_filter | XX | 0️⃣2️⃣",
-        "ping": 11.29,
+        "ping": 26.35,
         "country_code": "XX",
-        "ip": "172.67.190.58",
+        "ip": "104.21.19.215",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:37:59"
+        "time": "2023-11-12 21:46:01"
+    },
+    {
+        "channel": {
+            "username": "bypass_filter",
+            "title": "Bypass Filter",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/bypass_filter.jpg"
+        },
+        "type": "vless",
+        "config": "vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@bypassfilter.nuktsv.workers.dev:443?path=@bypass_filter/?ed=2048&security=tls&encryption=none&host=bypassfilter.nuktsv.workers.dev&type=ws&sni=bypassfilter.nuktsv.workers.dev#رایگان | VLESS | @bypass_filter | XX | 0️⃣1️⃣",
+        "ping": 41.03,
+        "country_code": "XX",
+        "ip": "104.21.75.14",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:46:00"
     },
     {
         "channel": {
@@ -1547,11 +1463,11 @@
         },
         "type": "vless",
         "config": "vless://56dda94f-071e-4c7d-a2a8-3a741edeeaf3@LIGHTNING6-joinbede.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LIGHTNING6&sni=Z.LiV2ray.top#رایگان | VLESS | @lightning6 | XX | 0️⃣1️⃣",
-        "ping": 6.21,
+        "ping": 9.1,
         "country_code": "XX",
         "ip": "190.93.244.103",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:37:55"
+        "time": "2023-11-12 21:45:55"
     },
     {
         "channel": {
@@ -1561,25 +1477,11 @@
         },
         "type": "vless",
         "config": "vless://87d66942-74ba-4106-d863-2222c682a077@Pm.RxV2ray.space:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray&sni=Pm.RxV2ray.space#رایگان | VLESS | @rxv2ray | XX | 0️⃣3️⃣",
-        "ping": 10.57,
+        "ping": 42.13,
         "country_code": "XX",
-        "ip": "172.67.169.146",
+        "ip": "172.64.80.1",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:37:44"
-    },
-    {
-        "channel": {
-            "username": "rxv2ray",
-            "title": "V2ray",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/rxv2ray.jpg"
-        },
-        "type": "vless",
-        "config": "vless://87d66942-74ba-4106-d863-2222c682a077@104.31.16.65:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray&sni=Pm.RxV2ray.space#رایگان | VLESS | @rxv2ray | XX | 0️⃣2️⃣",
-        "ping": 2.32,
-        "country_code": "XX",
-        "ip": "104.31.16.65",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:37:44"
+        "time": "2023-11-12 21:45:51"
     },
     {
         "channel": {
@@ -1589,11 +1491,25 @@
         },
         "type": "vless",
         "config": "vless://87d66942-74ba-4106-d863-2222c682a077@cdnjs.com:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray&sni=Pm.RxV2ray.space#رایگان | VLESS | @rxv2ray | XX | 0️⃣1️⃣",
-        "ping": 2.2,
+        "ping": 2.07,
         "country_code": "XX",
         "ip": "104.24.177.7",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:37:43"
+        "time": "2023-11-12 21:45:50"
+    },
+    {
+        "channel": {
+            "username": "rxv2ray",
+            "title": "V2ray",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/rxv2ray.jpg"
+        },
+        "type": "vless",
+        "config": "vless://87d66942-74ba-4106-d863-2222c682a077@104.31.16.65:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray&sni=Pm.RxV2ray.space#رایگان | VLESS | @rxv2ray | XX | 0️⃣2️⃣",
+        "ping": 1.78,
+        "country_code": "XX",
+        "ip": "104.31.16.65",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:45:50"
     },
     {
         "channel": {
@@ -1603,11 +1519,11 @@
         },
         "type": "vless",
         "config": "vless://311c393d-be89-4d18-c217-e1fe8d01530c@172.67.60.78:2087?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=. . .  telegram @lOCKEY_VPN . . .  telegram @lOCKEY_VPN. . .  telegram @lOCKEY_VPN . . .  telegram @lOCKEY_VPN . . .  telegram @lOCKEY_VPN&sni=vip.Lockey-vip.site#رایگان | VLESS | @Lockey_vpn | XX | 0️⃣2️⃣",
-        "ping": 1.45,
+        "ping": 1.81,
         "country_code": "XX",
         "ip": "172.67.60.78",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:37:42"
+        "time": "2023-11-12 21:45:49"
     },
     {
         "channel": {
@@ -1617,11 +1533,11 @@
         },
         "type": "vless",
         "config": "vless://311c393d-be89-4d18-c217-e1fe8d01530c@104.16.7.157:2087?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=. . .  telegram @lOCKEY_VPN . . .  telegram @lOCKEY_VPN. . .  telegram @lOCKEY_VPN . . .  telegram @lOCKEY_VPN . . .  telegram @lOCKEY_VPN&sni=vip.Lockey-vip.site#رایگان | VLESS | @Lockey_vpn | XX | 0️⃣1️⃣",
-        "ping": 1.98,
+        "ping": 1.58,
         "country_code": "XX",
         "ip": "104.16.7.157",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:37:42"
+        "time": "2023-11-12 21:45:48"
     },
     {
         "channel": {
@@ -1631,11 +1547,11 @@
         },
         "type": "vless",
         "config": "vless://39603bab-377f-42eb-9ac4-3ccca64bec45@tel.ArV2ray.host:443?path=/&security=tls&encryption=none&host=ws.ArV2ray.fun&type=ws&sni=ws.ArV2ray.fun#رایگان | VLESS | @ARv2ray | XX | 0️⃣3️⃣",
-        "ping": 6.81,
+        "ping": 2.19,
         "country_code": "XX",
         "ip": "104.24.177.7",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:37:35"
+        "time": "2023-11-12 21:45:45"
     },
     {
         "channel": {
@@ -1645,11 +1561,11 @@
         },
         "type": "vless",
         "config": "vless://0a6b85af-f1d0-447b-81bd-cc37357db85d@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.ArV2ray.fun#رایگان | VLESS | @ARv2ray | XX | 0️⃣1️⃣",
-        "ping": 78.22,
+        "ping": 80.12,
         "country_code": "XX",
         "ip": "172.67.81.238",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:37:34"
+        "time": "2023-11-12 21:45:44"
     },
     {
         "channel": {
@@ -1659,11 +1575,11 @@
         },
         "type": "reality",
         "config": "vless://telegram-id-ArV2ray@5.161.23.207:443?mode=gun&security=reality&encryption=none&pbk=ydVc0ekGJjCvqBBfViwBUlN93MT3CZ93oCcIzcQl8SE&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=ftp.debian.org&sid=ab77fd32#رایگان | REALITY | @ARv2ray | XX | 0️⃣2️⃣",
-        "ping": 1.67,
+        "ping": 2.3,
         "country_code": "XX",
         "ip": "5.161.23.207",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:37:34"
+        "time": "2023-11-12 21:45:44"
     },
     {
         "channel": {
@@ -1673,11 +1589,11 @@
         },
         "type": "reality",
         "config": "vless://9789674e-6903-415a-ba07-1db4d207607c@49.12.188.12:6006?security=reality&encryption=none&pbk=xjsFF_ujrEnqVcR8pbV4aAnHHInbUJ9epkbT76d_7Fc&headerType=none&fp=chrome&type=tcp&sni=lit.dev&sid=9e20a9863c3c8d7d#رایگان | REALITY | @frev2ray | XX | 0️⃣2️⃣",
-        "ping": 90.32,
+        "ping": 90.26,
         "country_code": "XX",
         "ip": "49.12.188.12",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:37:33"
+        "time": "2023-11-12 21:45:42"
     },
     {
         "channel": {
@@ -1687,11 +1603,11 @@
         },
         "type": "reality",
         "config": "vless://9789674e-6903-415a-ba07-1db4d207607c@116.203.126.111:6006?security=reality&encryption=none&pbk=xjsFF_ujrEnqVcR8pbV4aAnHHInbUJ9epkbT76d_7Fc&headerType=none&fp=chrome&type=tcp&sni=lit.dev&sid=9e20a9863c3c8d7d#رایگان | REALITY | @frev2ray | XX | 0️⃣1️⃣",
-        "ping": 88.92,
+        "ping": 89.13,
         "country_code": "XX",
         "ip": "116.203.126.111",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:37:32"
+        "time": "2023-11-12 21:45:42"
     },
     {
         "channel": {
@@ -1701,11 +1617,11 @@
         },
         "type": "reality",
         "config": "vless://cf9a1066-c1aa-48d3-a089-56581f362bdd@ger.melov2ray.shop:28256?type=grpc&serviceName=@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray&security=reality&fp=chrome&pbk=eoTWjU-FluG2y0DfR5P0qjtchTx34qQTD8BkslRj-xw&sni=discord.com&sid=8237505a&spx=/#رایگان | REALITY | @melov2ray | XX | 0️⃣3️⃣",
-        "ping": 100.2,
+        "ping": 96.32,
         "country_code": "XX",
         "ip": "5.75.214.254",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:37:29"
+        "time": "2023-11-12 21:45:33"
     },
     {
         "channel": {
@@ -1715,11 +1631,11 @@
         },
         "type": "vless",
         "config": "vless://7fe3e026-0479-4752-b7b4-8f81e9573675@de.waky-melo.site:443?type=grpc&serviceName=@melov2ray&security=tls&fp=random&alpn=http/1.1,h2&sni=de.waky-melo.site#رایگان | VLESS | @melov2ray | XX | 0️⃣2️⃣",
-        "ping": 297.89,
+        "ping": 6.96,
         "country_code": "XX",
         "ip": "172.67.129.24",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:37:29"
+        "time": "2023-11-12 21:45:32"
     },
     {
         "channel": {
@@ -1729,11 +1645,11 @@
         },
         "type": "vless",
         "config": "vless://a2737ba7-755d-4eb4-b280-ab1369d21e61@den.waky-melo.site:443?type=ws&path=/melov2ray&security=tls&fp=chrome&alpn=http/1.1,h2&allowInsecure=1&sni=den.waky-melo.site#رایگان | VLESS | @melov2ray | XX | 0️⃣1️⃣",
-        "ping": 29.99,
+        "ping": 10.3,
         "country_code": "XX",
         "ip": "104.21.2.107",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:37:28"
+        "time": "2023-11-12 21:45:32"
     },
     {
         "channel": {
@@ -1742,12 +1658,12 @@
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/ipV2Ray.jpg"
         },
         "type": "reality",
-        "config": "vless://637c8201-88fd-4155-cf06-9abe6bc92abc@5.75.238.19:443?mode=gun&security=reality&encryption=none&pbk=1TnE6zOFGlIRXH5YfrBTMhve4Zcmtqb0lZYdq4Fg8Vs&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=638ca3d3#رایگان | REALITY | @ipV2Ray | DE | 0️⃣3️⃣",
-        "ping": 90.21,
-        "country_code": "DE",
+        "config": "vless://637c8201-88fd-4155-cf06-9abe6bc92abc@5.75.238.19:443?mode=gun&security=reality&encryption=none&pbk=1TnE6zOFGlIRXH5YfrBTMhve4Zcmtqb0lZYdq4Fg8Vs&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=638ca3d3#رایگان | REALITY | @ipV2Ray | XX | 0️⃣3️⃣",
+        "ping": 91.3,
+        "country_code": "XX",
         "ip": "5.75.238.19",
-        "country_name": "Germany",
-        "time": "2023-11-12 21:37:22"
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:45:31"
     },
     {
         "channel": {
@@ -1757,11 +1673,11 @@
         },
         "type": "reality",
         "config": "vless://04ba3531-57a5-4ef6-aba5-971867e3c9e4@65.108.56.15:443?mode=gun&security=reality&encryption=none&pbk=wCY0ZUPOfnk_EKQFHqbd5y9oz5QHW7_K3p66t5pfjHU&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=ftp.debian.org&sid=0e596c3b#رایگان | REALITY | @ipV2Ray | XX | 0️⃣2️⃣",
-        "ping": 112.94,
+        "ping": 113.11,
         "country_code": "XX",
         "ip": "65.108.56.15",
         "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:37:22"
+        "time": "2023-11-12 21:45:30"
     },
     {
         "channel": {
@@ -1770,12 +1686,12 @@
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/ipV2Ray.jpg"
         },
         "type": "reality",
-        "config": "vless://637c8201-88fd-4155-cf06-9abe6bc92abc@5.75.238.19:443?mode=gun&security=reality&encryption=none&pbk=2hSIsO4_duIDtYx5HtBgbVf9cNxgRZs7l59DcUU06zE&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=638ca3d3#رایگان | REALITY | @ipV2Ray | DE | 0️⃣1️⃣",
-        "ping": 90.18,
-        "country_code": "DE",
+        "config": "vless://637c8201-88fd-4155-cf06-9abe6bc92abc@5.75.238.19:443?mode=gun&security=reality&encryption=none&pbk=2hSIsO4_duIDtYx5HtBgbVf9cNxgRZs7l59DcUU06zE&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=638ca3d3#رایگان | REALITY | @ipV2Ray | XX | 0️⃣1️⃣",
+        "ping": 90.05,
+        "country_code": "XX",
         "ip": "5.75.238.19",
-        "country_name": "Germany",
-        "time": "2023-11-12 21:37:22"
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:45:29"
     },
     {
         "channel": {
@@ -1784,12 +1700,12 @@
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/VPNCUSTOMIZE.jpg"
         },
         "type": "vless",
-        "config": "vless://850743ac-7ae2-4716-bc91-112f19610daa@all.vpncustomize.cam:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=conflgforV2rayng.vpncustomize.Website#رایگان | VLESS | @VPNCUSTOMIZE | US | 0️⃣3️⃣",
-        "ping": 7.31,
-        "country_code": "US",
+        "config": "vless://850743ac-7ae2-4716-bc91-112f19610daa@all.vpncustomize.cam:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=conflgforV2rayng.vpncustomize.Website#رایگان | VLESS | @VPNCUSTOMIZE | XX | 0️⃣3️⃣",
+        "ping": 48.53,
+        "country_code": "XX",
         "ip": "190.93.246.241",
-        "country_name": "United States",
-        "time": "2023-11-12 21:37:21"
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:45:28"
     },
     {
         "channel": {
@@ -1798,12 +1714,12 @@
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/VPNCUSTOMIZE.jpg"
         },
         "type": "vless",
-        "config": "vless://850743ac-7ae2-4716-bc91-112f19610daa@all.vpncustomize.cam:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=configforV2rayng.vpncustomize.Website#رایگان | VLESS | @VPNCUSTOMIZE | US | 0️⃣2️⃣",
-        "ping": 131.27,
-        "country_code": "US",
+        "config": "vless://850743ac-7ae2-4716-bc91-112f19610daa@all.vpncustomize.cam:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=configforV2rayng.vpncustomize.Website#رایگان | VLESS | @VPNCUSTOMIZE | XX | 0️⃣2️⃣",
+        "ping": 26.87,
+        "country_code": "XX",
         "ip": "190.93.246.241",
-        "country_name": "United States",
-        "time": "2023-11-12 21:37:20"
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:45:28"
     },
     {
         "channel": {
@@ -1812,12 +1728,12 @@
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/VPNCUSTOMIZE.jpg"
         },
         "type": "vless",
-        "config": "vless://850743ac-7ae2-4716-bc91-112f19610daa@www.canva.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=confignginxV2rayng.vpncustomize.Website&fp=chrome&type=ws&sni=confignginxV2rayng.vpncustomize.Website#رایگان | VLESS | @VPNCUSTOMIZE | US | 0️⃣1️⃣",
-        "ping": 6,
-        "country_code": "US",
+        "config": "vless://850743ac-7ae2-4716-bc91-112f19610daa@www.canva.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=confignginxV2rayng.vpncustomize.Website&fp=chrome&type=ws&sni=confignginxV2rayng.vpncustomize.Website#رایگان | VLESS | @VPNCUSTOMIZE | XX | 0️⃣1️⃣",
+        "ping": 6.27,
+        "country_code": "XX",
         "ip": "104.16.224.149",
-        "country_name": "United States",
-        "time": "2023-11-12 21:37:20"
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:45:27"
     },
     {
         "channel": {
@@ -1826,12 +1742,12 @@
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/Parsashonam.jpg"
         },
         "type": "reality",
-        "config": "vless://---Telegram-Parsashonam---@62.133.63.74:443?type=grpc&serviceName=&security=reality&fp=chrome&pbk=vNWaM_Y7UbxACdab7rvAJsWxGW5vDe44w5WdT1EosyI&sni=eset.com&sid=1d93428a&spx=/#رایگان | REALITY | @Parsashonam | TR | 0️⃣2️⃣",
-        "ping": 117.66,
-        "country_code": "TR",
+        "config": "vless://---Telegram-Parsashonam---@62.133.63.74:443?type=grpc&serviceName=&security=reality&fp=chrome&pbk=vNWaM_Y7UbxACdab7rvAJsWxGW5vDe44w5WdT1EosyI&sni=eset.com&sid=1d93428a&spx=/#رایگان | REALITY | @Parsashonam | XX | 0️⃣2️⃣",
+        "ping": 117.55,
+        "country_code": "XX",
         "ip": "62.133.63.74",
-        "country_name": "Turkey",
-        "time": "2023-11-12 21:37:05"
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:45:15"
     },
     {
         "channel": {
@@ -1840,12 +1756,12 @@
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/Parsashonam.jpg"
         },
         "type": "reality",
-        "config": "vless://---Telegram-Parsashonam---@159.69.192.198:22810?type=grpc&serviceName=&security=reality&fp=chrome&pbk=_72Jz3lCy0dygb5ArDXlGc2iBVjL4AxDqot9XdW7txo&sni=www.SpeedTest.Net&sid=e1969294&spx=/#رایگان | REALITY | @Parsashonam | DE | 0️⃣1️⃣",
-        "ping": 88.72,
-        "country_code": "DE",
+        "config": "vless://---Telegram-Parsashonam---@159.69.192.198:22810?type=grpc&serviceName=&security=reality&fp=chrome&pbk=_72Jz3lCy0dygb5ArDXlGc2iBVjL4AxDqot9XdW7txo&sni=www.SpeedTest.Net&sid=e1969294&spx=/#رایگان | REALITY | @Parsashonam | XX | 0️⃣1️⃣",
+        "ping": 88.85,
+        "country_code": "XX",
         "ip": "159.69.192.198",
-        "country_name": "Germany",
-        "time": "2023-11-12 21:37:05"
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:45:14"
     },
     {
         "channel": {
@@ -1853,11 +1769,25 @@
             "title": "V2Ray Tz,",
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/V2RayTz.jpg"
         },
-        "type": "vless",
-        "config": "vless://917f6a8b-060c-436c-beb8-d24e7dc447c6@Join.V2RayTz.sbs:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&sni=CaNNectV2ray-OnlyIRAN-mCi-iraracnzsk-rgt-mkh.varzesh3-CND.site#رایگان | VLESS | @V2RayTz | XX | 0️⃣3️⃣",
-        "ping": 10.23,
+        "type": "reality",
+        "config": "vless://637c8201-88fd-4155-cf06-9abe6bc92abc@310-Join.V2RayTz.sbs:443?mode=gun&security=reality&encryption=none&pbk=Dubos01AC-tpQjeDfzjQ3s7gDx-Seswl2VM7tqIVHW0&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=638ca3d3#رایگان | REALITY | @V2RayTz | XX | 0️⃣3️⃣",
+        "ping": 182.29,
         "country_code": "XX",
-        "ip": "172.67.197.107",
+        "ip": "5.75.238.19",
+        "country_name": "UNKNOWN",
+        "time": "2023-11-12 21:40:56"
+    },
+    {
+        "channel": {
+            "username": "V2RayTz",
+            "title": "V2Ray Tz,",
+            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/V2RayTz.jpg"
+        },
+        "type": "reality",
+        "config": "vless://04ba3531-57a5-4ef6-aba5-971867e3c9e4@311-Join.V2RayTz.sbs:443?mode=gun&security=reality&encryption=none&pbk=jMfM7BYlDPHYczhcqlbyW4_N5ez2NT6d9ZWvPv8oF2g&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=ftp.debian.org&sid=0e596c3b#رایگان | REALITY | @V2RayTz | XX | 0️⃣2️⃣",
+        "ping": 264.63,
+        "country_code": "XX",
+        "ip": "65.108.56.15",
         "country_name": "UNKNOWN",
         "time": "2023-11-12 21:30:36"
     },
@@ -1867,11 +1797,11 @@
             "title": "V2Ray Tz,",
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/V2RayTz.jpg"
         },
-        "type": "reality",
-        "config": "vless://d08e077c-f496-4cb6-8a4d-2cb1cebe663f@309-Join.V2RayTz.sbs:26231?mode=gun&security=reality&encryption=none&pbk=ozuEgjiSET_0tFYQtEFdaUfELBbxq94eevts2Y4dZ3A&fp=chrome&spx=/&type=grpc&serviceName=,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=cdn.discordapp.com&sid=cea266e6#رایگان | REALITY | @V2RayTz | XX | 0️⃣2️⃣",
-        "ping": 94.97,
+        "type": "vless",
+        "config": "vless://6b7f6c58-6cd0-4f9c-be34-209155fec32d@Join.V2RayTz.sbs:2087?path=/&security=tls&encryption=none&host=configngnixV2rayng.shhproxy.cfd&type=ws&sni=configngnixV2rayng.shhproxy.cfd#رایگان | VLESS | @V2RayTz | XX | 0️⃣1️⃣",
+        "ping": 113.99,
         "country_code": "XX",
-        "ip": "159.69.31.208",
+        "ip": "172.64.80.1",
         "country_name": "UNKNOWN",
         "time": "2023-11-12 21:30:32"
     },
@@ -1883,7 +1813,7 @@
         },
         "type": "trojan",
         "config": "trojan://telegram-id-privatevpns@16.170.88.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#رایگان | TROJAN | @PrivateVPNs | XX | 0️⃣3️⃣",
-        "ping": 105.28,
+        "ping": 121.55,
         "country_code": "XX",
         "ip": "16.170.88.250",
         "country_name": "UNKNOWN",
@@ -1897,7 +1827,7 @@
         },
         "type": "reality",
         "config": "vless://980594a8-6e6c-41e7-db61-78efc31d5ab0@5.75.238.19:2087?security=reality&sni=greenpepper.ir&fp=firefox&pbk=WnT8w6Vtfzx2u47S6hTHPRAPn3myMXmqsyx__R_GFyE&sid=638ca3d3&type=grpc&encryption=none#رایگان | REALITY | @V2rayCollectorDonate | XX | 1️⃣1️⃣",
-        "ping": 90.09,
+        "ping": 90.15,
         "country_code": "XX",
         "ip": "5.75.238.19",
         "country_name": "UNKNOWN",
@@ -1911,7 +1841,7 @@
         },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiJzMTQueGFsYWFuZGVyc29uLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjYzFkZDdjOS1kM2Y2LTRmNWQtOWVlNy0xNjg2ZWZhNGQ5MmYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiIxNTE1NiIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBATXJWMlJheSB8IFhYIHwgMFx1ZmUwZlx1MjBlMzNcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=",
-        "ping": 215.11,
+        "ping": 231.45,
         "country_code": "XX",
         "ip": "31.14.114.53",
         "country_name": "UNKNOWN",
@@ -1925,7 +1855,7 @@
         },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiJzMTMueGFsYWFuZGVyc29uLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxZWI1MThmMy1mYTE3LTQxMzktZjViNS1hY2EwYWYzYmIyOGQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiIyMDkzMiIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBATXJWMlJheSB8IFhYIHwgMFx1ZmUwZlx1MjBlMzJcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiIiLCJ2IjoiMiJ9",
-        "ping": 277.96,
+        "ping": 222.88,
         "country_code": "XX",
         "ip": "31.14.114.52",
         "country_name": "UNKNOWN",
@@ -1939,25 +1869,11 @@
         },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiJzMTMueGFsYWFuZGVyc29uLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhNTVkNDliZC01NjMxLTRhYWMtYjk1YS0xYzQ4YWY3NjllNDIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiIyNjU1NSIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBATXJWMlJheSB8IFhYIHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=",
-        "ping": 215.34,
+        "ping": 203.21,
         "country_code": "XX",
         "ip": "31.14.114.52",
         "country_name": "UNKNOWN",
         "time": "2023-11-12 21:17:42"
-    },
-    {
-        "channel": {
-            "username": "V2RayTz",
-            "title": "V2Ray Tz,",
-            "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/V2RayTz.jpg"
-        },
-        "type": "reality",
-        "config": "vless://637c8201-88fd-4155-cf06-9abe6bc92abc@310-Join.V2RayTz.sbs:443?mode=gun&security=reality&encryption=none&pbk=Dubos01AC-tpQjeDfzjQ3s7gDx-Seswl2VM7tqIVHW0&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=638ca3d3#رایگان | REALITY | @V2RayTz | XX | 0️⃣1️⃣",
-        "ping": 236.07,
-        "country_code": "XX",
-        "ip": "5.75.238.19",
-        "country_name": "UNKNOWN",
-        "time": "2023-11-12 21:02:08"
     },
     {
         "channel": {
@@ -1967,7 +1883,7 @@
         },
         "type": "trojan",
         "config": "trojan://telegram-id-privatevpns@3.76.49.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#رایگان | TROJAN | @PrivateVPNs | XX | 0️⃣2️⃣",
-        "ping": 131.34,
+        "ping": 129.67,
         "country_code": "XX",
         "ip": "3.76.49.255",
         "country_name": "UNKNOWN",
@@ -1981,7 +1897,7 @@
         },
         "type": "vless",
         "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@iran-008-join.outline-vpn.cloud:2053?path=/?ed=2048&security=tls&encryption=none&host=baipiao1.curly-train.pages.dev&type=ws&sni=baipiao1.curly-train.pages.dev#رایگان | VLESS | @customv2ray | XX | 0️⃣3️⃣",
-        "ping": 53.95,
+        "ping": 52.86,
         "country_code": "XX",
         "ip": "104.18.200.220",
         "country_name": "UNKNOWN",
@@ -1995,7 +1911,7 @@
         },
         "type": "vless",
         "config": "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@3324.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev#رایگان | VLESS | @customv2ray | XX | 0️⃣2️⃣",
-        "ping": 22.39,
+        "ping": 74.97,
         "country_code": "XX",
         "ip": "104.16.23.29",
         "country_name": "UNKNOWN",
@@ -2009,7 +1925,7 @@
         },
         "type": "reality",
         "config": "vless://0f98119a-7416-48ff-caac-f7b7968876c8@bia-to6.unlimiteddev.xyz:443?mode=multi&security=reality&encryption=none&pbk=n2W5WOauba-84nET0XuNUYzmpI5BxdzkF_YUOpSgtjE&fp=chrome&spx=/&type=grpc&serviceName=@unlimiteddev&sni=ftp.debian.org&sid=f47b01e2#رایگان | REALITY | @customv2ray | XX | 0️⃣1️⃣",
-        "ping": 101.19,
+        "ping": 97.96,
         "country_code": "XX",
         "ip": "168.119.64.225",
         "country_name": "UNKNOWN",
@@ -2023,7 +1939,7 @@
         },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiIxOTguNDEuMjAyLjUiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZTIzZWY3MjAtYTdlZS00NGI0LTllNTgtNGQ0OWNjZTdhZGRiIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiJcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDYgfCBWTUVTUyB8IEB2MnJheV9vdXRsaW5laXIgfCBYWCB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwic25pIjoiYS5ib3JlZGhvdC5jbG91ZCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-        "ping": 229.11,
+        "ping": 233.78,
         "country_code": "XX",
         "ip": "5.42.75.113",
         "country_name": "UNKNOWN",
@@ -2037,7 +1953,7 @@
         },
         "type": "vless",
         "config": "vless://VPNCUSTOMiZE@all.vpncustomize.cam:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=conflgforV2rayng.vpncustomize.Website#رایگان | VLESS | @Outlinev2rayNG | XX | 0️⃣3️⃣",
-        "ping": 4.77,
+        "ping": 331.18,
         "country_code": "XX",
         "ip": "190.93.246.241",
         "country_name": "UNKNOWN",
@@ -2051,7 +1967,7 @@
         },
         "type": "vless",
         "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@join---------to.outline-vpn.cloud:8443?path=/?ed=2048&security=tls&encryption=none&host=baipiao1.curly-train.pages.dev&type=ws&sni=baipiao1.curly-train.pages.dev#رایگان | VLESS | @Outlinev2rayNG | XX | 0️⃣2️⃣",
-        "ping": 8.3,
+        "ping": 122.96,
         "country_code": "XX",
         "ip": "172.67.139.111",
         "country_name": "UNKNOWN",
@@ -2065,9 +1981,9 @@
         },
         "type": "vless",
         "config": "vless://ad9ac4b3-a28d-4be2-a363-a59eea1bdeba@unpkg.com:80?path=/?ed=2048&security=none&encryption=none&host=nl9.vlessx.us&type=ws#رایگان | VLESS | @MehradLearn | XX | 0️⃣2️⃣",
-        "ping": 6.1,
+        "ping": 6.35,
         "country_code": "XX",
-        "ip": "104.16.123.175",
+        "ip": "104.16.122.175",
         "country_name": "UNKNOWN",
         "time": "2023-11-12 20:14:28"
     },
@@ -2079,7 +1995,7 @@
         },
         "type": "vless",
         "config": "vless://c23346a5-5068-4afb-ada6-c59420101896@45.94.169.226:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@IP_CF&sni=zayn.nfzaynzeed.shop#رایگان | VLESS | @Capoit | XX | 0️⃣1️⃣",
-        "ping": 1.49,
+        "ping": 1.42,
         "country_code": "XX",
         "ip": "45.94.169.226",
         "country_name": "UNKNOWN",
@@ -2093,7 +2009,7 @@
         },
         "type": "vless",
         "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@3254.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=baipiao1.curly-train.pages.dev&type=ws&sni=baipiao1.curly-train.pages.dev#رایگان | VLESS | @Outlinev2rayNG | XX | 0️⃣1️⃣",
-        "ping": 7.05,
+        "ping": 54.9,
         "country_code": "XX",
         "ip": "172.67.139.111",
         "country_name": "UNKNOWN",
@@ -2107,7 +2023,7 @@
         },
         "type": "trojan",
         "config": "trojan://telegram-id-privatevpns@18.153.145.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#رایگان | TROJAN | @PrivateVPNs | XX | 0️⃣1️⃣",
-        "ping": 101.47,
+        "ping": 122.34,
         "country_code": "XX",
         "ip": "18.153.145.222",
         "country_name": "UNKNOWN",
@@ -2121,9 +2037,9 @@
         },
         "type": "vless",
         "config": "vless://1cc3e063-fee5-4eb4-85c9-2da23b5bb7bc@Cdnjs.com:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=pm.VipXali.cfd#رایگان | VLESS | @v2ray_swhil | XX | 0️⃣2️⃣",
-        "ping": 1.98,
+        "ping": 2,
         "country_code": "XX",
-        "ip": "104.24.177.7",
+        "ip": "172.67.81.238",
         "country_name": "UNKNOWN",
         "time": "2023-11-12 18:42:54"
     },
@@ -2135,7 +2051,7 @@
         },
         "type": "reality",
         "config": "vless://b8260bde-ec61-4cf3-b902-6843f230f7d6@tel-xsv2ray.xalixv2ray.space:443?mode=multi&security=reality&encryption=none&pbk=ymo9x1X1HRnPj1zUm5U-sH_PnOGqZdGk-iuq3Dy9jX0&fp=chrome&spx=/&type=grpc&serviceName=@XsV2ray,@XsV2ray,@XsV2ray&sni=www.speedtest.net&sid=f0960695#رایگان | REALITY | @v2ray_swhil | XX | 0️⃣1️⃣",
-        "ping": 185.76,
+        "ping": 104.09,
         "country_code": "XX",
         "ip": "104.248.25.55",
         "country_name": "UNKNOWN",
@@ -2148,11 +2064,11 @@
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/Helix_Servers.jpg"
         },
         "type": "reality",
-        "config": "vless://29ec6b1a-f238-4f74-8d41-a2c0cac58bf4@free1.h3lixchannel.fun:443?type=grpc&serviceName=Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers&security=reality&fp=firefox&pbk=Yjc8RJMpXQ6WafcY7QM8KAqc9_DuAVba96TYLk-ZQSQ&sni=zula.ir&sid=836f3609&spx=/system-requirements#رایگان | REALITY | @Helix_Servers | DE | 0️⃣2️⃣",
-        "ping": 119.65,
-        "country_code": "DE",
+        "config": "vless://29ec6b1a-f238-4f74-8d41-a2c0cac58bf4@free1.h3lixchannel.fun:443?type=grpc&serviceName=Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers&security=reality&fp=firefox&pbk=Yjc8RJMpXQ6WafcY7QM8KAqc9_DuAVba96TYLk-ZQSQ&sni=zula.ir&sid=836f3609&spx=/system-requirements#رایگان | REALITY | @Helix_Servers | XX | 0️⃣2️⃣",
+        "ping": 96.76,
+        "country_code": "XX",
         "ip": "91.107.194.165",
-        "country_name": "Germany",
+        "country_name": "UNKNOWN",
         "time": "2023-11-12 18:25:11"
     },
     {
@@ -2162,11 +2078,11 @@
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/Helix_Servers.jpg"
         },
         "type": "reality",
-        "config": "vless://52ed8e40-9b0d-4666-a789-66808f5d3950@free3.h3lixchannel.fun:443?type=grpc&serviceName=Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers&security=reality&fp=chrome&pbk=SUuIT35RH6ItKSTYtxE1vFaD7ndrcHJc0PJTt_oeDCU&sni=eset.com&sid=899f6661&spx=/int/policy-hub/privacy/#رایگان | REALITY | @Helix_Servers | FI | 0️⃣1️⃣",
-        "ping": 208.33,
-        "country_code": "FI",
+        "config": "vless://52ed8e40-9b0d-4666-a789-66808f5d3950@free3.h3lixchannel.fun:443?type=grpc&serviceName=Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers&security=reality&fp=chrome&pbk=SUuIT35RH6ItKSTYtxE1vFaD7ndrcHJc0PJTt_oeDCU&sni=eset.com&sid=899f6661&spx=/int/policy-hub/privacy/#رایگان | REALITY | @Helix_Servers | XX | 0️⃣1️⃣",
+        "ping": 118.83,
+        "country_code": "XX",
         "ip": "65.21.146.74",
-        "country_name": "Finland",
+        "country_name": "UNKNOWN",
         "time": "2023-11-12 18:20:58"
     },
     {
@@ -2177,7 +2093,7 @@
         },
         "type": "reality",
         "config": "vless://7beae25a-b2f2-45a2-8c44-d038f16de4e8@128.140.53.92:24002?security=reality&sni=sourceforge.net&fp=firefox&pbk=FH61tot5LrzY6tUOObNLEO5NChndXQ9t3CmqLKj5lGw&sid=3b0f82ba&type=grpc&encryption=none#رایگان | REALITY | @V2rayCollectorDonate | XX | 1️⃣0️⃣",
-        "ping": 90.22,
+        "ping": 91.09,
         "country_code": "XX",
         "ip": "128.140.53.92",
         "country_name": "UNKNOWN",
@@ -2191,7 +2107,7 @@
         },
         "type": "vless",
         "config": "vless://fd7810f1-5aa7-44c2-98d5-6b8b31423085@104.21.48.84:2053?mode=gun&security=tls&encryption=none&alpn=http/1.1,h2&type=grpc&serviceName=Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-&sni=jyyfyuuytfyiytfuygjfc.mic-mokhaderat-irancell-shatel-irancel.shop#رایگان | VLESS | @servermomo | XX | 0️⃣3️⃣",
-        "ping": 1.65,
+        "ping": 1.81,
         "country_code": "XX",
         "ip": "104.21.48.84",
         "country_name": "UNKNOWN",
@@ -2205,9 +2121,9 @@
         },
         "type": "vless",
         "config": "vless://22a82bd3-17d8-42d7-8ab4-daf311e3aa46@discord.gg:2087?path=/&security=tls&encryption=none&host=configngnixV2rayng.shhproxy.cfd&type=ws&sni=configngnixV2rayng.shhproxy.cfd#رایگان | VLESS | @shh_proxy | XX | 0️⃣3️⃣",
-        "ping": 5.29,
+        "ping": 6.29,
         "country_code": "XX",
-        "ip": "162.159.136.234",
+        "ip": "162.159.130.234",
         "country_name": "UNKNOWN",
         "time": "2023-11-12 17:13:01"
     },
@@ -2219,7 +2135,7 @@
         },
         "type": "reality",
         "config": "vless://9b8f7b74-5f1f-4051-bab0-6de92c691ebd@116.203.200.107:2096?mode=gun&security=reality&encryption=none&pbk=r5LFjPIxjnynQaDT5eQiRSogLmvDr_yoDWMlIoeoJQ0&fp=chrome&spx=/&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&sni=www.speedtest.net&sid=44f6e394#رایگان | REALITY | @shh_proxy | XX | 0️⃣2️⃣",
-        "ping": 88.66,
+        "ping": 88.76,
         "country_code": "XX",
         "ip": "116.203.200.107",
         "country_name": "UNKNOWN",
@@ -2233,7 +2149,7 @@
         },
         "type": "trojan",
         "config": "trojan://your_password@aws-jp-tokyo-1.f1cflinea.com:443?encryption=none&flow=&security=tls&sni=aws-jp-tokyo-1.f1cflinea.com&type=ws&host=aws-jp-tokyo-1.f1cflinea.com&path=/f1rocket&headerType=#رایگان | TROJAN | @iP_CF | XX | 0️⃣2️⃣",
-        "ping": 6.93,
+        "ping": 9.51,
         "country_code": "XX",
         "ip": "104.21.73.195",
         "country_name": "UNKNOWN",
@@ -2247,9 +2163,9 @@
         },
         "type": "trojan",
         "config": "trojan://your_password@aws-aus-sydney-1.f1cflinea.com:443?encryption=none&flow=&security=tls&sni=aws-aus-sydney-1.f1cflinea.com&type=ws&host=aws-aus-sydney-1.f1cflinea.com&path=/f1rocket&headerType=#رایگان | TROJAN | @iP_CF | XX | 0️⃣1️⃣",
-        "ping": 75.13,
+        "ping": 84.38,
         "country_code": "XX",
-        "ip": "172.67.165.204",
+        "ip": "104.21.73.195",
         "country_name": "UNKNOWN",
         "time": "2023-11-12 15:40:17"
     },
@@ -2261,7 +2177,7 @@
         },
         "type": "reality",
         "config": "vless://5d2333ed-5008-4395-af1a-b4d19613493a@[::ffff:128.140.84.193]:22843?security=reality&sni=flutter.dev&fp=chrome&pbk=jeF2t1ZbkBDPflw5T91hEcJAs1teE7r8_8kaET1lJW4&sid=9468e4e1&type=tcp&flow=xtls-rprx-vision&encryption=none#رایگان | REALITY | @V2rayCollectorDonate | XX | 0️⃣9️⃣",
-        "ping": 90.09,
+        "ping": 91.48,
         "country_code": "XX",
         "ip": null,
         "country_name": "UNKNOWN",
@@ -2275,7 +2191,7 @@
         },
         "type": "trojan",
         "config": "trojan://telegram-id-directvpn@54.194.235.132:22222?type=tcp&security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1#رایگان | TROJAN | @oneclickvpnkeys | XX | 0️⃣1️⃣",
-        "ping": 67.25,
+        "ping": 67.18,
         "country_code": "XX",
         "ip": "54.194.235.132",
         "country_name": "UNKNOWN",
@@ -2289,7 +2205,7 @@
         },
         "type": "ss",
         "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVFZpWQ==@www.outline.network.ak1957.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:8388#رایگان | SS | @OutlineVpnOfficial | XX | 0️⃣1️⃣",
-        "ping": 138.57,
+        "ping": 457,
         "country_code": "XX",
         "ip": "89.163.157.4",
         "country_name": "UNKNOWN",
@@ -2302,11 +2218,11 @@
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/reality_daily.jpg"
         },
         "type": "reality",
-        "config": "vless://8d387b82-caf4-481e-af45-a9d19bf32c58@77.91.84.45:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ftp.debian.org&fp=chrome&pbk=uNx8HEnkd0yUMb3rA0VQN0Vvjq_M6jb-Pr-FRzX-PWs&sid=33189a410b75dc04&type=tcp&headerType=none#رایگان | REALITY | @reality_daily | SE | 0️⃣2️⃣",
-        "ping": 169.07,
-        "country_code": "SE",
+        "config": "vless://8d387b82-caf4-481e-af45-a9d19bf32c58@77.91.84.45:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ftp.debian.org&fp=chrome&pbk=uNx8HEnkd0yUMb3rA0VQN0Vvjq_M6jb-Pr-FRzX-PWs&sid=33189a410b75dc04&type=tcp&headerType=none#رایگان | REALITY | @reality_daily | XX | 0️⃣2️⃣",
+        "ping": 171.78,
+        "country_code": "XX",
         "ip": "77.91.84.45",
-        "country_name": "Sweden",
+        "country_name": "UNKNOWN",
         "time": "2023-11-12 15:18:23"
     },
     {
@@ -2316,11 +2232,11 @@
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/reality_daily.jpg"
         },
         "type": "reality",
-        "config": "vless://8e58d645-66c3-4e94-bc6c-2c4fc00166dd@77.91.84.45:22?encryption=none&flow=xtls-rprx-vision&security=reality&sni=discord.com&fp=chrome&pbk=uNx8HEnkd0yUMb3rA0VQN0Vvjq_M6jb-Pr-FRzX-PWs&sid=33189a410b75dc04&type=tcp&headerType=none#رایگان | REALITY | @reality_daily | SE | 0️⃣1️⃣",
-        "ping": 164.06,
-        "country_code": "SE",
+        "config": "vless://8e58d645-66c3-4e94-bc6c-2c4fc00166dd@77.91.84.45:22?encryption=none&flow=xtls-rprx-vision&security=reality&sni=discord.com&fp=chrome&pbk=uNx8HEnkd0yUMb3rA0VQN0Vvjq_M6jb-Pr-FRzX-PWs&sid=33189a410b75dc04&type=tcp&headerType=none#رایگان | REALITY | @reality_daily | XX | 0️⃣1️⃣",
+        "ping": 163.87,
+        "country_code": "XX",
         "ip": "77.91.84.45",
-        "country_name": "Sweden",
+        "country_name": "UNKNOWN",
         "time": "2023-11-12 15:18:22"
     },
     {
@@ -2331,9 +2247,9 @@
         },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiJLb3RpY2suc2l0ZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJzYWZhcmkiLCJob3N0IjoiTGlsbGUuS290aWNrLnNpdGUiLCJpZCI6IjJGMDk0ODQ1LUUyQkQtRUJGNy1ERUI3LTk5NTk5MjQzNkZBRiIsIm5ldCI6IndzIiwicGF0aCI6Ilwvc3BlZWR0ZXN0IiwicG9ydCI6IjQ0MyIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAVjJyYXlDb2xsZWN0b3JEb25hdGUgfCBYWCB8IDBcdWZlMGZcdTIwZTMyXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6IkxpbGxlLktvdGljay5zaXRlIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=",
-        "ping": 11.15,
+        "ping": 32.54,
         "country_code": "XX",
-        "ip": "104.21.7.237",
+        "ip": "172.64.80.1",
         "country_name": "UNKNOWN",
         "time": "2023-11-12 14:39:31"
     },
@@ -2345,9 +2261,9 @@
         },
         "type": "vless",
         "config": "vless://e767898f-8a74-45ea-e708-9fe4e36957ea@3bia-channel.unlimiteddev.xyz:80?security=none&type=ws&path=/&host=bia-to-channel.unlimiteddev.xyz&encryption=none#رایگان | VLESS | @V2rayCollectorDonate | XX | 0️⃣8️⃣",
-        "ping": 76.48,
+        "ping": 79.46,
         "country_code": "XX",
-        "ip": "104.21.20.148",
+        "ip": "172.67.193.36",
         "country_name": "UNKNOWN",
         "time": "2023-11-12 14:32:35"
     },
@@ -2359,7 +2275,7 @@
         },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiJtZWdhc3Z0NDUuaXJhbnZpcG5ldC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODVhOWRkMTktYTYxNy00ZTY3LTg2YTUtYTRjYTQxMTA3YWQzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMTAxNzkiLCJwcyI6Ilx1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NiB8IFZNRVNTIHwgQFYycmF5Q29sbGVjdG9yRG9uYXRlIHwgWFggfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
-        "ping": 4062.39,
+        "ping": 4054.71,
         "country_code": "XX",
         "ip": "2.189.130.94",
         "country_name": "UNKNOWN",
@@ -2373,7 +2289,7 @@
         },
         "type": "vless",
         "config": "vless://e767898f-8a74-45ea-e708-9fe4e36957ea@2bia-channel.unlimiteddev.xyz:80?security=none&type=ws&path=/&host=bia-to-channel.unlimiteddev.xyz&encryption=none#رایگان | VLESS | @V2rayCollectorDonate | XX | 0️⃣7️⃣",
-        "ping": 8.84,
+        "ping": 9.81,
         "country_code": "XX",
         "ip": "198.41.215.205",
         "country_name": "UNKNOWN",
@@ -2387,7 +2303,7 @@
         },
         "type": "vless",
         "config": "vless://e767898f-8a74-45ea-e708-9fe4e36957ea@1bia-channel.unlimiteddev.xyz:80?security=none&type=ws&path=/&host=bia-to-channel.unlimiteddev.xyz&encryption=none#رایگان | VLESS | @V2rayCollectorDonate | XX | 0️⃣6️⃣",
-        "ping": 8.75,
+        "ping": 10.06,
         "country_code": "XX",
         "ip": "104.17.148.252",
         "country_name": "UNKNOWN",
@@ -2401,7 +2317,7 @@
         },
         "type": "vless",
         "config": "vless://e767898f-8a74-45ea-e708-9fe4e36957ea@6bia-channel.unlimiteddev.xyz:80?security=none&type=ws&path=/&host=bia-to-channel.unlimiteddev.xyz&encryption=none#رایگان | VLESS | @V2rayCollectorDonate | XX | 0️⃣5️⃣",
-        "ping": 79.31,
+        "ping": 101.48,
         "country_code": "XX",
         "ip": "104.17.35.51",
         "country_name": "UNKNOWN",
@@ -2415,7 +2331,7 @@
         },
         "type": "reality",
         "config": "vless://1f6814de-046a-4ed7-b20c-3e8fe0c0031d@tr.copyfor.fun:443?type=tcp&security=reality&headerType=none&fp=firefox&sni=cloudflare.com&pbk=_SIGK0MkMmaXMP460OA4B26PFmBKzBxafRsclKDtRgA&sid=0259e46f&spx=/#رایگان | REALITY | @vless_vmess | XX | 0️⃣1️⃣",
-        "ping": 126.89,
+        "ping": 218.34,
         "country_code": "XX",
         "ip": "185.113.223.133",
         "country_name": "UNKNOWN",
@@ -2429,7 +2345,7 @@
         },
         "type": "reality",
         "config": "vless://0f98119a-7416-48ff-caac-f7b7968876c8@bia-to6.unlimiteddev.xyz:443?type=grpc&serviceName=@unlimiteddev&mode=multi&security=reality&pbk=n2W5WOauba-84nET0XuNUYzmpI5BxdzkF_YUOpSgtjE&fp=chrome&sni=ftp.debian.org&sid=f47b01e2&spx=/#رایگان | REALITY | @V2rayCollectorDonate | XX | 0️⃣4️⃣",
-        "ping": 96.12,
+        "ping": 102.04,
         "country_code": "XX",
         "ip": "168.119.64.225",
         "country_name": "UNKNOWN",
@@ -2443,7 +2359,7 @@
         },
         "type": "vless",
         "config": "vless://c1d24fc1-f069-4d0c-94cb-91d3f649010e@a.osalizx.store:55958?type=grpc&serviceName=&security=none#رایگان | VLESS | @V2rayCollectorDonate | XX | 0️⃣3️⃣",
-        "ping": 126.23,
+        "ping": 128.31,
         "country_code": "XX",
         "ip": "212.64.199.3",
         "country_name": "UNKNOWN",
@@ -2457,7 +2373,7 @@
         },
         "type": "vless",
         "config": "vless://747bc501-6317-44ab-ab84-0d3ee394a298@proxystore11.ddns.net:8443?type=grpc&serviceName=&security=tls&fp=firefox&alpn=&sni=cdn.proxystore11.site#رایگان | VLESS | @proxystore11 | XX | 0️⃣3️⃣",
-        "ping": 12.45,
+        "ping": 5.4,
         "country_code": "XX",
         "ip": "104.21.78.234",
         "country_name": "UNKNOWN",
@@ -2471,9 +2387,9 @@
         },
         "type": "vless",
         "config": "vless://d731ba83-e831-4b02-b494-702f3eb3463b@discord.gg:2087?path=/&security=tls&encryption=none&host=configngnixV2rayng.shhproxy.cfd&type=ws&sni=configngnixV2rayng.shhproxy.cfd#رایگان | VLESS | @shh_proxy | XX | 0️⃣1️⃣",
-        "ping": 6.83,
+        "ping": 8.02,
         "country_code": "XX",
-        "ip": "162.159.136.234",
+        "ip": "162.159.130.234",
         "country_name": "UNKNOWN",
         "time": "2023-11-12 12:52:05"
     },
@@ -2485,9 +2401,9 @@
         },
         "type": "vless",
         "config": "vless://25da296e-1d96-48ae-9867-4342796cd742@join-sho-to.expreset.click:443?security=tls&sni=vless.229feb8b52a0e7e117ea76f8b591bcb3.workers.dev&fp=chrome&type=ws&path=/?ed=2048&host=vless.229feb8b52a0e7e117ea76f8b591bcb3.workers.dev&encryption=none#رایگان | VLESS | @V2rayCollectorDonate | XX | 0️⃣2️⃣",
-        "ping": 68.89,
+        "ping": 26.73,
         "country_code": "XX",
-        "ip": "172.67.149.95",
+        "ip": "104.21.39.223",
         "country_name": "UNKNOWN",
         "time": "2023-11-12 11:49:48"
     },
@@ -2499,9 +2415,9 @@
         },
         "type": "vless",
         "config": "vless://68acd6c2-281d-47a4-8911-148d5f9dbebb@mediafire.com:2086?path=/?ed=2048&security=none&encryption=none&host=jp6.vlessx.xyz&type=ws#رایگان | VLESS | @V2rayCollectorDonate | XX | 0️⃣1️⃣",
-        "ping": 23.17,
+        "ping": 16.58,
         "country_code": "XX",
-        "ip": "104.16.113.74",
+        "ip": "104.16.114.74",
         "country_name": "UNKNOWN",
         "time": "2023-11-12 11:48:50"
     },
@@ -2527,7 +2443,7 @@
         },
         "type": "vless",
         "config": "vless://3f5e10f8-d10b-4507-9cfe-501546440228@proxystore11.ddns.net:8443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=cdn.proxystore11.site#رایگان | VLESS | @proxystore11 | XX | 0️⃣2️⃣",
-        "ping": 6.52,
+        "ping": 6.57,
         "country_code": "XX",
         "ip": "104.21.78.234",
         "country_name": "UNKNOWN",
@@ -2541,9 +2457,9 @@
         },
         "type": "vless",
         "config": "vless://217a887e-f37b-4d7e-856c-78a0a6d2a9bc@www.unpkg.com:8080?path=/?ed=2048&security=none&encryption=none&host=dk1.vlessx.us&type=ws#رایگان | VLESS | @MehradLearn | XX | 0️⃣1️⃣",
-        "ping": 2.49,
+        "ping": 2.08,
         "country_code": "XX",
-        "ip": "104.16.126.175",
+        "ip": "104.16.124.175",
         "country_name": "UNKNOWN",
         "time": "2023-11-12 09:50:51"
     },
@@ -2555,7 +2471,7 @@
         },
         "type": "vmess",
         "config": "vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAdjJMaW5lIHwgWFggfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsImFkZCI6InYybGluZS50ZWxlZ3JhbS5jaGFubmVsLjEzNDQuZnI4Njc4ODI1MzI0MjQ3YjgxNzZkNTlmODNjMzBiZDk0ZDIzZDJlM2FjNWNkNGE3NDNia3dxZWlrdmR5dWZyLmN5b3UiLCJwb3J0IjoiODAiLCJpZCI6IjlkNWU2OWQyLTQ2Y2YtNDg2NS05NWZlLWEyZWU4YzUyYTAxMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJpbnRlcm5ldC5saWZlLmNvbS5ieSIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9",
-        "ping": 116.45,
+        "ping": 661.64,
         "country_code": "XX",
         "ip": "81.30.80.83",
         "country_name": "UNKNOWN",
@@ -2568,11 +2484,11 @@
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/EliV2ray.jpg"
         },
         "type": "vless",
-        "config": "vless://97d26fd0-e2ac-4b1f-a098-f422fc49bd30@discord.com:443?type=ws&encryption=none&flow=&host=singbox.cypherpunks.asia&path=/cypherpunks&security=tls&sni=singbox.cypherpunks.asia&alpn=http/1.1&fp=chrome&packetEncoding=xudp#رایگان | VLESS | @EliV2ray | US | 0️⃣3️⃣",
-        "ping": 7.14,
-        "country_code": "US",
+        "config": "vless://97d26fd0-e2ac-4b1f-a098-f422fc49bd30@discord.com:443?type=ws&encryption=none&flow=&host=singbox.cypherpunks.asia&path=/cypherpunks&security=tls&sni=singbox.cypherpunks.asia&alpn=http/1.1&fp=chrome&packetEncoding=xudp#رایگان | VLESS | @EliV2ray | XX | 0️⃣3️⃣",
+        "ping": 7.63,
+        "country_code": "XX",
         "ip": "162.159.128.233",
-        "country_name": "United States",
+        "country_name": "UNKNOWN",
         "time": "2023-11-12 00:53:20"
     },
     {
@@ -2583,7 +2499,7 @@
         },
         "type": "vless",
         "config": "vless://2f18f139-a0df-4ecf-9a03-d9e4503cbb54@all.irn-vpn-ay.online:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN&sni=telegram.irn-vpn-ay.online#رایگان | VLESS | @IRN_VPN | XX | 0️⃣1️⃣",
-        "ping": 9.04,
+        "ping": 24.06,
         "country_code": "XX",
         "ip": "190.93.246.241",
         "country_name": "UNKNOWN",
@@ -2597,9 +2513,9 @@
         },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiJlZGVlbi5tYWtldXAiLCJhaWQiOiIxIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6ImVkZWVuLm1ha2V1cCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NiB8IFZNRVNTIHwgQHBycm9maWxlX3B1cnBsZSB8IFhYIHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiZWRlZW4ubWFrZXVwIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=",
-        "ping": 179.1,
+        "ping": 230.4,
         "country_code": "XX",
-        "ip": "172.67.142.191",
+        "ip": "104.21.27.139",
         "country_name": "UNKNOWN",
         "time": "2023-11-11 22:59:42"
     },
@@ -2610,11 +2526,11 @@
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/EliV2ray.jpg"
         },
         "type": "vless",
-        "config": "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.66.44.172:443?path=/?ed=2048&security=tls&encryption=none&host=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev#رایگان | VLESS | @EliV2ray | US | 0️⃣2️⃣",
-        "ping": 1.47,
-        "country_code": "US",
+        "config": "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.66.44.172:443?path=/?ed=2048&security=tls&encryption=none&host=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev#رایگان | VLESS | @EliV2ray | XX | 0️⃣2️⃣",
+        "ping": 1.5,
+        "country_code": "XX",
         "ip": "172.66.44.172",
-        "country_name": "United States",
+        "country_name": "UNKNOWN",
         "time": "2023-11-11 20:36:29"
     },
     {
@@ -2625,7 +2541,7 @@
         },
         "type": "ss",
         "config": "ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#رایگان | SS | @iP_CF | XX | 0️⃣1️⃣",
-        "ping": 78.62,
+        "ping": 78.35,
         "country_code": "XX",
         "ip": "51.68.206.229",
         "country_name": "UNKNOWN",
@@ -2639,7 +2555,7 @@
         },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiJzdy0xMzUuMTI1LjEzNS4yNDEubmlwLmlvIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJpbnRlcm5ldC5saWZlLmNvbS5ieSIsImlkIjoiYjIwYjk4M2MtMzI5ZC00ZmUyLWE3NDktZjk3NDhkNTQ3YzVmIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjQ0MyIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBAdjJyYXlfc3doaWwgfCBYWCB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==",
-        "ping": 500.88,
+        "ping": 130.27,
         "country_code": "XX",
         "ip": "81.30.80.83",
         "country_name": "UNKNOWN",
@@ -2653,7 +2569,7 @@
         },
         "type": "vless",
         "config": "vless://2391e9b5-f28c-4093-986e-2aff7c332dd4@joinbede-2.freev2alpha.cfd:2052?path=/?ed=2048&security=none&encryption=none&host=nl6.vlessx.us&type=ws#رایگان | VLESS | @SafeNet_Server | XX | 0️⃣3️⃣",
-        "ping": 11.8,
+        "ping": 172.8,
         "country_code": "XX",
         "ip": "172.64.86.215",
         "country_name": "UNKNOWN",
@@ -2666,11 +2582,11 @@
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/EliV2ray.jpg"
         },
         "type": "reality",
-        "config": "vless://f3a0a8f0-2ae7-4b02-a08c-c90d529a5648@it.wagnervpn.com:443?type=grpc&encryption=none&flow=&sni=www.speedtest.net&fp=chrome&security=reality&pbk=giSaik389_uH47WJcGUudqFpK75nN8mNasnCXQwqC3A&sid=711c88b0#رایگان | REALITY | @EliV2ray | IT | 0️⃣1️⃣",
-        "ping": 173.89,
-        "country_code": "IT",
+        "config": "vless://f3a0a8f0-2ae7-4b02-a08c-c90d529a5648@it.wagnervpn.com:443?type=grpc&encryption=none&flow=&sni=www.speedtest.net&fp=chrome&security=reality&pbk=giSaik389_uH47WJcGUudqFpK75nN8mNasnCXQwqC3A&sid=711c88b0#رایگان | REALITY | @EliV2ray | XX | 0️⃣1️⃣",
+        "ping": 106.99,
+        "country_code": "XX",
         "ip": "172.232.206.15",
-        "country_name": "Italy",
+        "country_name": "UNKNOWN",
         "time": "2023-11-11 16:00:25"
     },
     {
@@ -2681,7 +2597,7 @@
         },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiI1LjE2MS4xNTQuMjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImludGVybmV0LmxpZmUuY29tLmJ5IiwiaWQiOiIzZDFmYWI2ZS0zYmQ2LTQ3MmItOGQ5Yy05OTM0YzA0ZWFmNDAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNDQzIiwicHMiOiJcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDYgfCBWTUVTUyB8IEBGcmVha0NvbmZpZyB8IFhYIHwgMFx1ZmUwZlx1MjBlMzJcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9",
-        "ping": 563.12,
+        "ping": 130.39,
         "country_code": "XX",
         "ip": "81.30.80.83",
         "country_name": "UNKNOWN",
@@ -2695,7 +2611,7 @@
         },
         "type": "reality",
         "config": "vless://980594a8-6e6c-41e7-db61-78efc31d5ab0@5.75.238.19:2087?type=grpc&encryption=none&flow=&sni=greenpepper.ir&fp=firefox&security=reality&pbk=WnT8w6Vtfzx2u47S6hTHPRAPn3myMXmqsyx__R_GFyE&sid=638ca3d3#رایگان | REALITY | @V2rayCollector | XX | 0️⃣1️⃣",
-        "ping": 90.08,
+        "ping": 90.31,
         "country_code": "XX",
         "ip": "5.75.238.19",
         "country_name": "UNKNOWN",
@@ -2709,7 +2625,7 @@
         },
         "type": "vless",
         "config": "vless://f6bfcd6e-297d-4304-8e74-a27d32903907@proxystore11.ddns.net:2087?type=grpc&serviceName=@proxystore11 @proxystore11 @proxystore11 @proxystore11 @proxystore11 @proxystore11 @proxystore11 @proxystore11 @proxystore11&mode=multi&security=tls&fp=firefox&alpn=http/1.1,h2&sni=cdn.proxystore11.site#رایگان | VLESS | @proxystore11 | XX | 0️⃣1️⃣",
-        "ping": 6.29,
+        "ping": 6.11,
         "country_code": "XX",
         "ip": "104.21.78.234",
         "country_name": "UNKNOWN",
@@ -2723,7 +2639,7 @@
         },
         "type": "vless",
         "config": "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@542.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev#رایگان | VLESS | @SafeNet_Server | XX | 0️⃣1️⃣",
-        "ping": 81.19,
+        "ping": 22.74,
         "country_code": "XX",
         "ip": "172.64.153.211",
         "country_name": "UNKNOWN",
@@ -2737,9 +2653,9 @@
         },
         "type": "vless",
         "config": "vless://217a887e-f37b-4d7e-856c-78a0a6d2a9bc@www.unpkg.com:8080?security=none&encryption=none&headerType=none&type=tcp#رایگان | VLESS | @ShadowSocks_s | XX | 0️⃣1️⃣",
-        "ping": 2.2,
+        "ping": 2.34,
         "country_code": "XX",
-        "ip": "104.16.126.175",
+        "ip": "104.16.125.175",
         "country_name": "UNKNOWN",
         "time": "2023-11-10 21:59:14"
     },
@@ -2751,7 +2667,7 @@
         },
         "type": "vmess",
         "config": "vmess://eyJhZGQiOiI1LjE2MS4xMjkuMTI3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJpbnRlcm5ldC5saWZlLmNvbS5ieSIsImlkIjoiM2QxZmFiNmUtM2JkNi00NzJiLThkOWMtOTkzNGMwNGVhZjQwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjQ0MyIsInBzIjoiXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IHwgVk1FU1MgfCBARnJlYWtDb25maWcgfCBYWCB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==",
-        "ping": 129.37,
+        "ping": 1069.22,
         "country_code": "XX",
         "ip": "81.30.80.83",
         "country_name": "UNKNOWN",
@@ -2765,7 +2681,7 @@
         },
         "type": "reality",
         "config": "vless://f1fe3e31-f8b4-4ec1-b22d-bf0b66cacc67@dubi.liq-english-78.site:443?mode=gun&security=reality&encryption=none&pbk=NC5bzD1004GpExH3XOMGxyXyJtGQiDHTGKLaZfq_-Tc&fp=chrome&spx=/&type=grpc&serviceName=&sni=duckduckgo.com&sid=da684733#رایگان | REALITY | @liq_VPN | XX | 0️⃣1️⃣",
-        "ping": 200.97,
+        "ping": 220.76,
         "country_code": "XX",
         "ip": "91.132.48.103",
         "country_name": "UNKNOWN",
@@ -2779,7 +2695,7 @@
         },
         "type": "reality",
         "config": "vless://f2f847fc-1745-4cab-cf7e-941c67a91e95@telchann1.v2pedia.xyz:443?mode=gun&security=reality&encryption=none&pbk=8h75tSdwxj_Cw6C6DiAqrDZ6tp1fI-_EcnsRBSFjrEo&fp=chrome&spx=/&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=www.speedtest.net&sid=22c8ef128b#رایگان | REALITY | @V2pedia | XX | 0️⃣3️⃣",
-        "ping": 96.19,
+        "ping": 95.2,
         "country_code": "XX",
         "ip": "88.198.169.70",
         "country_name": "UNKNOWN",
@@ -2793,11 +2709,11 @@
         },
         "type": "vless",
         "config": "vless://7a9988b0-65eb-4772-8de5-100b9eb6c994@all.farzamwebsite.cfd:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@free_v2rayyy@free_v2rayyy@free_v2rayyy@free_v2rayyy@free_v2rayyy@free_v2rayyy&sni=mmd.farzamwebsite.cfd#رایگان | VLESS | @free_v2rayyy | XX | 0️⃣1️⃣",
-        "ping": 222.5,
+        "ping": 160.22,
         "country_code": "XX",
         "ip": "104.16.246.91",
         "country_name": "UNKNOWN",
-        "time": "2023-11-09 22:40:05"
+        "time": "2023-11-09 22:40:09"
     },
     {
         "channel": {
@@ -2807,7 +2723,7 @@
         },
         "type": "reality",
         "config": "vless://a56b1846-d2fb-4241-b2b4-ce6940d018a1@servermomo.line.pm:34583?mode=gun&security=reality&encryption=none&pbk=GBcg3dDa5gqYWd9qdz3Ao1Zl-Y6Ql6AY-zNOfjTBKTI&fp=firefox&spx=/&type=grpc&serviceName=Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-&sni=zula.ir&sid=75035de2#رایگان | REALITY | @servermomo | XX | 0️⃣2️⃣",
-        "ping": 4272.65,
+        "ping": 279.45,
         "country_code": "XX",
         "ip": "65.108.153.20",
         "country_name": "UNKNOWN",
@@ -2821,7 +2737,7 @@
         },
         "type": "reality",
         "config": "vless://afcdc77e-9101-45cf-adfc-c5a669a10ede@telchann1.v2pedia.xyz:443?mode=gun&security=reality&encryption=none&pbk=8h75tSdwxj_Cw6C6DiAqrDZ6tp1fI-_EcnsRBSFjrEo&fp=chrome&spx=/&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=www.speedtest.net&sid=22c8ef128b#رایگان | REALITY | @V2pedia | XX | 0️⃣2️⃣",
-        "ping": 95.52,
+        "ping": 94.31,
         "country_code": "XX",
         "ip": "88.198.169.70",
         "country_name": "UNKNOWN",
@@ -2835,7 +2751,7 @@
         },
         "type": "reality",
         "config": "vless://4b4423da-7807-4107-8afc-e4532bd6c1a0@91.231.182.225:40933?mode=gun&security=reality&encryption=none&pbk=nsJD3jdw9TXiE54BCNFiASHiO-MWflwjjzT1IyrMUxU&fp=chrome&type=grpc&serviceName=iran.vpnext2.monster&sni=speed.cloudflare.com&sid=e48e74c0#رایگان | REALITY | @FreakConfig | XX | 0️⃣1️⃣",
-        "ping": 113.59,
+        "ping": 112.06,
         "country_code": "XX",
         "ip": "91.231.182.225",
         "country_name": "UNKNOWN",
@@ -2849,7 +2765,7 @@
         },
         "type": "reality",
         "config": "vless://263397eb-6dfb-4111-e8ac-1d938d533d08@telchann1.v2pedia.xyz:443?mode=gun&security=reality&encryption=none&pbk=8h75tSdwxj_Cw6C6DiAqrDZ6tp1fI-_EcnsRBSFjrEo&fp=chrome&spx=/&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=www.speedtest.net&sid=22c8ef128b#رایگان | REALITY | @V2pedia | XX | 0️⃣1️⃣",
-        "ping": 95.88,
+        "ping": 99.72,
         "country_code": "XX",
         "ip": "88.198.169.70",
         "country_name": "UNKNOWN",
@@ -2862,11 +2778,11 @@
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/v2_team.jpg"
         },
         "type": "reality",
-        "config": "vless://87ccbc65-e64f-4415-aa73-d8684722e258@join.v2team.cfd:2087?mode=gun&security=reality&encryption=none&pbk=qYhKc-RiWZmRbJl-17sDyDpv7YqSnnJ0bi01aUp_qwE&fp=chrome&spx=/&type=grpc&serviceName=Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMgonTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM&sni=www.speedtest.net&sid=78a26182#رایگان | REALITY | @v2_team | US | 0️⃣3️⃣",
-        "ping": 89.21,
-        "country_code": "US",
+        "config": "vless://87ccbc65-e64f-4415-aa73-d8684722e258@join.v2team.cfd:2087?mode=gun&security=reality&encryption=none&pbk=qYhKc-RiWZmRbJl-17sDyDpv7YqSnnJ0bi01aUp_qwE&fp=chrome&spx=/&type=grpc&serviceName=Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMgonTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM&sni=www.speedtest.net&sid=78a26182#رایگان | REALITY | @v2_team | XX | 0️⃣3️⃣",
+        "ping": 172.08,
+        "country_code": "XX",
         "ip": "104.24.177.7",
-        "country_name": "United States",
+        "country_name": "UNKNOWN",
         "time": "2023-11-06 21:34:41"
     },
     {
@@ -2876,11 +2792,11 @@
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/v2_team.jpg"
         },
         "type": "vless",
-        "config": "vless://59c74431-1066-4969-8a5e-e9c17644339e@join.v2team.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMgonTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM&sni=V2ray-NAPSTERNET-IRANCELL-iran-fair-MKH.Snappfoodd.site#رایگان | VLESS | @v2_team | US | 0️⃣2️⃣",
-        "ping": 10.06,
-        "country_code": "US",
+        "config": "vless://59c74431-1066-4969-8a5e-e9c17644339e@join.v2team.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMgonTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM&sni=V2ray-NAPSTERNET-IRANCELL-iran-fair-MKH.Snappfoodd.site#رایگان | VLESS | @v2_team | XX | 0️⃣2️⃣",
+        "ping": 25.68,
+        "country_code": "XX",
         "ip": "104.24.177.7",
-        "country_name": "United States",
+        "country_name": "UNKNOWN",
         "time": "2023-11-06 21:34:01"
     },
     {
@@ -2891,7 +2807,7 @@
         },
         "type": "vless",
         "config": "vless://30a0ab36-3576-426f-9e96-ef180e796923@104.16.31.197:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-&sni=myjfkuyktfkytf.mic-mokhaderat-irancell-shatel-irancel.shop#رایگان | VLESS | @servermomo | XX | 0️⃣1️⃣",
-        "ping": 2.63,
+        "ping": 1.5,
         "country_code": "XX",
         "ip": "104.16.31.197",
         "country_name": "UNKNOWN",
@@ -2905,7 +2821,7 @@
         },
         "type": "trojan",
         "config": "trojan://52c020954a@208.115.233.80:443?security=tls&headerType=none&type=tcp&sni=usa2.connecton.surf#رایگان | TROJAN | @VmessProtocol | XX | 0️⃣1️⃣",
-        "ping": 64.51,
+        "ping": 64.95,
         "country_code": "XX",
         "ip": "208.115.233.80",
         "country_name": "UNKNOWN",
@@ -2918,11 +2834,11 @@
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/v2_team.jpg"
         },
         "type": "vless",
-        "config": "vless://6a73c28e-e0d1-4579-a810-83036fe58dcf@join.v2team.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMgonTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM&sni=V2ray-NAPSTERNET-IRANCELL-iran-fair-MKH.Snappfoodd.site#رایگان | VLESS | @v2_team | US | 0️⃣1️⃣",
-        "ping": 237.04,
-        "country_code": "US",
+        "config": "vless://6a73c28e-e0d1-4579-a810-83036fe58dcf@join.v2team.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMgonTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM&sni=V2ray-NAPSTERNET-IRANCELL-iran-fair-MKH.Snappfoodd.site#رایگان | VLESS | @v2_team | XX | 0️⃣1️⃣",
+        "ping": 29.22,
+        "country_code": "XX",
         "ip": "104.24.177.7",
-        "country_name": "United States",
+        "country_name": "UNKNOWN",
         "time": "2023-11-05 19:21:44"
     },
     {
@@ -2933,7 +2849,7 @@
         },
         "type": "ss",
         "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptVHlwaWxtamlkcnI2ZFFZYU9HSGY3@13.87.75.155:46130#رایگان | SS | @VmessProtocol | XX | 0️⃣1️⃣",
-        "ping": 76.99,
+        "ping": 75.45,
         "country_code": "XX",
         "ip": "13.87.75.155",
         "country_name": "UNKNOWN",
@@ -2947,7 +2863,7 @@
         },
         "type": "vless",
         "config": "vless://f23f2f26-99e5-44bb-bb5b-19de97c1d6d4@141.101.113.89:443?path=/?ed=2048&security=tls&encryption=none&host=free.sw.moh539.link&fp=chrome&type=ws&sni=free.sw.moh539.link#رایگان | VLESS | @v2rayng_config_amin | XX | 0️⃣2️⃣",
-        "ping": 2.41,
+        "ping": 1.47,
         "country_code": "XX",
         "ip": "141.101.113.89",
         "country_name": "UNKNOWN",
@@ -2960,11 +2876,11 @@
             "logo": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/channels/L_AGVPN13.jpg"
         },
         "type": "vless",
-        "config": "vless://c567cff6-826f-48cb-b165-33731c7bad5f@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=telgram.1lagvpn13.cfd#رایگان | VLESS | @L_AGVPN13 | US | 0️⃣1️⃣",
-        "ping": 11.55,
-        "country_code": "US",
+        "config": "vless://c567cff6-826f-48cb-b165-33731c7bad5f@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=telgram.1lagvpn13.cfd#رایگان | VLESS | @L_AGVPN13 | XX | 0️⃣1️⃣",
+        "ping": 103.88,
+        "country_code": "XX",
         "ip": "104.24.176.7",
-        "country_name": "United States",
+        "country_name": "UNKNOWN",
         "time": "2023-11-03 17:32:12"
     },
     {
@@ -2975,7 +2891,7 @@
         },
         "type": "reality",
         "config": "vless://ba0d8596-3717-4dab-ad6b-bdb8db5e3c83@configms.mmdtitaniom.com:25750?type=grpc&serviceName=@configms,@configms,@configms,@configms,@configms&security=reality&fp=chrome&pbk=TwnWpUoUS1oY2pW2CTu5MgGvz-RKDZPfC2tfUYaxTxk&sni=ilovepdf.com&sid=5ee171b7&spx=/#رایگان | REALITY | @fnet00 | XX | 0️⃣2️⃣",
-        "ping": 162.34,
+        "ping": 115.68,
         "country_code": "XX",
         "ip": "159.69.216.126",
         "country_name": "UNKNOWN",
@@ -2989,7 +2905,7 @@
         },
         "type": "reality",
         "config": "vless://2b1e078c-6d4b-446f-81a3-851f51c00b25@configms.mmdtitaniom.com:25750?type=grpc&serviceName=@configms,@configms,@configms,@configms,@configms&security=reality&fp=chrome&pbk=TwnWpUoUS1oY2pW2CTu5MgGvz-RKDZPfC2tfUYaxTxk&sni=ilovepdf.com&sid=5ee171b7&spx=/#رایگان | REALITY | @fnet00 | XX | 0️⃣1️⃣",
-        "ping": 163.65,
+        "ping": 165.81,
         "country_code": "XX",
         "ip": "159.69.216.126",
         "country_name": "UNKNOWN",
@@ -3003,9 +2919,9 @@
         },
         "type": "vless",
         "config": "vless://a539d0d8-7068-49b4-988e-32bed9e778d5@all-antiV2ray.ddns.net:443?path=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2?ed=2048&security=tls&encryption=none&host=po.GrV2ray.cfd&type=ws&sni=po.GrV2ray.cfd#رایگان | VLESS | @V2raysFree | XX | 0️⃣1️⃣",
-        "ping": 77.26,
+        "ping": 29.35,
         "country_code": "XX",
-        "ip": "104.24.177.7",
+        "ip": "104.24.176.7",
         "country_name": "UNKNOWN",
         "time": "2023-11-01 11:10:10"
     }
