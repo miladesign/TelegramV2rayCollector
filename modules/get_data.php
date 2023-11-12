@@ -257,30 +257,9 @@ function get_channels_assets()
     );
 }
 
-function generate_name($channel, $flag, $is_reality, $number, $type)
+function generate_name($country_name, $country_code)
 {
-    $name = "";
-    switch ($is_reality) {
-        case true:
-            return
-                "رایگان | REALITY | " .
-                "@" .
-                $channel .
-                " | " .
-                $flag .
-                " | " .
-                numberToEmoji($number);
-        case false:
-            return
-                "رایگان | " .
-                $type .
-                " | @" .
-                $channel .
-                " | " .
-                $flag .
-                " | " .
-                numberToEmoji($number);
-    }
+    return "MD VPN " . $country_code;
 }
 
 function parse_config($input, $type, $is_sub = false)
@@ -340,9 +319,6 @@ function get_config($channel, $type)
     // Fetch the content of the Telegram channel URL
     $get = file_get_contents("https://t.me/s/" . $channel);
 
-    // Load channels_assets JSON data
-    $channels_assets = get_channels_assets();
-
     $matches = get_config_time($type, $get);
     $configs = get_config_items($type, $get);
 
@@ -352,7 +328,6 @@ function get_config($channel, $type)
     } else {
         $key_limit = count($configs[1]) - 3;
     }
-    $config_number = 1;
 
     foreach (array_reverse($configs[1]) as $key => $config) {
         if ($key >= $key_limit) {
@@ -376,23 +351,13 @@ function get_config($channel, $type)
                         if ($ping_data !== "unavailable" || $type === "tuic") {
                             $info = ip_info($ip);
                             $country_code = $info->country_code;
+                            $country_name = $info->country_name;
 
                             $name_key = $name_array[$type];
-                            $the_config[$name_key] = generate_name(
-                                $channel,
-                                $country_code,
-                                $is_reality,
-                                $config_number,
-                                strtoupper($type)
-                            );
+                            $the_config[$name_key] = generate_name($country_name, $country_code);
 
                             $final_config = build_config($the_config, $type);
 
-                            /*$final_data[$key]["channel"]["username"] = $channel;
-                            $final_data[$key]["channel"]["title"] =
-                                $channels_assets[$channel]["title"];
-                            $final_data[$key]["channel"]["logo"] =
-                                $channels_assets[$channel]["logo"];*/
                             $final_data[$key]["type"] = $is_reality
                                 ? "reality"
                                 : $type;
@@ -400,11 +365,10 @@ function get_config($channel, $type)
                             $final_data[$key]["ping"] = $ping_data;
                             $final_data[$key]["ip"] = $info->ip;
                             $final_data[$key]["country_code"] = $country_code;
-                            $final_data[$key]["country_name"] = $info->country_name;
+                            $final_data[$key]["country_name"] = $country_name;
                             $final_data[$key]["time"] = convert_to_iran_time(
                                 $matches[1][$key]
                             );
-                            $config_number++;
                         }
                     }
                 }
