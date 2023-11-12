@@ -11,6 +11,12 @@ function is_ip($string)
 }
 
 function ip_info($ip) {
+    if (is_ip($ip) === false) {
+        $ip_address_array = dns_get_record($ip, DNS_A);
+        $randomKey = array_rand($ip_address_array);
+        $ip = $ip_address_array[$randomKey]["ip"];
+    }
+
     // List of API endpoints
     $endpoints = [
         'https://api.ipbase.com/v1/json/{ip}',
