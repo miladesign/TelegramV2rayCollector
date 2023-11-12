@@ -16,6 +16,14 @@ function deleteFolder($folder) {
     rmdir($folder);
 }
 
+function deleteFile($file) {
+    if (file_exists($file)) {
+        unlink($file);
+    }
+}
+
+deleteFile("configs.json");
+
 function process_mix_json($input, $name)
 {
     $mix_data_json = json_encode($input, JSON_PRETTY_PRINT); // Encode input array to JSON with pretty printing
