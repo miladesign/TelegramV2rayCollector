@@ -381,13 +381,7 @@ function get_config($channel, $type)
                         @$ping_data = ping($ip, $port);
                         if ($ping_data !== "unavailable" || $type === "tuic") {
                             $ip_info = get_ip_info($ip);
-                            
-                            $country_code = "";
-                            if (isset($ip_info["country_code"])) {
-                                $country_code = $ip_info["country_code"];
-                            } else {
-                                $country_code = "UNKNOWN";
-                            }
+                            $country_code = $ip_info["country_code"];
 
                             $name_key = $name_array[$type];
                             $the_config[$name_key] = generate_name(
@@ -412,6 +406,7 @@ function get_config($channel, $type)
                             $final_data[$key]["ping"] = $ping_data;
                             $final_data[$key]["country_code"] = $country_code;
                             $final_data[$key]["ip"] = $ip_info["ip"];
+                            $final_data[$key]["country_name"] = $ip_info["country_name"];
                             $final_data[$key]["time"] = convert_to_iran_time(
                                 $matches[1][$key]
                             );

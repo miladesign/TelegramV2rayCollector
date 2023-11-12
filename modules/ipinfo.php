@@ -28,8 +28,8 @@ function ip_info($ip) {
     // Initialize an empty result object
     $result = (object) [
         'ip' => $ip,
-        'country_code' => null,
-        'country_name' => null
+        'country_code' => "XX",
+        'country_name' => "UNKNOWN"
         // Add more properties as needed
     ];
 
@@ -49,20 +49,20 @@ function ip_info($ip) {
             // Extract relevant information and update the result object
             if ($endpoint == $endpoints[0]) {
                 // Data from ipbase.com
-                $result->country_code = $data->country_code ?? null;
-                $result->country_name = $data->country_name ?? null;
+                $result->country_code = $data->country_code ?? "XX";
+                $result->country_name = $data->country_name ?? "UNKNOWN";
             } elseif ($endpoint == $endpoints[1]) {
                 // Data from ipapi.co
-                $result->country_code = $data->country_code ?? null;
-                $result->country_name = $data->country_name ?? null;
+                $result->country_code = $data->country_code ?? "XX";
+                $result->country_name = $data->country_name ?? "UNKNOWN";
             } elseif ($endpoint == $endpoints[2]) {
                 // Data from ipwhois.app
-                $result->country_code = $data->country_code ?? null;
-                $result->country_name = $data->country ?? null;
+                $result->country_code = $data->country_code ?? "XX";
+                $result->country_name = $data->country ?? "UNKNOWN";
             } elseif ($endpoint == $endpoints[3]) {
                 // Data from geoplugin.net
-                $result->country_code = $data->geoplugin_countryCode ?? null;
-                $result->country_name = $data->geoplugin_countryName ?? null;
+                $result->country_code = $data->geoplugin_countryCode ?? "XX";
+                $result->country_name = $data->geoplugin_countryName ?? "UNKNOWN";
             }
 
             // Break out of the loop since we found a successful endpoint
