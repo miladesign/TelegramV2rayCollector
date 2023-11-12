@@ -22,8 +22,6 @@ function deleteFile($file) {
     }
 }
 
-deleteFile("configs.json");
-
 function process_mix_json($input, $name)
 {
     $mix_data_json = json_encode($input, JSON_PRETTY_PRINT); // Encode input array to JSON with pretty printing
@@ -36,6 +34,7 @@ function process_mix_json($input, $name)
     $mix_data_json = urldecode($mix_data_json);
     $mix_data_json = str_replace("amp;", "", $mix_data_json); // Replace HTML-encoded ampersands with regular ampersands
     $mix_data_json = str_replace("\\", "", $mix_data_json); // Remove backslashes from the JSON string
+    deleteFile($name);
     file_put_contents($name, $mix_data_json); // Save the JSON data to a file in the "json/" directory with the specified name
 }
 
