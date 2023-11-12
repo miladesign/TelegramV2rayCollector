@@ -45,7 +45,6 @@ function ip_info($ip) {
         
         $context = stream_context_create($options);
         $response = file_get_contents($url, false, $context);
-        curl_close($ch);
     
         if ($response !== false) {
             $data = json_decode($response);
