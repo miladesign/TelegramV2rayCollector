@@ -388,18 +388,18 @@ function get_config($channel, $type)
 
                             $final_config = build_config($the_config, $type);
 
-                            $final_data[$key]["channel"]["username"] = $channel;
+                            /*$final_data[$key]["channel"]["username"] = $channel;
                             $final_data[$key]["channel"]["title"] =
                                 $channels_assets[$channel]["title"];
                             $final_data[$key]["channel"]["logo"] =
-                                $channels_assets[$channel]["logo"];
+                                $channels_assets[$channel]["logo"];*/
                             $final_data[$key]["type"] = $is_reality
                                 ? "reality"
                                 : $type;
                             $final_data[$key]["config"] = $final_config;
                             $final_data[$key]["ping"] = $ping_data;
-                            $final_data[$key]["country_code"] = $country_code;
                             $final_data[$key]["ip"] = $info->ip;
+                            $final_data[$key]["country_code"] = $country_code;
                             $final_data[$key]["country_name"] = $info->country_name;
                             $final_data[$key]["time"] = convert_to_iran_time(
                                 $matches[1][$key]
