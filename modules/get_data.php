@@ -80,6 +80,12 @@ function is_valid($input)
     return true;
 }
 
+function get_ip_info($ip)
+{
+    $ip_info = ip_info($ip);
+    return $ip_info;
+}
+
 function is_reality($input, $type)
 {
     switch ($type) {
@@ -374,7 +380,7 @@ function get_config($channel, $type)
 
                         @$ping_data = ping($ip, $port);
                         if ($ping_data !== "unavailable" || $type === "tuic") {
-                            $ip_info = ip_info($ip);
+                            $ip_info = get_ip_info($ip);
                             
                             $country_code = "";
                             if (isset($ip_info["country_code"])) {
