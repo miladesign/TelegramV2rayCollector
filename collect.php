@@ -5,18 +5,6 @@ include "modules/get_data.php"; // Include the get_data module
 include "modules/config.php"; // Include the config module
 include "modules/ranking.php"; // Include the ranking module
 
-function addHeader ($subscription, $subscriptionName) {
-    $headerText = "#profile-title: base64:" . base64_encode($subscriptionName) . "
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-#support-url: https://t.me/v2raycollector
-#profile-web-page-url: https://github.com/miladesign/TelegramV2rayCollector
-
-";
-
-    return $headerText . $subscription;
-}
-
 function deleteFolder($folder) {
     if (!is_dir($folder)) {
         return;
@@ -26,44 +14,6 @@ function deleteFolder($folder) {
         is_dir($file) ? deleteFolder($file) : unlink($file);
     }
     rmdir($folder);
-}
-
-function seprate_by_country($configs){
-    $configsArray = explode("\n", $configs);
-    $configLocation = "";
-    $output = [];
-    foreach ($configsArray as $config) {
-        $configType = detect_type($config);
-
-        if ($configType === "vmess") {
-            $configName = parse_config($config, "vmess", true)['ps'];
-        } elseif ($configType === "vless" || $configType === "trojan" ){
-            $configName = parse_config($config, $configType)['hash'];
-        } elseif ($configType === "ss"){
-            $configName = parse_config($config, "ss")['name'];
-        } elseif ($configType === "tuic"){
-            $configName = parse_config($config, "tuic")['hash'];
-        } elseif ($configType === "hy2"){
-            $configName = parse_config($config, "hy2")['hash'];
-        }
-
-        if (stripos($configName, "RELAY🚩")){
-            $configLocation = "RELAY";
-        } else {
-            $pattern = '/\b([A-Z]{2})\b[\x{1F1E6}-\x{1F1FF}]{2}/u';
-            preg_match_all($pattern, $configName, $matches);
-            $configLocation = $matches[1][0];
-        }
-
-        if (!isset($output[$configLocation])){
-            $output[$configLocation] = [];
-        }
-        
-        if (!in_array($config, $output[$configLocation])) {
-            $output[$configLocation][] = $config;
-        }
-    }
-    return $output;
 }
 
 function process_mix_json($input, $name)
@@ -78,7 +28,7 @@ function process_mix_json($input, $name)
     $mix_data_json = urldecode($mix_data_json);
     $mix_data_json = str_replace("amp;", "", $mix_data_json); // Replace HTML-encoded ampersands with regular ampersands
     $mix_data_json = str_replace("\\", "", $mix_data_json); // Remove backslashes from the JSON string
-    file_put_contents("json/" . $name, $mix_data_json); // Save the JSON data to a file in the "json/" directory with the specified name
+    file_put_contents($name, $mix_data_json); // Save the JSON data to a file in the "json/" directory with the specified name
 }
 
 function fast_fix($input){
@@ -96,7 +46,6 @@ function config_array($input){
 $raw_url_base =
     "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main"; // Define the base URL for fetching raw data
 
-$mix_data = []; // Initialize an empty array for mix data
 $vmess_data = []; // Initialize an empty array for vmess data
 $trojan_data = []; // Initialize an empty array for trojan data
 $vless_data = []; // Initialize an empty array for vless data
@@ -160,111 +109,6 @@ foreach ($Types as $channelUsername => $type_array) {
     }
     }
 }
-
-$donated_vmess_data = []; // Initialize an empty array for vmess data
-$donated_trojan_data = []; // Initialize an empty array for trojan data
-$donated_vless_data = []; // Initialize an empty array for vless data
-$donated_shadowsocks_data = []; // Initialize an empty array for shadowsocks data
-$donated_tuic_data = []; // Initialize an empty array for tuic data
-$donated_hy2_data = []; // Initialize an empty array for tuic data
-
-$base_donated_url = "https://yebekhe.000webhostapp.com/donate/donated_servers/";
-
-$processed_subscription = [];
-$usernames = [];
-foreach ($donated_subscription as $url){
-    $max_attempts = 3;
-    $attempts = 0;
-    while ($attempts < $max_attempts) {
-        try {
-            $usernames = json_decode(file_get_contents($url), true);
-            break; // Success, so break out of the loop
-        } catch (Exception $e) {
-            // Handle the error here, e.g. by logging it
-            $attempts++;
-            if ($attempts == $max_attempts) {
-             // Reached max attempts, so throw an exception to indicate failure
-                throw new Exception('Failed to retrieve data after ' . $max_attempts . ' attempts.');
-            }
-        sleep(1); // Wait for 1 second before retrying
-        }
-    }
-    foreach ($usernames as $username){
-        $subscription_data = file_get_contents($base_donated_url . $username);
-        $processed_subscription = /** @scrutinizer ignore-call */ process_subscription($subscription_data, $username);
-        foreach ($processed_subscription as $donated_type => $donated_data){
-            if ($donated_type === "vmess") {
-                    $donated_vmess_data = array_merge(
-                        $donated_vmess_data,
-                        $donated_data
-                    );
-            } 
-            if ($donated_type === "vless") {
-                    $donated_vless_data = array_merge(
-                        $donated_vless_data,
-                        $donated_data
-                    );
-            } 
-            if ($donated_type === "ss") {
-                    $donated_shadowsocks_data = array_merge(
-                        $donated_shadowsocks_data,
-                        $donated_data
-                    );
-            } 
-            if ($donated_type === "trojan") {
-                    $donated_trojan_data = array_merge(
-                        $donated_trojan_data,
-                        $donated_data
-                    );
-            } 
-            if ($donated_type === "tuic") {
-                    $donated_tuic_data = array_merge(
-                        $donated_tuic_data,
-                        $donated_data
-                    );
-            }
-            if ($donated_type === "hy2") {
-                $donated_hy2_data = array_merge(
-                    $donated_hy2_data,
-                    $donated_data
-                );
-        }
-        }
-    }
-}
-
-$string_donated_vmess = $donated_vmess_data !== [] ? remove_duplicate_vmess(implode("\n", config_array($donated_vmess_data))) : "";
-$string_donated_vless = $donated_vless_data !== [] ? remove_duplicate_xray(fast_fix(implode("\n", config_array($donated_vless_data))), "vless") : "";
-$string_donated_trojan = $donated_trojan_data !== [] ? remove_duplicate_xray(fast_fix(implode("\n", config_array($donated_trojan_data))), "trojan") : "";
-$string_donated_shadowsocks = $donated_shadowsocks_data !== [] ? remove_duplicate_ss(fast_fix(implode("\n", config_array($donated_shadowsocks_data)))) : "";
-$string_donated_tuic = $donated_tuic_data !== [] ? remove_duplicate_tuic(fast_fix(implode("\n", config_array($donated_tuic_data)))) : "";
-$string_donated_hy2 = $donated_tuic_hy2 !== [] ? remove_duplicate_hy2(fast_fix(implode("\n", config_array($donated_hy2_data)))) : "";
-$string_donated_reality = get_reality($string_donated_vless);
-
-$donated_mix =
-    $string_donated_vmess .
-    "\n" .
-    $string_donated_vless .
-    "\n" .
-    $string_donated_trojan .
-    "\n" .
-    $string_donated_shadowsocks .
-    "\n" .
-    $string_donated_tuic .
-    "\n" .
-    $string_donated_hy2;
-$donated_array = explode("\n", $donated_mix);
-
-foreach ($donated_array as $key => $donated_config){
-    if ($donated_config === ""){
-        unset($donated_array[$key]);
-    }
-}
-
-$donated_mix = implode("\n", $donated_array);
-
-file_put_contents("sub/normal/donated", addHeader($donated_mix, "TVC | DONATED"));
-file_put_contents("sub/base64/donated", base64_encode(addHeader($donated_mix, "TVC | DONATED")));
 
 // Extract the "config" value from each object in $type_data and store it in $type_array
 $vmess_array = config_array($vmess_data);
@@ -381,32 +225,6 @@ foreach ($hy2_data as $hy2_config_data) {
     }
 }
 
-$fixed_string_reality = get_reality($fixed_string_vless);
-
-$mix =
-    $fixed_string_vmess .
-    "\n" .
-    $fixed_string_vless .
-    "\n" .
-    $fixed_string_trojan .
-    "\n" .
-    $fixed_string_shadowsocks .
-    "\n" .
-    $fixed_string_tuic .
-    "\n" .
-    $fixed_string_hy2 .
-    "\n" .
-    $donated_mix;
-
-$mix_data = array_merge(
-    $vmess_data,
-    $vless_data,
-    $trojan_data,
-    $shadowsocks_data,
-    $tuic_data,
-    $hy2_data
-);
-
 $mix_data_deduplicate = array_merge(
     $json_vmess_array,
     $json_vless_array,
@@ -416,85 +234,4 @@ $mix_data_deduplicate = array_merge(
     $json_hy2_array
 );
 
-$subscription_types = [
-    "mix" => base64_encode(addHeader($mix, "TVC | MIX")),
-    "vmess" => base64_encode(addHeader($fixed_string_vmess, "TVC | VMESS")),
-    "vless" => base64_encode(addHeader($fixed_string_vless, "TVC | VLESS")),
-    "reality" => base64_encode(addHeader($fixed_string_reality, "TVC | REALITY")),
-    "trojan" => base64_encode(addHeader($fixed_string_trojan, "TVC | TROJAN")),
-    "shadowsocks" => base64_encode(addHeader($fixed_string_shadowsocks, "TVC | SHADOWSOCKS")),
-    "tuic" => base64_encode(addHeader($fixed_string_tuic, "TVC | TUIC")),
-    "hysteria2" => base64_encode(addHeader($fixed_string_hy2, "TVC | HYSTERIA2")),
-];
-
-// Write subscription data to files
-foreach ($subscription_types as $subscription_type => $subscription_data) {
-    file_put_contents(
-        "sub/normal/" . $subscription_type,
-        base64_decode($subscription_data)
-    );
-    file_put_contents(
-        "sub/base64/" . $subscription_type,
-        $subscription_data
-    );
-}
-
-$countryBased = seprate_by_country($mix);
-deleteFolder("country");
-mkdir("country");
-foreach ($countryBased as $country => $configsArray) {
-    if (!is_dir("country/". $country)) {
-        mkdir("country/". $country);
-    }
-    $configsSub = implode("\n", $configsArray);
-    file_put_contents("country/". $country . "/normal", $configsSub);
-    file_put_contents("country/". $country . "/base64", base64_encode($configsSub));
-}
-
-process_mix_json($mix_data, "configs.json");
-process_mix_json($mix_data_deduplicate, "configs_deduplicate.json");
-
-$data = [
-    [
-        "data" => $vmess_data,
-        "filename" => "channel_ranking_vmess.json",
-        "type" => "vmess",
-    ],
-    [
-        "data" => $vless_data,
-        "filename" => "channel_ranking_vless.json",
-        "type" => "vless",
-    ],
-    [
-        "data" => $trojan_data,
-        "filename" => "channel_ranking_trojan.json",
-        "type" => "trojan",
-    ],
-    [
-        "data" => $shadowsocks_data,
-        "filename" => "channel_ranking_ss.json",
-        "type" => "ss",
-    ],
-    [
-        "data" => $tuic_data,
-        "filename" => "channel_ranking_tuic.json",
-        "type" => "tuic",
-    ],
-    [
-        "data" => $hy2_data,
-        "filename" => "channel_ranking_hy2.json",
-        "type" => "hy2",
-    ],
-];
-
-// Process each item in the data array
-foreach ($data as $item) {
-    // Calculate ranking for the specific type of data
-    $channel_ranking = ranking($item["data"], $item["type"]);
-
-    // Convert the ranking to JSON format
-    $json_content = json_encode($channel_ranking, JSON_PRETTY_PRINT);
-
-    // Write the JSON content to a file in the "ranking" directory
-    file_put_contents("ranking/{$item["filename"]}", $json_content);
-}
+process_mix_json($mix_data_deduplicate, "configs.json");

@@ -18,7 +18,7 @@ function ip_info($ip)
         $ip = $ip_address_array[$randomKey]["ip"];
     }
     $ipinfo = json_decode(
-        file_get_contents("https://api.country.is/" . $ip),
+        file_get_contents("https://api.ipbase.com/v1/json/" . $ip),
         true
     );
     return $ipinfo;
