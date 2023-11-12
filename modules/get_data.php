@@ -80,12 +80,6 @@ function is_valid($input)
     return true;
 }
 
-function get_ip_info($ip)
-{
-    $ip_info = ip_info($ip);
-    return $ip_info;
-}
-
 function is_reality($input, $type)
 {
     switch ($type) {
@@ -380,8 +374,8 @@ function get_config($channel, $type)
 
                         @$ping_data = ping($ip, $port);
                         if ($ping_data !== "unavailable" || $type === "tuic") {
-                            $info = get_ip_info($ip);
-                            $country_code = $info["country_code"];
+                            $info = ip_info($ip);
+                            $country_code = $info->country_code;
 
                             $name_key = $name_array[$type];
                             $the_config[$name_key] = generate_name(
@@ -405,8 +399,8 @@ function get_config($channel, $type)
                             $final_data[$key]["config"] = $final_config;
                             $final_data[$key]["ping"] = $ping_data;
                             $final_data[$key]["country_code"] = $country_code;
-                            $final_data[$key]["ip"] = $info["ip"];
-                            $final_data[$key]["country_name"] = $info["country_name"];
+                            $final_data[$key]["ip"] = $info->ip;
+                            $final_data[$key]["country_name"] = $info->country_name;
                             $final_data[$key]["time"] = convert_to_iran_time(
                                 $matches[1][$key]
                             );
