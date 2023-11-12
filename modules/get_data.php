@@ -250,19 +250,6 @@ function get_port($input, $type)
     }
 }
 
-function get_flag($ip)
-{
-    $flag = "";
-    $ip_info = ip_info($ip);
-    if (isset($ip_info["country_code"])) {
-        $location = $ip_info["country_code"];
-        $flag = $location . getFlags($location);
-    } else {
-        $flag = "RELAY🚩";
-    }
-    return $flag;
-}
-
 function get_channels_assets()
 {
     return json_decode(
@@ -388,12 +375,19 @@ function get_config($channel, $type)
 
                         @$ping_data = ping($ip, $port);
                         if ($ping_data !== "unavailable" || $type === "tuic") {
-                            $flag = get_flag($ip);
+                            $ip_info = ip_info($ip);
+                            
+                            $country_code = "";
+                            if (isset($ip_info["country_code"])) {
+                                $country_code = $ip_info["country_code"];
+                            } else {
+                                $country_code = "UNKNOWN";
+                            }
 
                             $name_key = $name_array[$type];
                             $the_config[$name_key] = generate_name(
                                 $channel,
-                                $flag,
+                                $country_code,
                                 $is_reality,
                                 $config_number,
                                 strtoupper($type)
@@ -411,8 +405,8 @@ function get_config($channel, $type)
                                 : $type;
                             $final_data[$key]["config"] = $final_config;
                             $final_data[$key]["ping"] = $ping_data;
-                            $final_data[$key]["flag"] = $flag;
-                            $final_data[$key]["ip"] = $ip;
+                            $final_data[$key]["country_code"] = $country_code;
+                            $final_data[$key]["ip"] = $ip_info["ip"];
                             $final_data[$key]["time"] = convert_to_iran_time(
                                 $matches[1][$key]
                             );
@@ -444,76 +438,4 @@ function detect_type($input)
     } 
     
 
-}
-
-function process_subscription($input, $channel)
-{
-    $name_array = [
-        "vmess" => "ps",
-        "vless" => "hash",
-        "trojan" => "hash",
-        "ss" => "name",
-        "tuic" => "hash",
-        "hy2" => "hash",
-    ];
-
-    $final_data = [];
-    $configs = explode("\n", $input);
-    $array_helper_vmess = 0;
-    $array_helper_vless = 0;
-    $array_helper_ss = 0;
-    $array_helper_trojan = 0;
-    $array_helper_tuic = 0;
-    $array_helper_hy2 = 0;
-    $config_number = 1;
-    $i = 0;
-    $channel = $channel . " | Donated";
-    foreach ($configs as $config) {
-        $type = detect_type($config);
-        $is_reality = is_reality($config, $type);
-
-        $the_config = parse_config($config, $type, true);
-        $check_pbk = $is_reality ? check_pbk($config) : true;
-
-        $address = get_address($the_config, $type);
-        if ($check_pbk) {
-            if (is_valid_address($address)) {
-                $ip = get_ip($the_config, $type, $is_reality);
-                $port = get_port($the_config, $type);
-
-                @$ping_data = ping($ip, $port);
-                if ($ping_data !== "unavailable" || $type === "tuic") {
-                    $flag = get_flag($ip);
-
-                    $name_key = $name_array[$type];
-                    $the_config[$name_key] = generate_name(
-                        $channel,
-                        $flag,
-                        $is_reality,
-                        $config_number,
-                        strtoupper($type)
-                    );
-                    $final_config = build_config($the_config, $type);
-
-                    $key = ${"array_helper_$type"};
-
-                    $final_data[$type][$key]["channel"]["username"] = $channel;
-                    $final_data[$type][$key]["channel"]["title"] = $channel;
-                    $final_data[$type][$key]["channel"]["logo"] = "null";
-                    $final_data[$type][$key]["type"] = $is_reality
-                        ? "reality"
-                        : $type;
-                    $final_data[$type][$key]["config"] = $final_config;
-                    $final_data[$type][$key]["ping"] = $ping_data;
-                    $final_data[$type][$key]["time"] = tehran_time();
-
-                    $key++;
-                    ${"array_helper_$type"} = $key;
-                    $config_number++;
-                }
-            }
-        }
-    }
-    $i++;
-    return $final_data;
 }
