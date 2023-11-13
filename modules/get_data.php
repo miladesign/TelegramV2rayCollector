@@ -402,11 +402,11 @@ function get_config($channel, $type)
 
                             $final_config = build_config($the_config, $type);
 
-                            $final_data[$key]["channel"]["username"] = $channel;
+                            /*$final_data[$key]["channel"]["username"] = $channel;
                             $final_data[$key]["channel"]["title"] =
                                 $channels_assets[$channel]["title"];
                             $final_data[$key]["channel"]["logo"] =
-                                $channels_assets[$channel]["logo"];
+                                $channels_assets[$channel]["logo"];*/
                             $final_data[$key]["type"] = $is_reality
                                 ? "reality"
                                 : $type;
