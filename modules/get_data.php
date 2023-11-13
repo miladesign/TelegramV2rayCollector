@@ -1,4 +1,5 @@
 <?php
+include "flag.php";
 include "ipinfo.php";
 include "shadowsocks.php";
 include "vmess.php";
@@ -249,6 +250,18 @@ function get_port($input, $type)
     }
 }
 
+function get_flag($location)
+{
+    $flag = "";
+    if (isset($location)) {
+        $location = $ip_info["country"];
+        $flag = $location . getFlags($location);
+    } else {
+        $flag = "RELAY🚩";
+    }
+    return $flag;
+}
+
 function get_channels_assets()
 {
     return json_decode(
@@ -257,9 +270,30 @@ function get_channels_assets()
     );
 }
 
-function generate_name($country_name, $country_code)
+function generate_name($channel, $flag, $is_reality, $number, $type)
 {
-    return "MD VPN " . $country_code;
+    $name = "";
+    switch ($is_reality) {
+        case true:
+            return
+                "رایگان | REALITY | " .
+                "@" .
+                $channel .
+                " | " .
+                $flag .
+                " | " .
+                numberToEmoji($number);
+        case false:
+            return
+                "رایگان | " .
+                $type .
+                " | @" .
+                $channel .
+                " | " .
+                $flag .
+                " | " .
+                numberToEmoji($number);
+    }
 }
 
 function parse_config($input, $type, $is_sub = false)
@@ -331,6 +365,7 @@ function get_config($channel, $type)
     } else {
         $key_limit = count($configs[1]) - 3;
     }
+    $config_number = 1;
 
     foreach (array_reverse($configs[1]) as $key => $config) {
         if ($key >= $key_limit) {
@@ -355,9 +390,16 @@ function get_config($channel, $type)
                             $info = ip_info($ip);
                             $country_code = $info->country_code;
                             $country_name = $info->country_name;
+                            $flag = get_flag($country_code);
 
                             $name_key = $name_array[$type];
-                            $the_config[$name_key] = generate_name($country_name, $country_code);
+                            $the_config[$name_key] = generate_name(
+                                $channel,
+                                $flag,
+                                $is_reality,
+                                $config_number,
+                                strtoupper($type)
+                            );
 
                             $final_config = build_config($the_config, $type);
 
@@ -377,6 +419,7 @@ function get_config($channel, $type)
                             $final_data[$key]["time"] = convert_to_iran_time(
                                 $matches[1][$key]
                             );
+                            $config_number++;
                         }
                     }
                 }
