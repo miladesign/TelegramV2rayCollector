@@ -160,6 +160,8 @@ foreach ($vless_data as $vless_config_data) {
         }
     }
 }
+$json_vless = fast_fix(implode("\n", $json_vless_array));
+file_put_contents("vless3.txt", $json_vless);
 
 $string_trojan = fast_fix(implode("\n", $trojan_array));
 $fixed_string_trojan = remove_duplicate_xray($string_trojan, "trojan");
