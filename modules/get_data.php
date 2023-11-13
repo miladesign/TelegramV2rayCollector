@@ -276,7 +276,7 @@ function generate_name($channel, $flag, $is_reality, $number, $type)
     switch ($is_reality) {
         case true:
             return
-                "رایگان | REALITY | " .
+                "FREE | REALITY | " .
                 "@" .
                 $channel .
                 " | " .
@@ -285,7 +285,7 @@ function generate_name($channel, $flag, $is_reality, $number, $type)
                 numberToEmoji($number);
         case false:
             return
-                "رایگان | " .
+                "FREE | " .
                 $type .
                 " | @" .
                 $channel .

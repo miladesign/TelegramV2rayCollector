@@ -22,7 +22,7 @@ function deleteFile($file) {
     }
 }
 
-function process_mix_json($input, $name)
+function process_mix_json($input)
 {
     $mix_data_json = json_encode($input, JSON_PRETTY_PRINT); // Encode input array to JSON with pretty printing
     $mix_data_decode = json_decode($mix_data_json); // Decode the JSON into an object or array
@@ -34,7 +34,32 @@ function process_mix_json($input, $name)
     $mix_data_json = urldecode($mix_data_json);
     $mix_data_json = str_replace("amp;", "", $mix_data_json); // Replace HTML-encoded ampersands with regular ampersands
     $mix_data_json = str_replace("\\", "", $mix_data_json); // Remove backslashes from the JSON string
-    file_put_contents($name, $mix_data_json); // Save the JSON data to a file with the specified name
+    file_put_contents("configs.json", $mix_data_json); // Save the JSON data to a file with the specified name
+}
+
+function process_mix_json_by_country($input)
+{
+    $mix_data_json = json_encode($input, JSON_PRETTY_PRINT); // Encode input array to JSON with pretty printing
+    $mix_data_decode = json_decode($mix_data_json); // Decode the JSON into an object or array
+    usort($mix_data_decode, "compare_time"); // Sort the decoded data using the "compare_time" function
+
+    $groupedData = [];
+    foreach ($mix_data_decode as $entry) {
+        $countryCode = $entry['country_code'];
+        if (!isset($groupedData[$countryCode])) {
+            $groupedData[$countryCode] = [];
+        }
+        $groupedData[$countryCode][] = $entry;
+    }
+
+    $mix_data_json = json_encode(
+        $groupedData,
+        JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE
+    ); // Re-encode the sorted data to JSON with pretty printing and Unicode characters not escaped
+    $mix_data_json = urldecode($mix_data_json);
+    $mix_data_json = str_replace("amp;", "", $mix_data_json); // Replace HTML-encoded ampersands with regular ampersands
+    $mix_data_json = str_replace("\\", "", $mix_data_json); // Remove backslashes from the JSON string
+    file_put_contents("configs_by_country.json", $mix_data_json); // Save the JSON data to a file with the specified name
 }
 
 function fast_fix($input){
@@ -240,4 +265,5 @@ $mix_data_deduplicate = array_merge(
     $json_hy2_array
 );
 
-process_mix_json($mix_data_deduplicate, "configs.json");
+process_mix_json($mix_data_deduplicate);
+process_mix_json_by_country($mix_data_deduplicate);
