@@ -254,7 +254,6 @@ function get_flag($location)
 {
     $flag = "";
     if (isset($location)) {
-        $location = $ip_info["country"];
         $flag = $location . getFlags($location);
     } else {
         $flag = "RELAY🚩";
