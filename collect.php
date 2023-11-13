@@ -16,47 +16,45 @@ function deleteFolder($folder) {
     rmdir($folder);
 }
 
-function deleteFile($file) {
-    if (file_exists($file)) {
-        unlink($file);
-    }
-}
-
 function process_mix_json($input)
 {
+    $dir = "configs";
+    if (!is_dir($dir)) {
+        mkdir($dir);
+    }
     $mix_data_json = json_encode($input, JSON_PRETTY_PRINT);
     $mix_data_decode = json_decode($mix_data_json);
     usort($mix_data_decode, "compare_time");
-    $groupedData = [];
+    $mix_data_grouped = [];
     foreach ($mix_data_decode as $entry) {
         $countryCode = $entry->country_code;
-        if (!isset($groupedData[$countryCode])) {
-            $groupedData[$countryCode] = [];
+        if (!isset($mix_data_grouped[$countryCode])) {
+            $mix_data_grouped[$countryCode] = [];
         }
-        $groupedData[$countryCode][] = $entry;
+        $mix_data_grouped[$countryCode][] = $entry;
     }
     $mix_data_json = json_encode(
-        $mix_data_decode,
+        $mix_data_grouped,
         JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE
     );
     $mix_data_json = urldecode($mix_data_json);
     $mix_data_json = str_replace("amp;", "", $mix_data_json);
     $mix_data_json = str_replace("\\", "", $mix_data_json);
-    file_put_contents("configs.json", $mix_data_json);
+    file_put_contents($dir . "/time.json", $mix_data_json);
     
-    foreach ($groupedData as &$countryGroup) {
+    foreach ($mix_data_grouped as &$countryGroup) {
         usort($countryGroup, function ($a, $b) {
             return $a->ping <=> $b->ping;
         });
     }
-    $grouped_mix_data_json = json_encode(
-        $groupedData,
+    $ping_mix_data_json = json_encode(
+        $mix_data_grouped,
         JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE
     );
-    $grouped_mix_data_json = urldecode($grouped_mix_data_json);
-    $grouped_mix_data_json = str_replace("amp;", "", $grouped_mix_data_json);
-    $grouped_mix_data_json = str_replace("\\", "", $grouped_mix_data_json);
-    file_put_contents("configs_by_country.json", $grouped_mix_data_json);
+    $ping_mix_data_json = urldecode($ping_mix_data_json);
+    $ping_mix_data_json = str_replace("amp;", "", $ping_mix_data_json);
+    $ping_mix_data_json = str_replace("\\", "", $ping_mix_data_json);
+    file_put_contents($dir . "/ping.json", $ping_mix_data_json);
 }
 
 function fast_fix($input){
@@ -70,9 +68,6 @@ function config_array($input){
     return $object["config"];
 }, $input);
 }
-
-$raw_url_base =
-    "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main"; // Define the base URL for fetching raw data
 
 $vmess_data = []; // Initialize an empty array for vmess data
 $trojan_data = []; // Initialize an empty array for trojan data
@@ -222,7 +217,7 @@ $fixed_string_tuic = remove_duplicate_tuic($string_tuic);
 $fixed_string_tuic_array = explode("\n", $fixed_string_tuic);
 $json_tuic_array = [];
 
-// Iterate over $tuic_data and $fixed_string_tuic_array to find matching configurations
+/*// Iterate over $tuic_data and $fixed_string_tuic_array to find matching configurations
 foreach ($tuic_data as $tuic_config_data) {
     foreach ($fixed_string_tuic_array as $key => $tuic_config) {
         $parsed_tuic_config = parseTuic($tuic_config);
@@ -233,7 +228,7 @@ foreach ($tuic_data as $tuic_config_data) {
             $json_tuic_array[$key] = $tuic_config_data;
         }
     }
-}
+}*/
 
 $string_hy2 = fast_fix(implode("\n", $hy2_array));
 $fixed_string_hy2 = remove_duplicate_hy2($string_hy2);
