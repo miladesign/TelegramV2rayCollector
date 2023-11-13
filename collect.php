@@ -128,7 +128,7 @@ $fixed_string_vmess = remove_duplicate_vmess(implode("\n", $vmess_array));
 $fixed_string_vmess_array = explode("\n", $fixed_string_vmess);
 $json_vmess_array = [];
 
-$added_configs = [];
+$added_configs_vmess = [];
 // Iterate over $vmess_data and $fixed_string_vmess_array to find matching configurations
 foreach ($vmess_data as $vmess_config_data) {
     foreach ($fixed_string_vmess_array as $vmess_config) {
@@ -136,10 +136,10 @@ foreach ($vmess_data as $vmess_config_data) {
         $decoded_vmess_data_config = decode_vmess($vmess_config_data["config"]);
 
         if ($decoded_vmess_config["ps"] === $decoded_vmess_data_config["ps"] &&
-            !in_array($decoded_vmess_data_config["ps"], $added_configs)) {
+            !in_array($decoded_vmess_data_config["ps"], $added_configs_vmess)) {
             // Add matching configuration to $json_vmess_array
             $json_vmess_array[] = $vmess_config_data;
-            $added_configs[] = $decoded_vmess_data_config["ps"]; // Mark as added
+            $added_configs_vmess[] = $decoded_vmess_data_config["ps"]; // Mark as added
         }
     }
 }
@@ -149,7 +149,7 @@ $fixed_string_vless = remove_duplicate_xray($string_vless, "vless");
 $fixed_string_vless_array = explode("\n", $fixed_string_vless);
 $json_vless_array = [];
 
-$added_configs = [];
+$added_configs_vless = [];
 // Iterate over $vless_data and $fixed_string_vless_array to find matching configurations
 foreach ($vless_data as $vless_config_data) {
     foreach ($fixed_string_vless_array as $vless_config) {
@@ -157,10 +157,10 @@ foreach ($vless_data as $vless_config_data) {
         $parsed_vless_data_config = parseProxyUrl($vless_config_data["config"], "vless");
 
         if ($parsed_vless_config["hash"] === $parsed_vless_data_config["hash"] &&
-            !in_array($parsed_vless_data_config["hash"], $added_configs)) {
+            !in_array($parsed_vless_data_config["hash"], $added_configs_vless)) {
             // Add matching configuration to $json_vless_array
             $json_vless_array[] = $vless_config_data;
-            $added_configs[] = $parsed_vless_data_config["hash"]; // Mark as added
+            $added_configs_vless[] = $parsed_vless_data_config["hash"]; // Mark as added
         }
     }
 }
@@ -170,7 +170,7 @@ $fixed_string_trojan = remove_duplicate_xray($string_trojan, "trojan");
 $fixed_string_trojan_array = explode("\n", $fixed_string_trojan);
 $json_trojan_array = [];
 
-$added_configs = [];
+$added_configs_trojan = [];
 // Iterate over $trojan_data and $fixed_string_trojan_array to find matching configurations
 foreach ($trojan_data as $trojan_config_data) {
     foreach ($fixed_string_trojan_array as $key => $trojan_config) {
@@ -178,10 +178,10 @@ foreach ($trojan_data as $trojan_config_data) {
         $parsed_trojan_data_config = parseProxyUrl($trojan_config_data["config"]);
 
         if ($parsed_trojan_config["hash"] === $parsed_trojan_data_config["hash"] &&
-            !in_array($parsed_trojan_data_config["hash"], $added_configs)) {
+            !in_array($parsed_trojan_data_config["hash"], $added_configs_trojan)) {
             // Add matching configuration to $json_trojan_array
             $json_trojan_array[$key] = $trojan_config_data;
-            $added_configs[] = $parsed_trojan_data_config["hash"]; // Mark as added
+            $added_configs_trojan[] = $parsed_trojan_data_config["hash"]; // Mark as added
         }
     }
 }
@@ -191,7 +191,7 @@ $fixed_string_shadowsocks = remove_duplicate_ss($string_shadowsocks);
 $fixed_string_shadowsocks_array = explode("\n", $fixed_string_shadowsocks);
 $json_shadowsocks_array = [];
 
-$added_configs = [];
+$added_configs_ss = [];
 // Iterate over $shadowsocks_data and $fixed_string_shadowsocks_array to find matching configurations
 foreach ($shadowsocks_data as $shadowsocks_config_data) {
     foreach ($fixed_string_shadowsocks_array as $shadowsocks_config) {
@@ -199,10 +199,10 @@ foreach ($shadowsocks_data as $shadowsocks_config_data) {
         $parsed_shadowsocks_data_config = ParseShadowsocks($shadowsocks_config_data["config"]);
 
         if ($parsed_shadowsocks_config["name"] === $parsed_shadowsocks_data_config["name"] &&
-            !in_array($parsed_shadowsocks_data_config["name"], $added_configs)) {
+            !in_array($parsed_shadowsocks_data_config["name"], $added_configs_ss)) {
             // Add matching configuration to $json_shadowsocks_array
             $json_shadowsocks_array[] = $shadowsocks_config_data;
-            $added_configs[] = $parsed_shadowsocks_data_config["name"]; // Mark as added
+            $added_configs_ss[] = $parsed_shadowsocks_data_config["name"]; // Mark as added
         }
     }
 }
@@ -212,7 +212,7 @@ $fixed_string_tuic = remove_duplicate_tuic($string_tuic);
 $fixed_string_tuic_array = explode("\n", $fixed_string_tuic);
 $json_tuic_array = [];
 
-$added_configs = [];
+$added_configs_tuic = [];
 // Iterate over $tuic_data and $fixed_string_tuic_array to find matching configurations
 foreach ($tuic_data as $tuic_config_data) {
     foreach ($fixed_string_tuic_array as $key => $tuic_config) {
@@ -220,10 +220,10 @@ foreach ($tuic_data as $tuic_config_data) {
         $parsed_tuic_data_config = parseTuic($tuic_config_data["config"]);
 
         if ($parsed_tuic_config["hash"] === $parsed_tuic_data_config["hash"] &&
-            !in_array($parsed_tuic_data_config["hash"], $added_configs)) {
+            !in_array($parsed_tuic_data_config["hash"], $added_configs_tuic)) {
             // Add matching configuration to $json_tuic_array
             $json_tuic_array[$key] = $tuic_config_data;
-            $added_configs[] = $parsed_tuic_data_config["hash"]; // Mark as added
+            $added_configs_tuic[] = $parsed_tuic_data_config["hash"]; // Mark as added
         }
     }
 }
@@ -233,7 +233,7 @@ $fixed_string_hy2 = remove_duplicate_hy2($string_hy2);
 $fixed_string_hy2_array = explode("\n", $fixed_string_hy2);
 $json_hy2_array = [];
 
-$added_configs = [];
+$added_configs_hy2 = [];
 // Iterate over $hy2_data and $fixed_string_hy2_array to find matching configurations
 foreach ($hy2_data as $hy2_config_data) {
     foreach ($fixed_string_hy2_array as $key => $hy2_config) {
@@ -241,10 +241,10 @@ foreach ($hy2_data as $hy2_config_data) {
         $parsed_hy2_data_config = parsehy2($hy2_config_data["config"]);
 
         if ($parsed_hy2_config["hash"] === $parsed_hy2_data_config["hash"] &&
-            !in_array($parsed_hy2_data_config["hash"], $added_configs)) {
+            !in_array($parsed_hy2_data_config["hash"], $added_configs_hy2)) {
             // Add matching configuration to $json_hy2_array
             $json_hy2_array[$key] = $hy2_config_data;
-            $added_configs[] = $parsed_hy2_data_config["hash"]; // Mark as added
+            $added_configs_hy2[] = $parsed_hy2_data_config["hash"]; // Mark as added
         }
     }
 }
