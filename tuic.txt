@@ -1,0 +1,86 @@
+[
+    {
+        "channel": {
+            "username": "irancpi_vpn",
+            "title": "CPI VPN",
+            "logo": "https:\/\/raw.githubusercontent.com\/miladesign\/TelegramV2rayCollector\/main\/modules\/channels\/irancpi_vpn.jpg"
+        },
+        "type": "tuic",
+        "config": "tuic:\/\/38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@hys3.foriran.trade:443?congestion_control=bbr&amp%3Budp_relay_mode=native&amp%3Bsni=www.apple.com&amp%3Balpn=h3&amp%3Ballow_insecure=1#MD VPN NL",
+        "ping": "unavailable",
+        "ip": "209.250.254.198",
+        "country_code": "NL",
+        "country_name": "Netherlands",
+        "time": "2023-11-12 11:33:14"
+    },
+    {
+        "channel": {
+            "username": "azadi_az_inja_migzare",
+            "title": "\u0622\u0632\u0627\u062f\u06cc \u0627\u0632 \u0627\u06cc\u0646\u062c\u0627 \u0645\u06cc\u06af\u0630\u0631\u0647",
+            "logo": "https:\/\/raw.githubusercontent.com\/miladesign\/TelegramV2rayCollector\/main\/modules\/channels\/azadi_az_inja_migzare.jpg"
+        },
+        "type": "tuic",
+        "config": "tuic:\/\/f69457a8-058c-4ec4-9e2c-4fd258f4710d:gghhfdtuihferhjf577hjhfe578gjj@65.109.208.100:7553?congestion_control=bbr&amp%3Budp_relay_mode=native&amp%3Balpn=h3%2Cspdy%2F3.1&amp%3Ballow_insecure=1#MD VPN FI",
+        "ping": "unavailable",
+        "ip": "65.109.208.100",
+        "country_code": "FI",
+        "country_name": "Finland",
+        "time": "2023-11-11 21:48:28"
+    },
+    {
+        "channel": {
+            "username": "EUT_VPN",
+            "title": "EUT \u221aPN",
+            "logo": "https:\/\/raw.githubusercontent.com\/miladesign\/TelegramV2rayCollector\/main\/modules\/channels\/EUT_VPN.jpg"
+        },
+        "type": "tuic",
+        "config": "tuic:\/\/a6ccf4f3-2b05-48ff-b440-2e3dce3e216a:iLHa7ogC0RjF@108.181.22.239:26789?congestion_control=cubic&amp%3Budp_relay_mode=native&amp%3Bsni=www.bing.com&amp%3Balpn=h3&amp%3Ballow_insecure=1#MD VPN US",
+        "ping": "unavailable",
+        "ip": "108.181.22.239",
+        "country_code": "US",
+        "country_name": "United States",
+        "time": "2023-11-13 12:48:25"
+    },
+    {
+        "channel": {
+            "username": "EUT_VPN",
+            "title": "EUT \u221aPN",
+            "logo": "https:\/\/raw.githubusercontent.com\/miladesign\/TelegramV2rayCollector\/main\/modules\/channels\/EUT_VPN.jpg"
+        },
+        "type": "tuic",
+        "config": "tuic:\/\/a6ccf4f3-2b05-48ff-b440-2e3dce3e216a:iLHa7ogC0RjF@108.181.22.239:26789?congestion_control=cubic&amp%3Budp_relay_mode=native&amp%3Bsni=www.bing.com&amp%3Balpn=h3&amp%3Ballow_insecure=1#MD VPN US",
+        "ping": "unavailable",
+        "ip": "108.181.22.239",
+        "country_code": "US",
+        "country_name": "United States",
+        "time": "2023-11-13 12:48:25"
+    },
+    {
+        "channel": {
+            "username": "EUT_VPN",
+            "title": "EUT \u221aPN",
+            "logo": "https:\/\/raw.githubusercontent.com\/miladesign\/TelegramV2rayCollector\/main\/modules\/channels\/EUT_VPN.jpg"
+        },
+        "type": "tuic",
+        "config": "tuic:\/\/a6ccf4f3-2b05-48ff-b440-2e3dce3e216a:iLHa7ogC0RjF@108.181.22.239:26789?congestion_control=cubic&amp%3Budp_relay_mode=native&amp%3Bsni=www.bing.com&amp%3Balpn=h3&amp%3Ballow_insecure=1#MD VPN US",
+        "ping": "unavailable",
+        "ip": "108.181.22.239",
+        "country_code": "US",
+        "country_name": "United States",
+        "time": "2023-11-13 12:48:25"
+    },
+    {
+        "channel": {
+            "username": "EUT_VPN",
+            "title": "EUT \u221aPN",
+            "logo": "https:\/\/raw.githubusercontent.com\/miladesign\/TelegramV2rayCollector\/main\/modules\/channels\/EUT_VPN.jpg"
+        },
+        "type": "tuic",
+        "config": "tuic:\/\/2ade2c69-8597-4397-a36e-585c9672ac88:b23f2c33cd3ea09b@136.244.112.121:2073?congestion_control=bbr&amp%3Budp_relay_mode=native&amp%3Bsni=www.apple.com&amp%3Balpn=h3&amp%3Ballow_insecure=1#MD VPN FR",
+        "ping": "unavailable",
+        "ip": "136.244.112.121",
+        "country_code": "FR",
+        "country_name": "France",
+        "time": "2023-11-13 12:48:25"
+    }
+]
