@@ -258,4 +258,4 @@ $mix_data_deduplicate = array_merge(
     $json_hy2_array
 );
 
-//process_mix_json($mix_data_deduplicate, "configs.json");
+process_mix_json($mix_data_deduplicate, "configs.json");
