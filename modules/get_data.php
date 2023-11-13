@@ -401,7 +401,5 @@ function detect_type($input)
         return "tuic";
     } elseif (substr($input, 0, 6) === "hy2://") {
         return "hy2";
-    } 
-    
-
+    }
 }

@@ -142,6 +142,7 @@ foreach ($vmess_data as $vmess_config_data) {
 }
 
 $string_vless = fast_fix(implode("\n", $vless_array));
+file_put_contents("vless.txt", $string_vless);
 $fixed_string_vless = remove_duplicate_xray($string_vless, "vless");
 $fixed_string_vless_array = explode("\n", $fixed_string_vless);
 $json_vless_array = [];
