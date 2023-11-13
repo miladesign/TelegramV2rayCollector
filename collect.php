@@ -44,6 +44,11 @@ function process_mix_json($input)
     $mix_data_json = str_replace("\\", "", $mix_data_json);
     file_put_contents("configs.json", $mix_data_json);
     
+    foreach ($groupedData as &$countryGroup) {
+        usort($countryGroup, function ($a, $b) {
+            return $a->ping <=> $b->ping;
+        });
+    }
     $grouped_mix_data_json = json_encode(
         $groupedData,
         JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE
