@@ -125,7 +125,6 @@ $tuic_array = config_array($tuic_data);
 $hy2_array = config_array($hy2_data);
 
 $fixed_string_vmess = remove_duplicate_vmess(implode("\n", $vmess_array));
-file_put_contents("vmess.txt", $fixed_string_vmess);
 $fixed_string_vmess_array = explode("\n", $fixed_string_vmess);
 $json_vmess_array = [];
 
@@ -141,10 +140,10 @@ foreach ($vmess_data as $vmess_config_data) {
         }
     }
 }
+file_put_contents("vmess.txt", json_encode($json_vmess_array, JSON_PRETTY_PRINT));
 
 $string_vless = fast_fix(implode("\n", $vless_array));
 $fixed_string_vless = remove_duplicate_xray($string_vless, "vless");
-file_put_contents("vless.txt", $fixed_string_vless);
 $fixed_string_vless_array = explode("\n", $fixed_string_vless);
 $json_vless_array = [];
 
@@ -160,10 +159,10 @@ foreach ($vless_data as $vless_config_data) {
         }
     }
 }
+file_put_contents("vless.txt", json_encode($json_vless_array, JSON_PRETTY_PRINT));
 
 $string_trojan = fast_fix(implode("\n", $trojan_array));
 $fixed_string_trojan = remove_duplicate_xray($string_trojan, "trojan");
-file_put_contents("trojan.txt", $fixed_string_trojan);
 $fixed_string_trojan_array = explode("\n", $fixed_string_trojan);
 $json_trojan_array = [];
 
@@ -179,10 +178,10 @@ foreach ($trojan_data as $trojan_config_data) {
         }
     }
 }
+file_put_contents("trojan.txt", json_encode($json_trojan_array, JSON_PRETTY_PRINT));
 
 $string_shadowsocks = fast_fix(implode("\n", $shadowsocks_array));
 $fixed_string_shadowsocks = remove_duplicate_ss($string_shadowsocks);
-file_put_contents("ss.txt", $fixed_string_shadowsocks);
 $fixed_string_shadowsocks_array = explode("\n", $fixed_string_shadowsocks);
 $json_shadowsocks_array = [];
 
@@ -198,10 +197,10 @@ foreach ($shadowsocks_data as $shadowsocks_config_data) {
         }
     }
 }
+file_put_contents("ss.txt", json_encode($json_shadowsocks_array, JSON_PRETTY_PRINT));
 
 $string_tuic = fast_fix(implode("\n", $tuic_array));
 $fixed_string_tuic = remove_duplicate_tuic($string_tuic);
-file_put_contents("tuic.txt", $fixed_string_tuic);
 $fixed_string_tuic_array = explode("\n", $fixed_string_tuic);
 $json_tuic_array = [];
 
@@ -217,10 +216,10 @@ foreach ($tuic_data as $tuic_config_data) {
         }
     }
 }
+file_put_contents("tuic.txt", json_encode($json_tuic_array, JSON_PRETTY_PRINT));
 
 $string_hy2 = fast_fix(implode("\n", $hy2_array));
 $fixed_string_hy2 = remove_duplicate_hy2($string_hy2);
-file_put_contents("hy2.txt", $fixed_string_hy2);
 $fixed_string_hy2_array = explode("\n", $fixed_string_hy2);
 $json_hy2_array = [];
 
@@ -236,6 +235,7 @@ foreach ($hy2_data as $hy2_config_data) {
         }
     }
 }
+file_put_contents("hy2.txt", json_encode($json_hy2_array, JSON_PRETTY_PRINT));
 
 $mix_data_deduplicate = array_merge(
     $json_vmess_array,
