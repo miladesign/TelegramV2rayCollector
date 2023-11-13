@@ -140,7 +140,6 @@ foreach ($vmess_data as $vmess_config_data) {
         }
     }
 }
-file_put_contents("vmess.txt", json_encode($fixed_string_vmess_array, JSON_PRETTY_PRINT));
 
 $string_vless = fast_fix(implode("\n", $vless_array));
 $fixed_string_vless = remove_duplicate_xray($string_vless, "vless");
@@ -159,7 +158,6 @@ foreach ($vless_data as $vless_config_data) {
         }
     }
 }
-file_put_contents("vless.txt", json_encode($fixed_string_vless_array, JSON_PRETTY_PRINT));
 
 $string_trojan = fast_fix(implode("\n", $trojan_array));
 $fixed_string_trojan = remove_duplicate_xray($string_trojan, "trojan");
@@ -178,7 +176,6 @@ foreach ($trojan_data as $trojan_config_data) {
         }
     }
 }
-file_put_contents("trojan.txt", json_encode($fixed_string_trojan_array, JSON_PRETTY_PRINT));
 
 $string_shadowsocks = fast_fix(implode("\n", $shadowsocks_array));
 $fixed_string_shadowsocks = remove_duplicate_ss($string_shadowsocks);
@@ -197,7 +194,6 @@ foreach ($shadowsocks_data as $shadowsocks_config_data) {
         }
     }
 }
-file_put_contents("ss.txt", json_encode($fixed_string_shadowsocks_array, JSON_PRETTY_PRINT));
 
 $string_tuic = fast_fix(implode("\n", $tuic_array));
 $fixed_string_tuic = remove_duplicate_tuic($string_tuic);
@@ -216,7 +212,6 @@ foreach ($tuic_data as $tuic_config_data) {
         }
     }
 }
-file_put_contents("tuic.txt", json_encode($fixed_string_tuic_array, JSON_PRETTY_PRINT));
 
 $string_hy2 = fast_fix(implode("\n", $hy2_array));
 $fixed_string_hy2 = remove_duplicate_hy2($string_hy2);
@@ -235,15 +230,14 @@ foreach ($hy2_data as $hy2_config_data) {
         }
     }
 }
-file_put_contents("hy2.txt", json_encode($fixed_string_hy2_array, JSON_PRETTY_PRINT));
 
 $mix_data_deduplicate = array_merge(
-    $json_vmess_array,
-    $json_vless_array,
-    $json_trojan_array,
-    $json_shadowsocks_array,
-    $json_tuic_array,
-    $json_hy2_array
+    $fixed_string_vmess_array,
+    $fixed_string_vless_array,
+    $fixed_string_trojan_array,
+    $fixed_string_shadowsocks_array,
+    $fixed_string_tuic_array,
+    $fixed_string_hy2_array
 );
 
-//process_mix_json($mix_data_deduplicate, "configs.json");
+process_mix_json($mix_data_deduplicate, "configs.json");
