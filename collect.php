@@ -29,7 +29,7 @@ function process_mix_json($input)
     usort($mix_data_decode, "compare_time");
     $groupedData = [];
     foreach ($mix_data_decode as $entry) {
-        $countryCode = $entry['country_code'];
+        $countryCode = $entry->country_code;
         if (!isset($groupedData[$countryCode])) {
             $groupedData[$countryCode] = [];
         }
