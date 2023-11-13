@@ -104,6 +104,7 @@ $Types = [
     "IRN_VPN" => ["vless"],
     "flyv2ray" => ["vless"],
     "forwardv2ray" => ["vmess", "vless", "trojan", "ss"],
+    "nufilter" => ["vless"],
 ];
 
 $donated_subscription = [
