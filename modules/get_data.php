@@ -413,7 +413,7 @@ function get_config($channel, $type)
                             $final_data[$key]["config"] = $final_config;
                             $final_data[$key]["ping"] = $ping_data;
                             $final_data[$key]["ip"] = $info->ip;
-                            $final_data[$key]["flag"] = "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/flags/" . $country_code . ".png";
+                            $final_data[$key]["flag"] = "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/modules/flags/" . $country_code . ".svg";
                             $final_data[$key]["country_code"] = $country_code;
                             $final_data[$key]["country_name"] = $country_name;
                             $final_data[$key]["time"] = convert_to_iran_time(
