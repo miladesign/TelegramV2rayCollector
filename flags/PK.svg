@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <linearGradient id="VMoyZGf0FPaQidRI8km1nb" x1="17.398" x2="36.524" y1="9.324" y2="44.455" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#dfe9f2"/><stop offset=".998" stop-color="#9ea7b0"/></linearGradient><path fill="url(#VMoyZGf0FPaQidRI8km1nb)" d="M4,24c0,6.873,3.469,12.933,8.75,16.534V7.466C7.469,11.067,4,17.127,4,24z" />
+  <path fill="#1b5e20" d="M44,24c0-11.046-8.954-20-20-20c-4.173,0-8.044,1.281-11.25,3.466v33.067 C15.956,42.719,19.827,44,24,44C35.046,44,44,35.046,44,24z" />
+  <g>
+    <path fill="#eceff1" d="M38,24c0,4.969-4.031,9-9,9s-9-4.031-9-9s4.031-9,9-9S38,19.031,38,24z" />
+    <path fill="#1b5e20" d="M37.852,15.852c-3.117-3.508-8.488-3.824-12-0.707c-3.508,3.121-3.824,8.492-0.703,12 c3.117,3.512,8.492,3.824,12,0.707S40.973,19.359,37.852,15.852z" />
+    <path fill="#eceff1" d="M32,17l3.531,4.852L29.82,20l5.707-1.855L32.004,23L32,17z" />
+  </g>
+</svg>
