@@ -38,15 +38,26 @@ function process_mix_json($input)
             ];
         }
 
-        $name = $countryName . ' ' . (count($mix_data_grouped[$countryCode]['configs']) + 1);
         $mix_data_grouped[$countryCode]['configs'][] = [
-            'name' => $name,
             'type' => $entry['type'],
             'config' => $entry['config'],
             'ping' => $entry['ping'],
             'ip' => $entry['ip'],
             'time' => $entry['time'],
         ];
+    }
+
+    // Sort configurations by time within each country group
+    foreach ($mix_data_grouped as &$group) {
+        usort($group['configs'], function ($a, $b) {
+            return strtotime($a['time']) - strtotime($b['time']);
+        });
+
+        // Set names based on the sorted order
+        foreach ($group['configs'] as $index => &$config) {
+            $name = $group['country_name'] . ' ' . ($index + 1);
+            $config['name'] = $name;
+        }
     }
 
     // Convert the associative array to a simple array of grouped configs
@@ -63,6 +74,7 @@ function process_mix_json($input)
 
     file_put_contents($dir . "/configs.json", $mix_data_json);
 }
+
 
 
 function fast_fix($input){
