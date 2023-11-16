@@ -47,10 +47,10 @@ function process_mix_json($input)
         ];
     }
 
-    // Sort configurations by time within each country group
+    // Sort configurations by time within each country group (new to old)
     foreach ($mix_data_grouped as &$group) {
         usort($group['configs'], function ($a, $b) {
-            return strtotime($a['time']) - strtotime($b['time']);
+            return strtotime($b['time']) - strtotime($a['time']);
         });
 
         // Set names based on the sorted order
@@ -74,7 +74,6 @@ function process_mix_json($input)
 
     file_put_contents($dir . "/configs.json", $mix_data_json);
 }
-
 
 
 function fast_fix($input){
