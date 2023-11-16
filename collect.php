@@ -27,6 +27,7 @@ function process_mix_json($input)
 
     foreach ($input as $entry) {
         $countryCode = $entry['country_code'];
+        $countryName = $entry['country_name'];
 
         if (!isset($mix_data_grouped[$countryCode])) {
             $mix_data_grouped[$countryCode] = [
@@ -37,8 +38,9 @@ function process_mix_json($input)
             ];
         }
 
+        $name = $countryName . ' ' . (count($mix_data_grouped[$countryCode]['configs']) + 1);
         $mix_data_grouped[$countryCode]['configs'][] = [
-            'name' => $entry['name'],  // Use an appropriate field for the configuration name
+            'name' => $name,
             'type' => $entry['type'],
             'config' => $entry['config'],
             'ping' => $entry['ping'],
