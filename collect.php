@@ -18,44 +18,50 @@ function deleteFolder($folder) {
 
 function process_mix_json($input)
 {
-    $dir = "configs";
+    $dir = "api";
     if (!is_dir($dir)) {
         mkdir($dir);
     }
-    $mix_data_json = json_encode($input, JSON_PRETTY_PRINT);
-    $mix_data_decode = json_decode($mix_data_json);
-    usort($mix_data_decode, "compare_time");
+
     $mix_data_grouped = [];
-    foreach ($mix_data_decode as $entry) {
-        $countryCode = $entry->country_code;
+
+    foreach ($input as $entry) {
+        $countryCode = $entry['country_code'];
+
         if (!isset($mix_data_grouped[$countryCode])) {
-            $mix_data_grouped[$countryCode] = [];
+            $mix_data_grouped[$countryCode] = [
+                'country_code' => $entry['country_code'],
+                'country_name' => $entry['country_name'],
+                'flag' => $entry['flag'],
+                'configs' => [],
+            ];
         }
-        $mix_data_grouped[$countryCode][] = $entry;
+
+        $mix_data_grouped[$countryCode]['configs'][] = [
+            'name' => $entry['name'],  // Use an appropriate field for the configuration name
+            'type' => $entry['type'],
+            'config' => $entry['config'],
+            'ping' => $entry['ping'],
+            'ip' => $entry['ip'],
+            'time' => $entry['time'],
+        ];
     }
+
+    // Convert the associative array to a simple array of grouped configs
+    $mix_data_grouped = array_values($mix_data_grouped);
+
     $mix_data_json = json_encode(
         $mix_data_grouped,
         JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE
     );
+    
     $mix_data_json = urldecode($mix_data_json);
     $mix_data_json = str_replace("amp;", "", $mix_data_json);
     $mix_data_json = str_replace("\\", "", $mix_data_json);
-    file_put_contents($dir . "/time.json", $mix_data_json);
-    
-    foreach ($mix_data_grouped as &$countryGroup) {
-        usort($countryGroup, function ($a, $b) {
-            return $a->ping <=> $b->ping;
-        });
-    }
-    $ping_mix_data_json = json_encode(
-        $mix_data_grouped,
-        JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE
-    );
-    $ping_mix_data_json = urldecode($ping_mix_data_json);
-    $ping_mix_data_json = str_replace("amp;", "", $ping_mix_data_json);
-    $ping_mix_data_json = str_replace("\\", "", $ping_mix_data_json);
-    file_put_contents($dir . "/ping.json", $ping_mix_data_json);
+
+    file_put_contents($dir . "/configs.json", $mix_data_json);
 }
+
 
 function fast_fix($input){
     $input = urldecode($input);
