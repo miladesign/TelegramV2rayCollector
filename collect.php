@@ -3,7 +3,6 @@ header("Content-type: application/json;"); // Set response content type as JSON
 
 include "modules/get_data.php"; // Include the get_data module
 include "modules/config.php"; // Include the config module
-include "modules/ranking.php"; // Include the ranking module
 
 function deleteFolder($folder) {
     if (!is_dir($folder)) {
@@ -41,7 +40,6 @@ function process_mix_json($input)
         $mix_data_grouped[$countryCode]['configs'][] = [
             'type' => $entry['type'],
             'config' => $entry['config'],
-            'ping' => $entry['ping'],
             'ip' => $entry['ip'],
             'time' => $entry['time'],
         ];

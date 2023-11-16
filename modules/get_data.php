@@ -6,7 +6,6 @@ include "vmess.php";
 include "xray.php";
 include "tuic.php";
 include "hysteria2.php";
-include "ping.php";
 
 function numberToEmoji($number)
 {
@@ -384,38 +383,34 @@ function get_config($channel, $type)
                         $ip = get_ip($the_config, $type, $is_reality);
                         $port = get_port($the_config, $type);
 
-                        @$ping_data = ping($ip, $port);
-                        if ($ping_data !== "unavailable" || $type === "tuic") {
-                            $info = ip_info($ip);
-                            $country_code = $info->country_code;
-                            $country_name = $info->country_name;
-                            $flag = get_flag($country_code);
+                        $info = ip_info($ip);
+                        $country_code = $info->country_code;
+                        $country_name = $info->country_name;
+                        $flag = get_flag($country_code);
 
-                            $name_key = $name_array[$type];
-                            $the_config[$name_key] = generate_name(
-                                $channel,
-                                $flag,
-                                $is_reality,
-                                $config_number,
-                                strtoupper($type)
-                            );
+                        $name_key = $name_array[$type];
+                        $the_config[$name_key] = generate_name(
+                            $channel,
+                            $flag,
+                            $is_reality,
+                            $config_number,
+                            strtoupper($type)
+                        );
 
-                            $final_config = build_config($the_config, $type);
-                            
-                            $final_data[$key]["type"] = $is_reality
-                                ? "reality"
-                                : $type;
-                            $final_data[$key]["config"] = $final_config;
-                            $final_data[$key]["ping"] = $ping_data;
-                            $final_data[$key]["ip"] = $info->ip;
-                            $final_data[$key]["flag"] = "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/flags/" . $country_code . ".svg";
-                            $final_data[$key]["country_code"] = $country_code;
-                            $final_data[$key]["country_name"] = $country_name;
-                            $final_data[$key]["time"] = convert_to_iran_time(
-                                $matches[1][$key]
-                            );
-                            $config_number++;
-                        }
+                        $final_config = build_config($the_config, $type);
+                        
+                        $final_data[$key]["type"] = $is_reality
+                            ? "reality"
+                            : $type;
+                        $final_data[$key]["config"] = $final_config;
+                        $final_data[$key]["ip"] = $info->ip;
+                        $final_data[$key]["flag"] = "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/flags/" . $country_code . ".svg";
+                        $final_data[$key]["country_code"] = $country_code;
+                        $final_data[$key]["country_name"] = $country_name;
+                        $final_data[$key]["time"] = convert_to_iran_time(
+                            $matches[1][$key]
+                        );
+                        $config_number++;
                     }
                 }
             }
