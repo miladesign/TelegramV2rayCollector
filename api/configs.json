@@ -22,204 +22,190 @@
                 "type": "reality",
                 "config": "vless://beb7eade-bca7-4d97-9ac4-f13c6e32d178@cdn15.kiava.fun:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn.kiava.fun&fp=chrome&security=reality&pbk=NTGHbmmclNAtKlPGyOXXKpl_xqn0l1EYL-LdyORITRI&sid=99#FREE | REALITY | @Capital_NET | US🇺🇸 | 0️⃣2️⃣",
                 "ip": null,
-                "time": "2023-11-19 18:42:40",
+                "time": "2023-11-19 19:44:24",
                 "name": "United States 1"
             },
             {
                 "type": "vmess",
                 "config": "vmess://eyJhZGQiOiIxOTIuNTMuMTEyLjM1IiwidiI6MiwicHMiOiJGUkVFIHwgVk1FU1MgfCBAeWFuZXlfMDEgfCBVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IDBcdWZlMGZcdTIwZTMyXHVmZTBmXHUyMGUzIiwicG9ydCI6IjQ0MyIsImlkIjoiNGM5OTRlNGEtNmMyZi00YWFhLTk5MDctNjNmNjUyZmZiYTYwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoidXMwMndlYi56b29tLnVzIiwidGxzIjoidGxzIiwicGF0aCI6Ilwvd29ycnlmcmVlIn0=",
                 "ip": "170.114.52.3",
-                "time": "2023-11-19 18:42:21",
+                "time": "2023-11-19 19:44:08",
                 "name": "United States 2"
             },
             {
                 "type": "vless",
                 "config": "vless://515723cd-00d1-4e77-b236-16a5a9fd67b7@173.245.58.41:8443?security=tls&encryption=none&type=grpc&sni=ch.donaldvpn.sbs&fp=chrome&alpn=h2,http/1.1#FREE | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣3️⃣",
                 "ip": "173.245.58.41",
-                "time": "2023-11-19 18:42:07",
+                "time": "2023-11-19 19:43:57",
                 "name": "United States 3"
             },
             {
                 "type": "vless",
                 "config": "vless://b12e342d-bfcd-4cbf-8a5d-a4fa41fd6db2@173.245.58.41:8443?security=tls&encryption=none&type=grpc&sni=ch.donaldvpn.sbs&fp=chrome&alpn=h2,http/1.1#FREE | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣1️⃣",
                 "ip": "173.245.58.41",
-                "time": "2023-11-19 18:42:07",
+                "time": "2023-11-19 19:43:56",
                 "name": "United States 4"
             },
             {
                 "type": "vmess",
                 "config": "vmess://eyJhZGQiOiI2Ni4xODEuMzMuMTA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImYyZThjOGMxLTdkN2QtNDkxYS1jNzkxLTY3YmNlNzE3NThhZSIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjIyNTU1IiwicHMiOiJGUkVFIHwgVk1FU1MgfCBARGFpbHlWMlJZIHwgVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggfCAwXHVmZTBmXHUyMGUzMlx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
                 "ip": "66.181.33.108",
-                "time": "2023-11-19 18:42:02",
+                "time": "2023-11-19 19:43:51",
                 "name": "United States 5"
             },
             {
                 "type": "vmess",
                 "config": "vmess://eyJhZGQiOiI2Ni4xODEuMzMuMTA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjlmMDk2YzcwLTQ3OGEtNGZlZi1iMjlmLTBmMTRkNmEwNjU4MyIsIm5ldCI6IndzIiwicGF0aCI6IlwvYT9lZD0yMDQ4IiwicG9ydCI6IjIyNjY2IiwicHMiOiJGUkVFIHwgVk1FU1MgfCBARGFpbHlWMlJZIHwgVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggfCAwXHVmZTBmXHUyMGUzM1x1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
                 "ip": "66.181.33.108",
-                "time": "2023-11-19 18:42:02",
+                "time": "2023-11-19 19:43:51",
                 "name": "United States 6"
+            },
+            {
+                "type": "vless",
+                "config": "vless://3fac0e66-13a0-443f-fd7a-8c0b027e4632@All-MsV2ray.ddns.net:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray&sni=de.MsV2ray.cfd#FREE | VLESS | @MsV2ray | US🇺🇸 | 0️⃣3️⃣",
+                "ip": "172.64.163.38",
+                "time": "2023-11-19 19:43:28",
+                "name": "United States 7"
             },
             {
                 "type": "vless",
                 "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@[::ffff:6816:4442]:2053?path=/@V2VIPCHANNEL/?ed=2048&security=tls&encryption=none&host=xxx.donated004.workers.dev&type=ws&sni=xxx.donated004.workers.dev#FREE | VLESS | @Qv2rayDONATED | US🇺🇸 | 0️⃣2️⃣",
                 "ip": null,
-                "time": "2023-11-19 18:41:26",
-                "name": "United States 7"
+                "time": "2023-11-19 19:43:06",
+                "name": "United States 8"
             },
             {
                 "type": "vless",
                 "config": "vless://b47681a5-fea9-4137-9bbf-09e85ab54016@free.teach-methods.click:8443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#FREE | VLESS | @FalconPolV2rayNG | US🇺🇸 | 0️⃣2️⃣",
                 "ip": null,
-                "time": "2023-11-19 18:41:16",
-                "name": "United States 8"
-            },
-            {
-                "type": "vless",
-                "config": "vless://81dfbfa1-1473-482e-8dd2-fe16c1edf478@bia-to-channel.vmessorg.fun:80?type=ws&security=none&path=/#FREE | VLESS | @vmessorg | US🇺🇸 | 0️⃣2️⃣",
-                "ip": null,
-                "time": "2023-11-19 18:41:11",
+                "time": "2023-11-19 19:42:55",
                 "name": "United States 9"
             },
             {
                 "type": "vless",
                 "config": "vless://81dfbfa1-1473-482e-8dd2-fe16c1edf478@joinbedevmessorg.mokhin.me:80?type=ws&security=none&path=/&host=bia-to-channel.vmessorg.#FREE | VLESS | @vmessorg | US🇺🇸 | 0️⃣3️⃣",
                 "ip": null,
-                "time": "2023-11-19 18:41:11",
+                "time": "2023-11-19 19:42:51",
                 "name": "United States 10"
+            },
+            {
+                "type": "vless",
+                "config": "vless://81dfbfa1-1473-482e-8dd2-fe16c1edf478@bia-to-channel.vmessorg.fun:80?type=ws&security=none&path=/#FREE | VLESS | @vmessorg | US🇺🇸 | 0️⃣2️⃣",
+                "ip": null,
+                "time": "2023-11-19 19:42:51",
+                "name": "United States 11"
             },
             {
                 "type": "reality",
                 "config": "vless://770ff48c-3c7b-4019-b5e0-a45cb9d92b30@join-bede1.vmessorg.fun:2053?type=grpc&security=reality&mode=gun&serviceName=@vmessorg&fp=chrome&sni=cdn.discordapp.com&pbk=CabAOOr6qW7yp1rAFAeTZrZ_QFh5rqxYaiW9rYidkEg&sid=1346e687&spx=/#FREE | REALITY | @vmessorg | US🇺🇸 | 0️⃣1️⃣",
                 "ip": null,
-                "time": "2023-11-19 18:41:01",
-                "name": "United States 11"
-            },
-            {
-                "type": "vmess",
-                "config": "vmess://eyJhZGQiOiJhdWxlLm1hbndlLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6InJhbmRvbWl6ZWQiLCJob3N0Ijoic2F1cm9uLm1lbGtvcmUuaXIiLCJpZCI6IjM5MGE2NmJhLTAyNTktNGY2Yi1iZDVhLWRiZWFkYjg3ZTRmYyIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkZSRUUgfCBWTUVTUyB8IEBvbmVjbGlja3ZwbmtleXMgfCBVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6InNhdXJvbi5tZWxrb3JlLmlyIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=",
-                "ip": null,
-                "time": "2023-11-19 18:40:41",
+                "time": "2023-11-19 19:42:41",
                 "name": "United States 12"
             },
             {
                 "type": "vmess",
                 "config": "vmess://eyJhZGQiOiI1Ljc1LjE5Mi4yIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnaGJpLmlyIiwiaWQiOiJkNTZmZDcxYi1mODE5LTQzZmQtYTYxZC0zNTkzZDc0MmQ2ODIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL0JJQS1UZWxlZ3JhbS1WMnJheV9BbHBoYSIsInBvcnQiOiIzNzEzOCIsInBzIjoiRlJFRSB8IFZNRVNTIHwgQG9uZWNsaWNrdnBua2V5cyB8IFVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgMFx1ZmUwZlx1MjBlMzNcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=",
                 "ip": null,
-                "time": "2023-11-19 18:40:41",
+                "time": "2023-11-19 19:42:21",
                 "name": "United States 13"
+            },
+            {
+                "type": "vmess",
+                "config": "vmess://eyJhZGQiOiJhdWxlLm1hbndlLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6InJhbmRvbWl6ZWQiLCJob3N0Ijoic2F1cm9uLm1lbGtvcmUuaXIiLCJpZCI6IjM5MGE2NmJhLTAyNTktNGY2Yi1iZDVhLWRiZWFkYjg3ZTRmYyIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkZSRUUgfCBWTUVTUyB8IEBvbmVjbGlja3ZwbmtleXMgfCBVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6InNhdXJvbi5tZWxrb3JlLmlyIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=",
+                "ip": null,
+                "time": "2023-11-19 19:42:21",
+                "name": "United States 14"
             },
             {
                 "type": "vmess",
                 "config": "vmess://eyJ2IjoiMiIsInBzIjoiRlJFRSB8IFZNRVNTIHwgQG1mdGl6aSB8IFVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgMFx1ZmUwZlx1MjBlMzNcdWZlMGZcdTIwZTMiLCJhZGQiOiI1Ljc4LjcwLjkiLCJwb3J0IjoiMzM4OSIsImlkIjoiOWMwNTBhODYtZDYxMi00OGYxLWVjMzItZTU3M2RmMDhhMWI3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiIiLCJwYXRoIjoiXC8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=",
                 "ip": "5.78.70.9",
-                "time": "2023-11-19 18:40:37",
-                "name": "United States 14"
-            },
-            {
-                "type": "vmess",
-                "config": "vmess://eyJhZGQiOiJ1czNlLXRkbHhicHJqY2h6bC52MmZyZWV2cG4uY29tIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjJhOGExMGZiLTljYTMtMzY3ZS1hMjM0LWNmMDlmODQxYmU0ZiIsIm5ldCI6IndzIiwicGF0aCI6IlwvdjExOC1mY2N4bXhtMzUiLCJwb3J0IjoiODAiLCJwcyI6IkZSRUUgfCBWTUVTUyB8IEB2MnJheV9vdXRsaW5laXIgfCBVU1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IDBcdWZlMGZcdTIwZTMzXHVmZTBmXHUyMGUzIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=",
-                "ip": null,
-                "time": "2023-11-19 18:40:36",
+                "time": "2023-11-19 19:42:16",
                 "name": "United States 15"
-            },
-            {
-                "type": "hy2",
-                "config": "hy2://i2XRv7zj1uWE@167.160.90.251:10981?insecure=1&sni=www.bing.com#FREE | HY2 | @V2rayCollector | US🇺🇸 | 0️⃣1️⃣",
-                "ip": "167.160.90.251",
-                "time": "2023-11-19 18:40:06",
-                "name": "United States 16"
             },
             {
                 "type": "reality",
                 "config": "vless://telegram-id-ArV2ray@5.161.232.200:443?mode=gun&security=reality&encryption=none&pbk=HpO3zT0tYqN2vGCilW2IVqIIj8dF_2sfq2PKOU4r1Qo&fp=chrome&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=check-host.net&sid=3b8d0e41#FREE | REALITY | @ARv2ray | US🇺🇸 | 0️⃣2️⃣",
                 "ip": "5.161.232.200",
-                "time": "2023-11-19 18:39:19",
-                "name": "United States 17"
+                "time": "2023-11-19 19:41:15",
+                "name": "United States 16"
             },
             {
                 "type": "reality",
                 "config": "vless://---Telegram-Parsashonam---@5.78.82.33:3024?mode=gun&security=reality&encryption=none&pbk=co_W86ZedN6krE8I_5vodHMha88il8ys_GsdyfMM3nI&fp=firefox&spx=/&type=grpc&serviceName=&sni=CloudFlare.com&sid=62efcd9d#FREE | REALITY | @Parsashonam | US🇺🇸 | 0️⃣1️⃣",
                 "ip": "5.78.82.33",
-                "time": "2023-11-19 18:38:58",
-                "name": "United States 18"
+                "time": "2023-11-19 19:40:57",
+                "name": "United States 17"
             },
             {
                 "type": "trojan",
                 "config": "trojan://telegram-id-directvpn@44.214.191.23:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#FREE | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣3️⃣",
                 "ip": "44.214.191.23",
                 "time": "2023-11-19 18:30:05",
-                "name": "United States 19"
+                "name": "United States 18"
             },
             {
                 "type": "vless",
                 "config": "vless://651b839a-ee54-4079-8c9a-bf6253642074@gcore.com:80?path=/V2ray_vpn_ir/V2ray_vpn_ir/V2ray_vpn_ir/V2ray_vpn_ir/V2ray_vpn_ir/V2ray_vpn_ir/V2ray_vpn_ir/V2ray_vpn_ir/V2ray_vpn_ir/V2ray_vpn_ir&security=none&encryption=none&host=join-------to-v2ray-vpn-ir.com&type=ws#FREE | VLESS | @v2ray_vpn_ir | US🇺🇸 | 0️⃣3️⃣",
                 "ip": "92.38.145.145",
                 "time": "2023-11-19 12:11:35",
-                "name": "United States 20"
-            },
-            {
-                "type": "vmess",
-                "config": "vmess://eyJhZGQiOiIxMDkuMTA0LjE1My45NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjMDFjMjcxZi05NjVlLTQ0YTAtODJjOS1iZTM3MDA2ODg0MjgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkZSRUUgfCBWTUVTUyB8IEBWMnJheUNvbGxlY3RvckRvbmF0ZSB8IFVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgMFx1ZmUwZlx1MjBlMzNcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiQFZwbkZyZWVBY2NvdW50cyBAVnBuRnJlZUFjY291bnRzIEBWcG5GcmVlQWNjb3VudHMgQFZwbkZyZWVBY2NvdW50cyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-                "ip": null,
-                "time": "2023-11-19 01:53:06",
-                "name": "United States 21"
+                "name": "United States 19"
             },
             {
                 "type": "vless",
                 "config": "vless://ff32397e-e707-406a-c43f-810126011c2d@gcore.com:80?path=/v2ray_vpn_ir/V2ray_vpn_ir/V2ray_vpn_ir/V2ray_vpn_ir/V2ray_vpn_ir/V2ray_vpn_ir/V2ray_vpn_ir/V2ray_vpn_ir/V2ray_vpn_ir/V2ray_vpn_ir/V2ray_vpn_ir&security=none&encryption=none&host=ir1.network-ir.info&type=ws#FREE | VLESS | @v2ray_vpn_ir | US🇺🇸 | 0️⃣2️⃣",
                 "ip": "92.38.145.145",
                 "time": "2023-11-19 00:29:59",
-                "name": "United States 22"
+                "name": "United States 20"
             },
             {
                 "type": "vmess",
                 "config": "vmess://eyJhZGQiOiJkb2NzLnJheWFuY29uZi50ayIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMzA1ZjYwMC01Y2U4LTRjNGUtODcxYS04YmRhN2UwYWMwYzgiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3dzczIwNTI/ZWQ9MjA0OCIsInBvcnQiOiIyMDUyIiwicHMiOiJGUkVFIHwgVk1FU1MgfCBAcHJyb2ZpbGVfcHVycGxlIHwgVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggfCAwXHVmZTBmXHUyMGUzMlx1ZmUwZlx1MjBlMyIsInNjeSI6ImFlcy0xMjgtZ2NtIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=",
                 "ip": null,
                 "time": "2023-11-17 14:40:21",
-                "name": "United States 23"
+                "name": "United States 21"
             },
             {
                 "type": "vmess",
                 "config": "vmess://eyJhZGQiOiJlbXdxLTE1Ni10LnByaXZldHBhY2suc2l0ZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ2hiaS5pciIsImlkIjoiN2MyODg0MzUtOWQwMC00OGU0LWI5YzktNDZjMmMyM2MzMjFjIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjMwMDIwIiwicHMiOiJGUkVFIHwgVk1FU1MgfCBAcHJyb2ZpbGVfcHVycGxlIHwgVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=",
                 "ip": null,
                 "time": "2023-11-16 14:49:32",
-                "name": "United States 24"
+                "name": "United States 22"
             },
             {
                 "type": "vmess",
                 "config": "vmess://eyJ2IjoiMiIsInBzIjoiRlJFRSB8IFZNRVNTIHwgQHYyTGluZSB8IFVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMiLCJhZGQiOiJ2MmxpbmUudGVsZWdyYW0uY2hhbm5lbC4xMzYwLmZyODY3ODgyNTMyNDI0N2I4MTc2ZDU5ZjgzYzMwYmQ5NGQyM2QyZTNhYzVjZDRhNzQzYmt3cWVpa3ZkeXVmci5jeW91IiwicG9ydCI6IjgwIiwiaWQiOiI3YjNjYTE1Mi00ZGNjLTQ3NjYtOTVkMC02NDRjMTRiZmZjZTMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoidXMyLnh2MnJheS5uZXQiLCJwYXRoIjoiXC92bWVzcyIsInRscyI6Im5vbmUiLCJzbmkiOiJ1czIueHYycmF5Lm5ldCIsImFscG4iOiIiLCJmcCI6IiJ9",
                 "ip": "15.204.8.218",
                 "time": "2023-11-16 03:32:12",
-                "name": "United States 25"
+                "name": "United States 23"
             },
             {
                 "type": "vmess",
                 "config": "vmess://eyJ2IjoiMiIsInBzIjoiRlJFRSB8IFZNRVNTIHwgQFdhdGFzaGlfVlBOIHwgVVNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggfCAwXHVmZTBmXHUyMGUzMlx1ZmUwZlx1MjBlMyIsImFkZCI6IjIwNS4xODUuMTE2LjIwIiwicG9ydCI6IjgwODAiLCJpZCI6ImQ0M2VlNWUzLTFiMDctNTZkNy1iMmVhLThkMjJjNDRmZGM2NiIsImFpZCI6IjAiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==",
                 "ip": "205.185.116.20",
                 "time": "2023-11-13 23:54:38",
-                "name": "United States 26"
+                "name": "United States 24"
             },
             {
                 "type": "vmess",
                 "config": "vmess://eyJhZGQiOiIxNzAuMTg3LjIzMC4yMjEiLCJ2IjoyLCJwcyI6IkZSRUUgfCBWTUVTUyB8IEB5YW5leV8wMSB8IFVTXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMiLCJwb3J0IjoiNDQzIiwiaWQiOiJiMDQzN2NjZC0wOGFhLTRjNzQtOGYzMS0yN2NiZWQ4YTJkZTYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ1czAyd2ViLnpvb20udXMiLCJ0bHMiOiJ0bHMiLCJwYXRoIjoiXC93b3JyeWZyZWUifQ==",
                 "ip": "170.114.52.3",
                 "time": "2023-11-13 17:16:36",
-                "name": "United States 27"
+                "name": "United States 25"
             },
             {
                 "type": "vless",
                 "config": "vless://f23f2f26-99e5-44bb-bb5b-19de97c1d6d4@141.101.113.89:443?path=/?ed=2048&security=tls&encryption=none&host=free.sw.moh539.link&fp=chrome&type=ws&sni=free.sw.moh539.link#FREE | VLESS | @v2rayng_config_amin | US🇺🇸 | 0️⃣2️⃣",
                 "ip": "141.101.113.89",
                 "time": "2023-11-03 18:55:41",
-                "name": "United States 28"
+                "name": "United States 26"
             },
             {
                 "type": "reality",
                 "config": "vless://5ee58902-ad14-419d-88dc-d2a74f2c1482@telegram.cloudsnapbot.tech:2053?security=reality&sni=Appleid.cdn-apple.com&fp=random&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=,Telegram:@CloudSnapBot&encryption=none#FREE | REALITY | @fnet00 | US🇺🇸 | 0️⃣2️⃣",
                 "ip": null,
                 "time": "2023-11-03 10:58:07",
-                "name": "United States 29"
+                "name": "United States 27"
             }
         ]
     },
@@ -230,745 +216,710 @@
         "configs": [
             {
                 "type": "vless",
-                "config": "vless://a86d3075-f4f0-4ac5-81b0-1c6852e0961d@104.26.4.134:443?path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&security=tls&encryption=none&host=copyy.kanal-tel-nufilter.site&fp=firefox&type=ws&sni=copyy.kanal-tel-nufilter.site#FREE | VLESS | @nufilter | CA🇨🇦 | 0️⃣2️⃣",
-                "ip": "104.26.4.134",
-                "time": "2023-11-19 18:42:55",
+                "config": "vless://6b1d16aa-ebae-4a16-9208-3e00b1346556@104.26.15.138:443?path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&security=tls&encryption=none&host=bia.kanal-tel-nufilter.site&type=ws&sni=bia.kanal-tel-nufilter.site#FREE | VLESS | @nufilter | CA🇨🇦 | 0️⃣1️⃣",
+                "ip": "104.26.15.138",
+                "time": "2023-11-19 19:44:47",
                 "name": "Canada 1"
-            },
-            {
-                "type": "vless",
-                "config": "vless://a86d3075-f4f0-4ac5-81b0-1c6852e0961d@104.22.11.240:443?path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&security=tls&encryption=none&host=copyy.kanal-tel-nufilter.site&fp=firefox&type=ws&sni=copyy.kanal-tel-nufilter.site#FREE | VLESS | @nufilter | CA🇨🇦 | 0️⃣3️⃣",
-                "ip": "104.22.11.240",
-                "time": "2023-11-19 18:42:55",
-                "name": "Canada 2"
-            },
-            {
-                "type": "vless",
-                "config": "vless://a86d3075-f4f0-4ac5-81b0-1c6852e0961d@104.16.249.249:443?path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&security=tls&encryption=none&host=copyy.kanal-tel-nufilter.site&fp=firefox&type=ws&sni=copyy.kanal-tel-nufilter.site#FREE | VLESS | @nufilter | CA🇨🇦 | 0️⃣1️⃣",
-                "ip": "104.16.249.249",
-                "time": "2023-11-19 18:42:54",
-                "name": "Canada 3"
-            },
-            {
-                "type": "vless",
-                "config": "vless://07441675-7d53-4f23-800e-087f867a4c6e@mtn.vpnprosec.com:443?type=grpc&serviceName=&security=tls&fp=&alpn=http/1.1,h2&sni=V2ray.SvnBuy.Online#FREE | VLESS | @forwardv2ray | CA🇨🇦 | 0️⃣2️⃣",
-                "ip": "104.21.65.133",
-                "time": "2023-11-19 18:42:49",
-                "name": "Canada 4"
-            },
-            {
-                "type": "vless",
-                "config": "vless://d4c641df-5d74-40a5-86fe-15a4854f40fd@support.discord.com:2087?encryption=none&security=tls&sni=configngnixV2rayng.shhproxy.cfd&type=ws&host=configngnixV2rayng.shhproxy.cfd&path=/#FREE | VLESS | @forwardv2ray | CA🇨🇦 | 0️⃣1️⃣",
-                "ip": "162.159.128.233",
-                "time": "2023-11-19 18:42:46",
-                "name": "Canada 5"
             },
             {
                 "type": "vless",
                 "config": "vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@172.67.161.1:80?path=/?ed=2048&security=none&encryption=none&host=workerr.hashdiler.workers.dev&type=ws#FREE | VLESS | @FreakConfig | CA🇨🇦 | 0️⃣1️⃣",
                 "ip": "172.67.161.1",
-                "time": "2023-11-19 18:42:44",
-                "name": "Canada 6"
-            },
-            {
-                "type": "vless",
-                "config": "vless://7a0d463e-7743-4ef1-8ca2-272f1b4030e6@mci.vpnprosec.com:443?type=grpc&serviceName=&security=tls&fp=&alpn=http/1.1,h2&sni=V2ray.SvnBuy.online#FREE | VLESS | @VpnFreeSec | CA🇨🇦 | 0️⃣3️⃣",
-                "ip": "104.21.65.133",
-                "time": "2023-11-19 18:42:42",
-                "name": "Canada 7"
+                "time": "2023-11-19 19:44:28",
+                "name": "Canada 2"
             },
             {
                 "type": "vless",
                 "config": "vless://d8635b71-cc19-4849-b876-4967628d98eb@mtn.vpnprosec.com:443?type=grpc&serviceName=&security=tls&fp=&alpn=http/1.1,h2&sni=V2ray.svnreallity.online#FREE | VLESS | @VpnFreeSec | CA🇨🇦 | 0️⃣2️⃣",
                 "ip": "104.21.65.133",
-                "time": "2023-11-19 18:42:41",
-                "name": "Canada 8"
+                "time": "2023-11-19 19:44:25",
+                "name": "Canada 3"
+            },
+            {
+                "type": "vless",
+                "config": "vless://7a0d463e-7743-4ef1-8ca2-272f1b4030e6@mci.vpnprosec.com:443?type=grpc&serviceName=&security=tls&fp=&alpn=http/1.1,h2&sni=V2ray.SvnBuy.online#FREE | VLESS | @VpnFreeSec | CA🇨🇦 | 0️⃣3️⃣",
+                "ip": "172.67.163.123",
+                "time": "2023-11-19 19:44:25",
+                "name": "Canada 4"
             },
             {
                 "type": "vless",
                 "config": "vless://5402475b-1680-4467-8772-e9a4be96ade1@mci.vpnprosec.com:443?type=grpc&serviceName=&security=tls&fp=&alpn=http/1.1,h2&sni=V2ray.SvnBuy.online#FREE | VLESS | @VpnFreeSec | CA🇨🇦 | 0️⃣1️⃣",
                 "ip": "104.21.65.133",
-                "time": "2023-11-19 18:42:41",
-                "name": "Canada 9"
+                "time": "2023-11-19 19:44:25",
+                "name": "Canada 5"
             },
             {
                 "type": "vless",
                 "config": "vless://9bc90ddf-b865-47cc-9f97-9d5ea3bca89f@104.18.220.84:443?path=Telegram-v2rayNGcloud-Telegram-@v2rayNGcloud-Telegram-@v2rayNGcloud&security=tls&encryption=none&host=vl31.rnd.biz.id&type=ws&sni=vl31.rnd.biz.id#FREE | VLESS | @Outlinev2rayNG | CA🇨🇦 | 0️⃣3️⃣",
                 "ip": "104.18.220.84",
-                "time": "2023-11-19 18:42:37",
-                "name": "Canada 10"
+                "time": "2023-11-19 19:44:20",
+                "name": "Canada 6"
             },
             {
                 "type": "vless",
                 "config": "vless://0b56ddd6-8b43-4bd8-b73f-15d0b96ee0e8@All.Tlgram-Polproxy.space:2087?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1,h3&fp=chrome&type=grpc&serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,&sni=Kanal-Ma.Polproxy.sbs#FREE | VLESS | @polproxy | CA🇨🇦 | 0️⃣3️⃣",
                 "ip": "172.64.80.1",
-                "time": "2023-11-19 18:42:30",
-                "name": "Canada 11"
-            },
-            {
-                "type": "vless",
-                "config": "vless://a4df02db-46f6-49f4-b73c-3920a069bcda@mci.Bluemoien.space:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,&sni=Kanal-Ma.Polproxy.sbs#FREE | VLESS | @polproxy | CA🇨🇦 | 0️⃣2️⃣",
-                "ip": "104.19.155.206",
-                "time": "2023-11-19 18:42:30",
-                "name": "Canada 12"
+                "time": "2023-11-19 19:44:18",
+                "name": "Canada 7"
             },
             {
                 "type": "vless",
                 "config": "vless://b1aca64b-9b29-4cf2-cf88-4e616f087d80@mtn.Moienmusic.space:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,&sni=Kanal-Ma.Polproxy.sbs#FREE | VLESS | @polproxy | CA🇨🇦 | 0️⃣1️⃣",
                 "ip": "104.16.245.65",
-                "time": "2023-11-19 18:42:30",
-                "name": "Canada 13"
+                "time": "2023-11-19 19:44:17",
+                "name": "Canada 8"
             },
             {
                 "type": "vless",
-                "config": "vless://4dba2b4a-d76f-429c-8547-0fcec7430356@162.159.138.6:80?path=@V2RAYNGTIME&security=none&encryption=none&host=ext14.zxv.biz.id&type=ws#FREE | VLESS | @VPNCLOP | CA🇨🇦 | 0️⃣2️⃣",
-                "ip": "162.159.138.6",
-                "time": "2023-11-19 18:42:26",
-                "name": "Canada 14"
+                "config": "vless://a4df02db-46f6-49f4-b73c-3920a069bcda@mci.Bluemoien.space:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,&sni=Kanal-Ma.Polproxy.sbs#FREE | VLESS | @polproxy | CA🇨🇦 | 0️⃣2️⃣",
+                "ip": "104.19.155.206",
+                "time": "2023-11-19 19:44:17",
+                "name": "Canada 9"
             },
             {
                 "type": "vmess",
-                "config": "vmess://eyJ0bHMiOiJub25lIiwic2N5IjoiYXV0byIsInBvcnQiOiIyNzUwMiIsImlkIjoiZDVlMzRkNTMtZjljMy00Y2I4LTlmNDUtNDhlNmY1NzQ2YzY1IiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicHMiOiJGUkVFIHwgVk1FU1MgfCBASG9wZV9OZXQgfCBDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiB8IDBcdWZlMGZcdTIwZTMzXHVmZTBmXHUyMGUzIiwiYWlkIjoiMCIsInR5cGUiOiJodHRwIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJhZGQiOiIzLjc5LjU2LjQ2In0=",
-                "ip": "151.101.194.219",
-                "time": "2023-11-19 18:42:25",
-                "name": "Canada 15"
+                "config": "vmess://eyJhZGQiOiJ3ZWIucGFyc3BhY2suY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwXC8xLjEiLCJmcCI6ImZpcmVmb3giLCJob3N0IjoidEVsRVdlYklPbi5vbmxJbmVWSXNpb05TdG9yRS5zSVRFIiwiaWQiOiJhOTg2MjZjMS04OGVlLTQ3ZGItYWQxZC1hOGJkMTU5MTBhODMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLz9lZD0yMDQ4IiwicG9ydCI6IjIwOTYiLCJwcyI6IkZSRUUgfCBWTUVTUyB8IEBIb3BlX05ldCB8IENBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoidEVsRVdlYklPbi5vbmxJbmVWSXNpb05TdG9yRS5zSVRFIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=",
+                "ip": "172.67.199.189",
+                "time": "2023-11-19 19:44:12",
+                "name": "Canada 10"
             },
             {
                 "type": "vmess",
-                "config": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNi4yMzQiLCJhaWQiOiIwIiwiaG9zdCI6Im9jdGF2aS5jZmQiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJGUkVFIHwgVk1FU1MgfCBASG9wZV9OZXQgfCBDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiB8IDBcdWZlMGZcdTIwZTMyXHVmZTBmXHUyMGUzIiwic25pIjoib2N0YXZpLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9",
+                "config": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNi4yMzQiLCJhaWQiOiIwIiwiaG9zdCI6Im9jdGF2aS5jZmQiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJGUkVFIHwgVk1FU1MgfCBASG9wZV9OZXQgfCBDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiB8IDBcdWZlMGZcdTIwZTMzXHVmZTBmXHUyMGUzIiwic25pIjoib2N0YXZpLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9",
                 "ip": "104.21.31.183",
-                "time": "2023-11-19 18:42:24",
-                "name": "Canada 16"
-            },
-            {
-                "type": "vless",
-                "config": "vless://90cb028d-cc04-4cca-9334-83b844d5043f@www.discord.com:8080?path=/?ed=2048&security=none&encryption=none&host=hk5.servervless.de&type=ws#FREE | VLESS | @MehradLearn | CA🇨🇦 | 0️⃣3️⃣",
-                "ip": "162.159.138.232",
-                "time": "2023-11-19 18:42:04",
-                "name": "Canada 17"
+                "time": "2023-11-19 19:44:12",
+                "name": "Canada 11"
             },
             {
                 "type": "vless",
                 "config": "vless://e629cf66-bb2d-4c19-be34-a43d7d5552b7@www.discord.com:8080?path=/?ed=2048&security=none&encryption=none&host=fra.servervless.de&type=ws#FREE | VLESS | @MehradLearn | CA🇨🇦 | 0️⃣2️⃣",
-                "ip": "162.159.128.233",
-                "time": "2023-11-19 18:42:04",
-                "name": "Canada 18"
+                "ip": "162.159.136.232",
+                "time": "2023-11-19 19:43:53",
+                "name": "Canada 12"
+            },
+            {
+                "type": "vless",
+                "config": "vless://90cb028d-cc04-4cca-9334-83b844d5043f@www.discord.com:8080?path=/?ed=2048&security=none&encryption=none&host=hk5.servervless.de&type=ws#FREE | VLESS | @MehradLearn | CA🇨🇦 | 0️⃣3️⃣",
+                "ip": "162.159.135.232",
+                "time": "2023-11-19 19:43:53",
+                "name": "Canada 13"
             },
             {
                 "type": "vless",
                 "config": "vless://3367c85b-d6de-4b6e-86cb-3959597df5d0@www.discord.com:8080?path=/?ed=2048&security=none&encryption=none&host=usa.servervless.de&type=ws#FREE | VLESS | @MehradLearn | CA🇨🇦 | 0️⃣1️⃣",
-                "ip": "162.159.138.232",
-                "time": "2023-11-19 18:42:04",
-                "name": "Canada 19"
-            },
-            {
-                "type": "vless",
-                "config": "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@12join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev#FREE | VLESS | @sinabigo | CA🇨🇦 | 0️⃣3️⃣",
-                "ip": "172.66.44.172",
-                "time": "2023-11-19 18:42:03",
-                "name": "Canada 20"
+                "ip": "162.159.137.232",
+                "time": "2023-11-19 19:43:53",
+                "name": "Canada 14"
             },
             {
                 "type": "vless",
                 "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@bia2.outline-vpn.cloud:2087?path=/?ed=2048&security=tls&encryption=none&host=baipiao1.curly-train.pages.dev&type=ws&sni=baipiao1.curly-train.pages.dev#FREE | VLESS | @sinabigo | CA🇨🇦 | 0️⃣1️⃣",
                 "ip": "172.66.44.172",
-                "time": "2023-11-19 18:42:03",
-                "name": "Canada 21"
+                "time": "2023-11-19 19:43:52",
+                "name": "Canada 15"
+            },
+            {
+                "type": "vless",
+                "config": "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@12join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev#FREE | VLESS | @sinabigo | CA🇨🇦 | 0️⃣3️⃣",
+                "ip": "172.66.44.172",
+                "time": "2023-11-19 19:43:52",
+                "name": "Canada 16"
             },
             {
                 "type": "vless",
                 "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@3254.outline-vpn.cloud:8443?path=/?ed=2048&security=tls&encryption=none&host=baipiao1.curly-train.pages.dev&type=ws&sni=baipiao1.curly-train.pages.dev#FREE | VLESS | @sinabigo | CA🇨🇦 | 0️⃣2️⃣",
                 "ip": "172.67.139.111",
-                "time": "2023-11-19 18:42:03",
-                "name": "Canada 22"
+                "time": "2023-11-19 19:43:52",
+                "name": "Canada 17"
             },
             {
                 "type": "vmess",
                 "config": "vmess://eyJ2IjoiMiIsInBzIjoiRlJFRSB8IFZNRVNTIHwgQERhaWx5VjJSWSB8IENBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMiLCJhZGQiOiJ3YXlubi5tYWtldXAiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIxIiwic2N5IjoiYWVzLTEyOC1nY20iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IndheW5uLm1ha2V1cCIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoid2F5bm4ubWFrZXVwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=",
-                "ip": "172.67.183.110",
-                "time": "2023-11-19 18:42:01",
-                "name": "Canada 23"
+                "ip": "104.21.91.254",
+                "time": "2023-11-19 19:43:51",
+                "name": "Canada 18"
             },
             {
                 "type": "vless",
                 "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@bia2.outline-vpn.cloud:2096?path=/?ed=2048&security=tls&encryption=none&host=baipiao1.curly-train.pages.dev&type=ws&sni=baipiao1.curly-train.pages.dev#FREE | VLESS | @DailyV2RY | CA🇨🇦 | 0️⃣3️⃣",
                 "ip": "172.66.44.172",
-                "time": "2023-11-19 18:42:01",
-                "name": "Canada 24"
+                "time": "2023-11-19 19:43:50",
+                "name": "Canada 19"
             },
             {
                 "type": "trojan",
                 "config": "trojan://your_password@aws-ar-buenosaires-1.f1cflineb.com:443?path=/f1rocket&security=tls&host=aws-ar-buenosaires-1.f1cflineb.com&type=ws&sni=aws-ar-buenosaires-1.f1cflineb.com#FREE | TROJAN | @VmessProtocol | CA🇨🇦 | 0️⃣3️⃣",
-                "ip": "172.67.188.24",
-                "time": "2023-11-19 18:41:58",
-                "name": "Canada 25"
+                "ip": "104.21.7.241",
+                "time": "2023-11-19 19:43:47",
+                "name": "Canada 20"
             },
             {
                 "type": "vless",
                 "config": "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@bia2.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev#FREE | VLESS | @vmess_vless_v2rayng | CA🇨🇦 | 0️⃣3️⃣",
                 "ip": "172.66.44.172",
-                "time": "2023-11-19 18:41:53",
-                "name": "Canada 26"
+                "time": "2023-11-19 19:43:42",
+                "name": "Canada 21"
             },
             {
                 "type": "vless",
                 "config": "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@3324.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev#FREE | VLESS | @vmess_vless_v2rayng | CA🇨🇦 | 0️⃣2️⃣",
                 "ip": "104.16.23.29",
-                "time": "2023-11-19 18:41:53",
-                "name": "Canada 27"
-            },
-            {
-                "type": "vless",
-                "config": "vless://4dba2b4a-d76f-429c-8547-0fcec7430356@allllll-join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=ext47.zxv.biz.id&type=ws&sni=ext47.zxv.biz.id#FREE | VLESS | @ConfigsHUB | CA🇨🇦 | 0️⃣2️⃣",
-                "ip": "104.26.6.171",
-                "time": "2023-11-19 18:41:48",
-                "name": "Canada 28"
+                "time": "2023-11-19 19:43:42",
+                "name": "Canada 22"
             },
             {
                 "type": "vless",
                 "config": "vless://12e6c754-8258-44e1-9ead-05315ed15ac9@162.159.138.232:80?path=/vless&security=none&encryption=none&host=ua1-vless.sshmax.xyz&type=ws#FREE | VLESS | @v2ray1_ng | CA🇨🇦 | 0️⃣3️⃣",
                 "ip": "162.159.138.232",
-                "time": "2023-11-19 18:41:44",
-                "name": "Canada 29"
+                "time": "2023-11-19 19:43:30",
+                "name": "Canada 23"
             },
             {
                 "type": "vless",
                 "config": "vless://9b97bb00-48b8-46dd-a9f2-ecd2e16fc41c@mediafire.com:2095?path=/?ed=2048&security=none&encryption=none&host=it1.vlessx.xyz&type=ws#FREE | VLESS | @v2ray1_ng | CA🇨🇦 | 0️⃣2️⃣",
-                "ip": "104.16.114.74",
-                "time": "2023-11-19 18:41:44",
-                "name": "Canada 30"
+                "ip": "104.16.113.74",
+                "time": "2023-11-19 19:43:30",
+                "name": "Canada 24"
             },
             {
                 "type": "vless",
                 "config": "vless://dc10962b-03e7-4c7f-95ad-f857f6b80e6e@104.31.16.14:2087?path=/?ed=2048&security=tls&encryption=none&host=nl4.vlessx.us&fp=randomized&type=ws&sni=nl4.vlessx.us#FREE | VLESS | @v2ray1_ng | CA🇨🇦 | 0️⃣1️⃣",
                 "ip": "104.31.16.14",
-                "time": "2023-11-19 18:41:44",
-                "name": "Canada 31"
-            },
-            {
-                "type": "vless",
-                "config": "vless://3fac0e66-13a0-443f-fd7a-8c0b027e4632@All-MsV2ray.ddns.net:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray&sni=de.MsV2ray.cfd#FREE | VLESS | @MsV2ray | CA🇨🇦 | 0️⃣3️⃣",
-                "ip": "104.16.219.215",
-                "time": "2023-11-19 18:41:42",
-                "name": "Canada 32"
+                "time": "2023-11-19 19:43:29",
+                "name": "Canada 25"
             },
             {
                 "type": "vless",
                 "config": "vless://3fac0e66-13a0-443f-fd7a-8c0b027e4632@mci-MsV2ray.ddns.net:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray&sni=de.MsV2ray.cfd#FREE | VLESS | @MsV2ray | CA🇨🇦 | 0️⃣2️⃣",
-                "ip": "104.24.177.7",
-                "time": "2023-11-19 18:41:42",
-                "name": "Canada 33"
+                "ip": "104.24.176.7",
+                "time": "2023-11-19 19:43:27",
+                "name": "Canada 26"
             },
             {
                 "type": "vless",
                 "config": "vless://VPNCUSTOMiZE@www.canva.com:8880?path=/?ed=2048&security=none&encryption=none&host=confignginxV2rayng.vpncustomize.Website&type=ws#FREE | VLESS | @proxyymeliii | CA🇨🇦 | 0️⃣3️⃣",
-                "ip": "104.17.239.159",
-                "time": "2023-11-19 18:41:40",
-                "name": "Canada 34"
+                "ip": "104.16.224.149",
+                "time": "2023-11-19 19:43:26",
+                "name": "Canada 27"
             },
             {
                 "type": "vmess",
                 "config": "vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2EyLnh2MnJheS5uZXQiLCJpZCI6IjAyMzliMWNlLTQ2OGMtNDViMy04ZDJhLTg1YjFjMGIyNzRkOSIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IkZSRUUgfCBWTUVTUyB8IEB2MnJheV9zd2hpbCB8IENBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IHwgMFx1ZmUwZlx1MjBlMzNcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=",
                 "ip": "193.203.203.63",
-                "time": "2023-11-19 18:41:38",
-                "name": "Canada 35"
+                "time": "2023-11-19 19:43:23",
+                "name": "Canada 28"
             },
             {
                 "type": "vless",
                 "config": "vless://----AntiFilterChV2----@104.31.16.85:2083?type=grpc&encryption=none&flow=&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&security=tls&sni=po.GrV2ray.cfd#FREE | VLESS | @hcv2ray | CA🇨🇦 | 0️⃣1️⃣",
                 "ip": "104.31.16.85",
-                "time": "2023-11-19 18:41:30",
-                "name": "Canada 36"
-            },
-            {
-                "type": "vmess",
-                "config": "vmess://eyJhZGQiOiIxNzIuNjcuMjI5LjI1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiZnI3LnRlaG1lMTAwLmZ1biIsImlkIjoiNjE3YzliYzQtNDExNi00MWM2LTk5ZTAtYWNlNDlhMzhmY2RiIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9KbnY4VmlaT1VWZ2lqak9oMHA1dUdqSG5YSWlZIiwicG9ydCI6Ijg4ODAiLCJwcyI6IkZSRUUgfCBWTUVTUyB8IEBRdjJyYXlET05BVEVEIHwgQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
-                "ip": "104.21.71.146",
-                "time": "2023-11-19 18:41:27",
-                "name": "Canada 37"
+                "time": "2023-11-19 19:43:10",
+                "name": "Canada 29"
             },
             {
                 "type": "vless",
                 "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@time.cloudflare.com:443?path=/@V2VIPCHANNEL/?ed=2048&security=tls&encryption=none&host=xxx.donated002.workers.dev&type=ws&sni=xxx.donated002.workers.dev#FREE | VLESS | @Qv2rayDONATED | CA🇨🇦 | 0️⃣3️⃣",
                 "ip": "162.159.200.123",
-                "time": "2023-11-19 18:41:27",
-                "name": "Canada 38"
+                "time": "2023-11-19 19:43:07",
+                "name": "Canada 30"
+            },
+            {
+                "type": "vmess",
+                "config": "vmess://eyJhZGQiOiIxNzIuNjcuMjI5LjI1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiZnI3LnRlaG1lMTAwLmZ1biIsImlkIjoiNjE3YzliYzQtNDExNi00MWM2LTk5ZTAtYWNlNDlhMzhmY2RiIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9KbnY4VmlaT1VWZ2lqak9oMHA1dUdqSG5YSWlZIiwicG9ydCI6Ijg4ODAiLCJwcyI6IkZSRUUgfCBWTUVTUyB8IEBRdjJyYXlET05BVEVEIHwgQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
+                "ip": "172.67.170.178",
+                "time": "2023-11-19 19:43:07",
+                "name": "Canada 31"
             },
             {
                 "type": "vless",
                 "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@time.cloudflare.com:443?path=/@V2VIPCHANNEL/?ed=2048&security=tls&encryption=none&host=xxx.donated004.workers.dev&type=ws&sni=xxx.donated004.workers.dev#FREE | VLESS | @Qv2rayDONATED | CA🇨🇦 | 0️⃣1️⃣",
-                "ip": "162.159.200.1",
-                "time": "2023-11-19 18:41:26",
-                "name": "Canada 39"
+                "ip": "162.159.200.123",
+                "time": "2023-11-19 19:43:06",
+                "name": "Canada 32"
             },
             {
                 "type": "vless",
                 "config": "vless://aa81e188-a979-411e-a10b-08287646cc43@wireless52---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=vl26.rnd.biz.id&type=ws&sni=vl26.rnd.biz.id#FREE | VLESS | @Proxy_PJ | CA🇨🇦 | 0️⃣3️⃣",
                 "ip": "172.67.221.199",
-                "time": "2023-11-19 18:41:21",
-                "name": "Canada 40"
+                "time": "2023-11-19 19:43:01",
+                "name": "Canada 33"
             },
             {
                 "type": "vless",
                 "config": "vless://9bc90ddf-b865-47cc-9f97-9d5ea3bca89f@wireless50---join.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=vl31.rnd.biz.id&type=ws&sni=vl31.rnd.biz.id#FREE | VLESS | @Proxy_PJ | CA🇨🇦 | 0️⃣1️⃣",
                 "ip": "104.21.78.131",
-                "time": "2023-11-19 18:41:21",
-                "name": "Canada 41"
+                "time": "2023-11-19 19:43:01",
+                "name": "Canada 34"
+            },
+            {
+                "type": "vmess",
+                "config": "vmess://eyJhZGQiOiIxMDQuMTYuNjguMzgiLCJhaWQiOiIxIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFsdnZpbi5jbGljayIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkZSRUUgfCBWTUVTUyB8IEBTaGFkb3dQcm94eTY2IHwgQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiJhbHZ2aW4uY2xpY2siLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
+                "ip": "104.21.50.177",
+                "time": "2023-11-19 19:42:58",
+                "name": "Canada 35"
             },
             {
                 "type": "vmess",
                 "config": "vmess://eyJhZGQiOiIxMDQuMTcuODguMjEyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYTIueHYycmF5Lm5ldCIsImlkIjoiMDIzOWIxY2UtNDY4Yy00NWIzLThkMmEtODViMWMwYjI3NGQ5IiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiRlJFRSB8IFZNRVNTIHwgQFNoYWRvd1Byb3h5NjYgfCBDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiB8IDBcdWZlMGZcdTIwZTMyXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
                 "ip": "193.203.203.63",
-                "time": "2023-11-19 18:41:18",
-                "name": "Canada 42"
-            },
-            {
-                "type": "vmess",
-                "config": "vmess://eyJhZGQiOiIxMDQuMTYuNjguMzgiLCJhaWQiOiIxIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFsdnZpbi5jbGljayIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkZSRUUgfCBWTUVTUyB8IEBTaGFkb3dQcm94eTY2IHwgQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiJhbHZ2aW4uY2xpY2siLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
-                "ip": "172.67.164.184",
-                "time": "2023-11-19 18:41:18",
-                "name": "Canada 43"
+                "time": "2023-11-19 19:42:58",
+                "name": "Canada 36"
             },
             {
                 "type": "vmess",
                 "config": "vmess://eyJhZGQiOiIxMDQuMjEuMjcuMTM5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJlZGVlbi5tYWtldXAiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJGUkVFIHwgVk1FU1MgfCBAU2hhZG93UHJveHk2NiB8IENBXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IHwgMFx1ZmUwZlx1MjBlMzNcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiZWRlZW4ubWFrZXVwIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=",
-                "ip": "172.67.142.191",
-                "time": "2023-11-19 18:41:18",
-                "name": "Canada 44"
+                "ip": "104.21.27.139",
+                "time": "2023-11-19 19:42:58",
+                "name": "Canada 37"
             },
             {
                 "type": "vless",
                 "config": "vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.183:443?path=/?ed=2048&security=tls&encryption=none&host=fragment.iraniancp.click&type=ws&sni=fragment.iraniancp.click#FREE | VLESS | @ShadowProxy66 | CA🇨🇦 | 0️⃣2️⃣",
                 "ip": "104.31.16.183",
-                "time": "2023-11-19 18:41:17",
-                "name": "Canada 45"
+                "time": "2023-11-19 19:42:57",
+                "name": "Canada 38"
             },
             {
                 "type": "vless",
                 "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:443?path=/?ed=2048&security=tls&encryption=none&host=baipiao1.curly-train.pages.dev&type=ws&sni=baipiao1.curly-train.pages.dev#FREE | VLESS | @ShadowProxy66 | CA🇨🇦 | 0️⃣1️⃣",
                 "ip": "172.67.139.111",
-                "time": "2023-11-19 18:41:17",
-                "name": "Canada 46"
+                "time": "2023-11-19 19:42:56",
+                "name": "Canada 39"
             },
             {
                 "type": "vless",
                 "config": "vless://SHHPROXY@all.shhproxy.cfd:443?security=tls&encryption=none&headerType=none&type=tcp&sni=CaNNectV2ray-OnlyIRAN-mCi-iraracnzsk-rgt-mkh.varzesh3-CND.site#FREE | VLESS | @v2rayngvpn | CA🇨🇦 | 0️⃣3️⃣",
                 "ip": "162.159.1.94",
-                "time": "2023-11-19 18:41:14",
-                "name": "Canada 47"
+                "time": "2023-11-19 19:42:54",
+                "name": "Canada 40"
             },
             {
                 "type": "vless",
                 "config": "vless://4dba2b4a-d76f-429c-8547-0fcec7430356@new-join-tooo.outline-vpn.cloud:80?path=/?ed=2048&security=none&encryption=none&host=ext14.zxv.biz.id&type=ws#FREE | VLESS | @v2rayNG_Matsuri | CA🇨🇦 | 0️⃣2️⃣",
                 "ip": "162.159.138.6",
-                "time": "2023-11-19 18:41:13",
-                "name": "Canada 48"
+                "time": "2023-11-19 19:42:53",
+                "name": "Canada 41"
             },
             {
                 "type": "vless",
                 "config": "vless://4dba2b4a-d76f-429c-8547-0fcec7430356@162.159.138.6:80?path=/?ed=2048&security=none&encryption=none&host=ext14.zxv.biz.id&type=ws#FREE | VLESS | @v2rayNG_Matsuri | CA🇨🇦 | 0️⃣1️⃣",
                 "ip": "162.159.138.6",
-                "time": "2023-11-19 18:41:13",
-                "name": "Canada 49"
+                "time": "2023-11-19 19:42:53",
+                "name": "Canada 42"
             },
             {
                 "type": "vless",
                 "config": "vless://49157c6c-e36b-4c9a-cf57-1fdd6b5943bd@2bia-channel.unlimiteddev.xyz:80?security=none&type=ws&path=/&host=bia-to-channel.unlimiteddev.xyz&encryption=none#FREE | VLESS | @UnlimitedDev | CA🇨🇦 | 0️⃣2️⃣",
                 "ip": "104.21.20.148",
-                "time": "2023-11-19 18:40:50",
-                "name": "Canada 50"
+                "time": "2023-11-19 19:42:30",
+                "name": "Canada 43"
             },
             {
                 "type": "vless",
                 "config": "vless://49157c6c-e36b-4c9a-cf57-1fdd6b5943bd@1bia-channel.unlimiteddev.xyz:80?security=none&type=ws&path=/&host=bia-to-channel.unlimiteddev.xyz&encryption=none#FREE | VLESS | @UnlimitedDev | CA🇨🇦 | 0️⃣3️⃣",
-                "ip": "104.16.214.15",
-                "time": "2023-11-19 18:40:50",
-                "name": "Canada 51"
+                "ip": "104.18.0.192",
+                "time": "2023-11-19 19:42:30",
+                "name": "Canada 44"
             },
             {
                 "type": "vless",
                 "config": "vless://49157c6c-e36b-4c9a-cf57-1fdd6b5943bd@3bia-channel.unlimiteddev.xyz:80?security=none&type=ws&path=/&host=bia-to-channel.unlimiteddev.xyz&encryption=none#FREE | VLESS | @UnlimitedDev | CA🇨🇦 | 0️⃣1️⃣",
-                "ip": "104.17.200.118",
-                "time": "2023-11-19 18:40:49",
-                "name": "Canada 52"
+                "ip": "104.17.201.118",
+                "time": "2023-11-19 19:42:30",
+                "name": "Canada 45"
+            },
+            {
+                "type": "vless",
+                "config": "vless://3068f324-e024-47ce-8e7c-3a0d973fd16b@freeiranweb.ddns.net:8080?path=Telegram Channel : @freeiranweb&security=none&encryption=none&host=gb1.vlessx.us&type=ws#FREE | VLESS | @prrofile_purple | CA🇨🇦 | 0️⃣2️⃣",
+                "ip": "162.159.135.232",
+                "time": "2023-11-19 19:42:23",
+                "name": "Canada 46"
             },
             {
                 "type": "vless",
                 "config": "vless://74ee8b58-b56f-4145-b61c-9fbc1952208a@104.20.185.180:2082?path=/?ed=2048&security=none&encryption=none&host=sg1.vlessx.us&type=ws#FREE | VLESS | @prrofile_purple | CA🇨🇦 | 0️⃣3️⃣",
                 "ip": "104.20.185.180",
-                "time": "2023-11-19 18:40:44",
-                "name": "Canada 53"
-            },
-            {
-                "type": "vless",
-                "config": "vless://3068f324-e024-47ce-8e7c-3a0d973fd16b@freeiranweb.ddns.net:8080?path=Telegram Channel : @freeiranweb&security=none&encryption=none&host=gb1.vlessx.us&type=ws#FREE | VLESS | @prrofile_purple | CA🇨🇦 | 0️⃣2️⃣",
-                "ip": "162.159.137.232",
-                "time": "2023-11-19 18:40:43",
-                "name": "Canada 54"
+                "time": "2023-11-19 19:42:23",
+                "name": "Canada 47"
             },
             {
                 "type": "vmess",
                 "config": "vmess://eyJhZGQiOiIxODguMTE0Ljk3LjEiLCJhaWQiOiIxIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im9kZWxpYS5hdXRvcyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkZSRUUgfCBWTUVTUyB8IEBvbmVjbGlja3ZwbmtleXMgfCBDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiB8IDBcdWZlMGZcdTIwZTMyXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6Im9kZWxpYS5hdXRvcyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9",
                 "ip": "172.67.197.82",
-                "time": "2023-11-19 18:40:41",
-                "name": "Canada 55"
-            },
-            {
-                "type": "vless",
-                "config": "vless://30387655-9455-4306-9b94-3105661a765b@all.shhproxy.cfd:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&sni=CaNNectV2ray-OnlyIRAN-mCi-iraracnzsk-rgt-mkh.varzesh3-CND.site#FREE | VLESS | @iP_CF | CA🇨🇦 | 0️⃣3️⃣",
-                "ip": "162.159.1.94",
-                "time": "2023-11-19 18:40:03",
-                "name": "Canada 56"
-            },
-            {
-                "type": "vless",
-                "config": "vless://a89c9199-0b1d-4470-f3ea-94725589deb8@104.16.29.8:80?path=/&security=none&encryption=none&host=COuNSElInG.aPArAt.bio&type=ws#FREE | VLESS | @iP_CF | CA🇨🇦 | 0️⃣1️⃣",
-                "ip": "104.16.29.8",
-                "time": "2023-11-19 18:40:03",
-                "name": "Canada 57"
+                "time": "2023-11-19 19:42:21",
+                "name": "Canada 48"
             },
             {
                 "type": "vless",
                 "config": "vless://54019e81-7d59-4697-a4f5-2ee4eae48438@162.159.128.233:2053?type=grpc&security=tls&mode=gun&serviceName=Amsterdam&sni=Tr3SWer6dR.pouriya.cf#FREE | VLESS | @DarkTeam_VPN | CA🇨🇦 | 0️⃣2️⃣",
                 "ip": "162.159.128.233",
-                "time": "2023-11-19 18:39:40",
-                "name": "Canada 58"
+                "time": "2023-11-19 19:41:34",
+                "name": "Canada 49"
             },
             {
                 "type": "vless",
                 "config": "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.64.153.211:443?type=ws&security=tls&path=/?ed=2048&host=cf-wkrs-pages-vless-aoy.pages.dev&sni=cf-wkrs-pages-vless-aoy.pages.dev#FREE | VLESS | @DarkTeam_VPN | CA🇨🇦 | 0️⃣1️⃣",
                 "ip": "172.64.153.211",
-                "time": "2023-11-19 18:39:40",
-                "name": "Canada 59"
-            },
-            {
-                "type": "vless",
-                "config": "vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@bypass.dd-6b2.workers.dev:443?path=@bypass_filter/?ed=2048&security=tls&encryption=none&host=bypass.dd-6b2.workers.dev&type=ws&sni=bypass.dd-6b2.workers.dev#FREE | VLESS | @bypass_filter | CA🇨🇦 | 0️⃣3️⃣",
-                "ip": "104.21.95.103",
-                "time": "2023-11-19 18:39:35",
-                "name": "Canada 60"
-            },
-            {
-                "type": "vless",
-                "config": "vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@bypassfilter.nuktsv.workers.dev:443?path=@bypass_filter/?ed=2048&security=tls&encryption=none&host=bypassfilter.nuktsv.workers.dev&type=ws&sni=bypassfilter.nuktsv.workers.dev#FREE | VLESS | @bypass_filter | CA🇨🇦 | 0️⃣1️⃣",
-                "ip": "172.67.166.119",
-                "time": "2023-11-19 18:39:35",
-                "name": "Canada 61"
+                "time": "2023-11-19 19:41:34",
+                "name": "Canada 50"
             },
             {
                 "type": "vless",
                 "config": "vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@bypassfilter.wrevdav.workers.dev:443?path=@bypass_filter/?ed=2048&security=tls&encryption=none&host=bypassfilter.wrevdav.workers.dev&type=ws&sni=bypassfilter.wrevdav.workers.dev#FREE | VLESS | @bypass_filter | CA🇨🇦 | 0️⃣2️⃣",
                 "ip": "104.21.19.215",
-                "time": "2023-11-19 18:39:35",
-                "name": "Canada 62"
+                "time": "2023-11-19 19:41:30",
+                "name": "Canada 51"
             },
             {
                 "type": "vless",
-                "config": "vless://9265bd76-12c9-4bea-a49e-b94d4695223f@cdnjs.com:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray&sni=Pm.RxV2ray.space#FREE | VLESS | @rxv2ray | CA🇨🇦 | 0️⃣1️⃣",
-                "ip": "172.67.81.238",
-                "time": "2023-11-19 18:39:23",
-                "name": "Canada 63"
+                "config": "vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@bypass.dd-6b2.workers.dev:443?path=@bypass_filter/?ed=2048&security=tls&encryption=none&host=bypass.dd-6b2.workers.dev&type=ws&sni=bypass.dd-6b2.workers.dev#FREE | VLESS | @bypass_filter | CA🇨🇦 | 0️⃣3️⃣",
+                "ip": "172.67.144.73",
+                "time": "2023-11-19 19:41:30",
+                "name": "Canada 52"
+            },
+            {
+                "type": "vless",
+                "config": "vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@bypassfilter.nuktsv.workers.dev:443?path=@bypass_filter/?ed=2048&security=tls&encryption=none&host=bypassfilter.nuktsv.workers.dev&type=ws&sni=bypassfilter.nuktsv.workers.dev#FREE | VLESS | @bypass_filter | CA🇨🇦 | 0️⃣1️⃣",
+                "ip": "172.67.166.119",
+                "time": "2023-11-19 19:41:30",
+                "name": "Canada 53"
+            },
+            {
+                "type": "vless",
+                "config": "vless://9265bd76-12c9-4bea-a49e-b94d4695223f@Pm.RxV2ray.space:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray&sni=Pm.RxV2ray.space#FREE | VLESS | @rxv2ray | CA🇨🇦 | 0️⃣3️⃣",
+                "ip": "172.67.169.146",
+                "time": "2023-11-19 19:41:19",
+                "name": "Canada 54"
             },
             {
                 "type": "vless",
                 "config": "vless://9265bd76-12c9-4bea-a49e-b94d4695223f@104.31.16.65:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray&sni=Pm.RxV2ray.space#FREE | VLESS | @rxv2ray | CA🇨🇦 | 0️⃣2️⃣",
                 "ip": "104.31.16.65",
-                "time": "2023-11-19 18:39:23",
-                "name": "Canada 64"
+                "time": "2023-11-19 19:41:18",
+                "name": "Canada 55"
             },
             {
                 "type": "vless",
-                "config": "vless://9265bd76-12c9-4bea-a49e-b94d4695223f@Pm.RxV2ray.space:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray&sni=Pm.RxV2ray.space#FREE | VLESS | @rxv2ray | CA🇨🇦 | 0️⃣3️⃣",
-                "ip": "172.64.80.1",
-                "time": "2023-11-19 18:39:23",
-                "name": "Canada 65"
-            },
-            {
-                "type": "vless",
-                "config": "vless://311c393d-be89-4d18-c217-e1fe8d01530c@172.67.60.78:2087?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=. . .  telegram @lOCKEY_VPN . . .  telegram @lOCKEY_VPN. . .  telegram @lOCKEY_VPN . . .  telegram @lOCKEY_VPN . . .  telegram @lOCKEY_VPN&sni=vip.Lockey-vip.site#FREE | VLESS | @Lockey_vpn | CA🇨🇦 | 0️⃣1️⃣",
-                "ip": "172.67.60.78",
-                "time": "2023-11-19 18:39:22",
-                "name": "Canada 66"
+                "config": "vless://9265bd76-12c9-4bea-a49e-b94d4695223f@cdnjs.com:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray&sni=Pm.RxV2ray.space#FREE | VLESS | @rxv2ray | CA🇨🇦 | 0️⃣1️⃣",
+                "ip": "104.24.176.7",
+                "time": "2023-11-19 19:41:18",
+                "name": "Canada 56"
             },
             {
                 "type": "vless",
                 "config": "vless://311c393d-be89-4d18-c217-e1fe8d01530c@104.16.7.157:2087?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=. . .  telegram @lOCKEY_VPN . . .  telegram @lOCKEY_VPN. . .  telegram @lOCKEY_VPN . . .  telegram @lOCKEY_VPN . . .  telegram @lOCKEY_VPN&sni=vip.Lockey-vip.site#FREE | VLESS | @Lockey_vpn | CA🇨🇦 | 0️⃣2️⃣",
                 "ip": "104.16.7.157",
-                "time": "2023-11-19 18:39:22",
-                "name": "Canada 67"
+                "time": "2023-11-19 19:41:17",
+                "name": "Canada 57"
             },
             {
                 "type": "vless",
-                "config": "vless://43500b1d-74d8-47f6-ab2b-2f035a094afb@tel.ArV2ray.host:443?path=/&security=tls&encryption=none&host=ws.ArV2ray.fun&type=ws&sni=ws.ArV2ray.fun#FREE | VLESS | @ARv2ray | CA🇨🇦 | 0️⃣3️⃣",
-                "ip": "172.67.163.123",
-                "time": "2023-11-19 18:39:20",
-                "name": "Canada 68"
+                "config": "vless://311c393d-be89-4d18-c217-e1fe8d01530c@172.67.60.78:2087?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=. . .  telegram @lOCKEY_VPN . . .  telegram @lOCKEY_VPN. . .  telegram @lOCKEY_VPN . . .  telegram @lOCKEY_VPN . . .  telegram @lOCKEY_VPN&sni=vip.Lockey-vip.site#FREE | VLESS | @Lockey_vpn | CA🇨🇦 | 0️⃣1️⃣",
+                "ip": "172.67.60.78",
+                "time": "2023-11-19 19:41:17",
+                "name": "Canada 58"
             },
             {
                 "type": "vless",
                 "config": "vless://1e99b7cb-9c41-47ea-b1e2-f82485d1d939@tel.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.ArV2ray.fun#FREE | VLESS | @ARv2ray | CA🇨🇦 | 0️⃣1️⃣",
                 "ip": "104.21.65.133",
-                "time": "2023-11-19 18:39:19",
-                "name": "Canada 69"
+                "time": "2023-11-19 19:41:15",
+                "name": "Canada 59"
             },
             {
                 "type": "vless",
-                "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:2087?path=/?ed=2048&security=tls&encryption=none&host=baipiao1.curly-train.pages.dev&type=ws&sni=baipiao1.curly-train.pages.dev#FREE | VLESS | @frev2ray | CA🇨🇦 | 0️⃣1️⃣",
-                "ip": "172.67.139.111",
-                "time": "2023-11-19 18:39:18",
-                "name": "Canada 70"
-            },
-            {
-                "type": "vless",
-                "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.19.19.58:2096?path=/?ed=2048&security=tls&encryption=none&host=baipiao1.curly-train.pages.dev&type=ws&sni=baipiao1.curly-train.pages.dev#FREE | VLESS | @frev2ray | CA🇨🇦 | 0️⃣2️⃣",
-                "ip": "104.19.19.58",
-                "time": "2023-11-19 18:39:18",
-                "name": "Canada 71"
+                "config": "vless://43500b1d-74d8-47f6-ab2b-2f035a094afb@tel.ArV2ray.host:443?path=/&security=tls&encryption=none&host=ws.ArV2ray.fun&type=ws&sni=ws.ArV2ray.fun#FREE | VLESS | @ARv2ray | CA🇨🇦 | 0️⃣3️⃣",
+                "ip": "104.21.65.133",
+                "time": "2023-11-19 19:41:15",
+                "name": "Canada 60"
             },
             {
                 "type": "vless",
                 "config": "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.22.11.129:443?path=/?ed=2048&security=tls&encryption=none&host=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev#FREE | VLESS | @frev2ray | CA🇨🇦 | 0️⃣3️⃣",
                 "ip": "104.22.11.129",
-                "time": "2023-11-19 18:39:18",
-                "name": "Canada 72"
+                "time": "2023-11-19 19:41:14",
+                "name": "Canada 61"
+            },
+            {
+                "type": "vless",
+                "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.19.19.58:2096?path=/?ed=2048&security=tls&encryption=none&host=baipiao1.curly-train.pages.dev&type=ws&sni=baipiao1.curly-train.pages.dev#FREE | VLESS | @frev2ray | CA🇨🇦 | 0️⃣2️⃣",
+                "ip": "104.19.19.58",
+                "time": "2023-11-19 19:41:14",
+                "name": "Canada 62"
+            },
+            {
+                "type": "vless",
+                "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:2087?path=/?ed=2048&security=tls&encryption=none&host=baipiao1.curly-train.pages.dev&type=ws&sni=baipiao1.curly-train.pages.dev#FREE | VLESS | @frev2ray | CA🇨🇦 | 0️⃣1️⃣",
+                "ip": "172.67.139.111",
+                "time": "2023-11-19 19:41:13",
+                "name": "Canada 63"
             },
             {
                 "type": "vless",
                 "config": "vless://VPNCUSTOMIZE@www.canva.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=confignginxV2rayng.vpncustomize.Website&fp=chrome&type=ws&sni=confignginxV2rayng.vpncustomize.Website#FREE | VLESS | @VPNCUSTOMIZE | CA🇨🇦 | 0️⃣1️⃣",
-                "ip": "104.16.224.149",
-                "time": "2023-11-19 18:39:13",
-                "name": "Canada 73"
+                "ip": "104.17.239.159",
+                "time": "2023-11-19 19:41:09",
+                "name": "Canada 64"
+            },
+            {
+                "type": "vmess",
+                "config": "vmess://eyJhZGQiOiJhbHZ2aW4uY2xpY2siLCJhaWQiOiIxIiwiYWxwbiI6IiIsImZwIjoic2FmYXJpIiwiaG9zdCI6ImFsdnZpbi5jbGljayIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkZSRUUgfCBWTUVTUyB8IEBmb3J3YXJkdjJyYXkgfCBDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6ImFsdnZpbi5jbGljayIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9",
+                "ip": "172.67.164.184",
+                "time": "2023-11-19 19:41:08",
+                "name": "Canada 65"
+            },
+            {
+                "type": "vless",
+                "config": "vless://756d48ba-3c93-4cd7-95d7-7e0e0d39646a@usa1cf.iranspeed.me:2087?security=tls&type=ws&host=usa1.iranspeed.me&headerType=&path=/&sni=usa1.iranspeed.me&fp=chrome&alpn=http/1.1#FREE | VLESS | @ConfigsHUB | CA🇨🇦 | 0️⃣1️⃣",
+                "ip": "172.64.151.101",
+                "time": "2023-11-19 19:40:47",
+                "name": "Canada 66"
+            },
+            {
+                "type": "vless",
+                "config": "vless://dfd236ff-46af-4c2c-e6b8-c20c3d09d279@Join.V2RayTz.sbs:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LIGHTNING6&sni=Z.LiV2ray.top#FREE | VLESS | @V2RayTz | CA🇨🇦 | 0️⃣3️⃣",
+                "ip": "104.21.92.198",
+                "time": "2023-11-19 19:36:38",
+                "name": "Canada 67"
             },
             {
                 "type": "vless",
                 "config": "vless://07441675-7d53-4f23-800e-087f867a4c6e@mtn.vpnprosec.com:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=V2ray.SvnBuy.Online#FREE | VLESS | @customv2ray | CA🇨🇦 | 0️⃣3️⃣",
-                "ip": "104.21.65.133",
+                "ip": "172.67.163.123",
                 "time": "2023-11-19 18:31:16",
-                "name": "Canada 74"
+                "name": "Canada 68"
             },
             {
                 "type": "vless",
                 "config": "vless://14ddd817-a070-4f7e-b31d-535523702b25@vl28.rnd.biz.id:443?path=/?ed&security=tls&encryption=none&type=ws&sni=vl28.rnd.biz.id#FREE | VLESS | @customv2ray | CA🇨🇦 | 0️⃣2️⃣",
-                "ip": "172.67.221.199",
+                "ip": "104.21.78.131",
                 "time": "2023-11-19 18:30:35",
-                "name": "Canada 75"
+                "name": "Canada 69"
             },
             {
                 "type": "vmess",
                 "config": "vmess://eyJhZGQiOiJhLmFzZ2hhci1oYW1yYWguc3RvcmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiJ5dWp0dSIsInBvcnQiOiIyMDg3IiwicHMiOiJGUkVFIHwgVk1FU1MgfCBAY3VzdG9tdjJyYXkgfCBDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiB8IDBcdWZlMGZcdTIwZTMyXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6Im8zMC5hc2doYXItaGFtcmFoLnN0b3JlIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=",
-                "ip": "104.21.33.191",
+                "ip": "172.64.80.1",
                 "time": "2023-11-19 18:27:42",
-                "name": "Canada 76"
+                "name": "Canada 70"
             },
             {
                 "type": "vmess",
                 "config": "vmess://eyJhZGQiOiIwMy5yYXR0dHRlbGxvb29vLnN0b3JlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxYTc2YTlkLTgxOGEtNGRlMC04ODMyLTBiNjExZmQ4ZmRkZiIsIm5ldCI6ImdycGMiLCJwYXRoIjoia2prayIsInBvcnQiOiIyMDg3IiwicHMiOiJGUkVFIHwgVk1FU1MgfCBAY3VzdG9tdjJyYXkgfCBDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6IjAzLnJhdHR0dGVsbG9vb28uc3RvcmUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==",
                 "ip": "104.21.77.84",
                 "time": "2023-11-19 18:27:14",
-                "name": "Canada 77"
+                "name": "Canada 71"
             },
             {
                 "type": "vless",
                 "config": "vless://VPNCUSTOMiZE@www.canva.com:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=confignginxV2rayng.vpncustomize.Website&fp=chrome&type=ws&sni=confignginxV2rayng.vpncustomize.Website#FREE | VLESS | @proxyymeliii | CA🇨🇦 | 0️⃣2️⃣",
-                "ip": "104.16.224.149",
+                "ip": "104.17.239.159",
                 "time": "2023-11-19 18:18:25",
-                "name": "Canada 78"
+                "name": "Canada 72"
             },
             {
                 "type": "trojan",
                 "config": "trojan://telegram-id-directvpn@35.182.204.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#FREE | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣2️⃣",
                 "ip": "35.182.204.195",
                 "time": "2023-11-19 18:00:15",
-                "name": "Canada 79"
+                "name": "Canada 73"
             },
             {
                 "type": "vmess",
                 "config": "vmess://eyJhZGQiOiIxNzIuNjcuODQuMTc0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYW5zYXMuS290aWNrLnNpdGUiLCJpZCI6IkQ4ODEzRENCLTQyNkMtNDk1Mi1CMzg0LTg5NTFCMDQ0NEVDMSIsIm5ldCI6IndzIiwicGF0aCI6Ilwvc3BlZWR0ZXN0P2VkPTIwNDgiLCJwb3J0IjoiNDQzIiwicHMiOiJGUkVFIHwgVk1FU1MgfCBAaVBfQ0YgfCBDQVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6ImthbnNhcy5Lb3RpY2suc2l0ZSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9",
-                "ip": "104.21.7.237",
+                "ip": "172.67.156.138",
                 "time": "2023-11-19 17:52:43",
-                "name": "Canada 80"
-            },
-            {
-                "type": "vless",
-                "config": "vless://dfd236ff-46af-4c2c-e6b8-c20c3d09d279@Join.V2RayTz.sbs:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LIGHTNING6&sni=Z.LiV2ray.top#FREE | VLESS | @V2RayTz | CA🇨🇦 | 0️⃣3️⃣",
-                "ip": "172.64.80.1",
-                "time": "2023-11-19 17:51:53",
-                "name": "Canada 81"
+                "name": "Canada 74"
             },
             {
                 "type": "vless",
                 "config": "vless://79a42102-c35c-4714-9c0d-f98e5041f06b@Join.V2RayTz.sbs:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&sni=CaNNectV2ray-OnlyIRAN-mCi-iraracnzsk-rgt-mkh.varzesh3-CND.site#FREE | VLESS | @V2RayTz | CA🇨🇦 | 0️⃣2️⃣",
-                "ip": "172.64.80.1",
+                "ip": "104.21.92.198",
                 "time": "2023-11-19 17:51:52",
-                "name": "Canada 82"
+                "name": "Canada 75"
             },
             {
                 "type": "vless",
                 "config": "vless://c123f1a0-7ae8-45d1-e22d-cd253c55eaeb@Join.V2RayTz.sbs:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LIGHTNING6&sni=Z.LiV2ray.top#FREE | VLESS | @V2RayTz | CA🇨🇦 | 0️⃣1️⃣",
-                "ip": "172.64.80.1",
+                "ip": "104.21.92.198",
                 "time": "2023-11-19 17:51:48",
-                "name": "Canada 83"
+                "name": "Canada 76"
             },
             {
                 "type": "reality",
                 "config": "vless://4ed2949d-ad58-4c27-af0d-c6d45b86f76c@20.151.106.244:23855?mode=gun&security=reality&encryption=none&pbk=h8YYFd4px-G28ueH0lPXvUMJO-8g_gGSLbJsrLfI91Q&fp=firefox&spx=/&type=grpc&serviceName=@proxyforopeta&sni=speed.cloudflare.com&sid=ff4034c8#FREE | REALITY | @ProxyForOpeta | CA🇨🇦 | 0️⃣2️⃣",
                 "ip": "20.151.106.244",
                 "time": "2023-11-19 17:48:38",
-                "name": "Canada 84"
+                "name": "Canada 77"
             },
             {
                 "type": "vless",
                 "config": "vless://SHHPROXY@support.discord.com:2087?path=/&security=tls&encryption=none&host=configngnixV2rayng.shhproxy.cfd&type=ws&sni=configngnixV2rayng.shhproxy.cfd#FREE | VLESS | @shh_proxy | CA🇨🇦 | 0️⃣3️⃣",
-                "ip": "162.159.136.232",
+                "ip": "162.159.137.232",
                 "time": "2023-11-19 17:05:44",
-                "name": "Canada 85"
+                "name": "Canada 78"
             },
             {
                 "type": "vless",
                 "config": "vless://30a0ab36-3576-426f-9e96-ef180e796923@104.16.31.197:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-&sni=myjfkuyktfkytf.mic-mokhaderat-irancell-shatel-irancel.shop#FREE | VLESS | @servermomo | CA🇨🇦 | 0️⃣3️⃣",
                 "ip": "104.16.31.197",
                 "time": "2023-11-19 15:00:47",
-                "name": "Canada 86"
+                "name": "Canada 79"
             },
             {
                 "type": "vless",
                 "config": "vless://SHHPROXY@all.shhproxy.cfd:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&sni=CaNNectV2ray-OnlyIRAN-mCi-iraracnzsk-rgt-mkh.varzesh3-CND.site#FREE | VLESS | @shh_proxy | CA🇨🇦 | 0️⃣2️⃣",
                 "ip": "162.159.1.94",
                 "time": "2023-11-19 12:51:02",
-                "name": "Canada 87"
+                "name": "Canada 80"
             },
             {
                 "type": "vless",
                 "config": "vless://f3d027b1-17c0-4afe-bc81-3bad5b01450f@support.discord.com:2087?path=/&security=tls&encryption=none&host=configngnixV2rayng.shhproxy.cfd&type=ws&sni=configngnixV2rayng.shhproxy.cfd#FREE | VLESS | @shh_proxy | CA🇨🇦 | 0️⃣1️⃣",
-                "ip": "162.159.135.232",
+                "ip": "162.159.137.232",
                 "time": "2023-11-19 12:02:02",
-                "name": "Canada 88"
+                "name": "Canada 81"
             },
             {
                 "type": "vless",
                 "config": "vless://3ae12969-0e6e-4134-87b3-881a4d8bd7c0@jioin-severnett8.numalla.top:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&sni=jioin-severnett8.numalla.top#FREE | VLESS | @ServerNett | CA🇨🇦 | 0️⃣1️⃣",
-                "ip": "104.21.45.134",
+                "ip": "172.67.214.166",
                 "time": "2023-11-18 23:53:19",
-                "name": "Canada 89"
+                "name": "Canada 82"
+            },
+            {
+                "type": "vmess",
+                "config": "vmess://eyJhZGQiOiIxMDQuMTguMjEzLjEyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6InNhZmFyaSIsImhvc3QiOiJzdWIueG4tLTlrcTg5ZDR5MGcudG9wIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL29jdGF2aS5jZmQ6NDQzXC9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiRlJFRSB8IFZNRVNTIHwgQFYycmF5Q29sbGVjdG9yRG9uYXRlIHwgQ0FcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiJzdWIueG4tLTlrcTg5ZDR5MGcudG9wIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=",
+                "ip": "172.67.166.231",
+                "time": "2023-11-18 17:47:02",
+                "name": "Canada 83"
             },
             {
                 "type": "vless",
                 "config": "vless://aef3b456-2f83-4ca6-a66c-32bd2f534b68@162.159.138.6:80?path=/?ed=2048&security=none&encryption=none&host=ac7.zxv.biz.id&type=ws#FREE | VLESS | @V2rayCollectorDonate | CA🇨🇦 | 0️⃣5️⃣",
                 "ip": "162.159.138.6",
                 "time": "2023-11-18 14:57:51",
-                "name": "Canada 90"
+                "name": "Canada 84"
             },
             {
                 "type": "vless",
                 "config": "vless://c4dcb54f-3b85-42c5-8ba9-65e2b0fb4b1d@104.16.31.197:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-&sni=hukfyukgilkgil.mic-mokhaderat-irancell-shatel-irancel.shop#FREE | VLESS | @Awlix_V2RAY | CA🇨🇦 | 0️⃣2️⃣",
                 "ip": "104.16.31.197",
                 "time": "2023-11-18 10:48:11",
-                "name": "Canada 91"
+                "name": "Canada 85"
             },
             {
                 "type": "vless",
                 "config": "vless://62528c64-b48a-4ca7-9594-1222af97f8aa@162.159.136.38:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-&sni=nnhtkutuftfitfkuykuyfjhgfmhgf.mic-mokhaderat-irancell-shatel-irancel.shop#FREE | VLESS | @Awlix_V2RAY | CA🇨🇦 | 0️⃣1️⃣",
                 "ip": "162.159.136.38",
                 "time": "2023-11-18 10:43:27",
-                "name": "Canada 92"
+                "name": "Canada 86"
             },
             {
                 "type": "trojan",
                 "config": "trojan://Qk5naxAaTd@cdn.proxystore11.site:2083?mode=multi&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11&sni=cdn.proxystore11.site#FREE | TROJAN | @proxystore11 | CA🇨🇦 | 0️⃣3️⃣",
-                "ip": "172.67.138.106",
+                "ip": "104.21.78.234",
                 "time": "2023-11-18 08:59:48",
-                "name": "Canada 93"
+                "name": "Canada 87"
             },
             {
                 "type": "trojan",
                 "config": "trojan://VnQFHKa2pj@cdn.proxystore11.site:2083?type=grpc&serviceName=‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11&mode=multi&security=tls&fp=chrome&alpn=h2,http/1.1&sni=cdn.proxystore11.site#FREE | TROJAN | @proxystore11 | CA🇨🇦 | 0️⃣2️⃣",
                 "ip": "172.67.138.106",
                 "time": "2023-11-18 08:43:09",
-                "name": "Canada 94"
+                "name": "Canada 88"
             },
             {
                 "type": "vless",
                 "config": "vless://57720ac6-0db3-4be2-a581-8a50092ee335@104.16.31.197:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-Telegramjoin:@servermomo-&sni=myjfkuyktfkytf.mic-mokhaderat-irancell-shatel-irancel.shop#FREE | VLESS | @servermomo | CA🇨🇦 | 0️⃣1️⃣",
                 "ip": "104.16.31.197",
                 "time": "2023-11-17 19:37:59",
-                "name": "Canada 95"
+                "name": "Canada 89"
+            },
+            {
+                "type": "vless",
+                "config": "vless://6e366d9e-b59d-46a0-b68b-943da89114d7@all.vipxali.cfd:2083?mode=gun&security=tls&encryption=none&alpn=http/1.1,h2&type=grpc&serviceName=@XsV2ray,@XsV2ray@XsV2ray&sni=fe.XsV2ray.cfd#FREE | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣2️⃣",
+                "ip": "104.16.219.215",
+                "time": "2023-11-17 18:11:57",
+                "name": "Canada 90"
             },
             {
                 "type": "reality",
                 "config": "vless://014a013d-1843-4646-8ebb-af26f843a5ce@20.151.106.244:25623?mode=gun&security=reality&encryption=none&pbk=mXFv4TPRjjubNQsMLjcfvhv66u1TMmZ2rQ15hUHujVs&fp=firefox&spx=/&type=grpc&serviceName=@proxyforopeta&sni=discord.com&sid=ef5ee749#FREE | REALITY | @ProxyForOpeta | CA🇨🇦 | 0️⃣1️⃣",
                 "ip": "20.151.106.244",
                 "time": "2023-11-17 13:15:00",
-                "name": "Canada 96"
+                "name": "Canada 91"
             },
             {
                 "type": "vless",
                 "config": "vless://82fede71-1c16-4b24-95cd-6794ecb58e30@cdn.proxystore11.site:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11&sni=cdn.proxystore11.site#FREE | VLESS | @proxystore11 | CA🇨🇦 | 0️⃣3️⃣",
-                "ip": "104.21.78.234",
+                "ip": "172.67.138.106",
                 "time": "2023-11-17 08:22:15",
-                "name": "Canada 97"
+                "name": "Canada 92"
             },
             {
                 "type": "vless",
                 "config": "vless://84d98207-c921-4d47-afff-c5b1a6b901db@panel.proxystore11.site:443?mode=gun&security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=grpc&serviceName=‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11&sni=cdn.proxystore11.site#FREE | VLESS | @proxystore11 | CA🇨🇦 | 0️⃣2️⃣",
-                "ip": "172.67.138.106",
+                "ip": "172.64.80.1",
                 "time": "2023-11-16 19:44:09",
-                "name": "Canada 98"
+                "name": "Canada 93"
             },
             {
                 "type": "vless",
-                "config": "vless://1cc3e063-fee5-4eb4-85c9-2da23b5bb7bc@Cdnjs.com:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=pm.VipXali.cfd#FREE | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣3️⃣",
-                "ip": "172.67.81.238",
+                "config": "vless://81784f37-6a25-4516-bdda-f86fcda5715f@all.vipxali.cfd:2083?mode=gun&security=tls&encryption=none&alpn=http/1.1,h2&type=grpc&serviceName=@XsV2ray,@XsV2ray@XsV2ray&sni=fe.XsV2ray.cfd#FREE | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣1️⃣",
+                "ip": "104.16.219.215",
                 "time": "2023-11-16 18:53:26",
-                "name": "Canada 99"
+                "name": "Canada 94"
             },
             {
                 "type": "vless",
                 "config": "vless://1e71c8c0-1fcb-4265-bdbc-649b8601bbeb@all.vipxali.cfd:2083?mode=gun&security=tls&encryption=none&alpn=http/1.1,h2&type=grpc&serviceName=@V2rayNgMat,@V2rayNgMat,@V2rayNgMat&sni=pe.XsV2ray.cfd#FREE | VLESS | @V2rayNGmat | CA🇨🇦 | 0️⃣2️⃣",
                 "ip": "104.16.219.215",
                 "time": "2023-11-16 13:14:37",
-                "name": "Canada 100"
+                "name": "Canada 95"
             },
             {
                 "type": "vless",
                 "config": "vless://d011c5ea-dfac-4230-886b-8132baa02061@cdn.proxystore11.site:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11&sni=cdn.proxystore11.site#FREE | VLESS | @proxystore11 | CA🇨🇦 | 0️⃣1️⃣",
                 "ip": "172.67.138.106",
                 "time": "2023-11-16 08:32:40",
-                "name": "Canada 101"
+                "name": "Canada 96"
             },
             {
                 "type": "vless",
                 "config": "vless://72daa3ba-7491-4ee6-9077-ded3bc5a454a@all.vipxali.cfd:2083?mode=gun&security=tls&encryption=none&alpn=http/1.1,h2&type=grpc&serviceName=@V2rayNgMat,@V2rayNgMat,@V2rayNgMat&sni=pe.XsV2ray.cfd#FREE | VLESS | @V2rayNGmat | CA🇨🇦 | 0️⃣1️⃣",
                 "ip": "104.16.219.215",
                 "time": "2023-11-15 22:19:12",
-                "name": "Canada 102"
+                "name": "Canada 97"
             },
             {
                 "type": "vless",
                 "config": "vless://e5bb73ea-9cf5-436b-aa78-29881205cb99@join.v2team.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMgonTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM&sni=V2ray-NAPSTERNET-IRANCELL-iran-fair-MKH.Snappfoodd.site#FREE | VLESS | @v2_team | CA🇨🇦 | 0️⃣3️⃣",
                 "ip": "104.24.177.7",
                 "time": "2023-11-14 21:50:27",
-                "name": "Canada 103"
+                "name": "Canada 98"
             },
             {
                 "type": "vless",
                 "config": "vless://f61a0074-b15a-4f08-816f-8ee0583a9ae8@join.v2team.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMgonTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM&sni=V2ray-NAPSTERNET-IRANCELL-iran-fair-MKH.Snappfoodd.site#FREE | VLESS | @v2_team | CA🇨🇦 | 0️⃣2️⃣",
                 "ip": "104.24.177.7",
                 "time": "2023-11-14 21:48:42",
-                "name": "Canada 104"
+                "name": "Canada 99"
             },
             {
                 "type": "vless",
                 "config": "vless://5e213485-a53e-43de-b3fc-b45b0297df7f@join.v2team.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMgonTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM&sni=V2ray-NAPSTERNET-IRANCELL-iran-fair-MKH.Snappfoodd.site#FREE | VLESS | @v2_team | CA🇨🇦 | 0️⃣1️⃣",
                 "ip": "104.24.177.7",
                 "time": "2023-11-13 08:46:38",
-                "name": "Canada 105"
+                "name": "Canada 100"
             },
             {
                 "type": "vless",
                 "config": "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@542.outline-vpn.cloud:443?path=/?ed=2048&security=tls&encryption=none&host=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev#FREE | VLESS | @v2rayng_config_amin | CA🇨🇦 | 0️⃣1️⃣",
                 "ip": "172.64.153.211",
                 "time": "2023-10-26 00:20:00",
-                "name": "Canada 106"
+                "name": "Canada 101"
             }
         ]
     },
@@ -981,21 +932,21 @@
                 "type": "vless",
                 "config": "vless://460f6b25-d555-4f75-a980-ff05dfb568d1@svt55.iranvipnet.com:12040?path=/&security=none&encryption=none&type=ws#FREE | VLESS | @hcv2ray | IR🇮🇷 | 0️⃣3️⃣",
                 "ip": "2.189.130.82",
-                "time": "2023-11-19 18:41:34",
+                "time": "2023-11-19 19:43:11",
                 "name": "Iran 1"
             },
             {
                 "type": "vless",
                 "config": "vless://23b98ecb-e2be-481d-9708-f90259f925db@online.4zkaban.xyz:80?path=@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config&security=none&encryption=none&host=13.ok-config-18.buzz&type=ws#FREE | VLESS | @prrofile_purple | IR🇮🇷 | 0️⃣1️⃣",
                 "ip": "185.143.233.225",
-                "time": "2023-11-19 18:40:43",
+                "time": "2023-11-19 19:42:23",
                 "name": "Iran 2"
             },
             {
                 "type": "vmess",
-                "config": "vmess://eyJ2IjoiMiIsInBzIjoiRlJFRSB8IFZNRVNTIHwgQFYycmF5Q29sbGVjdG9yRG9uYXRlIHwgSVJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsImFkZCI6Im94aWRldnAuZGRucy5uZXQiLCJwb3J0IjozNjc4NiwiaWQiOiI1YTYyYjcyZC0xZmJlLTRhM2YtOTgyMC1lNTg4MGIwODI4ZGYiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInRscyI6Im5vbmUiLCJwYXRoIjoiXC8iLCJob3N0IjoidGVsZXdlYmlvbi5jb20ifQ==",
+                "config": "vmess://eyJ2IjoiMiIsInBzIjoiRlJFRSB8IFZNRVNTIHwgQFYycmF5Q29sbGVjdG9yRG9uYXRlIHwgSVJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgfCAwXHVmZTBmXHUyMGUzMlx1ZmUwZlx1MjBlMyIsImFkZCI6Im94aWRldnAuZGRucy5uZXQiLCJwb3J0IjozNjc4NiwiaWQiOiI1YTYyYjcyZC0xZmJlLTRhM2YtOTgyMC1lNTg4MGIwODI4ZGYiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInRscyI6Im5vbmUiLCJwYXRoIjoiXC8iLCJob3N0IjoidGVsZXdlYmlvbi5jb20ifQ==",
                 "ip": "188.0.241.5",
-                "time": "2023-11-18 12:30:16",
+                "time": "2023-11-19 01:53:06",
                 "name": "Iran 3"
             },
             {
@@ -1058,14 +1009,14 @@
                 "type": "vless",
                 "config": "vless://3fac0e66-13a0-443f-fd7a-8c0b027e4632@mtn.MsV2ray.space:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray&sni=de.MsV2ray.cfd#FREE | VLESS | @MsV2ray | RU🇷🇺 | 0️⃣1️⃣",
                 "ip": "45.67.215.70",
-                "time": "2023-11-19 18:41:42",
+                "time": "2023-11-19 19:43:27",
                 "name": "Russia 1"
             },
             {
                 "type": "vmess",
-                "config": "vmess://eyJhZGQiOiJ3d3cudW5wa2cuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJydTEtdm1lc3Muc3NobWF4Lnh5eiIsImlkIjoiMjMwNGQ5MGItMmEwMy00OWE3LWJhMmQtYjFlYjVlMTZmYmYyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiRlJFRSB8IFZNRVNTIHwgQFYycmF5Q29sbGVjdG9yRG9uYXRlIHwgUlVcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZmEgfCAwXHVmZTBmXHUyMGUzMlx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
+                "config": "vmess://eyJhZGQiOiJ3d3cudW5wa2cuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJydTEtdm1lc3Muc3NobWF4Lnh5eiIsImlkIjoiMjMwNGQ5MGItMmEwMy00OWE3LWJhMmQtYjFlYjVlMTZmYmYyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiRlJFRSB8IFZNRVNTIHwgQFYycmF5Q29sbGVjdG9yRG9uYXRlIHwgUlVcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZmEgfCAwXHVmZTBmXHUyMGUzM1x1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
                 "ip": "103.113.68.233",
-                "time": "2023-11-18 17:47:02",
+                "time": "2023-11-19 18:53:10",
                 "name": "Russia 2"
             }
         ]
@@ -1079,15 +1030,22 @@
                 "type": "reality",
                 "config": "vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=partner.g2.com#FREE | REALITY | @FreakConfig | NO🇳🇴 | 0️⃣3️⃣",
                 "ip": "185.125.171.13",
-                "time": "2023-11-19 18:42:45",
+                "time": "2023-11-19 19:44:29",
                 "name": "Norway 1"
             },
             {
                 "type": "vmess",
-                "config": "vmess://eyJhZGQiOiI5NS4xNjQuMzguMjIzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNlOWNjZWUxLThjMGUtNGVhNC04ZDkzLTdiODk2ZWM1NGUzMSIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiRlJFRSB8IFZNRVNTIHwgQHYycmF5X291dGxpbmVpciB8IE5PXHVkODNjXHVkZGYzXHVkODNjXHVkZGY0IHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imd1biIsInYiOiIyIn0=",
+                "config": "vmess://eyJhZGQiOiI5NS4xNjQuMzguMjIzIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImNlOWNjZWUxLThjMGUtNGVhNC04ZDkzLTdiODk2ZWM1NGUzMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJGUkVFIHwgVk1FU1MgfCBAdjJyYXlfb3V0bGluZWlyIHwgTk9cdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjQgfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
                 "ip": "95.164.38.223",
-                "time": "2023-11-19 18:40:36",
+                "time": "2023-11-19 19:42:15",
                 "name": "Norway 2"
+            },
+            {
+                "type": "vmess",
+                "config": "vmess://eyJhZGQiOiI5NS4xNjQuMzguMjIzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNlOWNjZWUxLThjMGUtNGVhNC04ZDkzLTdiODk2ZWM1NGUzMSIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiRlJFRSB8IFZNRVNTIHwgQHYycmF5X291dGxpbmVpciB8IE5PXHVkODNjXHVkZGYzXHVkODNjXHVkZGY0IHwgMFx1ZmUwZlx1MjBlMzJcdWZlMGZcdTIwZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imd1biIsInYiOiIyIn0=",
+                "ip": "95.164.38.223",
+                "time": "2023-11-19 19:42:15",
+                "name": "Norway 3"
             }
         ]
     },
@@ -1098,23 +1056,23 @@
         "configs": [
             {
                 "type": "trojan",
-                "config": "trojan://telegram-id-directvpn@52.210.81.88:22222?type=tcp&security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1#FREE | TROJAN | @oneclickvpnkeys | IE🇮🇪 | 0️⃣3️⃣",
-                "ip": "52.210.81.88",
-                "time": "2023-11-19 18:40:40",
+                "config": "trojan://telegram-id-directvpn@52.19.244.180:22222?type=tcp&security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1#FREE | TROJAN | @oneclickvpnkeys | IE🇮🇪 | 0️⃣2️⃣",
+                "ip": "52.19.244.180",
+                "time": "2023-11-19 19:42:19",
                 "name": "Ireland 1"
             },
             {
                 "type": "trojan",
-                "config": "trojan://telegram-id-directvpn@52.19.244.180:22222?type=tcp&security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1#FREE | TROJAN | @oneclickvpnkeys | IE🇮🇪 | 0️⃣2️⃣",
-                "ip": "52.19.244.180",
-                "time": "2023-11-19 18:40:39",
+                "config": "trojan://telegram-id-directvpn@52.210.81.88:22222?type=tcp&security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1#FREE | TROJAN | @oneclickvpnkeys | IE🇮🇪 | 0️⃣3️⃣",
+                "ip": "52.210.81.88",
+                "time": "2023-11-19 19:42:19",
                 "name": "Ireland 2"
             },
             {
                 "type": "vmess",
-                "config": "vmess://eyJhZGQiOiJyb3lhbGdhbWVlLnJveWFscGluZy54eXoiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmQ1YmZiNDYtNDkxYi00NGQwLTkxMmQtYTEzYjgxY2I5ODRiIiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMTIzNDUiLCJwcyI6IkZSRUUgfCBWTUVTUyB8IEB2MnJheV9vdXRsaW5laXIgfCBJRVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRlYSB8IDBcdWZlMGZcdTIwZTMyXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9",
+                "config": "vmess://eyJhZGQiOiJyb3lhbGdhbWVlLnJveWFscGluZy54eXoiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmQ1YmZiNDYtNDkxYi00NGQwLTkxMmQtYTEzYjgxY2I5ODRiIiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMTIzNDUiLCJwcyI6IkZSRUUgfCBWTUVTUyB8IEB2MnJheV9vdXRsaW5laXIgfCBJRVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRlYSB8IDBcdWZlMGZcdTIwZTMzXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9",
                 "ip": "3.249.250.197",
-                "time": "2023-11-19 18:40:36",
+                "time": "2023-11-19 19:42:15",
                 "name": "Ireland 3"
             },
             {
@@ -1142,14 +1100,14 @@
                 "type": "vmess",
                 "config": "vmess://eyJ2IjoiMiIsInBzIjoiRlJFRSB8IFZNRVNTIHwgQG1mdGl6aSB8IENOXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIHwgMFx1ZmUwZlx1MjBlMzFcdWZlMGZcdTIwZTMiLCJhZGQiOiIxODMuMjM4LjIwMi4xNzMiLCJwb3J0IjoiNTE5MDQiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0Iiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==",
                 "ip": "183.238.202.173",
-                "time": "2023-11-19 18:40:37",
+                "time": "2023-11-19 19:42:16",
                 "name": "China 1"
             },
             {
                 "type": "vmess",
                 "config": "vmess://eyJ2IjoiMiIsInBzIjoiRlJFRSB8IFZNRVNTIHwgQG1mdGl6aSB8IENOXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIHwgMFx1ZmUwZlx1MjBlMzJcdWZlMGZcdTIwZTMiLCJhZGQiOiIxMTIuMjkuOTQuMjIiLCJwb3J0IjoiNTMzMDAiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0Iiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==",
                 "ip": "112.29.94.22",
-                "time": "2023-11-19 18:40:37",
+                "time": "2023-11-19 19:42:16",
                 "name": "China 2"
             }
         ]
@@ -1163,14 +1121,14 @@
                 "type": "vmess",
                 "config": "vmess://eyJhZGQiOiI1LjE2MS4yMDkuMTk5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJpbnRlcm5ldC5saWZlLmNvbS5ieSIsImlkIjoiZGRhYTliZTQtNTk3ZS00NDQwLTk3ZDItMWMyY2VkNjJhYzUwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjgwIiwicHMiOiJGUkVFIHwgVk1FU1MgfCBAdjJyYXkxX25nIHwgQllcdWQ4M2NcdWRkZTdcdWQ4M2NcdWRkZmUgfCAwXHVmZTBmXHUyMGUzMVx1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=",
                 "ip": "81.30.80.83",
-                "time": "2023-11-19 18:41:45",
+                "time": "2023-11-19 19:43:31",
                 "name": "Belarus 1"
             },
             {
                 "type": "vmess",
                 "config": "vmess://eyJhZGQiOiI5MS4xMDcuMTQ2LjExNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaW50ZXJuZXQubGlmZS5jb20uYnkiLCJpZCI6IjNkMWZhYjZlLTNiZDYtNDcyYi04ZDljLTk5MzRjMDRlYWY0MCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiI0NDMiLCJwcyI6IkZSRUUgfCBWTUVTUyB8IEBRdjJyYXlET05BVEVEIHwgQllcdWQ4M2NcdWRkZTdcdWQ4M2NcdWRkZmUgfCAwXHVmZTBmXHUyMGUzM1x1ZmUwZlx1MjBlMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=",
                 "ip": "81.30.80.83",
-                "time": "2023-11-19 18:41:28",
+                "time": "2023-11-19 19:43:08",
                 "name": "Belarus 2"
             },
             {
@@ -1212,357 +1170,357 @@
                 "type": "reality",
                 "config": "vless://8bc7453b-9b9b-47bf-9643-41c64b8f9396@flyv2ray.ddns.net:443?mode=gun&security=reality&encryption=none&pbk=xq6RYOPcRTrtWBzj2q6iiecamHAREvsoffEgfgtgKm0&fp=firefox&spx=/&type=grpc&serviceName=@flyv2ray&sni=greenpepper.ir&sid=15273896#FREE | REALITY | @flyv2ray | DE🇩🇪 | 0️⃣1️⃣",
                 "ip": "128.140.125.127",
-                "time": "2023-11-19 18:42:50",
+                "time": "2023-11-19 19:44:43",
                 "name": "Germany 1"
             },
             {
                 "type": "reality",
                 "config": "vless://637c8201-88fd-4155-cf06-9abe6bc92abc@5.75.238.19:443?mode=gun&security=reality&encryption=none&pbk=oZj27mSr1xoRXsqgifWh8R3pBKXW-bF3e6CAgejZvG4&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=638ca3d3#FREE | REALITY | @flyv2ray | DE🇩🇪 | 0️⃣3️⃣",
                 "ip": "5.75.238.19",
-                "time": "2023-11-19 18:42:50",
+                "time": "2023-11-19 19:44:43",
                 "name": "Germany 2"
             },
             {
                 "type": "vless",
                 "config": "vless://fe069cf6-df14-4aac-822e-8888f4cca510@rw7.v2parsin.site:10835?type=tcp&path=/&host=fast.com&headerType=http&security=none#FREE | VLESS | @V2parsin | DE🇩🇪 | 0️⃣3️⃣",
-                "ip": "128.140.107.154",
-                "time": "2023-11-19 18:42:47",
-                "name": "Germany 3"
-            },
-            {
-                "type": "vless",
-                "config": "vless://fe069cf6-df14-4aac-822e-8888f4cca510@rw7.v2parsin.site:10835?type=tcp&path=/&host=Telewebion.com&headerType=http&security=none#FREE | VLESS | @V2parsin | DE🇩🇪 | 0️⃣2️⃣",
                 "ip": "157.90.16.192",
-                "time": "2023-11-19 18:42:47",
-                "name": "Germany 4"
+                "time": "2023-11-19 19:44:31",
+                "name": "Germany 3"
             },
             {
                 "type": "vless",
                 "config": "vless://fe069cf6-df14-4aac-822e-8888f4cca510@rw7.v2parsin.site:10835?type=tcp&path=/&host=soft98.ir&headerType=http&security=none#FREE | VLESS | @V2parsin | DE🇩🇪 | 0️⃣1️⃣",
                 "ip": "157.90.16.192",
-                "time": "2023-11-19 18:42:47",
+                "time": "2023-11-19 19:44:31",
+                "name": "Germany 4"
+            },
+            {
+                "type": "vless",
+                "config": "vless://fe069cf6-df14-4aac-822e-8888f4cca510@rw7.v2parsin.site:10835?type=tcp&path=/&host=Telewebion.com&headerType=http&security=none#FREE | VLESS | @V2parsin | DE🇩🇪 | 0️⃣2️⃣",
+                "ip": "128.140.107.154",
+                "time": "2023-11-19 19:44:31",
                 "name": "Germany 5"
             },
             {
                 "type": "reality",
                 "config": "vless://e9285aa6-c169-4b00-a930-aec4eb571999@shabdiz.kermanshah.fun:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ipsw.me&alpn=http/1.1&fp=chrome&security=reality&pbk=yvST7IS7c400DGyW4HwHI2c2ZrV8znWHZGV8jbiz4Wo&sid=8911ac48#FREE | REALITY | @Capital_NET | DE🇩🇪 | 0️⃣3️⃣",
                 "ip": "88.99.86.235",
-                "time": "2023-11-19 18:42:41",
+                "time": "2023-11-19 19:44:24",
                 "name": "Germany 6"
             },
             {
                 "type": "reality",
                 "config": "vless://1acbc73b-893f-4ef8-86a7-238696cd8f05@162.55.177.77:17253?security=reality&encryption=none&pbk=PM2j-hcfayBt0-v0_b6_Vd7Mk5jvau0TZxme407ZVUI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=discord.gg&sid=fcb55fbf#FREE | REALITY | @v2rayng_vpnrog | DE🇩🇪 | 0️⃣3️⃣",
                 "ip": "162.55.177.77",
-                "time": "2023-11-19 18:42:38",
+                "time": "2023-11-19 19:44:22",
                 "name": "Germany 7"
             },
             {
                 "type": "reality",
                 "config": "vless://bd08dd0f-753a-443b-b9b1-2fc0f3804116@157.90.116.41:17253?security=reality&encryption=none&pbk=qh-W3ggqbzMW1_UXrXbKvnOzTB98eDOP7sX1kVtw31M&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=discord.gg&sid=4a344c26#FREE | REALITY | @v2rayng_vpnrog | DE🇩🇪 | 0️⃣2️⃣",
                 "ip": "157.90.116.41",
-                "time": "2023-11-19 18:42:38",
+                "time": "2023-11-19 19:44:21",
                 "name": "Germany 8"
+            },
+            {
+                "type": "reality",
+                "config": "vless://2e86a45a-9515-409c-bf99-9ea12ad9e0ad@167.235.234.119:443?mode=gun&security=reality&encryption=none&pbk=SysatkOQncJUj02ltbtjg8YcyCXxl1nhYN98f2zZORM&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=dnschecker.org&sid=f5361167#FREE | REALITY | @VPNCLOP | DE🇩🇪 | 0️⃣3️⃣",
+                "ip": "167.235.234.119",
+                "time": "2023-11-19 19:44:13",
+                "name": "Germany 9"
             },
             {
                 "type": "reality",
                 "config": "vless://b9f7ac7f-352b-49ee-9ac3-2883038eb700@185.158.251.36:8081?security=reality&sni=github.com&fp=chrome&pbk=0KZk8gBbFpTz4mF1y9UZhwZGFBv0zZeGe7sqdteCpUs&sid=01f0926c&type=tcp&flow=xtls-rprx-vision&encryption=none#FREE | REALITY | @DailyV2RY | DE🇩🇪 | 0️⃣2️⃣",
                 "ip": "185.158.251.36",
-                "time": "2023-11-19 18:42:00",
-                "name": "Germany 9"
+                "time": "2023-11-19 19:43:50",
+                "name": "Germany 10"
             },
             {
                 "type": "reality",
                 "config": "vless://c568ed5b-3064-4d17-ac3c-8bba97011f1e@tel-xsv2ray.xalixv2ray.space:55895?mode=multi&security=reality&encryption=none&pbk=txJATQCQ2968y-s7-EKJvsfwO5E2dcvSV8ZKt8ythxQ&fp=chrome&spx=/&type=grpc&serviceName=@XsV2ray,@XsV2ray,@XsV2ray&sni=www.speedtest.net&sid=3f53b530#FREE | REALITY | @MTConfig | DE🇩🇪 | 0️⃣1️⃣",
                 "ip": "104.248.25.55",
-                "time": "2023-11-19 18:41:49",
-                "name": "Germany 10"
+                "time": "2023-11-19 19:43:34",
+                "name": "Germany 11"
             },
             {
                 "type": "reality",
                 "config": "vless://ff56d4ea-fedd-436a-9738-89f59cca9614@tel-xsv2ray.xalixv2ray.space:55895?mode=multi&security=reality&encryption=none&pbk=txJATQCQ2968y-s7-EKJvsfwO5E2dcvSV8ZKt8ythxQ&fp=chrome&spx=/&type=grpc&serviceName=@XsV2ray,@XsV2ray,@XsV2ray&sni=www.speedtest.net&sid=3f53b530#FREE | REALITY | @MTConfig | DE🇩🇪 | 0️⃣2️⃣",
                 "ip": "104.248.25.55",
-                "time": "2023-11-19 18:41:49",
-                "name": "Germany 11"
+                "time": "2023-11-19 19:43:34",
+                "name": "Germany 12"
             },
             {
                 "type": "reality",
                 "config": "vless://189f17e6-9b0e-4d7d-b4a5-48cef41dd920@tel-xsv2ray.xalixv2ray.space:55895?mode=multi&security=reality&encryption=none&pbk=txJATQCQ2968y-s7-EKJvsfwO5E2dcvSV8ZKt8ythxQ&fp=chrome&spx=/&type=grpc&serviceName=@XsV2ray,@XsV2ray,@XsV2ray&sni=www.speedtest.net&sid=3f53b530#FREE | REALITY | @MTConfig | DE🇩🇪 | 0️⃣3️⃣",
                 "ip": "104.248.25.55",
-                "time": "2023-11-19 18:41:49",
-                "name": "Germany 12"
-            },
-            {
-                "type": "reality",
-                "config": "vless://b30a8598-2620-48a0-8b49-d29d149a1d3a@all-join.outline-vpn.cloud:8080?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=server-53651.prod.hosts.ooklaserver.net#FREE | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣1️⃣",
-                "ip": "54.93.217.177",
-                "time": "2023-11-19 18:41:21",
+                "time": "2023-11-19 19:43:34",
                 "name": "Germany 13"
             },
             {
                 "type": "reality",
                 "config": "vless://67956753-ce9f-44bc-9599-391c06ed9a52@jioin-severnett10.numalla.top:54104?mode=gun&security=reality&encryption=none&pbk=3qfQAUzN87FTSHZVDUM18kNGFkcwWAoP-iatxsGvWi0&fp=chrome&spx=/&type=grpc&serviceName=&sni=cdn.discordapp.com&sid=5e0dce67#FREE | REALITY | @ServerNett | DE🇩🇪 | 0️⃣3️⃣",
                 "ip": "57.129.32.51",
-                "time": "2023-11-19 18:41:20",
+                "time": "2023-11-19 19:43:00",
                 "name": "Germany 14"
             },
             {
                 "type": "reality",
                 "config": "vless://a976896c-68be-4338-a846-0c7c85de4bb2@hood.moftinet.xyz:2053?mode=gun&security=reality&encryption=none&pbk=hk22GYcnImN0eaFuUmWZRghwTVuCTlD4hrkyi32ZZmg&fp=firefox&spx=/&type=grpc&serviceName=@Moftinet @Moftinet @Moftinet @Moftinet&sni=zula.ir&sid=e2f9652b#FREE | REALITY | @FalconPolV2rayNG | DE🇩🇪 | 0️⃣1️⃣",
                 "ip": "157.90.149.18",
-                "time": "2023-11-19 18:41:15",
+                "time": "2023-11-19 19:42:55",
                 "name": "Germany 15"
             },
             {
                 "type": "vless",
                 "config": "vless://ItsLegendaryking@78.47.225.6:443?security=none&encryption=none&headerType=none&type=tcp#FREE | VLESS | @v2rayngvpn | DE🇩🇪 | 0️⃣1️⃣",
                 "ip": "78.47.225.6",
-                "time": "2023-11-19 18:41:14",
+                "time": "2023-11-19 19:42:54",
                 "name": "Germany 16"
+            },
+            {
+                "type": "reality",
+                "config": "vless://c7740065-6779-429a-9ac5-131c90ec2ad3@german.vp22ray.site:443?mode=gun&security=reality&encryption=none&pbk=QUyXIx6S7HgIqh3oryjejQl8zgWwnKWJpoWINluG22A&fp=firefox&spx=/&type=grpc&serviceName=@vp22ray@vp22ray@vp22ray&sni=Ftp.debian.org&sid=ee6bce0a#FREE | REALITY | @ConfigsHUB | DE🇩🇪 | 0️⃣2️⃣",
+                "ip": "188.34.183.134",
+                "time": "2023-11-19 19:42:44",
+                "name": "Germany 17"
+            },
+            {
+                "type": "vless",
+                "config": "vless://347015b6-ecc9-468b-ac42-fa0d69b600a8@best.configforvpn.fun:2053?type=tcp&encryption=none&flow=#FREE | VLESS | @iP_CF | DE🇩🇪 | 0️⃣1️⃣",
+                "ip": "91.107.136.100",
+                "time": "2023-11-19 19:41:53",
+                "name": "Germany 18"
             },
             {
                 "type": "reality",
                 "config": "vless://bd6fa3a5-68a0-49f4-9f7f-78e38612245f@168.119.177.49:2087?type=grpc&security=reality&mode=gun&serviceName=TelegramID:@iranbaxvpn&fp=chrome&sni=iranserver.com&pbk=iWgxGQVQZUfOCw4EqmHQToaQPqYt0V5hAfnDo6p-Izg&sid=33fb#FREE | REALITY | @DarkTeam_VPN | DE🇩🇪 | 0️⃣3️⃣",
                 "ip": "168.119.177.49",
-                "time": "2023-11-19 18:39:40",
-                "name": "Germany 17"
+                "time": "2023-11-19 19:41:34",
+                "name": "Germany 19"
             },
             {
                 "type": "reality",
                 "config": "vless://738c5e99-7faa-4893-81a8-4d6655adde39@5.75.215.191:443?mode=gun&security=reality&encryption=none&pbk=e2VGvHwmGudsNxadrgFCv3ENvRLyD_8x9csN6tTMGns&fp=firefox&spx=/&type=grpc&serviceName=@Digiv2ray&sni=www.speedtest.net&sid=ab7b40b2#FREE | REALITY | @DigiV2ray | DE🇩🇪 | 0️⃣2️⃣",
                 "ip": "5.75.215.191",
-                "time": "2023-11-19 18:39:38",
-                "name": "Germany 18"
+                "time": "2023-11-19 19:41:33",
+                "name": "Germany 20"
             },
             {
                 "type": "reality",
                 "config": "vless://657b7cda-3c59-472e-dd01-29cb7c7c9e60@LIGHTNING6-joinbedee.mamd.sbs:8080?mode=gun&security=reality&encryption=none&pbk=4OTfR6IQ_6Z-5EiAi08sSfUjZtC30c2x6jl9BE9KFwg&fp=chrome&spx=/&type=grpc&serviceName=@LIGHTNING6&sni=www.speedtest.net&sid=356dc0#FREE | REALITY | @lightning6 | DE🇩🇪 | 0️⃣3️⃣",
-                "ip": "167.235.19.71",
-                "time": "2023-11-19 18:39:31",
-                "name": "Germany 19"
+                "ip": "49.13.150.83",
+                "time": "2023-11-19 19:41:22",
+                "name": "Germany 21"
             },
             {
                 "type": "reality",
                 "config": "vless://e00fd29d-f64f-49aa-9270-68de58bc63ae@49.13.95.37:443?mode=gun&security=reality&encryption=none&pbk=SCAGFtJUuMceAMLUZvYRh9IGJMvl_pI8hNo-qSp1bEo&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=80d440e7#FREE | REALITY | @ipV2Ray | DE🇩🇪 | 0️⃣3️⃣",
                 "ip": "49.13.95.37",
-                "time": "2023-11-19 18:39:15",
-                "name": "Germany 20"
+                "time": "2023-11-19 19:41:10",
+                "name": "Germany 22"
             },
             {
                 "type": "reality",
                 "config": "vless://2e86a45a-9515-409c-bf99-9ea12ad9e0ad@49.13.95.37:443?mode=gun&security=reality&encryption=none&pbk=0BdKxGR6Gu6LfD1gL5nQ59JH2jHB0WosOTun8UNhoFQ&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=f5361167#FREE | REALITY | @ipV2Ray | DE🇩🇪 | 0️⃣1️⃣",
                 "ip": "49.13.95.37",
-                "time": "2023-11-19 18:39:14",
-                "name": "Germany 21"
+                "time": "2023-11-19 19:41:10",
+                "name": "Germany 23"
             },
             {
                 "type": "reality",
                 "config": "vless://---Telegram-Parsashonam---@159.69.192.198:22810?mode=gun&security=reality&encryption=none&pbk=M-vqcro0HzwhhMckbgHQZ1Xk849zQAf5v-yibgw23Ek&fp=chrome&spx=/&type=grpc&serviceName=&sni=www.SpeedTest.Net&sid=668fbd39#FREE | REALITY | @Parsashonam | DE🇩🇪 | 0️⃣3️⃣",
                 "ip": "159.69.192.198",
-                "time": "2023-11-19 18:38:58",
-                "name": "Germany 22"
+                "time": "2023-11-19 19:40:58",
+                "name": "Germany 24"
             },
             {
                 "type": "reality",
                 "config": "vless://c128f2c3-aef0-46f5-dff7-c23862461353@join.bede.vmessorg.mokhin.me:2052?mode=gun&security=reality&encryption=none&pbk=0_saBLvWIi4jSHO4DljmiylzJvCgpPnKlwa4-8Nb1AI&fp=chrome&spx=/&type=grpc&serviceName=@vmessorg&sni=www.ghbi.ir&sid=026b#FREE | REALITY | @customv2ray | DE🇩🇪 | 0️⃣1️⃣",
                 "ip": "168.119.64.225",
                 "time": "2023-11-19 18:30:13",
-                "name": "Germany 23"
+                "name": "Germany 25"
             },
             {
                 "type": "reality",
                 "config": "vless://ac571c6a-c3a9-42e2-8216-5559d8b19c6b@de2.servarlocation.lol:8087?security=reality&type=tcp&host=&headerType=&flow=xtls-rprx-vision&path=&sni=bahmanbroker.com&fp=chrome&pbk=nK8vdc2bclsgf6a1_Y2sjaWcYt5hILt1hNVWHDr1XyU&sid=&spx=#FREE | REALITY | @free_v2rayyy | DE🇩🇪 | 0️⃣2️⃣",
                 "ip": "95.179.169.85",
                 "time": "2023-11-19 18:24:13",
-                "name": "Germany 24"
+                "name": "Germany 26"
             },
             {
                 "type": "reality",
                 "config": "vless://738c5e99-7faa-4893-81a8-4d6655adde45@403-Join.V2RayTz.sbs:443?mode=gun&security=reality&encryption=none&pbk=e2VGvHwmGudsNxadrgFCv3ENvRLyD_8x9csN6tTMGns&fp=firefox&spx=/&type=grpc&serviceName=@Digiv2ray&sni=www.speedtest.net&sid=ab7b40b2#FREE | REALITY | @ProxyForOpeta | DE🇩🇪 | 0️⃣3️⃣",
                 "ip": "5.75.215.191",
                 "time": "2023-11-19 18:16:53",
-                "name": "Germany 25"
+                "name": "Germany 27"
             },
             {
                 "type": "vless",
                 "config": "vless://0cd0bf18-7c00-4711-ba41-bf13f295811a@95.179.241.194:45740?security=&type=tcp&headerType=http&host=internet.life.com.by&encryption=none#FREE | VLESS | @V2rayCollectorDonate | DE🇩🇪 | 1️⃣6️⃣",
                 "ip": "95.179.241.194",
                 "time": "2023-11-19 14:36:33",
-                "name": "Germany 26"
+                "name": "Germany 28"
             },
             {
                 "type": "vless",
                 "config": "vless://cb58a000-0483-47b8-96b2-71339cff4f9f@jioin-severnett10.numalla.top:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=jioin-severnett10.numalla.top#FREE | VLESS | @ServerNett | DE🇩🇪 | 0️⃣2️⃣",
                 "ip": "57.129.32.51",
                 "time": "2023-11-19 13:45:49",
-                "name": "Germany 27"
+                "name": "Germany 29"
             },
             {
                 "type": "vless",
                 "config": "vless://3e1defbb-ff9a-4cd0-9f5f-a86a209bd4ee@95.179.241.194:26432?security=&type=tcp&headerType=http&host=internet.life.com.by&encryption=none#FREE | VLESS | @V2rayCollectorDonate | DE🇩🇪 | 1️⃣5️⃣",
                 "ip": "95.179.241.194",
                 "time": "2023-11-19 09:41:16",
-                "name": "Germany 28"
+                "name": "Germany 30"
             },
             {
                 "type": "vless",
                 "config": "vless://393a423e-ce8d-420c-8b1b-3968800b2ba9@95.179.241.194:19040?security=&type=tcp&headerType=http&host=internet.life.com.by&encryption=none#FREE | VLESS | @V2rayCollectorDonate | DE🇩🇪 | 1️⃣4️⃣",
                 "ip": "95.179.241.194",
                 "time": "2023-11-19 09:26:30",
-                "name": "Germany 29"
+                "name": "Germany 31"
             },
             {
                 "type": "vless",
                 "config": "vless://79850d18-2817-4b3f-a6a6-12d8077219fc@95.179.241.194:53548?security=&type=tcp&headerType=http&host=internet.life.com.by&encryption=none#FREE | VLESS | @V2rayCollectorDonate | DE🇩🇪 | 1️⃣3️⃣",
                 "ip": "95.179.241.194",
                 "time": "2023-11-18 19:40:33",
-                "name": "Germany 30"
+                "name": "Germany 32"
             },
             {
                 "type": "reality",
                 "config": "vless://a1faa49b-053c-41a8-9908-f7247cf6e163@80.240.25.234:50438?security=reality&encryption=none&pbk=7cCo0jfSxaNdh96kDsy14msm4fiXH6B5Ug_iS_tKqjI&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=d0898362#FREE | REALITY | @Helix_Servers | DE🇩🇪 | 0️⃣3️⃣",
                 "ip": "80.240.25.234",
                 "time": "2023-11-18 19:05:53",
-                "name": "Germany 31"
+                "name": "Germany 33"
             },
             {
                 "type": "reality",
                 "config": "vless://a1faa49b-053c-41a8-9908-f7247cf6e163@136.244.81.102:50438?security=reality&encryption=none&pbk=7cCo0jfSxaNdh96kDsy14msm4fiXH6B5Ug_iS_tKqjI&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=d0898362#FREE | REALITY | @Helix_Servers | DE🇩🇪 | 0️⃣2️⃣",
                 "ip": "136.244.81.102",
                 "time": "2023-11-18 19:05:37",
-                "name": "Germany 32"
+                "name": "Germany 34"
             },
             {
                 "type": "vless",
                 "config": "vless://a4406c9e-e436-4bc2-b6a1-d8ad2b929505@95.179.241.194:48574?security=&type=tcp&headerType=http&host=internet.life.com.by&encryption=none#FREE | VLESS | @V2rayCollectorDonate | DE🇩🇪 | 1️⃣2️⃣",
                 "ip": "95.179.241.194",
                 "time": "2023-11-18 18:57:42",
-                "name": "Germany 33"
+                "name": "Germany 35"
             },
             {
                 "type": "ss",
                 "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamhrWg==@www.outline.network.ak1972.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:8388#FREE | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣1️⃣",
                 "ip": "89.163.157.4",
                 "time": "2023-11-18 15:31:40",
-                "name": "Germany 34"
+                "name": "Germany 36"
             },
             {
                 "type": "vless",
                 "config": "vless://07b27f63-ed1a-48d8-a4e8-689c90829cf0@95.179.241.194:39882?security=&type=tcp&headerType=http&host=internet.life.com.by&encryption=none#FREE | VLESS | @V2rayCollectorDonate | DE🇩🇪 | 1️⃣1️⃣",
                 "ip": "95.179.241.194",
                 "time": "2023-11-18 15:00:01",
-                "name": "Germany 35"
+                "name": "Germany 37"
             },
             {
                 "type": "vless",
                 "config": "vless://381868bf-421c-49fa-9bb6-0584cd597a01@95.179.241.194:36472?security=&type=tcp&headerType=http&host=internet.life.com.by&encryption=none#FREE | VLESS | @V2rayCollectorDonate | DE🇩🇪 | 1️⃣0️⃣",
                 "ip": "95.179.241.194",
                 "time": "2023-11-18 14:59:36",
-                "name": "Germany 36"
+                "name": "Germany 38"
             },
             {
                 "type": "vless",
                 "config": "vless://d9474576-21d5-4e15-8653-90afae2c85c4@95.179.241.194:23012?security=&type=tcp&headerType=http&host=internet.life.com.by&encryption=none#FREE | VLESS | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣9️⃣",
                 "ip": "95.179.241.194",
                 "time": "2023-11-18 14:59:16",
-                "name": "Germany 37"
+                "name": "Germany 39"
             },
             {
                 "type": "reality",
                 "config": "vless://dbd58193-be0e-49fb-bd6d-17c1e1998199@ngb1.silveren.top:13614?type=tcp&security=reality&fp=chrome&pbk=S7Tg2r1kiUt0x2ws-vQEQMuIuwZ75alRDxMqJ-hxAXw&sni=www.speedtest.net&flow=xtls-rprx-vision&sid=44ac2a39&spx=/linoux#FREE | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣6️⃣",
                 "ip": "94.130.110.200",
                 "time": "2023-11-18 14:58:12",
-                "name": "Germany 38"
+                "name": "Germany 40"
             },
             {
                 "type": "reality",
                 "config": "vless://9f2e26b3-dcd2-46e6-bbd1-823f90092673@hotchocolate.sajad.sbs:8080?type=tcp&security=reality&fp=edge&pbk=QHaoft3SsnTUzctG2PUmDAQkYfawo2zehinSzTty7EE&sni=server-53651.prod.hosts.ooklaserver.net&flow=xtls-rprx-vision&sid=da9b8748&spx=/#FREE | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣1️⃣",
                 "ip": "146.190.176.192",
                 "time": "2023-11-18 12:42:13",
-                "name": "Germany 39"
+                "name": "Germany 41"
             },
             {
                 "type": "reality",
                 "config": "vless://a93e78c4-fef7-4bf7-85af-eb71b67bca6b@ger.melov2ray.shop:28256?type=grpc&serviceName=@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray&security=reality&fp=chrome&pbk=eoTWjU-FluG2y0DfR5P0qjtchTx34qQTD8BkslRj-xw&sni=discord.com&sid=8237505a&spx=/#FREE | REALITY | @melov2ray | DE🇩🇪 | 0️⃣2️⃣",
                 "ip": "5.75.214.254",
                 "time": "2023-11-18 10:50:13",
-                "name": "Germany 40"
+                "name": "Germany 42"
             },
             {
                 "type": "ss",
                 "config": "ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@141.95.125.11:443#FREE | SS | @azadi_az_inja_migzare | DE🇩🇪 | 0️⃣2️⃣",
                 "ip": "141.95.125.11",
                 "time": "2023-11-17 18:47:24",
-                "name": "Germany 41"
+                "name": "Germany 43"
+            },
+            {
+                "type": "reality",
+                "config": "vless://c2b18fa2-ad79-4387-b8b8-949dade97fe9@128.140.122.248:58053?mode=multi&security=reality&encryption=none&pbk=5jJCPNWmP5u-nCFsXrOAG5fvlQSoLslhMj-fIuNsjF4&fp=chrome&spx=/&type=grpc&serviceName=@XsV2ray,@XsV2ray&sni=www.tradingview.com&sid=62b754ec#FREE | REALITY | @XsV2ray | DE🇩🇪 | 0️⃣3️⃣",
+                "ip": "128.140.122.248",
+                "time": "2023-11-17 18:20:10",
+                "name": "Germany 44"
             },
             {
                 "type": "vmess",
                 "config": "vmess://eyJhZGQiOiIxODguMzQuMTc5LjExOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0OThjOTQ3Mi00YTU0LTQ1MmQtYWZjNS0zZDI1ZDNjN2M4MGQiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiI4NDQzIiwicHMiOiJGUkVFIHwgVk1FU1MgfCBAUHJveHlfUEogfCBERVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJtdWx0aSIsInYiOiIyIn0=",
                 "ip": "188.34.179.119",
                 "time": "2023-11-17 18:18:01",
-                "name": "Germany 42"
+                "name": "Germany 45"
             },
             {
                 "type": "reality",
                 "config": "vless://32477a44-4017-4682-dbad-c0ff3f548a95@telchann1.v2pedia.xyz:443?mode=gun&security=reality&encryption=none&pbk=8h75tSdwxj_Cw6C6DiAqrDZ6tp1fI-_EcnsRBSFjrEo&fp=chrome&spx=/&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=www.speedtest.net&sid=22c8ef128b#FREE | REALITY | @V2pedia | DE🇩🇪 | 0️⃣3️⃣",
                 "ip": "49.12.242.11",
                 "time": "2023-11-17 17:25:56",
-                "name": "Germany 43"
+                "name": "Germany 46"
             },
             {
                 "type": "reality",
                 "config": "vless://baa5a2c7-0230-44ac-e1af-0535f6e6d591@telchann1.v2pedia.xyz:443?mode=gun&security=reality&encryption=none&pbk=8h75tSdwxj_Cw6C6DiAqrDZ6tp1fI-_EcnsRBSFjrEo&fp=chrome&spx=/&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=www.speedtest.net&sid=22c8ef128b#FREE | REALITY | @V2pedia | DE🇩🇪 | 0️⃣2️⃣",
                 "ip": "49.12.242.11",
                 "time": "2023-11-16 20:04:38",
-                "name": "Germany 44"
+                "name": "Germany 47"
             },
             {
                 "type": "reality",
                 "config": "vless://97614b1c-561e-43a9-fdbf-3243821bf956@telchann1.v2pedia.xyz:443?mode=gun&security=reality&encryption=none&pbk=8h75tSdwxj_Cw6C6DiAqrDZ6tp1fI-_EcnsRBSFjrEo&fp=chrome&spx=/&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=www.speedtest.net&sid=22c8ef128b#FREE | REALITY | @V2pedia | DE🇩🇪 | 0️⃣1️⃣",
                 "ip": "49.12.242.11",
                 "time": "2023-11-16 20:02:53",
-                "name": "Germany 45"
-            },
-            {
-                "type": "reality",
-                "config": "vless://b8260bde-ec61-4cf3-b902-6843f230f7d6@tel-xsv2ray.xalixv2ray.space:443?mode=multi&security=reality&encryption=none&pbk=ymo9x1X1HRnPj1zUm5U-sH_PnOGqZdGk-iuq3Dy9jX0&fp=chrome&spx=/&type=grpc&serviceName=@XsV2ray,@XsV2ray,@XsV2ray&sni=www.speedtest.net&sid=f0960695#FREE | REALITY | @XsV2ray | DE🇩🇪 | 0️⃣2️⃣",
-                "ip": "104.248.25.55",
-                "time": "2023-11-16 18:53:22",
-                "name": "Germany 46"
+                "name": "Germany 48"
             },
             {
                 "type": "reality",
                 "config": "vless://5941aee1-d429-48a9-a2e0-3db525451b1f@free1.h3lixchannel.fun:443?type=grpc&serviceName=Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers-Telegram-Channel:@HELIX_Servers&security=reality&fp=firefox&pbk=Yjc8RJMpXQ6WafcY7QM8KAqc9_DuAVba96TYLk-ZQSQ&sni=zula.ir&sid=836f3609&spx=/system-requirements#FREE | REALITY | @Helix_Servers | DE🇩🇪 | 0️⃣1️⃣",
                 "ip": "91.107.194.165",
                 "time": "2023-11-16 14:23:12",
-                "name": "Germany 47"
+                "name": "Germany 49"
             },
             {
                 "type": "reality",
                 "config": "vless://4f5dcf41-6530-43f0-b6a7-709ed1152434@49.12.237.4:35157?mode=multi&security=reality&encryption=none&pbk=p1Wj590By1y2zAXin9w6d2Anqk7cnTthvp6qDjwajCE&fp=chrome&spx=/&type=grpc&serviceName=@V2rayNgMat,@V2rayNgMat,@V2rayNgMat&sni=www.tradingview.com&sid=1a1a2466#FREE | REALITY | @V2rayNGmat | DE🇩🇪 | 0️⃣3️⃣",
                 "ip": "49.12.237.4",
                 "time": "2023-11-16 13:19:08",
-                "name": "Germany 48"
+                "name": "Germany 50"
             },
             {
                 "type": "reality",
                 "config": "vless://ac2cbccd-9a09-4fd5-a006-d79d949f0265@ger.melov2ray.shop:28256?type=grpc&serviceName=@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray&security=reality&fp=chrome&pbk=eoTWjU-FluG2y0DfR5P0qjtchTx34qQTD8BkslRj-xw&sni=discord.com&sid=8237505a&spx=/#FREE | REALITY | @melov2ray | DE🇩🇪 | 0️⃣1️⃣",
                 "ip": "5.75.214.254",
                 "time": "2023-11-16 12:03:52",
-                "name": "Germany 49"
-            },
-            {
-                "type": "reality",
-                "config": "vless://bd6fa3a5-68a0-49f4-9f7f-78e38612245f@168.119.177.49:2087?type=grpc&encryption=none&serviceName=TelegramID:@iranbaxvpn&sni=iranserver.com&fp=firefox&security=reality&pbk=iWgxGQVQZUfOCw4EqmHQToaQPqYt0V5hAfnDo6p-Izg&sid=33fb#FREE | REALITY | @V2rayCollector | DE🇩🇪 | 0️⃣1️⃣",
-                "ip": "168.119.177.49",
-                "time": "2023-11-16 00:32:23",
-                "name": "Germany 50"
-            },
-            {
-                "type": "reality",
-                "config": "vless://e6d11966-2aaa-4b17-91cc-3529854336f2@tel-xsv2ray.xalixv2ray.space:443?mode=multi&security=reality&encryption=none&pbk=ymo9x1X1HRnPj1zUm5U-sH_PnOGqZdGk-iuq3Dy9jX0&fp=chrome&spx=/&type=grpc&serviceName=@XsV2ray,@XsV2ray,@XsV2ray&sni=www.speedtest.net&sid=f0960695#FREE | REALITY | @XsV2ray | DE🇩🇪 | 0️⃣1️⃣",
-                "ip": "104.248.25.55",
-                "time": "2023-11-15 13:05:18",
                 "name": "Germany 51"
             },
             {
@@ -1629,158 +1587,116 @@
         "flag": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/flags/NL.svg",
         "configs": [
             {
+                "type": "reality",
+                "config": "vless://5fea4802-3f13-48a1-802d-8c350794e744@damnthings.moftinet.xyz:443?type=grpc&serviceName=@Moftinet  @Moftinet  @Moftinet  @Moftinet&security=reality&fp=firefox&pbk=0QvTPBr_PJQUC4aS_qwtlA2WqywwEdvs-n5IE2eM-R4&sni=account.zula.ir&sid=124dc37d&spx=/#FREE | REALITY | @forwardv2ray | NL🇳🇱 | 0️⃣3️⃣",
+                "ip": "178.62.208.219",
+                "time": "2023-11-19 19:44:42",
+                "name": "The Netherlands 1"
+            },
+            {
                 "type": "vless",
                 "config": "vless://515723cd-00d1-4e77-b236-16a5a9fd67b7@193.227.99.66:8443?security=tls&encryption=none&type=grpc&sni=ch.donaldvpn.sbs&fp=chrome&alpn=h2,http/1.1#FREE | VLESS | @lrnbymaa | NL🇳🇱 | 0️⃣2️⃣",
                 "ip": "193.227.99.66",
-                "time": "2023-11-19 18:42:07",
-                "name": "The Netherlands 1"
+                "time": "2023-11-19 19:43:56",
+                "name": "The Netherlands 2"
             },
             {
                 "type": "vmess",
                 "config": "vmess://eyJhZGQiOiIxNjIuMTU5LjEzNy4yMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5sMi12bWVzcy5zc2htYXgueHl6IiwiaWQiOiI2NTU5OWU4NC1jMzg0LTQwZWItYTAwYy1jNmVlMDFiZjg2NjUiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJGUkVFIHwgVk1FU1MgfCBAdjJyYXlfc3doaWwgfCBOTFx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSB8IDBcdWZlMGZcdTIwZTMyXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
                 "ip": "45.67.228.237",
-                "time": "2023-11-19 18:41:38",
-                "name": "The Netherlands 2"
+                "time": "2023-11-19 19:43:23",
+                "name": "The Netherlands 3"
             },
             {
                 "type": "vless",
                 "config": "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.96.3:443?path=/?ed=2048&security=tls&encryption=none&host=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev#FREE | VLESS | @v2rayNG_Matsuri | NL🇳🇱 | 0️⃣3️⃣",
                 "ip": "188.114.96.3",
-                "time": "2023-11-19 18:41:13",
-                "name": "The Netherlands 3"
+                "time": "2023-11-19 19:42:53",
+                "name": "The Netherlands 4"
             },
             {
-                "type": "hy2",
-                "config": "hy2://99999@194.5.97.15:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=99999#FREE | HY2 | @V2rayCollector | NL🇳🇱 | 0️⃣3️⃣",
-                "ip": "194.5.97.15",
-                "time": "2023-11-19 18:40:06",
-                "name": "The Netherlands 4"
+                "type": "vless",
+                "config": "vless://ItsLegendaryking@45.91.168.94:443?type=tcp&encryption=none&flow=#FREE | VLESS | @iP_CF | NL🇳🇱 | 0️⃣2️⃣",
+                "ip": "45.91.168.94",
+                "time": "2023-11-19 19:41:53",
+                "name": "The Netherlands 5"
             },
             {
                 "type": "ss",
                 "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0T3dPeXZsWGlZNUFUSkFVT3BYTlBO@5.35.34.107:55990#FREE | SS | @iP_CF | NL🇳🇱 | 0️⃣1️⃣",
                 "ip": "5.35.34.107",
-                "time": "2023-11-19 18:39:59",
-                "name": "The Netherlands 5"
+                "time": "2023-11-19 19:41:49",
+                "name": "The Netherlands 6"
             },
             {
                 "type": "vless",
                 "config": "vless://5f2af209-17ee-4414-9c79-36a23faafa25@dari.news-liqgroup1278.site:39621?type=tcp&security=tls&fp=&alpn=h2,http/1.1&sni=milan.news-liqgroup1278.site#FREE | VLESS | @liq_VPN | NL🇳🇱 | 0️⃣3️⃣",
                 "ip": "85.133.241.46",
-                "time": "2023-11-19 18:39:44",
-                "name": "The Netherlands 6"
+                "time": "2023-11-19 19:41:38",
+                "name": "The Netherlands 7"
             },
             {
                 "type": "vless",
                 "config": "vless://1d0f0bb4-0321-451b-bfa8-27fda78e7e9a@195.123.218.157:443?path=/vless&security=tls&encryption=none&type=ws&sni=@VpnFreeAccounts#FREE | VLESS | @V2rayCollectorDonate | NL🇳🇱 | 1️⃣7️⃣",
                 "ip": "195.123.218.157",
                 "time": "2023-11-19 15:25:37",
-                "name": "The Netherlands 7"
+                "name": "The Netherlands 8"
             },
             {
                 "type": "reality",
                 "config": "vless://73bb2bf0-7c07-4b51-b03f-a96f179af577@ne.serverdomains.sbs:1098?security=reality&type=tcp&hostchannel:@free_v2rayyy=&headerType=&flow=xtls-rprx-vision&path=&sni=film2movie.asia&fp=chrome&pbk=gI57zyB8rk_SIxnNEM8vbiQlVhKIPVcvGr6ysFtk9lE&sid=&spx=#FREE | REALITY | @free_v2rayyy | NL🇳🇱 | 0️⃣1️⃣",
                 "ip": "95.179.132.7",
                 "time": "2023-11-18 23:44:25",
-                "name": "The Netherlands 8"
+                "name": "The Netherlands 9"
             },
             {
                 "type": "vless",
                 "config": "vless://2abc5d85-18f6-40f4-9cf5-d7b3ace7b3f7@45.77.136.175:13601?security=&type=tcp&headerType=http&host=internet.life.com.by&encryption=none#FREE | VLESS | @V2rayCollectorDonate | NL🇳🇱 | 0️⃣8️⃣",
                 "ip": "45.77.136.175",
                 "time": "2023-11-18 14:58:56",
-                "name": "The Netherlands 9"
+                "name": "The Netherlands 10"
             },
             {
                 "type": "vless",
                 "config": "vless://0cd0bf18-7c00-4711-ba41-bf13f295811a@45.77.136.175:45740?security=&type=tcp&headerType=http&host=internet.life.com.by&encryption=none#FREE | VLESS | @V2rayCollectorDonate | NL🇳🇱 | 0️⃣7️⃣",
                 "ip": "45.77.136.175",
                 "time": "2023-11-18 14:58:32",
-                "name": "The Netherlands 10"
+                "name": "The Netherlands 11"
             },
             {
                 "type": "reality",
                 "config": "vless://0f10ad83-cf76-49ae-97dc-38eb04dc7e06@channel.safenetir.life:51667?mode=gun&security=reality&encryption=none&pbk=BrCOLTTb45NgtZZSIF54QJ2tdeK4IPNCvwmPApSR5W0&fp=firefox&spx=/&type=grpc&serviceName=@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR&sni=Cloudflare.com&sid=2ba965f349#FREE | REALITY | @SafeNet_Server | NL🇳🇱 | 0️⃣3️⃣",
                 "ip": "5.56.133.209",
-                "time": "2023-11-18 00:35:14",
-                "name": "The Netherlands 11"
+                "time": "2023-11-18 11:28:32",
+                "name": "The Netherlands 12"
             },
             {
                 "type": "reality",
                 "config": "vless://e4576e8d-160d-4022-f3de-042547e2368e@channel.safenetir.life:59423?mode=gun&security=reality&encryption=none&pbk=rmd2SvT1nFPRgRPLVXXSWz-X6Ne2aaJqE4KZmbcrBDM&fp=firefox&spx=/&type=grpc&serviceName=@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR&sni=cloudflare.com#FREE | REALITY | @SafeNet_Server | NL🇳🇱 | 0️⃣1️⃣",
                 "ip": "5.56.133.209",
-                "time": "2023-11-17 18:33:09",
-                "name": "The Netherlands 12"
+                "time": "2023-11-18 00:34:15",
+                "name": "The Netherlands 13"
             },
             {
                 "type": "reality",
                 "config": "vless://136bf490-f3a3-401c-b35e-ae6f828c2869@qo.vpnxw.eu.org:2083?security=reality&encryption=none&pbk=Sc70IzD04G083oJ_ERsz5XBdn0aEP4SyJF2DR_r-ciM&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=dash.cloudflare.com&sid=73b57630#FREE | REALITY | @vpn_xw | NL🇳🇱 | 0️⃣3️⃣",
                 "ip": "5.182.86.167",
                 "time": "2023-11-15 08:27:32",
-                "name": "The Netherlands 13"
+                "name": "The Netherlands 14"
             },
             {
                 "type": "reality",
                 "config": "vless://7765cb7d-317b-425f-a9a0-a578be6ed54c@qo.vpnxw.eu.org:2053?mode=multi&security=reality&encryption=none&pbk=VXmwDXPWacZ9e1dE1NasosJ_K0p-VRKw22J5ho6fA0Y&fp=firefox&spx=/&type=grpc&serviceName=vpnxw&sni=dash.cloudflare.com&sid=a74c8fa7#FREE | REALITY | @vpn_xw | NL🇳🇱 | 0️⃣2️⃣",
                 "ip": "5.182.86.167",
                 "time": "2023-11-13 20:10:04",
-                "name": "The Netherlands 14"
+                "name": "The Netherlands 15"
             },
             {
                 "type": "hy2",
                 "config": "hy2://y0qochAspE u-HLfrip-@45.32.237.246:443?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU!&Brls!0exuP+!4so#FREE | HY2 | @irancpi_vpn | NL🇳🇱 | 0️⃣1️⃣",
                 "ip": "45.32.237.246",
                 "time": "2023-11-12 11:33:14",
-                "name": "The Netherlands 15"
-            }
-        ]
-    },
-    {
-        "country_code": "SE",
-        "country_name": "Sweden",
-        "flag": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/flags/SE.svg",
-        "configs": [
-            {
-                "type": "vmess",
-                "config": "vmess://eyJhZGQiOiI1LjQyLjc2LjEwNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1MzY2ZjAzYS03MjRmLTRkZGQtYjFlYi0xNDU1MWFlMTM3OTgiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiIxOTQ2OSIsInBzIjoiRlJFRSB8IFZNRVNTIHwgQENvbmZpZ3NIVUIgfCBTRVx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYSB8IDBcdWZlMGZcdTIwZTMyXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
-                "ip": "5.42.76.106",
-                "time": "2023-11-19 18:41:15",
-                "name": "Sweden 1"
-            },
-            {
-                "type": "vmess",
-                "config": "vmess://eyJhZGQiOiI1LjQyLjc2LjEwNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0NmU1YjllMC0yOTRlLTQxZTktOTM0Ny00Y2U1NDMxYzllN2YiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIyNzMzOCIsInBzIjoiRlJFRSB8IFZNRVNTIHwgQENvbmZpZ3NIVUIgfCBTRVx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYSB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9",
-                "ip": "5.42.76.106",
-                "time": "2023-11-19 18:36:38",
-                "name": "Sweden 2"
-            },
-            {
-                "type": "trojan",
-                "config": "trojan://telegram-id-directvpn@13.49.154.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#FREE | TROJAN | @DirectVPN | SE🇸🇪 | 0️⃣1️⃣",
-                "ip": "13.49.154.245",
-                "time": "2023-11-19 17:30:06",
-                "name": "Sweden 3"
-            },
-            {
-                "type": "reality",
-                "config": "vless://fe4965d5-e14d-480e-a8f0-ff532195ed46@5.42.77.255:2086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.discordapp.com&fp=chrome&pbk=v3g02Ah_iZ-ZRIkw5tFdga75R-CUddGXzFCycp4FA1g&sid=245a57dca8e8285c&type=tcp&headerType=none#FREE | REALITY | @reality_daily | SE🇸🇪 | 0️⃣3️⃣",
-                "ip": "5.42.77.255",
-                "time": "2023-11-19 15:18:25",
-                "name": "Sweden 4"
-            },
-            {
-                "type": "reality",
-                "config": "vless://5c70548d-b0ed-4051-a88c-5907c3d5da26@5.42.77.255:2095?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.theverge.com&fp=chrome&pbk=v3g02Ah_iZ-ZRIkw5tFdga75R-CUddGXzFCycp4FA1g&sid=245a57dca8e8285c&type=tcp&headerType=none#FREE | REALITY | @reality_daily | SE🇸🇪 | 0️⃣2️⃣",
-                "ip": "5.42.77.255",
-                "time": "2023-11-19 15:18:24",
-                "name": "Sweden 5"
-            },
-            {
-                "type": "reality",
-                "config": "vless://8dcf8b7c-1ef7-4e94-835e-9ed8abeaf0e1@77.91.84.45:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ftp.debian.org&fp=chrome&pbk=01Ced07pf-Nf9ZUJ6ZGKWuzfW1TogsPYTztr62ad4CU&sid=78cced120ce4dcba&type=tcp&headerType=none#FREE | REALITY | @reality_daily | SE🇸🇪 | 0️⃣1️⃣",
-                "ip": "77.91.84.45",
-                "time": "2023-11-19 15:18:23",
-                "name": "Sweden 6"
+                "name": "The Netherlands 16"
             }
         ]
     },
@@ -1791,87 +1707,101 @@
         "configs": [
             {
                 "type": "reality",
+                "config": "vless://ccda991e-5770-4e14-a58c-0b35a00e52ed@95.216.156.57:56683?mode=gun&security=reality&encryption=none&pbk=7OW3L_2Pk7KkOkUoblfTvzvBm6h6BLaY7hV8VQULHno&fp=chrome&spx=/&type=grpc&serviceName=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=dash.cloudflare.com&sid=225a354a#FREE | REALITY | @nufilter | FI🇫🇮 | 0️⃣2️⃣",
+                "ip": "95.216.156.57",
+                "time": "2023-11-19 19:44:47",
+                "name": "Finland 1"
+            },
+            {
+                "type": "reality",
+                "config": "vless://e001ce75-1957-4153-a5e0-2a638844957a@65.109.161.84:24646?security=reality&encryption=none&pbk=iqQeSXGpIdGXqIev_7CFsdr-sqD7cazW8jwr9UXQmHc&headerType=none&fp=chrome&spx=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&type=tcp&sni=dash.cloudflare.com&sid=65b6985e#FREE | REALITY | @nufilter | FI🇫🇮 | 0️⃣3️⃣",
+                "ip": "65.109.161.84",
+                "time": "2023-11-19 19:44:47",
+                "name": "Finland 2"
+            },
+            {
+                "type": "reality",
                 "config": "vless://04ba3531-57a5-4ef6-aba5-971867e3c9e4@65.108.56.15:443?mode=gun&security=reality&encryption=none&pbk=DYoGdIMqd1ecOaT32bQVR1vd9PVSJtCnnDxV-iU-E3E&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=ftp.debian.org&sid=0e596c3b#FREE | REALITY | @flyv2ray | FI🇫🇮 | 0️⃣2️⃣",
                 "ip": "65.108.56.15",
-                "time": "2023-11-19 18:42:50",
-                "name": "Finland 1"
+                "time": "2023-11-19 19:44:43",
+                "name": "Finland 3"
             },
             {
                 "type": "reality",
                 "config": "vless://363d8a21-3efe-48cc-beb2-e7d561dcada1@tel.1lagvpn13.cfd:8443?type=grpc&encryption=none&serviceName=@L_AGVPN13&sni=corporate.accuweather.com&fp=chrome&security=reality&pbk=mAckkJCS1BAwhhfwJcmF9g3ExyxCA2PTJXjGkRoJvVs&sid=eee6f73a#FREE | REALITY | @Capital_NET | FI🇫🇮 | 0️⃣1️⃣",
                 "ip": "65.109.206.135",
-                "time": "2023-11-19 18:42:40",
-                "name": "Finland 2"
+                "time": "2023-11-19 19:44:24",
+                "name": "Finland 4"
             },
             {
                 "type": "vmess",
-                "config": "vmess://eyJhZGQiOiJuYW1heWVzaC50di5pcmliLmlyLm5hbWF5ZXNoLnR2LmlyaWIuaXIucmFmYXN1cC5pciIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI2OGJjMGZjZS0wYTk0LTRkNjUtYzA2My01YTIxNzI4ZDEyODMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU5ODEwIiwicHMiOiJGUkVFIHwgVk1FU1MgfCBASG9wZV9OZXQgfCBGSVx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZSB8IDBcdWZlMGZcdTIwZTMxXHVmZTBmXHUyMGUzIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
+                "config": "vmess://eyJhZGQiOiJuYW1heWVzaC50di5pcmliLmlyLm5hbWF5ZXNoLnR2LmlyaWIuaXIucmFmYXN1cC5pciIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI2OGJjMGZjZS0wYTk0LTRkNjUtYzA2My01YTIxNzI4ZDEyODMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU5ODEwIiwicHMiOiJGUkVFIHwgVk1FU1MgfCBASG9wZV9OZXQgfCBGSVx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZSB8IDBcdWZlMGZcdTIwZTMyXHVmZTBmXHUyMGUzIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
                 "ip": "95.216.229.251",
-                "time": "2023-11-19 18:42:24",
-                "name": "Finland 3"
+                "time": "2023-11-19 19:44:12",
+                "name": "Finland 5"
             },
             {
                 "type": "reality",
                 "config": "vless://----AntiFilterChV2----fd71acb3@135.181.193.91:443?type=grpc&encryption=none&flow=&serviceName=Tel:AntiFilterChV2&sni=grseven.AhV2ray.cfd&fp=chrome&security=reality&pbk=40Jh2pVw00v_QhqXFPPhpIIyPmsoeIyu2jxlyvfar38&sid=#FREE | REALITY | @hcv2ray | FI🇫🇮 | 0️⃣2️⃣",
                 "ip": "135.181.193.91",
-                "time": "2023-11-19 18:41:30",
-                "name": "Finland 4"
+                "time": "2023-11-19 19:43:10",
+                "name": "Finland 6"
             },
             {
                 "type": "vless",
                 "config": "vless://017f481c-9450-47ca-9b89-f15ce14add6f@95.216.142.150:443?security=none&encryption=none&headerType=none&type=tcp#FREE | VLESS | @v2rayngvpn | FI🇫🇮 | 0️⃣2️⃣",
                 "ip": "95.216.142.150",
-                "time": "2023-11-19 18:41:14",
-                "name": "Finland 5"
-            },
-            {
-                "type": "reality",
-                "config": "vless://b540471d-5d69-47ed-db94-451b0c4faf58@135.181.28.188:443?mode=gun&security=reality&encryption=none&pbk=tjM0lQ29MowsId6O8vM9HRmHv-xDsOdko3_aNcnoM0A&fp=chrome&spx=/&type=grpc&serviceName=@VPNCUSTOMIZE&sni=apecs.com&sid=d53c#FREE | REALITY | @iP_CF | FI🇫🇮 | 0️⃣2️⃣",
-                "ip": "135.181.28.188",
-                "time": "2023-11-19 18:40:03",
-                "name": "Finland 6"
-            },
-            {
-                "type": "reality",
-                "config": "vless://017f481c-9450-47ca-9b89-f15ce14add6f@95.216.142.150:443?mode=gun&security=reality&encryption=none&pbk=4BIQnHXPMuAUts0e13eDBOgX3qK1ta94XGVhUGjKLRs&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=ftp.debian.org&sid=174e30c7#FREE | REALITY | @v2logy | FI🇫🇮 | 0️⃣1️⃣",
-                "ip": "95.216.142.150",
-                "time": "2023-11-19 18:39:50",
+                "time": "2023-11-19 19:42:54",
                 "name": "Finland 7"
             },
             {
                 "type": "reality",
                 "config": "vless://61da5ffc-85b9-4f10-a553-b8b3ba261d75@sb.mosakin.site:27946?type=grpc&serviceName=Telegram:@V2LOGY,Telegram:@V2LOGY,Telegram:@V2LOGY,Telegram:@V2LOGY,Telegram:@V2LOGY,Telegram:@V2LOGY,Telegram:@V2LOGY,Telegram:@V2LOGY,Telegram:@V2LOGY,Telegram:@V2LOGY,Telegram:@V2LOGY,Telegram:@V2LOGY,Telegram:@V2LOGY,Telegram:@V2LOGY,Telegram:@V2LOGY,Telegram:@V2LOGY,Telegram:@V2LOGY,Telegram:@V2LOGY,Telegram:@V2LOGY,Telegram:@V2LOGY,Telegram:@V2LOGY,Telegram:@V2LOGY,Telegram:@V2LOGY,Telegram:@V2LOGY&security=reality&fp=chrome&pbk=_Gb9TW1gE4Ug5PYsrSFZKosrk9qEI2U4DX7lGMkoBH0&sni=zula.ir&sid=2d2c1f3b&spx=/#FREE | REALITY | @v2logy | FI🇫🇮 | 0️⃣2️⃣",
                 "ip": "135.181.38.36",
-                "time": "2023-11-19 18:39:50",
+                "time": "2023-11-19 19:41:40",
                 "name": "Finland 8"
+            },
+            {
+                "type": "reality",
+                "config": "vless://017f481c-9450-47ca-9b89-f15ce14add6f@95.216.142.150:443?mode=gun&security=reality&encryption=none&pbk=4BIQnHXPMuAUts0e13eDBOgX3qK1ta94XGVhUGjKLRs&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=ftp.debian.org&sid=174e30c7#FREE | REALITY | @v2logy | FI🇫🇮 | 0️⃣1️⃣",
+                "ip": "95.216.142.150",
+                "time": "2023-11-19 19:41:39",
+                "name": "Finland 9"
             },
             {
                 "type": "reality",
                 "config": "vless://baaceb01-331f-4e97-a4df-a9f0010bfc70@95.216.156.73:443?mode=gun&security=reality&encryption=none&pbk=krwGoeEFwtKlQIWVBCvWHhC_SOdzoO_rT50o3g3CA0Q&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=ftp.debian.org&sid=288aab26#FREE | REALITY | @ipV2Ray | FI🇫🇮 | 0️⃣2️⃣",
                 "ip": "95.216.156.73",
-                "time": "2023-11-19 18:39:15",
-                "name": "Finland 9"
+                "time": "2023-11-19 19:41:10",
+                "name": "Finland 10"
             },
             {
                 "type": "reality",
                 "config": "vless://---Telegram-Parsashonam---@65.108.251.177:4056?mode=gun&security=reality&encryption=none&pbk=qpfU52pXsDBlAXQdg30cDYcH5mkthzcLmOJjjqyfJzU&fp=firefox&spx=/&type=grpc&serviceName=&sni=eset.com&sid=e5dca5a0#FREE | REALITY | @Parsashonam | FI🇫🇮 | 0️⃣2️⃣",
                 "ip": "65.108.251.177",
-                "time": "2023-11-19 18:38:58",
-                "name": "Finland 10"
+                "time": "2023-11-19 19:40:58",
+                "name": "Finland 11"
+            },
+            {
+                "type": "reality",
+                "config": "vless://017f481c-9450-47ca-9b89-f15ce14add6f@135.181.201.185:443?mode=gun&security=reality&encryption=none&pbk=XQt67uPrznA7GwzcU1jO2gwyHK5Dv9JbJi9OtHVW4g0&fp=firefox&spx=/&type=grpc&serviceName=@ipV2Ray&sni=mihanyas.ir&sid=174e30c7#FREE | REALITY | @VPNCLOP | FI🇫🇮 | 0️⃣2️⃣",
+                "ip": "135.181.201.185",
+                "time": "2023-11-19 18:51:14",
+                "name": "Finland 12"
             },
             {
                 "type": "reality",
                 "config": "vless://7a0c394a-3059-4b04-a5bf-4834df228fda@fin.melov2ray.shop:35648?type=grpc&serviceName=@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray,@melov2ray&security=reality&fp=chrome&pbk=eoTWjU-FluG2y0DfR5P0qjtchTx34qQTD8BkslRj-xw&sni=discord.com&sid=8237505a&spx=/#FREE | REALITY | @melov2ray | FI🇫🇮 | 0️⃣3️⃣",
                 "ip": "65.109.241.132",
                 "time": "2023-11-18 10:50:36",
-                "name": "Finland 11"
+                "name": "Finland 13"
             },
             {
                 "type": "reality",
                 "config": "vless://5b7e4692-09e9-4b0e-b291-1f5115d606ac@tixorey.ddns.net:57711?security=reality&encryption=none&pbk=24CmZiJ_r67axcR5bGUgwXYqnmBbfZxtdJc78eqkYQM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=54686bda#FREE | REALITY | @V2raysFree | FI🇫🇮 | 0️⃣1️⃣",
                 "ip": "135.181.145.236",
                 "time": "2023-11-03 12:37:09",
-                "name": "Finland 12"
+                "name": "Finland 14"
             }
         ]
     },
@@ -1884,49 +1814,49 @@
                 "type": "ss",
                 "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freeiranwebtest.ddns.net:443#FREE | SS | @hcv2ray | GB🇬🇧 | 0️⃣2️⃣",
                 "ip": "18.169.85.222",
-                "time": "2023-11-19 18:41:29",
+                "time": "2023-11-19 19:43:09",
                 "name": "United Kingdom 1"
             },
             {
-                "type": "ss",
-                "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#FREE | SS | @forwardv2ray | GB🇬🇧 | 0️⃣1️⃣",
-                "ip": "18.169.85.222",
-                "time": "2023-11-19 18:41:16",
+                "type": "trojan",
+                "config": "trojan://telegram-id-directvpn@18.135.140.30:22222?type=tcp&security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1#FREE | TROJAN | @iP_CF | GB🇬🇧 | 0️⃣2️⃣",
+                "ip": "18.135.140.30",
+                "time": "2023-11-19 19:41:50",
                 "name": "United Kingdom 2"
             },
             {
                 "type": "trojan",
                 "config": "trojan://telegram-id-directvpn@35.176.146.207:22222?type=tcp&security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1#FREE | TROJAN | @iP_CF | GB🇬🇧 | 0️⃣1️⃣",
                 "ip": "35.176.146.207",
-                "time": "2023-11-19 18:40:00",
+                "time": "2023-11-19 19:41:50",
                 "name": "United Kingdom 3"
-            },
-            {
-                "type": "trojan",
-                "config": "trojan://telegram-id-directvpn@18.135.140.30:22222?type=tcp&security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1#FREE | TROJAN | @iP_CF | GB🇬🇧 | 0️⃣2️⃣",
-                "ip": "18.135.140.30",
-                "time": "2023-11-19 18:40:00",
-                "name": "United Kingdom 4"
             },
             {
                 "type": "vless",
                 "config": "vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.130.185.199:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#FREE | VLESS | @VlessConfig | GB🇬🇧 | 0️⃣3️⃣",
                 "ip": "18.130.185.199",
                 "time": "2023-11-19 18:30:05",
-                "name": "United Kingdom 5"
+                "name": "United Kingdom 4"
             },
             {
                 "type": "vless",
                 "config": "vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.170.75.28:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#FREE | VLESS | @VlessConfig | GB🇬🇧 | 0️⃣2️⃣",
                 "ip": "18.170.75.28",
                 "time": "2023-11-19 18:00:10",
-                "name": "United Kingdom 6"
+                "name": "United Kingdom 5"
             },
             {
                 "type": "trojan",
                 "config": "trojan://telegram-id-privatevpns@13.43.202.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#FREE | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣2️⃣",
                 "ip": "13.43.202.184",
                 "time": "2023-11-19 18:00:08",
+                "name": "United Kingdom 6"
+            },
+            {
+                "type": "reality",
+                "config": "vless://409f106a-b2f2-4416-b186-5429c9979cd9@54.38.144.4:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=discordapp.com#FREE | REALITY | @VPNCLOP | GB🇬🇧 | 0️⃣1️⃣",
+                "ip": "54.38.144.4",
+                "time": "2023-11-19 17:09:35",
                 "name": "United Kingdom 7"
             },
             {
@@ -1953,9 +1883,44 @@
             {
                 "type": "ss",
                 "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#FREE | SS | @vmess_vless_v2rayng | GB🇬🇧 | 0️⃣1️⃣",
-                "ip": "35.176.106.125",
+                "ip": "18.170.152.33",
                 "time": "2023-10-31 21:18:14",
                 "name": "United Kingdom 11"
+            }
+        ]
+    },
+    {
+        "country_code": "SE",
+        "country_name": "Sweden",
+        "flag": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/flags/SE.svg",
+        "configs": [
+            {
+                "type": "trojan",
+                "config": "trojan://telegram-id-directvpn@13.49.154.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#FREE | TROJAN | @DirectVPN | SE🇸🇪 | 0️⃣1️⃣",
+                "ip": "13.49.154.245",
+                "time": "2023-11-19 17:30:06",
+                "name": "Sweden 1"
+            },
+            {
+                "type": "reality",
+                "config": "vless://fe4965d5-e14d-480e-a8f0-ff532195ed46@5.42.77.255:2086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.discordapp.com&fp=chrome&pbk=v3g02Ah_iZ-ZRIkw5tFdga75R-CUddGXzFCycp4FA1g&sid=245a57dca8e8285c&type=tcp&headerType=none#FREE | REALITY | @reality_daily | SE🇸🇪 | 0️⃣3️⃣",
+                "ip": "5.42.77.255",
+                "time": "2023-11-19 15:18:25",
+                "name": "Sweden 2"
+            },
+            {
+                "type": "reality",
+                "config": "vless://5c70548d-b0ed-4051-a88c-5907c3d5da26@5.42.77.255:2095?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.theverge.com&fp=chrome&pbk=v3g02Ah_iZ-ZRIkw5tFdga75R-CUddGXzFCycp4FA1g&sid=245a57dca8e8285c&type=tcp&headerType=none#FREE | REALITY | @reality_daily | SE🇸🇪 | 0️⃣2️⃣",
+                "ip": "5.42.77.255",
+                "time": "2023-11-19 15:18:24",
+                "name": "Sweden 3"
+            },
+            {
+                "type": "reality",
+                "config": "vless://8dcf8b7c-1ef7-4e94-835e-9ed8abeaf0e1@77.91.84.45:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ftp.debian.org&fp=chrome&pbk=01Ced07pf-Nf9ZUJ6ZGKWuzfW1TogsPYTztr62ad4CU&sid=78cced120ce4dcba&type=tcp&headerType=none#FREE | REALITY | @reality_daily | SE🇸🇪 | 0️⃣1️⃣",
+                "ip": "77.91.84.45",
+                "time": "2023-11-19 15:18:23",
+                "name": "Sweden 4"
             }
         ]
     },
@@ -1968,141 +1933,134 @@
                 "type": "vless",
                 "config": "vless://4614658a-64d1-4db9-9423-481c4bcc477c@190.93.246.241:443?path=/&security=tls&encryption=none&host=ws.ArV2ray.fun&type=ws&sni=ws.ArV2ray.fun#FREE | VLESS | @v2rayng_vpnrog | CR🇨🇷 | 0️⃣1️⃣",
                 "ip": "190.93.246.241",
-                "time": "2023-11-19 18:42:37",
+                "time": "2023-11-19 19:44:21",
                 "name": "Costa Rica 1"
             },
             {
                 "type": "vless",
                 "config": "vless://0de2c913-3aea-4cfb-94a3-a95a9b22c340@all.vpncustomize.cam:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE,@VPNCUSTOMIZE,@VPNCUSTOMIZE,@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=ConflgForV2rayng.vpncustomize.Website#FREE | VLESS | @Outlinev2rayNG | CR🇨🇷 | 0️⃣2️⃣",
                 "ip": "190.93.246.241",
-                "time": "2023-11-19 18:42:36",
+                "time": "2023-11-19 19:44:20",
                 "name": "Costa Rica 2"
             },
             {
                 "type": "vless",
                 "config": "vless://aeae8c65-5e4f-4022-887f-4310ec4a26d5@all.v-2rayngvpn.cfd:443?mode=multi&security=tls&encryption=none&type=grpc&serviceName=@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn&sni=Loop.v2rayvpn2.sbs#FREE | VLESS | @Outlinev2rayNG | CR🇨🇷 | 0️⃣1️⃣",
                 "ip": "190.93.246.241",
-                "time": "2023-11-19 18:42:36",
+                "time": "2023-11-19 19:44:20",
                 "name": "Costa Rica 3"
-            },
-            {
-                "type": "vless",
-                "config": "vless://4a39b782-d842-4deb-bd7e-8eab5291b4f2@All.V2rAxx.shop:2087?path=/&security=tls&encryption=none&host=V2rayCncXx-IrOnly-Mci-rG-mkH-mTn-mm.v2raxx.shop&type=ws&sni=V2rayCncXx-IrOnly-Mci-rG-mkH-mTn-mm.v2raxx.shop#FREE | VLESS | @VPNCLOP | CR🇨🇷 | 0️⃣1️⃣",
-                "ip": "190.93.246.241",
-                "time": "2023-11-19 18:42:26",
-                "name": "Costa Rica 4"
             },
             {
                 "type": "vless",
                 "config": "vless://a97f8442-5a28-4547-9382-47cae8318564@all.vpncustomize.cam:443?mode=gun&security=tls&encryption=none&alpn=h2&type=grpc&serviceName=@VPNCUSTOMIZE&sni=conflgforV2rayng.vpncustomize.Website#FREE | VLESS | @vmess_vless_v2rayng | CR🇨🇷 | 0️⃣1️⃣",
                 "ip": "190.93.246.241",
-                "time": "2023-11-19 18:41:53",
+                "time": "2023-11-19 19:43:42",
+                "name": "Costa Rica 4"
+            },
+            {
+                "type": "vless",
+                "config": "vless://8547e296-aea1-4cd7-ac57-2628d26a2750@all-network.aparat.lol:2083?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@Filtering_69 @Filtering_69 @Filtering_69&sni=hp.reza-fhotoshop-shop.cfd#FREE | VLESS | @azadi_az_inja_migzare | CR🇨🇷 | 0️⃣3️⃣",
+                "ip": "190.93.246.241",
+                "time": "2023-11-19 19:42:00",
                 "name": "Costa Rica 5"
             },
             {
                 "type": "vless",
                 "config": "vless://ea0fd696-f9a6-450d-8b04-e84d8255953b@all-network.aparat.lol:2083?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@Filtering_69 @Filtering_69 @Filtering_69&sni=hp.reza-fhotoshop-shop.cfd#FREE | VLESS | @azadi_az_inja_migzare | CR🇨🇷 | 0️⃣1️⃣",
                 "ip": "190.93.246.241",
-                "time": "2023-11-19 18:40:16",
+                "time": "2023-11-19 19:42:00",
                 "name": "Costa Rica 6"
             },
             {
                 "type": "vless",
                 "config": "vless://374189f5-038e-494d-8c21-66de30a1fb46@all-network.aparat.lol:2083?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@Filtering_69 @Filtering_69 @Filtering_69&sni=hp.reza-fhotoshop-shop.cfd#FREE | VLESS | @azadi_az_inja_migzare | CR🇨🇷 | 0️⃣2️⃣",
                 "ip": "190.93.246.241",
-                "time": "2023-11-19 18:40:16",
+                "time": "2023-11-19 19:42:00",
                 "name": "Costa Rica 7"
             },
             {
                 "type": "vless",
-                "config": "vless://8547e296-aea1-4cd7-ac57-2628d26a2750@all-network.aparat.lol:2083?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@Filtering_69 @Filtering_69 @Filtering_69&sni=hp.reza-fhotoshop-shop.cfd#FREE | VLESS | @azadi_az_inja_migzare | CR🇨🇷 | 0️⃣3️⃣",
+                "config": "vless://443dd82b-68b9-40a6-aefd-094ad8c63e40@All.digiv2ray.shop:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray, @Digiv2ray, @Digiv2ray&sni=DigiV2ray-IrOnly-Mci-rG-mkH-mTn.digiv2ray.xyz#FREE | VLESS | @DigiV2ray | CR🇨🇷 | 0️⃣1️⃣",
                 "ip": "190.93.246.241",
-                "time": "2023-11-19 18:40:16",
+                "time": "2023-11-19 19:41:33",
                 "name": "Costa Rica 8"
             },
             {
                 "type": "vless",
                 "config": "vless://443dd82b-68b9-40a6-aefd-094ad8c63ec9@All.digiv2ray.shop:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray, @Digiv2ray, @Digiv2ray&sni=DigiV2ray-IrOnly-Mci-rG-mkH-mTn.digiv2ray.xyz#FREE | VLESS | @DigiV2ray | CR🇨🇷 | 0️⃣3️⃣",
                 "ip": "190.93.246.241",
-                "time": "2023-11-19 18:39:39",
+                "time": "2023-11-19 19:41:33",
                 "name": "Costa Rica 9"
             },
             {
                 "type": "vless",
-                "config": "vless://443dd82b-68b9-40a6-aefd-094ad8c63e40@All.digiv2ray.shop:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray, @Digiv2ray, @Digiv2ray&sni=DigiV2ray-IrOnly-Mci-rG-mkH-mTn.digiv2ray.xyz#FREE | VLESS | @DigiV2ray | CR🇨🇷 | 0️⃣1️⃣",
+                "config": "vless://6ad672fa-b3e5-4491-88ce-aee08dde8ad5@LIGHTNING6-joinbede.mamd.sbs:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LIGHTNING6&sni=Z.LiV2ray.top#FREE | VLESS | @lightning6 | CR🇨🇷 | 0️⃣1️⃣",
                 "ip": "190.93.246.241",
-                "time": "2023-11-19 18:39:38",
+                "time": "2023-11-19 19:41:22",
                 "name": "Costa Rica 10"
             },
             {
                 "type": "vless",
                 "config": "vless://84615759-0097-46a7-8603-848d164faf55@LIGHTNING6-joinbede.mamd.sbs:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LIGHTNING6&sni=Z.LiV2ray.top#FREE | VLESS | @lightning6 | CR🇨🇷 | 0️⃣2️⃣",
                 "ip": "190.93.247.102",
-                "time": "2023-11-19 18:39:31",
+                "time": "2023-11-19 19:41:22",
                 "name": "Costa Rica 11"
-            },
-            {
-                "type": "vless",
-                "config": "vless://6ad672fa-b3e5-4491-88ce-aee08dde8ad5@LIGHTNING6-joinbede.mamd.sbs:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LIGHTNING6&sni=Z.LiV2ray.top#FREE | VLESS | @lightning6 | CR🇨🇷 | 0️⃣1️⃣",
-                "ip": "190.93.246.241",
-                "time": "2023-11-19 18:39:30",
-                "name": "Costa Rica 12"
             },
             {
                 "type": "vless",
                 "config": "vless://VPNCUSTOMIZE@all.vpncustomize.cam:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=configforV2rayng.vpncustomize.Website#FREE | VLESS | @VPNCUSTOMIZE | CR🇨🇷 | 0️⃣2️⃣",
                 "ip": "190.93.246.241",
-                "time": "2023-11-19 18:39:13",
-                "name": "Costa Rica 13"
+                "time": "2023-11-19 19:41:09",
+                "name": "Costa Rica 12"
             },
             {
                 "type": "vless",
                 "config": "vless://VPNCUSTOMIZE@all.vpncustomize.cam:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=conflgforV2rayng.vpncustomize.Website#FREE | VLESS | @VPNCUSTOMIZE | CR🇨🇷 | 0️⃣3️⃣",
                 "ip": "190.93.246.241",
-                "time": "2023-11-19 18:39:13",
-                "name": "Costa Rica 14"
+                "time": "2023-11-19 19:41:09",
+                "name": "Costa Rica 13"
             },
             {
                 "type": "vless",
                 "config": "vless://VPNCUSTOMiZE@all.vpncustomize.cam:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=configforV2rayng.vpncustomize.Website#FREE | VLESS | @proxyymeliii | CR🇨🇷 | 0️⃣1️⃣",
                 "ip": "190.93.246.241",
                 "time": "2023-11-19 10:03:02",
-                "name": "Costa Rica 15"
+                "name": "Costa Rica 14"
             },
             {
                 "type": "vless",
                 "config": "vless://fb1ed176-5fec-4e4c-98d4-9e9c3ac9fcde@190.93.246.241:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@proxy_kafee,@proxy_kafee,@proxy_kafee&sni=mj.AhV2ray.fun#FREE | VLESS | @proxy_kafee | CR🇨🇷 | 0️⃣1️⃣",
                 "ip": "190.93.246.241",
                 "time": "2023-11-18 17:58:26",
-                "name": "Costa Rica 16"
+                "name": "Costa Rica 15"
             },
             {
                 "type": "vless",
                 "config": "vless://513304b8-2481-4513-9ed9-6d6939cee119@all.irn-vpn-ay.online:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN&sni=telegram.irn-vpn-ay.online#FREE | VLESS | @IRN_VPN | CR🇨🇷 | 0️⃣3️⃣",
                 "ip": "190.93.246.241",
                 "time": "2023-11-18 00:09:53",
-                "name": "Costa Rica 17"
+                "name": "Costa Rica 16"
             },
             {
                 "type": "vless",
                 "config": "vless://de8f6016-ec64-454c-a2c4-44b316a4f702@all.irn-vpn-ay.online:443?path=/?ed=2048&security=tls&encryption=none&host=worker-spring-tree-9a0c.koxin96319.workers.dev&type=ws&sni=worker-spring-tree-9a0c.koxin96319.workers.dev#FREE | VLESS | @IRN_VPN | CR🇨🇷 | 0️⃣2️⃣",
                 "ip": "190.93.246.241",
                 "time": "2023-11-18 00:06:23",
-                "name": "Costa Rica 18"
+                "name": "Costa Rica 17"
             },
             {
                 "type": "vless",
                 "config": "vless://1a28564f-ba89-48cd-9f9c-99e9ec46e471@all.irn-vpn-ay.online:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN&sni=telegram.irn-vpn-ay.online#FREE | VLESS | @IRN_VPN | CR🇨🇷 | 0️⃣1️⃣",
                 "ip": "190.93.246.241",
                 "time": "2023-11-18 00:06:10",
-                "name": "Costa Rica 19"
+                "name": "Costa Rica 18"
             },
             {
                 "type": "trojan",
                 "config": "trojan://hpS304VqvF@190.93.246.241:2087?mode=multi&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11 ‌proxystore11&sni=panel.proxystore11.site#FREE | TROJAN | @proxystore11 | CR🇨🇷 | 0️⃣1️⃣",
                 "ip": "190.93.246.241",
                 "time": "2023-11-16 12:41:50",
-                "name": "Costa Rica 20"
+                "name": "Costa Rica 19"
             }
         ]
     },
@@ -2115,7 +2073,7 @@
                 "type": "vless",
                 "config": "vless://8d465054-3f6e-4ab5-b833-c665a6368b44@185.18.250.119:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-Telegramjoin:@Awlix_V2RAY-&sni=mjgkkhgvkutfkhg.mic-mokhaderat-irancell-shatel-irancel.shop#FREE | VLESS | @Awlix_V2RAY | ES🇪🇸 | 0️⃣3️⃣",
                 "ip": "185.18.250.119",
-                "time": "2023-11-19 18:39:43",
+                "time": "2023-11-19 19:41:37",
                 "name": "Spain 1"
             },
             {
@@ -2128,6 +2086,27 @@
         ]
     },
     {
+        "country_code": "TR",
+        "country_name": "Turkey",
+        "flag": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/flags/TR.svg",
+        "configs": [
+            {
+                "type": "vless",
+                "config": "vless://ItsLegendaryking@62.133.63.71:443?type=tcp&encryption=none&flow=#FREE | VLESS | @iP_CF | TR🇹🇷 | 0️⃣3️⃣",
+                "ip": "62.133.63.71",
+                "time": "2023-11-19 19:41:53",
+                "name": "Turkey 1"
+            },
+            {
+                "type": "ss",
+                "config": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206SmxDc3dvTHJSaFpKR0l6SEI0UXovTzJsR29QQ2RmNnRWaTUzN0ZWallJZz0=@www.outline.network.ak1970.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:32926#FREE | SS | @OutlineVpnOfficial | TR🇹🇷 | 0️⃣3️⃣",
+                "ip": "84.32.230.245",
+                "time": "2023-11-19 15:30:08",
+                "name": "Turkey 2"
+            }
+        ]
+    },
+    {
         "country_code": "FR",
         "country_name": "France",
         "flag": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/flags/FR.svg",
@@ -2136,21 +2115,21 @@
                 "type": "vless",
                 "config": "vless://fe28112e-9cd2-417d-9729-8779869fc2da@ho1one.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#FREE | VLESS | @VmessProtocol | FR🇫🇷 | 0️⃣1️⃣",
                 "ip": "51.158.147.152",
-                "time": "2023-11-19 18:41:59",
+                "time": "2023-11-19 19:43:48",
                 "name": "France 1"
             },
             {
                 "type": "trojan",
                 "config": "trojan://telegram-id-directvpn@35.181.201.123:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#FREE | TROJAN | @vmess_vless_v2rayng | FR🇫🇷 | 0️⃣3️⃣",
                 "ip": "35.181.201.123",
-                "time": "2023-11-19 18:41:52",
+                "time": "2023-11-19 19:43:37",
                 "name": "France 2"
             },
             {
                 "type": "trojan",
                 "config": "trojan://telegram-id-directvpn@13.37.179.119:22222?type=tcp&security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1#FREE | TROJAN | @iP_CF | FR🇫🇷 | 0️⃣3️⃣",
                 "ip": "13.37.179.119",
-                "time": "2023-11-19 18:40:00",
+                "time": "2023-11-19 19:41:50",
                 "name": "France 3"
             },
             {
@@ -2213,7 +2192,7 @@
                 "type": "vless",
                 "config": "vless://1f10bbe1-2426-46b7-857d-5eacea0d13b3@si4co.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#FREE | VLESS | @VmessProtocol | SG🇸🇬 | 0️⃣2️⃣",
                 "ip": "194.233.95.180",
-                "time": "2023-11-19 18:41:59",
+                "time": "2023-11-19 19:43:48",
                 "name": "Singapore 1"
             }
         ]
@@ -2227,7 +2206,7 @@
                 "type": "vless",
                 "config": "vless://3ffe889b-9584-4eb7-9973-6af1cc820a7c@p1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#FREE | VLESS | @VmessProtocol | PL🇵🇱 | 0️⃣3️⃣",
                 "ip": "146.59.94.89",
-                "time": "2023-11-19 18:41:59",
+                "time": "2023-11-19 19:43:48",
                 "name": "Poland 1"
             },
             {
@@ -2248,7 +2227,7 @@
                 "type": "vless",
                 "config": "vless://b9f65d70-2725-40c4-8575-afc7cdca536d@154.83.2.77:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=tapsi&sni=tApSI.onlINEvISIonstORe.SIte#FREE | VLESS | @DailyV2RY | PH🇵🇭 | 0️⃣1️⃣",
                 "ip": "154.83.2.77",
-                "time": "2023-11-19 18:42:00",
+                "time": "2023-11-19 19:43:49",
                 "name": "Philippines 1"
             }
         ]
@@ -2262,7 +2241,7 @@
                 "type": "trojan",
                 "config": "trojan://your_password@3.29.95.54:443?security=tls&headerType=none&type=tcp&sni=aws-uae-1.f1rocketnode.com#FREE | TROJAN | @VmessProtocol | AE🇦🇪 | 0️⃣1️⃣",
                 "ip": "3.29.95.54",
-                "time": "2023-11-19 18:41:58",
+                "time": "2023-11-19 19:43:47",
                 "name": "United Arab Emirates 1"
             }
         ]
@@ -2276,7 +2255,7 @@
                 "type": "trojan",
                 "config": "trojan://your_password@43.205.109.9:443?security=tls&headerType=none&type=tcp&sni=aws-in-mumbai-1.f1rocketnode.com#FREE | TROJAN | @VmessProtocol | IN🇮🇳 | 0️⃣2️⃣",
                 "ip": "43.205.109.9",
-                "time": "2023-11-19 18:41:58",
+                "time": "2023-11-19 19:43:47",
                 "name": "India 1"
             }
         ]
@@ -2290,22 +2269,8 @@
                 "type": "ss",
                 "config": "ss://YWVzLTI1Ni1nY206VnNxUjRoTlY4MHp6bWxLL3N2d3pkQXk1WG5IdUcyV28zUmFUa0ZReTkyaz0=@www.outline.network.ak1984.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:2443#FREE | SS | @hcv2ray | IT🇮🇹 | 0️⃣3️⃣",
                 "ip": "172.232.194.131",
-                "time": "2023-11-19 18:41:29",
+                "time": "2023-11-19 19:43:09",
                 "name": "Italy 1"
-            }
-        ]
-    },
-    {
-        "country_code": "TR",
-        "country_name": "Turkey",
-        "flag": "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/flags/TR.svg",
-        "configs": [
-            {
-                "type": "ss",
-                "config": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206SmxDc3dvTHJSaFpKR0l6SEI0UXovTzJsR29QQ2RmNnRWaTUzN0ZWallJZz0=@www.outline.network.ak1970.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:32926#FREE | SS | @OutlineVpnOfficial | TR🇹🇷 | 0️⃣3️⃣",
-                "ip": "84.32.230.245",
-                "time": "2023-11-19 15:30:08",
-                "name": "Turkey 1"
             }
         ]
     }
