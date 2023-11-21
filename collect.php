@@ -225,5 +225,5 @@ if (!is_dir($dir)) {
     mkdir($dir);
 }
 
-file_put_contents("api/normal", base64_decode($mix));
-file_put_contents("api/base64", $mix);
+file_put_contents("api/base64", base64_encode($mix));
+file_put_contents("api/normal", $mix);
