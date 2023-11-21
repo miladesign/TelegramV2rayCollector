@@ -15,65 +15,6 @@ function deleteFolder($folder) {
     rmdir($folder);
 }
 
-function process_mix_json($input)
-{
-    $dir = "api";
-    if (!is_dir($dir)) {
-        mkdir($dir);
-    }
-
-    $mix_data_grouped = [];
-
-    foreach ($input as $entry) {
-        $countryCode = $entry['country_code'];
-        $countryName = $entry['country_name'];
-
-        if (!isset($mix_data_grouped[$countryCode])) {
-            $mix_data_grouped[$countryCode] = [
-                'country_code' => $entry['country_code'],
-                'country_name' => $entry['country_name'],
-                'flag' => $entry['flag'],
-                'configs' => [],
-            ];
-        }
-
-        $mix_data_grouped[$countryCode]['configs'][] = [
-            'type' => $entry['type'],
-            'config' => $entry['config'],
-            'ip' => $entry['ip'],
-            'time' => $entry['time'],
-        ];
-    }
-
-    // Sort configurations by time within each country group (new to old)
-    foreach ($mix_data_grouped as &$group) {
-        usort($group['configs'], function ($a, $b) {
-            return strtotime($b['time']) - strtotime($a['time']);
-        });
-
-        // Set names based on the sorted order
-        foreach ($group['configs'] as $index => &$config) {
-            $name = $group['country_name'] . ' ' . ($index + 1);
-            $config['name'] = $name;
-        }
-    }
-
-    // Convert the associative array to a simple array of grouped configs
-    $mix_data_grouped = array_values($mix_data_grouped);
-
-    $mix_data_json = json_encode(
-        $mix_data_grouped,
-        JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE
-    );
-    
-    $mix_data_json = urldecode($mix_data_json);
-    $mix_data_json = str_replace("amp;", "", $mix_data_json);
-    $mix_data_json = str_replace("\\", "", $mix_data_json);
-
-    file_put_contents($dir . "/configs.json", $mix_data_json);
-}
-
-
 function fast_fix($input){
     $input = urldecode($input);
     $input = str_replace("amp;", "", $input);
@@ -86,6 +27,7 @@ function config_array($input){
 }, $input);
 }
 
+$mix_data = [];
 $vmess_data = []; // Initialize an empty array for vmess data
 $trojan_data = []; // Initialize an empty array for trojan data
 $vless_data = []; // Initialize an empty array for vless data
@@ -234,7 +176,7 @@ $fixed_string_tuic = remove_duplicate_tuic($string_tuic);
 $fixed_string_tuic_array = explode("\n", $fixed_string_tuic);
 $json_tuic_array = [];
 
-/*// Iterate over $tuic_data and $fixed_string_tuic_array to find matching configurations
+// Iterate over $tuic_data and $fixed_string_tuic_array to find matching configurations
 foreach ($tuic_data as $tuic_config_data) {
     foreach ($fixed_string_tuic_array as $key => $tuic_config) {
         $parsed_tuic_config = parseTuic($tuic_config);
@@ -245,7 +187,7 @@ foreach ($tuic_data as $tuic_config_data) {
             $json_tuic_array[$key] = $tuic_config_data;
         }
     }
-}*/
+}
 
 $string_hy2 = fast_fix(implode("\n", $hy2_array));
 $fixed_string_hy2 = remove_duplicate_hy2($string_hy2);
@@ -265,13 +207,23 @@ foreach ($hy2_data as $hy2_config_data) {
     }
 }
 
-$mix_data_deduplicate = array_merge(
-    $json_vmess_array,
-    $json_vless_array,
-    $json_trojan_array,
-    $json_shadowsocks_array,
-    $json_tuic_array,
-    $json_hy2_array
-);
+$mix =
+    $fixed_string_vmess .
+    "\n" .
+    $fixed_string_vless .
+    "\n" .
+    $fixed_string_trojan .
+    "\n" .
+    $fixed_string_shadowsocks .
+    "\n" .
+    $fixed_string_tuic .
+    "\n" .
+    $fixed_string_hy2;
 
-process_mix_json($mix_data_deduplicate);
+$dir = "api";
+if (!is_dir($dir)) {
+    mkdir($dir);
+}
+
+file_put_contents("api/normal", base64_decode($mix));
+file_put_contents("api/base64", $mix);

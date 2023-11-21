@@ -277,9 +277,9 @@ function generate_name($channel, $flag, $is_reality, $number, $type)
                 "FREE | REALITY | " .
                 "@" .
                 $channel .
-                " | " .
+                " (" .
                 $flag .
-                " | " .
+                ") " .
                 numberToEmoji($number);
         case false:
             return
@@ -287,9 +287,9 @@ function generate_name($channel, $flag, $is_reality, $number, $type)
                 $type .
                 " | @" .
                 $channel .
-                " | " .
+                " (" .
                 $flag .
-                " | " .
+                ") " .
                 numberToEmoji($number);
     }
 }
@@ -381,17 +381,15 @@ function get_config($channel, $type)
                 if ($check_pbk) {
                     if (is_valid_address($address)) {
                         $ip = get_ip($the_config, $type, $is_reality);
-                        $port = get_port($the_config, $type);
 
                         $info = ip_info($ip);
                         $country_code = $info->country_code;
-                        $country_name = $info->country_name;
                         $flag = get_flag($country_code);
 
                         $name_key = $name_array[$type];
                         $the_config[$name_key] = generate_name(
                             $channel,
-                            $flag,
+                            $country_code,
                             $is_reality,
                             $config_number,
                             strtoupper($type)
@@ -403,10 +401,7 @@ function get_config($channel, $type)
                             ? "reality"
                             : $type;
                         $final_data[$key]["config"] = $final_config;
-                        $final_data[$key]["ip"] = $info->ip;
-                        $final_data[$key]["flag"] = "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/flags/" . $country_code . ".svg";
                         $final_data[$key]["country_code"] = $country_code;
-                        $final_data[$key]["country_name"] = $country_name;
                         $final_data[$key]["time"] = convert_to_iran_time(
                             $matches[1][$key]
                         );
