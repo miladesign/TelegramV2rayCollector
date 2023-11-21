@@ -267,7 +267,7 @@ function get_channels_assets()
     );
 }
 
-function generate_name($channel, $flag, $is_reality, $number, $type)
+function generate_name($channel, $country_code, $is_reality, $number, $type)
 {
     $name = "";
     switch ($is_reality) {
@@ -276,9 +276,9 @@ function generate_name($channel, $flag, $is_reality, $number, $type)
                 "FREE | REALITY | " .
                 "@" .
                 $channel .
-                " (" .
-                $flag .
-                ") " .
+                " (<" .
+                $country_code .
+                ">) " .
                 numberToEmoji($number);
         case false:
             return
@@ -286,9 +286,9 @@ function generate_name($channel, $flag, $is_reality, $number, $type)
                 $type .
                 " | @" .
                 $channel .
-                " (" .
-                $flag .
-                ") " .
+                " (<" .
+                $country_code .
+                ">) " .
                 numberToEmoji($number);
     }
 }
