@@ -55,24 +55,23 @@ function remove_duplicate_ss($input)
 
     foreach ($array as $item) {
         $parts = ParseShadowsocks($item);
-        $part_hash = $parts["name"];
-        unset($parts["name"]);
+        $part_hash = $parts["server_address"] . ":" . $parts["server_port"];
+        unset($parts["server_address"]);
+        unset($parts["server_port"]);
         ksort($parts);
         $part_serialize = base64_encode(serialize($parts));
-        $result[$part_serialize][] = $part_hash ?? "";
+        $result[$part_serialize][] = $part_hash;
     }
 
     $finalResult = [];
     foreach ($result as $url => $parts) {
-        $partAfterHash = $parts[0] ?? "";
+        $partAfterHash = $parts[0];
         $part_serialize = unserialize(base64_decode($url));
-        $part_serialize["name"] = $partAfterHash;
+        $part_serialize["server_address"] = explode(":", $partAfterHash)[0] ?? "";
+        $part_serialize["server_port"] = explode(":", $partAfterHash)[1] ?? "";
         $finalResult[] = BuildShadowsocks($part_serialize);
     }
 
-    $output = "";
-    foreach ($finalResult as $config) {
-        $output .= $output == "" ? $config : "\n" . $config;
-    }
+    $output = implode("\n", $finalResult);
     return $output;
 }

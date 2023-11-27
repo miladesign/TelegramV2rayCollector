@@ -78,30 +78,31 @@ function addHash($obj)
 function remove_duplicate_xray($input, $type)
 {
     $array = explode("\n", $input);
+    $result = [];
 
     foreach ($array as $item) {
         $parts = parseProxyUrl($item, $type);
-        $part_hash = $parts["hash"];
-        unset($parts["hash"]);
+        $part_add_port = $parts["hostname"] . ":" . $parts["port"];
+        unset($parts["hostname"]);
+        unset($parts["port"]);
         ksort($parts["params"]);
         $part_serialize = base64_encode(serialize($parts));
-        $result[$part_serialize][] = $part_hash ?? "";
+        $result[$part_serialize][] = $part_add_port ?? "";
     }
 
     $finalResult = [];
-    foreach ($result as $url => $parts) {
-        $partAfterHash = $parts[0] ?? "";
+    foreach ($result as $url => $add_ports) {
+        $partAfterHash = $add_ports[0] ?? "";
         $part_serialize = unserialize(base64_decode($url));
-        $part_serialize["hash"] = $partAfterHash;
+        $part_serialize["hostname"] = explode(":", $partAfterHash)[0] ?? "";
+        $part_serialize["port"] = explode(":", $partAfterHash)[1] ?? "";
         $finalResult[] = buildProxyUrl($part_serialize, $type);
     }
 
-    $output = "";
-    foreach ($finalResult as $config) {
-        $output .= $output == "" ? $config : "\n" . $config;
-    }
+    $output = implode("\n", $finalResult);
     return $output;
 }
+
 
 
 function get_reality($input)

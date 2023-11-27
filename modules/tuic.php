@@ -38,27 +38,27 @@ function buildTuic($obj)
 function remove_duplicate_tuic($input)
 {
     $array = explode("\n", $input);
+    $result = [];
 
     foreach ($array as $item) {
         $parts = parseTuic($item);
-        $part_hash = $parts["hash"];
-        unset($parts["hash"]);
+        $part_host_port = $parts["hostname"] . ":" . $parts["port"];
+        unset($parts["hostname"]);
+        unset($parts["port"]);
         ksort($parts["params"]);
         $part_serialize = base64_encode(serialize($parts));
-        $result[$part_serialize][] = $part_hash ?? "";
+        $result[$part_serialize][] = $part_host_port ?? "";
     }
 
     $finalResult = [];
     foreach ($result as $url => $parts) {
         $partAfterHash = $parts[0] ?? "";
         $part_serialize = unserialize(base64_decode($url));
-        $part_serialize["hash"] = $partAfterHash;
+        $part_serialize["hostname"] = explode(":", $partAfterHash)[0] ?? "";
+        $part_serialize["port"] = explode(":", $partAfterHash)[1] ?? "";
         $finalResult[] = buildTuic($part_serialize);
     }
 
-    $output = "";
-    foreach ($finalResult as $config) {
-        $output .= $output == "" ? $config : "\n" . $config;
-    }
+    $output = implode("\n", $finalResult);
     return $output;
 }

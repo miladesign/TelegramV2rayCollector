@@ -17,28 +17,32 @@ function remove_duplicate_vmess($input)
 {
     $array = explode("\n", $input);
     $result = [];
+    
     foreach ($array as $item) {
         $parts = decode_vmess($item);
+        
         if ($parts !== NULL) {
-            $part_ps = $parts["ps"];
-            unset($parts["ps"]);
-            if (count($parts) >= 3) {
+            $part_add_port = $parts["add"] . ":" . $parts["port"];
+            unset($parts["add"]);
+            unset($parts["port"]);
+            
+            if (count($parts) >= 1) {
                 ksort($parts);
                 $part_serialize = base64_encode(serialize($parts));
-                $result[$part_serialize][] = $part_ps ?? "";
+                $result[$part_serialize][] = $part_add_port ?? "";
             }
         }
     }
+
     $finalResult = [];
-    foreach ($result as $serial => $ps) {
-        $partAfterHash = $ps[0] ?? "";
+    foreach ($result as $serial => $add_ports) {
+        $partAfterHash = $add_ports[0] ?? "";
         $part_serialize = unserialize(base64_decode($serial));
-        $part_serialize["ps"] = $partAfterHash;
+        $part_serialize["add"] = explode(":", $partAfterHash)[0] ?? "";
+        $part_serialize["port"] = explode(":", $partAfterHash)[1] ?? "";
         $finalResult[] = encode_vmess($part_serialize);
     }
-    $output = "";
-    foreach ($finalResult as $config) {
-        $output .= $output == "" ? $config : "\n" . $config;
-    }
+
+    $output = implode("\n", $finalResult);
     return $output;
 }
