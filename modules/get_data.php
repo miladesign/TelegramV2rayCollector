@@ -380,7 +380,7 @@ function get_config($channel, $type)
                         $ip = get_ip($the_config, $type, $is_reality);
                         $info = ip_info($ip);
                         $name_key = $name_array[$type];
-                        $the_config[$name_key] = $info->country_name;
+                        $the_config[$name_key] = preg_replace('/^The\s+/i', '', $info->country_name);
 
                         $final_config = build_config($the_config, $type);
                         $final_data[$key]["config"] = $final_config;
