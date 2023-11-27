@@ -278,12 +278,7 @@ function generate_name($channel, $country_code, $is_reality, $number, $type)
                 $channel .
                 " (<" .
                 $country_code .
-<<<<<<< Updated upstream
-                ">) " .
-                numberToEmoji($number);
-=======
                 ">)";
->>>>>>> Stashed changes
         case false:
             return
                 "FREE | " .
@@ -292,12 +287,7 @@ function generate_name($channel, $country_code, $is_reality, $number, $type)
                 $channel .
                 " (<" .
                 $country_code .
-<<<<<<< Updated upstream
-                ">) " .
-                numberToEmoji($number);
-=======
                 ">)";
->>>>>>> Stashed changes
     }
 }
 
