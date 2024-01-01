@@ -80,7 +80,7 @@ vless://09017fe1-196f-4ac2-930f-1cd9b9dad65a@tel.ArV2ray.host:443?encryption=non
 vless://b293bc57-beb0-4528-ae2c-358267f6ae6a@tel.ArV2ray.host:443?encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray&sni=tm.ArV2ray.shop&type=grpc#Canada
 vless://35dd52da-3bc7-4b00-9a7f-10e77015ba81@V2ray.motorcycles:2087?encryption=none&host=FreeV2rayng.SHHPROXY.monster&path=%2F&security=tls&sni=FreeV2rayng.SHHPROXY.monster&type=ws#Costa Rica
 vless://50ece3f9-1dfc-4d2d-b316-3e43395a2740@All.SHHPROXY.monster:443?alpn=h2&encryption=none&fp=chrome&mode=multi&security=tls&serviceName=%40Shh_Proxy%2C%40Shh_Proxy&sni=shhV2ray.DIGTALCITY.xyz&type=grpc#United States
-vless://e10c2ebf-3ced-4224-8732-ca4b23dc6419@V2ray.motorcycles:2087?encryption=none&host=FreeV2rayng.SHHPROXY.monster&path=%2F&security=tls&sni=FreeV2rayng.SHHPROXY.monster&type=ws#Costa Rica
+vless://e10c2ebf-3ced-4224-8732-ca4b23dc6419@V2ray.motorcycles:2087?encryption=none&host=FreeV2rayng.SHHPROXY.monster&path=%2F&security=tls&sni=FreeV2rayng.SHHPROXY.monster&type=ws#United States
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?encryption=none&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=3k.pureboy.eu.org&type=ws#Canada
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.18.189.219:443?encryption=none&host=w1.sylar8.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=w1.sylar8.eu.org&type=ws#Canada
 vless://e733453e-00e8-4045-fefa-855b6f2766d6@cdnjs.com:2087?encryption=none&mode=gun&security=tls&serviceName=%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40R&sni=ch.RxV2ray.space&type=grpc#Canada
@@ -171,9 +171,6 @@ vless://a8f68a52-e75b-4324-92b1-a8d809172a3f@23.212.216.212:8080?alpn=h2%2Chttp%
 vless://38c1a901-4e86-4d39-a399-69938f9b4f92@xio.vpnxw.eu.org:2095?encryption=none&host=auio.vpnxw.eu.org&path=%2F%3Fed%3D2048&security=none&type=ws#Canada
 vless://37b9069c-ee92-4234-9df1-e7b026b7a109@mtn.vpnprosec.com:443?encryption=none&fp=chrome&mode=gun&security=tls&serviceName=&sni=OneAgV2rayes.Dreamsvn.Site&type=grpc#Canada
 vless://a4c42483-3b0c-4ddb-b766-46592be075b6@104.24.255.191:2052?encryption=none&host=RJNB46.amOoZeshgAH-pc.COM&path=%2F&security=none&type=ws#Canada
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?host=mahi.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048&security=none&type=ws#Canada
-vless://266f480d-ab52-40e1-bf67-65b9ccadcad0@104.18.202.209:2053?encryption=none&mode=multi&security=tls&serviceName=%40ZEDMODEON&sni=dash.joinzedmodeon.top&type=grpc#Canada
-vless://370a6b2e-1e42-49a8-a8f8-888cacfbd75e@ce5tiles9vitr.arqavani.cfd:51912?encryption=none&headerType=http&host=discord.com&security=none&type=tcp#Netherlands
 vless://80e63c5f-e243-46f3-b099-4dd32174b597@proxystore11.ddnsking.com:2083?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&mode=multi&security=tls&serviceName=%40proxystore11-+%40proxystoremt11+%40proxystore11-+%40proxystoremt11+%40proxystore11-+%40proxystoremt11&sni=km.proxystore11.site&type=grpc#United States
 vless://80e63c5f-e243-46f3-b099-4dd32174b597@eapanel.proxystore11.site:2083?alpn=h2%2Chttp%2F1.1&fp=chrome&mode=multi&security=tls&serviceName=%40proxystore11-+%40proxystoremt11+%40proxystore11-+%40proxystoremt11+%40proxystore11-+%40proxystoremt11&sni=proxystore11.ddns.net&type=grpc#United States
 vless://22bcd819-ffa8-4d93-8d3c-b53334ddffaa@104.18.202.209:2087?encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40V2rayZs&sni=tm.NaderShah.fun&type=grpc#Canada
@@ -196,8 +193,6 @@ vless://a1ca68fe-ea4d-458a-a0ac-bedfb972735b@172.67.81.238:443?encryption=none&f
 vless://c084e53f-c642-4339-b163-0f972a2893b7@23.88.116.162:443?encryption=none&fp=firefox&mode=gun&pbk=_IvMhkNpZ8Y58pMlkI0WdDymFJFpSuWGguAh3Z9gkh8&security=reality&serviceName=%40ipV2Ray&sid=b1f54cff&sni=greenpepper.ir&spx=%2F&type=grpc#Germany
 vless://c084e53f-c642-4339-b163-0f972a2893b7@128.140.86.66:443?encryption=none&fp=firefox&mode=gun&pbk=jHJQ1xZ72Rk9I29I2V57mfK0hWYw5MLUzJpuu0z-B1Q&security=reality&serviceName=%40ipV2Ray&sid=b1f54cff&sni=ftp.debian.org&spx=%2F&type=grpc#Germany
 vless://7e1cf5ac-446a-4036-bc4c-27d090e33e24@flyv2ray.camdvr.org:443?encryption=none&fp=firefox&mode=gun&pbk=xq6RYOPcRTrtWBzj2q6iiecamHAREvsoffEgfgtgKm0&security=reality&serviceName=%40flyv2ray&sid=15273896&sni=greenpepper.ir&spx=%2F&type=grpc#Germany
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.17.237.22:443?alpn=http%2F1.1&fp=chrome&host=3k.pureboy.eu.org&path=%2F%3Fed&security=tls&sni=3k.pureboy.eu.org&type=ws#Canada
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.17.237.22:443?encryption=none&host=3k.pureboy.eu.org&path=%2F%3Fed&security=tls&sni=3k.pureboy.eu.org&type=ws#Canada
 vless://290a3af9-1f64-419b-89bf-775a3cb9a9df@104.23.139.0:80?encryption=none&flow=&host=QcC1oy.dl-APArAt.cOm&path=%2Fbackup&type=ws#Canada
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?encryption=none&flow=&host=mahi.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048&type=ws#Canada
 vless://11798711-67a4-4bc6-b07d-cd3401c0f71a@104.17.57.224:80?encryption=none&flow=&host=jimmbo.kosnanatfilterchi.eu.ORG&path=%2F%3Fed%3D2048&type=ws#Canada
@@ -236,8 +231,6 @@ trojan://telegram-id-directvpn@18.168.253.72:22222?alpn=http%2F1.1&headerType=no
 trojan://telegram-id-directvpn@13.39.58.213:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#France
 trojan://74811f39-8f69-4334-9e0f-a8a25d7413c1@www.casperco.online:1935?security=tls&type=tcp#Germany
 trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&sni=is2-t.sshmax.xyz&type=tcp#Iceland
-trojan://telegram-id-privatevpns@3.11.158.58:22222?allowInsecure=1&security=tls&sni=trj.rollingnext.co.uk&type=tcp#United Kingdom
-trojan://telegram-id-privatevpns@54.74.54.96:22222?allowInsecure=1&security=tls&sni=trj.rollingnext.co.uk&type=tcp#Ireland
 trojan://9737c85e-ad5c-48f5-93f6-9bdb0361d04c@frontend.kuangbiaoyun.com:40003?allowInsecure=1#Canada
 trojan://57edfecf-5694-4a34-8072-54a4f0636a62@68.233.121.121:40004?allowInsecure=1#Canada
 trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@in01.trojanyyds.xyz:443?allowInsecure=1#Hong Kong
