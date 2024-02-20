@@ -36,7 +36,8 @@ vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaGVhZGVyVHlwZSI6Im5vbmUiLCJob3N0
 vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNGRmMmI0ZGYtNzE1Ny00ZGJkLWFlMWYtOTk3ZDExZmQ0ZmVlIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9SQUNFVlBOIiwicHMiOiJJbmRpYSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwiYWRkIjoiaW4tZnVsbC5wcml2YXRlaXAubmV0IiwicG9ydCI6IjQ0MyJ9
 vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGIzNzM3MjEtNTVhYS00YWQyLTljMzMtODU1Mzc3YWQyODlmIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9SQUNFVlBOIiwicHMiOiJBdXN0cmFsaWEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsImFkZCI6ImF1LWZ1bGwucHJpdmF0ZWlwLm5ldCIsInBvcnQiOiI0NDMifQ==
 vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNhMi54djJyYXkubmV0IiwiaWQiOiJmNjEyMDNiZC1mMzg2LTRkMTItOTg1My1jYzgyOWQ2YjdjOWQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicHMiOiJDYW5hZGEiLCJzY3kiOiJhdXRvIiwic25pIjoiY2EyLnh2MnJheS5uZXQiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsImFkZCI6InYybGluZS50ZWxlZ3JhbS5jaGFubmVsLjEzOTAuZnI4Njc4ODI1MzI0MjQ3YjgxNzZkNTlmODNjMzBiZDk0ZDIzZDJlM2FjNWNkNGE3NDNia3dxZWlrdmR5dWZyLmN5b3UiLCJwb3J0IjoiODAifQ==
-vmess://eyJhaWQiOiIwIiwiaG9zdCI6IkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCJpZCI6IjhjODdhNzZhLTFjODAtNDE0My1hMjc5LTcxNGMyODlhMjczYyIsIm5ldCI6IndzIiwicGF0aCI6Ilwvc3BlZWR0ZXN0IiwicHMiOiJVbml0ZWQgU3RhdGVzIiwic2N5IjoiYXV0byIsInNuaSI6IkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJhZGQiOiJtY2kubW9zaS5tb3NpcHJvLm1sIiwicG9ydCI6IjQ0MyJ9
+vmess://eyJhaWQiOiIwIiwiaG9zdCI6IkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCJpZCI6IjEwNDM1ZjUyLTE3YTgtNDQxMi1hN2E2LWMzYmEyNzZjMGZmYyIsIm5ldCI6IndzIiwicGF0aCI6Ilwvc3BlZWR0ZXN0IiwicHMiOiJVbml0ZWQgU3RhdGVzIiwic2N5IjoiYXV0byIsInNuaSI6IkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJhZGQiOiJtY2kubW9zaS5tb3NpcHJvLm1sIiwicG9ydCI6IjQ0MyJ9
+vmess://eyJhaWQiOjAsImhvc3QiOiJtLnpvb20udXMiLCJpZCI6IjYzM2RjZTgxLTBmOTUtNGFlMy1lYTk3LTg1MDgzZGM0YTcwZSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicHMiOiJVbml0ZWQgU3RhdGVzIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJhZGQiOiIxNDkuMjguMTQ4LjE1NiIsInBvcnQiOiIyODY0MCJ9
 vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im9iZGlpLmNmZCIsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwcyI6IkNhbmFkYSIsInNjeSI6ImF1dG8iLCJzbmkiOiJvYmRpaS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJhZGQiOiIxNzIuNjcuNzEuMTYwIiwicG9ydCI6IjQ0MyJ9
 vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IndhcnAtc3ViLnBhZ2VzLmRldiIsImlkIjoiMDYxOTViNWItMzgxNS00YTA3LTk2ZjctNDdlZWZiYjFiMTQzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC91cm54ZXd6dmguc2l0ZTo0NDNcL2t3aG12d3MiLCJwcyI6IkNhbmFkYSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3YXJwLXN1Yi5wYWdlcy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJhZGQiOiIxNzIuNjYuNDUuNDEiLCJwb3J0IjoiMjA5NiJ9
 vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdsd2VpZGYuY2ZkIiwiaWQiOiIxMDUyZjI0ZS03YjA5LTQ1ZWItYjBjNS1kODU4ZWIxMjQxOTIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt3cyIsInBzIjoiQ2FuYWRhIiwic2N5IjoiYXV0byIsInNuaSI6Imdsd2VpZGYuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwiYWRkIjoiMTcyLjY3LjEzMS4xMDgiLCJwb3J0IjoiNDQzIn0=
@@ -45,6 +46,7 @@ vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InRsLmlyYW5yYXkub25saW5l
 vless://f932c50c-f36f-4cd5-8fcd-cbf92f8d3b66@[2a03:b0c0?encryption=none&headerType=http&host=ftp.debian.org&type=tcp#United States
 vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443?encryption=none&fp=chrome&mode=gun&security=tls&serviceName=&sni=id067.v2net.work&type=grpc#Canada
 vless://062c1db7-0227-4f0b-b9ed-3b06a4c63371@37.152.179.185:2086?encryption=none&path=%2F&security=none&type=ws#Iran
+vless://Parsashonam-3@www.speedtest.net:8080?encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=%2F&security=none&type=ws#Canada
 vless://Parsashonam-0@www.speedtest.net:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=mail.offch.blog&path=%2F&security=tls&sni=mail.offch.blog&type=ws#Canada
 vless://Parsashonam-2@www.speedtest.net:8080?encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=%2F&security=none&type=ws#Canada
 vless://da05348d-3f05-436a-8e19-9edf050800fb@join.v2team.cfd:2096?encryption=none&mode=gun&security=tls&serviceName=Telegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAMTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAMTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAMgonTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM&sni=V2ray-NAPSTERNET-IRANCELL-iran-fair-MKH.Snappfoodd.site&type=grpc#Canada
@@ -80,9 +82,9 @@ vless://23ca8a29-5605-4dbe-9be3-137772c16aec@104.16.67.38:2086?encryption=none&h
 vless://b404b4e8-9164-4c7e-acbd-ea8ec0aee464@All.RxV2ray.online:2087?encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray&sni=www.RxV2ray.sbs&type=grpc#Canada
 vless://83c62a0d-3420-404b-bd4b-f8adbb51da22@162.159.24.201:8880?encryption=none&host=xx.1lagvpn13.cfd&path=%2Ftelegram%3A%40free_v2rayyy&security=none&type=ws#Canada
 vless://5d159bec-aee3-40ce-ad78-a43a9bf9e4fd@104.18.202.232:8880?encryption=none&host=app----0000-s.dl2nextflix-inbound3html-dldl1direct2d-1.com&path=%2F&security=none&type=ws#Canada
-vless://05d81d4f-c758-4495-8d69-f89cff1a02bc@LIGHTNING6-joinbede.liV2ray.xyz:2083?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40LIGHTNING6%2C+%40LIGHTNING6&sni=liV2rayc.xn--mgbg0fka44dhgc.com&type=grpc#United States
+vless://05d81d4f-c758-4495-8d69-f89cff1a02bc@LIGHTNING6-joinbede.liV2ray.xyz:2083?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40LIGHTNING6%2C+%40LIGHTNING6&sni=liV2rayc.xn--mgbg0fka44dhgc.com&type=grpc#Costa Rica
 vless://86ff9c80-00b9-44c6-973e-23603a4f5fd1@LIGHTNING6-joinbede.liV2ray.xyz:2083?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40LIGHTNING6%2C+%40LIGHTNING6&sni=liV2rayb.xn--mgbg0fka44dhgc.com&type=grpc#Costa Rica
-vless://86ff9c80-00b9-44c6-973e-23603a4f5fd1@LIGHTNING6-joinbede.liV2ray.xyz:2083?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40LIGHTNING6%2C+%40LIGHTNING6&sni=liV2raya.xn--mgbg0fka44dhgc.com&type=grpc#Costa Rica
+vless://86ff9c80-00b9-44c6-973e-23603a4f5fd1@LIGHTNING6-joinbede.liV2ray.xyz:2083?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40LIGHTNING6%2C+%40LIGHTNING6&sni=liV2raya.xn--mgbg0fka44dhgc.com&type=grpc#United States
 vless://ed88d25b-98c2-4b84-87ed-96e228d86ce9@104.20.239.70:8880?encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev%3Fed&security=none&type=ws#Canada
 vless://f932c50c-f36f-4cd5-8fcd-cbf92f8d3b66@[2a03:b0c0?encryption=none&headerType=http&host=ftp.debian.org&security=none&type=tcp#United States
 vless://9ab4c977-e053-431c-a1fc-fffe15f7962d@tu.ronixshop.info:2083?encryption=none&headerType=http&host=telewebion.com&security=none&type=tcp#Türkiye
@@ -94,8 +96,6 @@ vless://-DIGIV2RAY--@www.digiv2ray.online:443?alpn=h2&encryption=none&fp=chrome&
 vless://DIGIV2RAY@www.digiv2ray.online:2087?alpn=h2&encryption=none&fp=chrome&host=SpeedV2rayNg-ConneCtion.digiv2ray.shop&path=%2FDigiV%3Fed%3D2048&security=tls&sni=SpeedV2rayNg-ConneCtion.digiv2ray.shop&type=ws#United States
 vless://-DIGIV2RAY-@www.digiv2ray.online:443?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40Digiv2ray+%2C+%40Digiv2ray&sni=ConneCtion-Ir-021.digiv2ray1.store&type=grpc#United States
 vless://92ef1936-e975-44e6-b87e-e3c7e6048072@85.198.13.120:2083?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#Iran
-vless://64f4faca-8387-4511-adab-45300a332d27@104.17.254.239:8443?encryption=none&mode=gun&security=tls&serviceName=&sni=id067.v2net.work&type=grpc#Canada
-vless://3ed3b285-93ea-4091-8279-c830365b3af5@87.236.208.60:4141?headerType=http&host=telewebion.com&path=%2F&security=none&type=tcp#United Kingdom
 vless://021e1111-e6d9-4f6c-a1b8-03a70b6e4540@128.140.73.69:443?encryption=none&fp=firefox&mode=gun&pbk=pFIXFBUWlfxKzjMQG4k7RxZrtHbbROURhe61gbKTOzM&security=reality&serviceName=%40ipV2Ray&sid=23e8beee&sni=mail.albasir.in&spx=%2F&type=grpc#Germany
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?encryption=none&fp=chrome&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=3k.pureboy.eu.org&type=ws#Canada
 vless://021e1111-e6d9-4f6c-a1b8-03a70b6e4540@49.13.202.244:443?encryption=none&fp=firefox&mode=gun&pbk=i0qcM56ezyBF1UMvSAfSEBGA0wGmp6tUH5lnt-dFP10&security=reality&serviceName=%40ipV2Ray&sid=23e8beee&sni=albasir.in&spx=%2F&type=grpc#Germany
@@ -119,7 +119,7 @@ vless://ac20f1bb-6786-449b-a4ca-978cad3fbdff@104.24.176.7:2096?%40CAA_CHANEL=&al
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?encryption=none&host=always-online1.lp-airdrop.top&path=%2F%3Fed&security=tls&sni=always-online1.lp-airdrop.top&type=ws#Canada
 vless://0ea35600-f4af-4dd1-a8b6-bb9de90a7105@per--join.outline-vpn.cloud:80?encryption=none&host=allgeus.cheetahmh45.shop&path=%2FNIM_VPN_ir&security=none&type=ws#Canada
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@CDN.user.com:80?encryption=none&host=ehda.sajaditsme.com&path=%2F%3Fed%3D2048&security=none&type=ws#Canada
-vless://8e8dc541-678e-4c5e-d33a-30af477ba194@LIGHTNING6-joinbede.liV2ray.xyz:8880?encryption=none&host=liV2rayf.%E5%96%84%E8%89%AF%E7%9A%84%E9%97%AA%E7%94%B5.monster&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6&security=none&type=ws#United States
+vless://8e8dc541-678e-4c5e-d33a-30af477ba194@LIGHTNING6-joinbede.liV2ray.xyz:8880?encryption=none&host=liV2rayf.%E5%96%84%E8%89%AF%E7%9A%84%E9%97%AA%E7%94%B5.monster&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6&security=none&type=ws#Costa Rica
 vless://6fe28415-8e8d-4bb1-a2e6-5a196556c7a2@LIGHTNING6-joinbede.liV2ray.xyz:2083?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40LIGHTNING6%2C+%40LIGHTNING6&sni=liV2rayg.xn--mgbg0fka44dhgc.com&type=grpc#Costa Rica
 vless://6fe28415-8e8d-4bb1-a2e6-5a196556c7a2@LIGHTNING6-joinbede.liV2ray.xyz:2083?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40LIGHTNING6%2C+%40LIGHTNING6&sni=liV2rayf.xn--mgbg0fka44dhgc.com&type=grpc#Costa Rica
 vless://555ca646-1e51-43e5-9801-2db535097c05@104.18.202.209:2096?encryption=none&fp=chrome&mode=multi&security=tls&serviceName=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=grpc#Canada
@@ -163,7 +163,7 @@ vless://46d303f6-c837-409a-b1e1-6472b03d379f@91.193.58.1:80?Telegram=%40V2RayTz%
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.18.16.149:443?host=always-online1.lp-airdrop.top&path=%2F%3Fed%3D2048&security=tls&sni=always-online1.lp-airdrop.top&type=ws#Canada
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@172.67.204.84:443?encryption=none&fp=safari&host=tjsre.ttvoffi.info&path=%2Fparadise&security=tls&sni=tjsre.ttvoffi.info&type=ws#Canada
 vless://26c4f33b-cca9-463c-ac7b-9f47f0765c5d@162.159.17.160:8880?encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev%3Fed&security=none&type=ws#Canada
-vless://0f0f7cc8-edcd-436d-bf9d-f7bfdb6ed9ca@cpanel.dobarhost.ir:2082?encryption=none&path=%2F&security=none&type=ws#Canada
+vless://0f0f7cc8-edcd-436d-bf9d-f7bfdb6ed9ca@cpanel.dobarhost.ir:2082?encryption=none&path=%2F&security=none&type=ws#UNKNOWN
 vless://0895c839-54e8-4522-cfa0-d1a5b1b34827@cdn.dobarhost.ir:2086?encryption=none&path=%2F&security=none&type=ws#UNKNOWN
 vless://VPNCUSTOMIZE--VPNCUSTOMIZE@discord.gg:80?host=xn--047h.xn--4oq36ed28d.ORG.&path=%2FVPNCUSTOMIZE--VPNCUSTOMIZE%3Fed%3D1048&security=none&type=ws#Canada
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=3k.pureboy.eu.org&type=ws#Canada
@@ -194,16 +194,16 @@ vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?enc
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?encryption=none&fp=chrome&host=w1.sylar8.eu.org&path=%2F%3Fed&security=tls&sni=w1.sylar8.eu.org&type=ws#Canada
 vless://38f30c94-7bb8-4fcc-8574-17fb02677d7e@[2a01:4f9?encryption=none&fp=chrome&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&security=reality&serviceName=%40Everyday_VPN&sid=32d7a82d&sni=gsmarena.com&type=grpc#United States
 vless://5f3a96dc-5da6-4df8-b443-ba4da0d9b52a@shhproxy.varzesh3-cnd.site:2087?encryption=none&host=SHHPROXY.xn--69-pv2cl2k5x3fipr.org&path=%2F&security=tls&sni=SHHPROXY.xn--69-pv2cl2k5x3fipr.org&type=ws#Canada
-vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.24.0.11:2083?encryption=none&host=xow10.oXneTWoRKs.linK&path=vless-ws%2F%3Fed%3D2048&security=tls&sni=xow10.oXneTWoRKs.linK&type=ws#Canada
-vless://47743dec-b29f-53e0-9f75-b36894f9d422@Discord.gg:8080?host=SVNTEAMFrees.Rubikae.CoM.&path=%2FSVNTEAM-SVNTEAM%3Fed%3D1048&security=none&type=ws#Canada
+vless://232d764d-12e6-4a15-a45a-c40fdc553a95@91.193.58.1:80?encryption=none&host=MdVpnSec.xn--85-pv2cl2k5x3fipr.org.&path=%2F&security=none&type=ws#United Kingdom
+vless://c93bb515-e2fd-4dd8-b240-43cb488d59af@zula.ir:443?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=&sni=hajimamad-join-sho.cfz-hajimmad.site&type=grpc#Canada
 vless://40fddbf6-1533-48e7-ac27-d8798fde2302@www.speedtest.net:8880?encryption=none&host=vnnnnnn-99----3.dl2nextflix-inbound3html-dldl1direct2d-1.com&path=%2F&security=none&type=ws#Canada
 vless://3c110307-dcf0-4002-b944-6d2c9530dd23@www.visa.com:2083?encryption=none&mode=gun&security=tls&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=dash.zedmodeon.lat&type=grpc#Canada
 vless://11256a74-9401-43d3-fab3-9b45b38eecaa@103.184.45.180:2083?alpn=%40mehrosaboran%2C%40mehrosaboran&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40LIGHTNING6%2C+%40LIGHTNING6&sni=liV2rayb.xn--mgbg0fka44dhgc.com&type=grpc#China
 vless://11256a74-9401-43d3-fab3-9b45b38eecaa@198.41.202.5:2083?alpn=%40mehrosaboran%2C%40mehrosaboran&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40LIGHTNING6%2C+%40LIGHTNING6&sni=liV2rayb.xn--mgbg0fka44dhgc.com&type=grpc#United States
 vless://11256a74-9401-43d3-fab3-9b45b38eecaa@190.93.247.155:2083?alpn=%40mehrosaboran%2C%40mehrosaboran&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40LIGHTNING6%2C+%40LIGHTNING6&sni=liV2rayb.xn--mgbg0fka44dhgc.com&type=grpc#Costa Rica
-vless://92a5bdb3-5d2d-480c-d66b-8e5f65c838d6@www.speedtest.net:80?encryption=none&host=theft-answered-prescribed-mirror.trycloudflare.com&path=%2F&security=none&type=ws#Canada
-vless://92a5bdb3-5d2d-480c-d66b-8e5f65c838d6@www.speedtest.net:80?encryption=none&host=academics-no-france-refer.trycloudflare.com&path=%2F&security=none&type=ws#Canada
-vless://92a5bdb3-5d2d-480c-d66b-8e5f65c838d6@www.speedtest.net:80?encryption=none&host=sf-anna-acm-thursday.trycloudflare.com&path=%2F&security=none&type=ws#Canada
+vless://049f97b8-7180-4b67-d79d-9541ff116fe8@13.49.231.106:8080?encryption=none&fp=chrome&mode=multi&pbk=tj4NuuQRH5GMJqWUYRYsCPvhR4KCRQ58TqF7gqCf9lQ&security=reality&serviceName=%40kiava&sid=21e3&sni=%2A.google.com&spx=%2F&type=grpc#Sweden
+vless://89c31658-4aac-4414-b854-c211908b55d4@sw1.fernando-botero-sculpture.com:8443?encryption=none&fp=chrome&mode=multi&pbk=lCl8V4GXi-C_mkiBrulZnz4Cigt1ioOMHXaMIvW4wTs&security=reality&serviceName=%40kiava&sid=c4&sni=%2A.google.com&spx=%2F&type=grpc#United States
+vless://c523f949-0806-45ea-d313-521318ee4482@sw1.ripennc.dynv6.net:8080?encryption=none&host=sw1.ripennc.dynv6.net&path=%2F%40kiava%40kiava%40kiava%40kiava%40kiava%40kiava%40kiava%40kiava%40kiava%40kiava%40kiava%40kiava%40kiava%40kiava%40kiava%40kiava&security=none&type=ws#United States
 vless://89e38c26-647a-4f50-b0b2-5400c54c262f@disposition-fun-gasoline-indices.trycloudflare.com:2083?encryption=none&fp=chrome&host=disposition-fun-gasoline-indices.trycloudflare.com&path=%2F&security=tls&sni=disposition-fun-gasoline-indices.trycloudflare.com&type=ws#Canada
 vless://7cd8fafc-bf13-42b8-af9d-e9ddf8fd7b8f@188.166.108.132:443?encryption=none&fp=firefox&mode=gun&pbk=P0MLEcNkBAKBpNnqosSzDHY9HAtkZWr_0JED3Y3yFXM&security=reality&serviceName=%40ipV2Ray&sid=4513bf26&sni=%2A.dnschecker.org&spx=%2F&type=grpc#Netherlands
 vless://b1c1da37-726b-4db1-8139-27a7497e3186@116.203.229.47:443?encryption=none&fp=firefox&mode=gun&pbk=c452clIZOGrphH1pKZLlFFyN9bjhk2JxMemT2Df6C3w&security=reality&serviceName=%40ipV2Ray&sid=d276874c&sni=%2A.dnschecker.org&spx=%2F&type=grpc#Germany
@@ -255,9 +255,7 @@ ss://YWVzLTI1Ni1nY206emVrZGswTVJXVngxekZBU0MrSEFjbUNWQkErVGxqV2Fid29GNTd6aklaQT0
 ss://YWVzLTI1Ni1nY206aGg0SmxCaHNKMEp0aHBEUDN2SXd4WHZKV0hrbkkxNkFpakd4NnNiY3FXST0=@www.outline.network.ak2002.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:2443#United+States
 ss://Og==@YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEBlMDAxLnBhbmRhMDAzLm5ldDoyMDAz:#United+States
 ss://YWVzLTEyOC1nY206cg==@110.42.99.55:1020#China
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@216.39.250.78:2375#Singapore
 ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4SWdHUm51UERRTHp6Sm9qbDdyczJN@singapore.telegavpn.org:16759#Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#Austria
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0c2RaK3FURFIxbGZtRytXektqN014bnp0Qnd6TkhNL0IyU0Y4ZHh0azJrPQ==@16.170.215.179:8081#Sweden
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1aWkxNmZtUFRtczhpY1luWXZ4VWZh@51.142.159.23:32790#United+Kingdom
