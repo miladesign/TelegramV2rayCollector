@@ -124,7 +124,7 @@ vless://Parsashonam-66@185.146.173.58:8080?encryption=none&host=Parsashonam.%E6%
 vless://Parsashonam-66@www.visa.com:8080?encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=%2F&security=none&type=ws#Canada
 vless://Parsashonam-64@www.visa.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=mail.offch.blog&path=%2F%3Fed%3D2560&security=tls&sni=mail.offch.blog&type=ws#Canada
 vless://VPNCUSTOMIZE@CUSTOMIZEV2ray.V2ray.motorcycles:2095?encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&path=%2FV2rayCUSTOMIZE%3Fed%3D1024&security=none&type=ws#Sweden
-vless://ad88ec60-27b9-46b8-8604-be686577fe5e@188.114.98.224:2095?encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&path=%2FV2rayCUSTOMIZE%3Fed%3D1024&security=none&type=ws#United States
+vless://ad88ec60-27b9-46b8-8604-be686577fe5e@188.114.98.224:2095?encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&path=%2FV2rayCUSTOMIZE%3Fed%3D1024&security=none&type=ws#Netherlands
 vless://TMCUSTOMIZE@CUSTOMIZEV2ray.V2ray.motorcycles:2095?encryption=none&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&path=%2FV2rayCUSTOMIZE%3Fed%3D1024&security=none&type=ws#Sweden
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@w3.org:443?alpn=http%2F1.1&encryption=none&fp=randomized&host=bIA-paiN-BaCHE.pAGES.Dev&path=%2F&security=tls&sni=bIA-paIn-bacHE.PAGeS.DEv&type=ws#United States
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?alpn=http%2F1.1&encryption=none&fp=randomized&host=bIA-paiN-BaCHE.pAGES.Dev&path=%2F&security=tls&sni=bIA-paIn-bacHE.PAGeS.DEv&type=ws#Sweden
@@ -206,7 +206,7 @@ vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?encryption=none&
 vless://Jon--V2RAXX--@185.146.173.146:8080?encryption=none&host=xn--047h.v2raxx6.shop.&path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&type=ws#Sweden
 vless://Jon--V2RAXX--@198.41.202.5:8080?encryption=none&host=xn--047h.v2raxx6.shop.&path=%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&type=ws#United States
 vless://329972ca-6faf-4dbe-ad1c-0b8b522409cc@cloud.cdn-kiava-internet-ns.cquality.ir:443?alpn=h2&encryption=none&fp=randomized&host=cloud.cdn-kiava-internet-ns.cquality.ir&path=%2F%3Fed%3D2560&security=tls&sni=cloud.cdn-kiava-internet-ns.cquality.ir&type=ws#United States
-vless://bb14d6ac-2580-4ef6-bed4-05fdb5707e3e@cloud.cdn-kiava-internet.cquality.ir:443?alpn=h2&encryption=none&fp=randomized&host=cloud.cdn-kiava-internet.cquality.ir&path=%2F%3Fed%3D2560&security=tls&sni=cloud.cdn-kiava-internet.cquality.ir&type=ws#UNKNOWN
+vless://bb14d6ac-2580-4ef6-bed4-05fdb5707e3e@cloud.cdn-kiava-internet.cquality.ir:443?alpn=h2&encryption=none&fp=randomized&host=cloud.cdn-kiava-internet.cquality.ir&path=%2F%3Fed%3D2560&security=tls&sni=cloud.cdn-kiava-internet.cquality.ir&type=ws#United States
 vless://9b4cbb31-e322-4021-97ea-313fd730d334@app.cdn-cloud-s2.cquality.ir:80?encryption=none&host=app.cdn-cloud-s2.cquality.ir&path=%2Ftelegram-Kiava%3Fed%3D2048&security=none&type=ws#United States
 vless://4c6451ba-6594-4d67-a8ae-4df79815a4e3@public.alpanel.top:1403?encryption=none&fp=chrome&mode=gun&pbk=rCdor1DLbQcXbNBD9aiLIoCYHwqTMh8ao9MIPMXo0yA&security=reality&serviceName=%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam&sid=99&sni=tuyacn.com&spx=%2F&type=grpc#United States
 vless://239333ff-615f-43ba-af92-c8592d8b6a58@public.alpanel.top:1403?encryption=none&fp=chrome&mode=gun&pbk=rCdor1DLbQcXbNBD9aiLIoCYHwqTMh8ao9MIPMXo0yA&security=reality&serviceName=%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam&sid=99&sni=tuyacn.com&spx=%2F&type=grpc#United States
@@ -243,8 +243,9 @@ trojan://telegram-id-directvpn@3.77.181.43:22222?alpn=http%2F1.1&headerType=none
 trojan://telegram-id-directvpn@13.50.126.14:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Sweden
 trojan://wkmY1R4EcP@45.76.130.173:443?security=tls&sni=z-v2-003289.kailib.com&type=tcp#United Kingdom
 trojan://wkmY1R4EcP@45.76.47.77:443?security=tls&sni=z-v2-003349.kailib.com&type=tcp#France
-trojan://Ck0nkbbsur@c2.v2raybrasil.cloud:2096?host=tls.redbullplus.xyz&path=%2Fwsss&security=tls&sni=tls.redbullplus.xyz&type=ws#United States
+trojan://Ck0nkbbsur@c2.v2raybrasil.cloud:2096?host=tls.redbullplus.xyz&path=%2Fwsss&security=tls&sni=tls.redbullplus.xyz&type=ws#Canada
 trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?host=jobscareerforstudent.com&path=6b777a91&security=tls&sni=jobscareerforstudent.com&type=ws#United States
+trojan://Ck0nkbbsur@c2.v2raybrasil.cloud:2096?host=tls.redbullplus.xyz&path=%2Fwsss&security=tls&sni=tls.redbullplus.xyz&type=ws#United States
 trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?host=bangladeshipatri.com&path=%2F6b777a91&security=tls&sni=bangladeshipatri.com&type=ws#United States
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#Singapore
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#United States
