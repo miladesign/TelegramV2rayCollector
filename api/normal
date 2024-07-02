@@ -29,7 +29,6 @@ vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6ImFmcmhtczE2di5i
 vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImRldmljZUlEIjoiIiwiZnAiOiJjaHJvbWUiLCJoZWFkZXJUeXBlIjoiIiwiaG9zdCI6ImtlbGxpZS5tYWtldXAiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3Z3cyIsInBzIjoiVW5pdGVkIFN0YXRlcyIsInNlZWQiOiIiLCJzZXJ2aWNlTmFtZSI6Im5vbmUiLCJzbmkiOiJrZWxsaWUubWFrZXVwIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsImFkZCI6IjUwNS5vdXRsaW5lLXZwbi5jbG91ZCIsInBvcnQiOiI0NDMifQ==
 vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImhtczAyLmZ4aWFvbWkuc2JzIiwiaWQiOiI2YzE2OGZjYy0yMjMxLTRmM2ItOGMxZS1mNjM5MTY5MmRmNGEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmsiLCJwcyI6IlVuaXRlZCBTdGF0ZXMiLCJzY3kiOiJhdXRvIiwic25pIjoiaG1zMDIuZnhpYW9taS5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwiYWRkIjoiMTA0LjIxLjgzLjEwOCIsInBvcnQiOiI0NDMifQ==
 vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMTI0ZmU0ZmYtMGVlNC00MTg5LWJkOTktZWQxYTMxN2I0MmRkIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9SQUNFVlBOIiwicHMiOiJKYXBhbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwiYWRkIjoianAtZnVsbC5wcml2YXRlaXAubmV0IiwicG9ydCI6IjQ0MyJ9
-vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNGUxODY2NzgtZmNjYS00MzI1LWU0YmMtYjI5MTZiZGY2NzA4IiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicHMiOiJVbml0ZWQgS2luZ2RvbSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwiYWRkIjoiMjE3LjE2MC40NS4zMSIsInBvcnQiOiI4ODgwIn0=
 vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFmcmhtczA3LnhmaXhlZGZsb2F0LmNmZCIsImlkIjoiYTE2NTVmNTEtMWUyMC00YTkyLThhMTEtYjdjYTMwYTdhMzUzIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwcyI6IlVuaXRlZCBTdGF0ZXMiLCJzY3kiOiJhdXRvIiwic25pIjoiYWZyaG1zMDcueGZpeGVkZmxvYXQuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwiYWRkIjoiMTcyLjY3LjE2NC4xNjQiLCJwb3J0IjoiNDQzIn0=
 vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdsd2VpZGYuY2ZkIiwiaWQiOiIxMDUyZjI0ZS03YjA5LTQ1ZWItYjBjNS1kODU4ZWIxMjQxOTIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt3cyIsInBzIjoiVW5pdGVkIFN0YXRlcyIsInNjeSI6ImF1dG8iLCJzbmkiOiJnbHdlaWRmLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsImFkZCI6IjE3Mi42Ny4xMzEuMTA4IiwicG9ydCI6IjQ0MyJ9
 vmess://eyJhaWQiOiIwIiwiYWxwbiI6ImgyIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiIyOGRjNjIzZi0zZWU3LTQ5NjktODQ5Yi1kNGE3YWY1ODA3OGMiLCJuZXQiOiJ3cyIsInBhdGgiOiJAUmFGYVYycmF5IiwicHMiOiJVbml0ZWQgU3RhdGVzIiwic2N5IjoiYXV0byIsInNuaSI6IkFyYWtlbHlhbi5kaWdpZmFzaG9wLmlyLiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsImFkZCI6IlZhcnV6aGFuLmRpZ2lmYXNob3AuaXIuIiwicG9ydCI6IjQ0MyJ9
@@ -152,9 +151,9 @@ vless://042c7251-327e-4900-a937-d6d1be58c92d@104.16.48.56:80?host=FND1adV2ray8.5
 vless://43000d6b-198c-4b87-b8d7-545d54d0988a@185.146.173.58:2052?host=5.V2rayV2ray-_-_-V2ray.irantech.Org.&path=%2FTelegram-configMs%3Fed%3D2048&security=none&type=ws#Sweden
 vless://Source_VPNCUSTOMIZE@188.114.98.224:8080?encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&type=ws#United States
 vless://Source_VPNCUSTOMIZE@VPNCUSTOMIZE.Elmahstyle.ir:8080?encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&type=ws#Sweden
-vless://fcb6a88f-54ec-4d0e-ad76-e55e5679812d@185.146.173.37:2095?encryption=none&host=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F&security=none&type=ws#Sweden
-vless://telegram-id-ArV2ray@185.146.173.237:80?encryption=none&host=4.v.v.V-_-_-V2ray-_-_-V.v.v.v.www.speedtest.net.www.zula.ir.vl.cloudflare.com.mashtimJi.iR.&path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=none&type=ws#Sweden
-vless://cfb6d9ad-7a14-4061-b159-8902fd73bb52@185.146.173.38:2095?encryption=none&host=DigiV2ray---_-_---DIGIq.radioTehran.org.&path=%2FDIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray%3Fed%3D1024&security=none&type=ws#Sweden
+vless://9a39f63e-28c8-4560-af18-b01b9916ef1b@104.18.41.138:8443?encryption=none&host=pardazesh-tgws.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=pardazesh-tgws.pages.dev&type=ws#United States
+vless://cfb6d9ad-7a14-4061-b159-8902fd73bb52@188.114.98.224:2095?encryption=none&host=DigiV2ray---_-_---DIGIq.radioTehran.org.&path=%2FDIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray%3Fed%3D1024&security=none&type=ws#United States
+vless://cfb6d9ad-7a14-4061-b159-8902fd73bb52@www.Speedtest.Net:2095?encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&path=%2FDIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray%3Fed%3D1024&security=none&type=ws#United States
 vless://V2RAXX@185.146.173.32:8080?encryption=none&host=xn--047h.v2raxx6.shop.&path=%2F%40V2RAXX-%40V2RAXX%3Fed%3D2048&security=none&type=ws#Sweden
 vless://fbfe3a78-4131-41c2-8906-42ce52090686@zula.ir:8080?encryption=none&host=Its-me.Vipnufilter.Online.&path=v2rayng-V2rayng-telegram-vip_v2rayng%3Fed%3D8080&security=none&type=ws#United States
 vless://c74dbb0f-e49f-4557-830f-6fbcec09f017@193.151.151.92:80?encryption=none&path=%2F%40V2Graphy%2Fgiveaway%2Fws2%3Fed%3D2560&security=none&type=ws#Iran
@@ -229,10 +228,9 @@ trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#China
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:802#Canada
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.114.114.6:5499#United+States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#United+Arab+Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#Austria
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.89:8090#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEbU1RVW1JN3BnUURucldxTFhDMDBM@94.228.165.234:15214#Sweden
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#United+Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPa2lzYzZ0WVRydFlKN2ZRbHducjFN@92.243.27.51:9802#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#Austria
 tuic://
 hy2://
