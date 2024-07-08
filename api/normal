@@ -150,9 +150,9 @@ vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:80?encrypt
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.104.150:443?encryption=none&host=mmdv2.pages.dev&path=%2F&security=tls&sni=mmdv2.pages.dev&type=ws#United States
 vless://Bia_to_VPNCUSTOMIZE@188.114.98.224:8080?encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&type=ws#United States
 vless://Bia_to_VPNCUSTOMIZE@VPNCUSTOMIZE.Elmahstyle.ir:8080?encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&type=ws#Sweden
-vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443?encryption=none&host=de1-moryvpnbot.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=de1-moryvpnbot.pages.dev&type=ws#United States
+vless://--DIGIV2RAY--@www.Speedtest.Net:2095?encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&path=%2FDigiconnecT%3Fed%3D1024&security=none&type=ws#United States
+vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:443?alpn=h3&encryption=none&fp=randomized&path=%2FTELEGRAM-%40MARAMBASHI-MARAMBASHI%2F%3Fed%3D2560&security=tls&type=ws#United States
 vless://--DIGIV2RAY--@zula.ir:2095?encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&path=%2FDigiconnecT%3Fed%3D1024&security=none&type=ws#United States
-vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:443?encryption=none&path=%2F&security=tls&type=ws#United States
 vless://8dfa5657-3110-4ab9-aa9d-a85c0f4ca32a@z61.maduss.com:443?encryption=none&host=z61.maduss.com&path=%2F&security=tls&sni=z61.maduss.com&type=ws#United States
 vless://8fba3304-bb4e-418e-868f-b27b33109135@104.21.65.133:80?encryption=none&host=xn--3-ep9a49z.xn--jhq403ertg.CoM.&path=%2FSvnTeamV2ray%3Fed%3D2048&security=none&type=ws#United States
 vless://11e81251-ea65-48bc-bfd4-c4d38ef0f8cc@185.146.173.58:2095?encryption=none&host=dcc5.servernet.fun.&path=%2Fservernet&security=none&type=ws#Sweden
@@ -206,8 +206,6 @@ trojan://telegram-id-directvpn@15.188.142.17:22222?alpn=http%2F1.1&headerType=no
 trojan://telegram-id-directvpn@51.21.49.97:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Sweden
 trojan://19c80ce9-0935-41b9-b077-277621316a87@hidd2.afsharidempire.uk:443?alpn=h2&fp=chrome&host=hidd2.afsharidempire.uk&path=%2FVOkcnRNFk1Gfjd07ui73LZgwx8s&security=tls&sni=hidd2.afsharidempire.uk&type=ws#Netherlands
 trojan://auto@172.67.2.238:2083?host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws#United States
-trojan://telegram-id-directvpn@13.41.168.231:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#United Kingdom
-trojan://telegram-id-privatevpns@34.248.164.209:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Ireland
 trojan://telegram-id-privatevpns@13.60.113.91:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Sweden
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#Singapore
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#United States
