@@ -148,9 +148,9 @@ vless://137faa34-3c74-417f-9939-3fa15b621dea@109.176.207.43:5080?headerType=http
 vless://137faa34-3c74-417f-9939-3fa15b621dea@109.176.207.43:8443?flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=cdn.discordapp.com&type=tcp#Netherlands
 vless://Source_VPNCUSTOMIZE@188.114.98.224:8080?encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&type=ws#United States
 vless://Source_VPNCUSTOMIZE@VPNCUSTOMIZE.Elmahstyle.ir:8080?encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&type=ws#Sweden
-vless://10ac2063-b568-460d-b42b-9b852eb1247e@104.21.69.44:443?alpn=http%2F1.1&host=my.halachicago.com.&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D1024&security=tls&sni=my.v.com.&type=ws#United States
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@190.93.246.77:80?host=us3.rtacg.com&path=%2F&security=none&type=ws#Costa Rica
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.117.33:80?host=us3.rtacg.com&path=%2F&security=none&type=ws#United States
+vless://-----DIGIV2RAY----@zula.ir:2095?encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&path=%2FDigiconnecT%3Fed%3D1024&security=none&type=ws#United States
+vless://-----DIGIV2RAY----@www.Speedtest.Net:2095?encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&path=%2FDigiconnecT%3Fed%3D1024&security=none&type=ws#United States
+vless://-----DIGIV2RAY----@185.146.173.68:2095?encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&path=%2FDigiconnecT%3Fed%3D1024&security=none&type=ws#Sweden
 vless://939b318c-4021-411f-b28c-33f89a1a49b8@www.parsvds.ir:8080?encryption=none&host=SHHproxy-shhPROXY-SHHproxy.joinTELEGRAM.net.&path=SHHPROXY%3Fed%3D8080&security=none&type=ws#United States
 vless://--DIGIV2RAY--@www.Speedtest.Net:2095?encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&path=%2FDigiconnecT%3Fed%3D1024&security=none&type=ws#United States
 vless://8dfa5657-3110-4ab9-aa9d-a85c0f4ca32a@z61.maduss.com:443?encryption=none&host=z61.maduss.com&path=%2F&security=tls&sni=z61.maduss.com&type=ws#United States
