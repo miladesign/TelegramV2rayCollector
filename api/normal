@@ -145,7 +145,8 @@ vless://1149be91-5a4f-47de-995f-66f8d7d64498@156.225.72.94:2096?alpn=h2&fp=chrom
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@162.120.94.131:2096?alpn=h2&fp=chrome&headerType=&host=De99.SiMaNsAnAt.Ir.&path=&security=tls&sni=De99.SiMaNsAnAt.Ir.&type=ws#United States
 vless://TeL_VPNCUSTOMIZE@188.114.98.224:8080?encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&type=ws#United States
 vless://TeL_VPNCUSTOMIZE@VPNCUSTOMIZE.Elmahstyle.ir:8080?encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&type=ws#Sweden
-vless://927eb03d-f806-4f21-88ea-de23d0f755ec@104.17.153.239:8080?encryption=none&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&security=&type=ws#United States
+vless://e4360b65-e5d6-4e84-a65a-b0f324b65126@www.parsvds.ir:8080?encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&mode=multi&path=VPNCUSTOMIZE%3Fed%3D8080&security=none&serviceName=%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&type=ws#United States
+vless://50a24f6f-3190-477f-bccf-35289131ce5d@65.108.220.44:2087?fp=chrome&headerType=http&host=&path=%2FGozargah_Azadi&pbk=5Lms4pr_aOtRLckiJRgDfiDjD4fuYpN4zBLiAUu_e10&security=reality&sid=fe3b7d814f0c2e0f&sni=www.speedtest.net&type=tcp#Finland
 vless://939b318c-4021-411f-b28c-33f89a1a49b8@www.parsvds.ir:8080?encryption=none&host=SHHproxy-shhPROXY-SHHproxy.joinTELEGRAM.net.&path=SHHPROXY%3Fed%3D8080&security=none&type=ws#United States
 vless://--DIGIV2RAY--@www.Speedtest.Net:2095?encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&path=%2FDigiconnecT%3Fed%3D1024&security=none&type=ws#United States
 vless://8dfa5657-3110-4ab9-aa9d-a85c0f4ca32a@z61.maduss.com:443?encryption=none&host=z61.maduss.com&path=%2F&security=tls&sni=z61.maduss.com&type=ws#United States
@@ -206,7 +207,6 @@ trojan://telegram-id-privatevpns@52.57.127.48:22222?alpn=http%2F1.1&headerType=n
 trojan://telegram-id-directvpn@16.16.136.136:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Sweden
 trojan://telegram-id-directvpn@3.77.254.63:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Germany
 trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@jp03.156786.xyz:709?headerType=none&security=tls&sni=jp03.156786.xyz&type=tcp#Japan
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.17.215.2:443?encryption=none&host=jobscareerforstudent.com&path=%2F6b777a91&security=tls&sni=jobscareerforstudent.com&type=ws#United States
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#Singapore
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#United States
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#China
