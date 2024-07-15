@@ -43,7 +43,7 @@ vless://Parsashonam-8@104.24.185.137:8080?encryption=none&host=myket.xn--ir-6g5c
 vless://903b9259-87d2-4a1a-9341-15788f825716@zula.ir:80?host=asdwds.kolacghi.ir&path=%2F%40NIM_VPN_ir%2C%40NIM_VPN_ir&security=none&type=ws#United States
 vless://c9b2518d-2723-4d8b-9cd5-f8dcf1b30d71@zula.ir:80?host=asdwds.kolacghi.ir&path=%2F%40NIM_VPN_ir%2C%40NIM_VPN_ir&security=none&type=ws#United States
 vless://fec86f61-55bf-4090-862d-690fbc82bd25@zula.ir:80?host=asdwds.kolacghi.ir&path=%2F%40NIM_VPN_ir%2C%40NIM_VPN_ir&security=none&type=ws#United States
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.140.189:22222?encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws&security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws#Sweden
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.49.141.34:22222?encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws&security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws#Sweden
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.16.3.201:22222?encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws&security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws#Ireland
 vless://5af3a353-c53f-4800-98dc-d44609ad11f2@www.parsvds.ir:8080?encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE%3Fed%3D8080&security=none&type=ws#United States
 vless://65e83037-ea8c-4cf9-a36b-1bf364bbb6fd@www.parsvds.ir:8080?encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE%3Fed%3D8080&security=none&type=ws#United States
@@ -121,9 +121,9 @@ vless://a841512a-0143-45f4-97d9-092a79c5a268@104.18.193.31:8080?encryption=none&
 vless://1142470b-d8de-4e9d-99f9-dfefbbdb39e0@104.18.41.138:8443?encryption=none&fp=random&host=pardazeshvpn-tg27.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=pardazeshvpn-tg27.pages.dev&type=ws#United States
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?encryption=none&host=bpb-worker-panel-h5f.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=bpb-worker-panel-h5f.pages.dev&type=ws#United States
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=vIeEZEr-PaNeL.PAGes.dev&path=%2FHRj71tnRkPZV60Ea%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&security=tls&sni=viEEzer-pANeL.paGES.DEv&type=ws#United States
-vless://777d6d57-dab1-442e-89da-63213108a097@185.146.173.58:2095?encryption=none&host=dcc10.servernet.fun.&path=%2Fservernet&security=none&type=ws#Sweden
-vless://13581548-fc99-4130-bbee-9d5a92642e8e@185.146.173.58:8080?encryption=none&host=dcc11.servernet.fun.&path=%2Fservernet&security=none&type=ws#Sweden
-vless://ce9ce77b-59d4-455f-b5c3-e72f5329e0a5@185.146.173.58:8080?encryption=none&host=dcc12.servernet.fun.&path=%2F&security=none&type=ws#Sweden
+vless://1427904a-1cae-446a-9ed9-9fc0d9292ea8@185.146.173.58:2095?encryption=none&host=dcc10.servernet.fun.&path=%2Fservernet&security=none&type=ws#Sweden
+vless://5a9ef87c-3815-419e-8e7b-9829c5755f20@185.146.173.58:8080?encryption=none&host=dcc11.servernet.fun.&path=%2Fservernet&security=none&type=ws#Sweden
+vless://d279702d-4d2c-4ff5-ad5e-d1db3fd54cee@185.146.173.58:8080?encryption=none&host=dcc12.servernet.fun.&path=%2F&security=none&type=ws#Sweden
 vless://50ad3422-98df-4f64-90f4-5015b3276441@cdnnode5mahz.cr-cfd.ir:2083?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=cdnnode5mahz.cr-cfd.ir&type=ws#United States
 vless://50ad3422-98df-4f64-90f4-5015b3276441@cdnnode1mahz.cfd-cr.ir:2083?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=cdnnode1mahz.cfd-cr.ir&type=ws#United States
 vless://50ad3422-98df-4f64-90f4-5015b3276441@godcdn.my-teamspeak.ir:2083?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=godcdn.my-teamspeak.ir&type=ws#United States
@@ -143,6 +143,7 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.157.120:443?encryption=none&
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@211.72.156.20:23555?encryption=none&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=dns68.putata.eu.org&type=ws#Taiwan
 vless://67e85955-02b7-46f3-b3d6-ca34a4b0ccc1@hidden-rbpamewkcxqxrz3lct.hidden0612.ir:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=hidden-rbpamewkcxqxrz3lct.hidden0612.ir&path=%2F&security=tls&sni=hidden-rbpamewkcxqxrz3lct.hidden0612.ir&type=ws#United States
 vless://67e85955-02b7-46f3-b3d6-ca34a4b0ccc1@hidden-rbpamewkcxqxrz3lct.hidden0612.ir:443?alpn=h2%2Chttp%2F1.1&fp=chrome&host=hidden-rbpamewkcxqxrz3lct.hidden0612.ir&path=%2F&security=tls&sni=hidden-rbpamewkcxqxrz3lct.hidden0612.ir&type=ws#United States
+vless://VpNCUSTOMiZE@www.parsvds.ir:8080?host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE%3Fed%3D8080&security=none&type=ws#United States
 vless://169c5a68-9d6a-4129-b4f4-5a0089397ab0@www.parsvds.ir:8080?host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE%3Fed%3D8080&security=none&type=ws#United States
 vless://CHANNEL@188.114.98.224:8080?encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&type=ws#United States
 vless://CHANNEL@VPNCUSTOMIZE.Elmahstyle.ir:8080?encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&type=ws#Sweden
@@ -201,10 +202,10 @@ vless://18c680fc-f921-484c-85d3-ec191f7cc983@sky1.bbv2ry.pics:443?headerType=htt
 vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?encryption=none&fp=random&host=vip1-romax-tiktok.hsjsak.ir&path=vless-ws%2F%3Fed%3D2048+%40Romax_Vpn+%40TikTok_Proxy+%40Romax_Vpn+%40TikTok_Proxy+%40Romax_Vpn+%40TikTok_Proxy+%40Romax_Vpn+%40TikTok_Proxy+%40Romax_Vpn+%40TikTok_Proxy+%40Romax_Vpn+%40TikTok_Proxy&security=tls&sni=vip1-romax-tiktok.hsjsak.ir&type=ws#United States
 vless://51d19c6d-d0bf-4e0b-8eef-9a1d3f13c7e6@avval.ir:8443?encryption=none&fp=random&host=vip-romax-tiktok.hsjsak.ir&path=vless-ws%2F%3Fed%3D2048+%40Romax_Vpn+%40TikTok_Proxy+%40Romax_Vpn+%40TikTok_Proxy+%40Romax_Vpn+%40TikTok_Proxy+%40Romax_Vpn+%40TikTok_Proxy+%40Romax_Vpn+%40TikTok_Proxy+%40Romax_Vpn+%40TikTok_Proxy&security=tls&sni=vip-romax-tiktok.hsjsak.ir&type=ws#United States
 trojan://Watashi_VPN@www.speedtest.net:443?fp=chrome&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed%3D2560&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws#United States
-trojan://telegram-id-privatevpns@51.20.57.166:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Sweden
+trojan://telegram-id-privatevpns@13.60.126.4:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Sweden
 trojan://telegram-id-privatevpns@34.251.78.227:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Ireland
+trojan://telegram-id-directvpn@18.157.126.171:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Germany
 trojan://telegram-id-directvpn@13.48.230.219:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Sweden
-trojan://telegram-id-directvpn@54.84.137.25:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#United States
 trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@jp03.156786.xyz:709?headerType=none&security=tls&sni=jp03.156786.xyz&type=tcp#Japan
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#Singapore
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#United States
