@@ -124,9 +124,9 @@ vless://f30aad19-41df-486d-9b57-3df1eceab697@185.146.173.58:80?encryption=none&h
 vless://telegram-id-ArV2ray@104.17.147.22:8880?Telegram=%40V2RayTz%2C%40V2RayTz&encryption=none&host=13.V2.i.www.speedtest.net.dnschecker.tecH.&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8880&security=none&type=httpupgrade#United States
 vless://Parsashonam-33@190.93.247.247:443?Telegram=%40V2RayTz%2C%40V2RayTz&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=Mail.Offch.BlOG.&path=%2Firancell.app&security=tls&sni=Mail.Offch.BlOG.&type=ws#Costa Rica
 vless://Parsashonam-33@104.24.185.137:8080?Telegram=%40V2RayTz%2C%40V2RayTz&encryption=none&host=myket.xn--ir-6g5cr0ao9vf3s229b.arvancloud.ir.DigehKhastehShodamAzBasDamanehKharidam.BlOG.&path=%2F%3Fed%3D2560&security=none&type=ws#United States
+vless://1077a3fb-7ca7-4f5f-ad1b-775b9dab3ea8@185.146.173.58:8080?encryption=none&headerType=none&security=none&type=tcp#Sweden
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.69.44:443?encryption=none&host=mmdv2.pages.dev&path=%2F&security=tls&sni=mmdv2.pages.dev&type=ws#United States
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?encryption=none&fp=chrome&host=fraud.chase&path=%2F%3Fed&security=tls&sni=www.Arizona.edu&type=ws#United States
-vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.66.44.197:443?encryption=none&fp=chrome&host=hagh.pages.Dev&path=%2F%3Fed%3D2048&security=tls&sni=hagh.pages.Dev&type=ws#United States
-vless://104380d8-f859-421a-bd11-29b2c9fbfa99@172.66.44.55:443?encryption=none&fp=randomized&host=famil-5c8.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=famil-5c8.pages.dev&type=ws#United States
 vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@de.tradex2080.com:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=de.tradex2080.com&path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&security=tls&sni=de.tradex2080.com&type=ws#Latvia
 vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@104.21.51.208:443?alpn=h2&encryption=none&fp=chrome&headerType=None&hiddify=1&host=de-02.tradex2080.com&mode=gun&path=gPGhgE3kwHBXqebAryGsQ&security=tls&serviceName=gPGhgE3kwHBXqebAryGsQ&sni=de-02.tradex2080.com&type=grpc#United States
 vless://d2c6ddc0-891a-4435-ac0a-4a5cdb78cb7d@104.16.4.103:443?alpn=http%2F1.1&encryption=none&fp=chrome&headerType=None&hiddify=1&host=fl1.tradex2080.com&path=%2Fuy4vb8KcMmQqnkXOdFN4WJ&security=tls&sni=fl1.tradex2080.com&type=ws#United States
@@ -183,9 +183,9 @@ trojan://telegram-id-directvpn@18.219.136.183:22222?alpn=http%2F1.1&headerType=n
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#United States
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#United States
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#China
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206cFo0K1p1c2FnaG9rc0NVUjc1TDJUVlEwekZQdWdXd2dwdURweVh6eG1jYz0=@157.90.175.156:80#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc=@205.134.180.139:443#United+States
 ss://YWVzLTEyOC1nY206YS13eW00b3ZZNFl3@218.250.217.111:81#Hong+Kong
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#United+Kingdom
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.110.1.88:5499#United+States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzRnhBWWdseFE2b01BV1ZhbTU1VW1B@77.83.246.74:33320#Poland
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#Poland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.131:8080#Netherlands
