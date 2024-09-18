@@ -157,6 +157,7 @@ trojan://telegram-id-directvpn@13.50.191.92:22222?alpn=http%2F1.1&headerType=non
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#United States
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#United States
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#China
+ss://Y2hhY2hhMjAtcG9seTEzMDU6aGdMQ2dmTFJnQjZk@205.134.180.145:443#United+States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjTG5nbFd2TkZhc1BaMkVsNVdqcTVN@vienna.telegavpn.com:61992#Austria
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOOWh1bXg1ZEdtanJQdjJMbXAwbXVC@vienna.telegavpn.com:61992#Austria
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#Netherlands
