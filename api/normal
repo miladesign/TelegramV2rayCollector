@@ -107,9 +107,9 @@ vless://dbee8546-0b7e-4b72-b409-48e63fb860ee@185.146.173.58:8080?encryption=none
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@104.19.56.61:443?alpn=h3&encryption=none&fp=random&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&security=tls&sni=pages.teasalo.cloudns.org&type=ws#United States
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?encryption=none&host=v2ra1.ecrgpk.workers.dev&path=%2F&security=none&type=ws#United States
 vless://349ece52-713d-4955-b8c7-5874b4906235@speedtest.net:80?encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v20.com&path=%2F&security=none&type=ws#United States
-vless://db74236d-7e1e-44df-b589-807076044041@SpeedTest.net:80?headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v07.newbackup.com&path=&security=none&type=ws#United States
-vless://db74236d-7e1e-44df-b589-807076044041@SpeedTest.net:80?headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v05.newbackup.com&path=&security=none&type=ws#United States
-vless://db74236d-7e1e-44df-b589-807076044041@SpeedTest.net:80?headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v09.newbackup.com&path=&security=none&type=ws#United States
+vless://db74236d-7e1e-44df-b589-807076044041@SpeedTest.net:80?headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v16.newbackup.com&path=&security=none&type=ws#United States
+vless://db74236d-7e1e-44df-b589-807076044041@SpeedTest.net:80?headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v13.newbackup.com&path=&security=none&type=ws#United States
+vless://db74236d-7e1e-44df-b589-807076044041@SpeedTest.net:443?encryption=none&fp=chrome&headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v13.newbackup.com&path=&security=tls&sni=speedtest.net&type=ws#United States
 vless://TeLeGram-SVNTEAM6@speedtest.net:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=http.www.speedtest.net.fast.com.life.ir.&path=%2FS%2FV%2FN%2FT%2FE%2FA%2FM%3Fed%3D8880&security=tls&sni=speedtest.net&type=ws#United States
 vless://TeLeGram-SVNTEAM5@speedtest.net:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=http.www.speedtest.net.fast.com.life.ir.&path=%2FS%2FV%2FN%2FT%2FE%2FA%2FM%3Fed%3D8880&security=tls&sni=speedtest.net&type=ws#United States
 vless://TeLeGram-SVNTEAM4@speedtest.net:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=http.www.speedtest.net.fast.com.life.ir.&path=%2FS%2FV%2FN%2FT%2FE%2FA%2FM%3Fed%3D8880&security=tls&sni=speedtest.net&type=ws#United States
