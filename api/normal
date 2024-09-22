@@ -103,9 +103,9 @@ vless://1cb98902-7795-4a80-b1d2-ad4055189384@www.speedtest.net:8443?alpn=h3%2Ch2
 vless://32ced3f5-980a-54a7-89d5-616c2dd9188e@172.64.32.154:2052?encryption=none&host=6.www.abrha.com.xn--joinBede-ELiV2ry.click.abrarvan.ir.at3.vless.sitespeedtest.net.&path=%2F%40ELiV2ry-%40ELiV2ry-%40ELiV2ry%3Fed%3D2048&security=none&type=ws#United States
 vless://2aa29fd0-4ef4-42e2-afb3-4463c5e00b4d@www.speedtest.net:80?host=5.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTelegram-ConfigMs%3Fed%3D2048&security=none&type=httpupgrade#United States
 vless://66eb3e3f-5d0e-4372-b0e0-91971ae06a1b@www.speedtest.net:80?host=5.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTelegram-ConfigMs%3Fed%3D2048&security=none&type=httpupgrade#United States
-vless://388a05d9-62c1-4e16-ac3f-e33459340e4c@cli.speedtest.net:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=emAdv2ray.PagEs.dev&path=%2FWS6VfFJbW1m90iDe%2FNjIuMy4xMi4xODU%3D%3Fed%3D2560&security=tls&sni=PAgeS.Dev&type=ws#United States
-vless://01660443-a9ea-4f16-a2fd-fced0badc684@91.132.50.143:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=www.ilovepdf.com&type=tcp#United Kingdom
-vless://277f8f79-15a7-4f75-aeee-a372048659f7@speedtest.net:443?encryption=none&fp=firefox&host=shuposipet.com&path=%2Fde%3Fed%3D1048&security=tls&sni=speedtest.net&type=ws#United States
+vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?encryption=none&fp=randomized&host=119f3a0b.chikiy123w.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=119f3a0b.chikiy123w.pages.dev&type=ws#United States
+vless://850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00@172.66.47.200:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=ev2raydev.pages.dev&path=%2FpimYiCPFd3353OXG%2FMTM5LjE4NS4zNC4xMzE%3D%3Fed%3D2560&security=tls&sni=eV2rAYdEV.pageS.dEv&type=ws#United States
+vless://8e1c348a-de32-41a8-8cbe-1c67593ffa34@79.127.70.118:2053?encryption=none&headerType=http&host=www.speedtest.net&security=none&type=tcp#Iran
 vless://ee0d9d18-e887-4ac9-9480-8c624645f8f7@www.speedtest.net:8880?encryption=none&host=www.speedtest.net.B.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D8880&security=none&type=ws#United States
 vless://9c4347f6-6c96-4358-8d11-167d6e9c2583@www.speedtest.net:8880?encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2056&security=none&type=ws#United States
 vless://9c4347f6-6c96-4358-8d11-167d6e9c2583@www.speedtest.net:8880?encryption=none&host=www.speedtest.net.B.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D8880&security=none&type=ws#United States
@@ -139,8 +139,8 @@ vless://494d65a9-f932-475c-a895-88eb985d49ea@speedtest.net:443?encryption=none&f
 trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?headerType=http&security=none&type=tcp#UNKNOWN
 trojan://telegram-id-privatevpns@18.157.136.247:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Germany
 trojan://telegram-id-privatevpns@51.20.29.70:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Sweden
-trojan://telegram-id-directvpn@18.158.18.36:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Germany
-trojan://telegram-id-directvpn@13.53.158.135:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Sweden
+trojan://telegram-id-directvpn@13.48.182.109:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Sweden
+trojan://telegram-id-directvpn@3.77.101.216:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Germany
 trojan://auto@162.159.138.232:8443?host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws#United States
 trojan://tg-dns68@162.159.153.192:443?host=vip.putata.eu.org&path=%2F&security=tls&sni=vip.putata.eu.org&type=ws#United States
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#United States
