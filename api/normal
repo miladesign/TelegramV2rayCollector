@@ -134,7 +134,7 @@ vless://4b05c4ff-6715-4bdf-9906-a9441cc59484@Sky1.bbv2ry.pics:443?alpn=http%2F1.
 vless://cc876e84-66c4-4bd8-ac67-7d2efc9daac8@sky1.bbv2ry.pics:443?headerType=http&host=ghbi.ir&path=%2F&security=none&type=tcp#United States
 vless://18c680fc-f921-484c-85d3-ec191f7cc983@sky1.bbv2ry.pics:443?headerType=http&host=ghbi.ir&path=%2F&security=none&type=tcp#United States
 vless://494d65a9-f932-475c-a895-88eb985d49ea@speedtest.net:443?encryption=none&fp=firefox&host=vip-programs.ir&path=%2F&security=tls&sni=speedtest.net&type=ws#United States
-trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?headerType=http&security=none&type=tcp#Iran
+trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?headerType=http&security=none&type=tcp#UNKNOWN
 trojan://telegram-id-privatevpns@52.47.54.128:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#France
 trojan://telegram-id-privatevpns@18.157.148.241:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Germany
 trojan://telegram-id-directvpn@35.181.119.94:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#France
@@ -144,7 +144,6 @@ trojan://tg-dns68@162.159.153.192:443?host=vip.putata.eu.org&path=%2F&security=t
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#United States
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#United States
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#China
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMTZtRXpjdGhrZFFBcUxkczlNc3NK@77.83.246.74:33320#Poland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#United+Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjWjhYeWhDSTlqd0RKVWt0bzhiUXlJ@sg.outlinekeys.net:52252#Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncEc1Mnd3Snp2cmRXbkxFdElyZkdL@212.113.106.76:29149#Austria
