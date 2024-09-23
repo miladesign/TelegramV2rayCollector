@@ -82,9 +82,9 @@ vless://fc44565c-c2b3-4da4-a9bf-bd57e80bd171@185.146.173.185:8080?encryption=non
 vless://c3c64c0d-014a-4395-b6b8-823a6bed7e96@49.12.193.246:443?mode=gun%3Bsecurity%3Dreality%3Bencryption%3Dnone%3Bpbk%3DJkoHaVaou4cTuQk5kbG2lwQx7Z5nzFiKbTDXbr-fdFQ%3Bfp%3Dchrome%3Bspx%3D%2F%3Btype%3Dgrpc%3BserviceName%3D%40VPNCUSTOMIZE%3Bsni%3Dwww.iranserver.com%3Bsid%3D9a6deee9#Germany
 vless://c3c64c0d-014a-4395-b6b8-823a6bed7e96@www.canva.com:8880?path=%2F%3Fed%3D2048%3Bsecurity%3Dnone%3Bencryption%3Dnone%3Bhost%3DconfignginxV2rayng.vpncustomize.Website%3Btype%3Dws#United States
 vless://46286ed2-9abf-420b-b510-c9e663cdbadc@49.12.193.246:443?mode=gun%3Bsecurity%3Dreality%3Bencryption%3Dnone%3Bpbk%3DJkoHaVaou4cTuQk5kbG2lwQx7Z5nzFiKbTDXbr-fdFQ%3Bfp%3Dchrome%3Bspx%3D%2F%3Btype%3Dgrpc%3BserviceName%3D%40VPNCUSTOMIZE%3Bsni%3Dwww.iranserver.com%3Bsid%3D9a6deee9#Germany
-vless://045a2146-5250-4f7c-ab10-de96b212a766@185.146.173.58:8080?encryption=none&host=lc47.lebasnoo.ir.&path=%2Fservernett&security=none&type=ws#Sweden
-vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:8443?encryption=none&fp=randomized&host=tnetplus-1wc.pages.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&sni=tnetplus-1wc.pages.dev&type=ws#United States
+vless://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.47.106:443?encryption=none&fp=randomized&host=pardazeshvpn-tg18.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=pardazeshvpn-tg18.pages.dev&type=ws#United States
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=joinmahdiseRver-Az7.pAgES.dev&path=%2FISB6gvC3mmVSWxzE%3Fed%3D2560&security=tls&sni=jOInmAHDiSERVer-AZ7.paGes.dEV&type=ws#United States
+vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?encryption=none&host=5c53ca21.vpn-aryoo.pages.dev&path=%2FTelegram-%40Azarakhsh_Proxy%2F%3Fed%3D2560&security=tls&sni=5c53ca21.vpn-aryoo.pages.dev&type=ws#United States
 vless://da853330-a294-4257-9a87-f481b9126d51@o.mmd111.sbs:2053?alpn=&fp=chrome&host=m.mmd111.sbs&path=%2F&security=tls&sni=m.mmd111.sbs&type=ws#United States
 vless://6adac6d4-517c-4540-b026-c11c7815789d@all.vipxali.cfd:2083?alpn=http%2F1.1%2Ch2&encryption=none&fp=safari&mode=gun&security=tls&servicename=%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray&sni=fe.xsv2ray.cfd&type=grpc#United States
 vless://d113cd5c-80c9-43e2-a567-107819004a12@all.vipxali.cfd:2083?alpn=http%2F1.1%2Ch2&encryption=none&fp=safari&mode=gun&security=tls&servicename=%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray%2C%40xsv2ray&sni=dm.xsv2ray.cfd&type=grpc#United States
@@ -94,9 +94,9 @@ vless://dbee8546-0b7e-4b72-b409-48e63fb860ee@185.146.173.58:8080?encryption=none
 vless://8d636170-6540-4000-9629-d91f10c01635@209.38.162.15:14596?encryption=none&security=none&type=grpc#United Kingdom
 vless://43d4a2c2-996b-4910-a0fe-817fad873186@test3.vip-senior.info:40126?encryption=none&headerType=http&host=speedtest.net&security=none&type=tcp#Germany
 vless://00d7256f-6ef2-42ee-8319-d4a49536b918@172.66.45.7:443?encryption=none&host=vpn-aryoo-bo4.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=vpn-aryoo-bo4.pages.dev&type=ws#United States
-vless://8baccd09-9b09-4fe4-b0e7-c1c4a5688e03@SpeedTest.net:80?headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v10.drlimit.net&path=&security=none&type=ws#United States
-vless://8baccd09-9b09-4fe4-b0e7-c1c4a5688e03@SpeedTest.net:80?headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v04.drlimit.net&path=&security=none&type=ws#United States
-vless://8baccd09-9b09-4fe4-b0e7-c1c4a5688e03@SpeedTest.net:80?headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v06.drlimit.net&path=&security=none&type=ws#United States
+vless://8baccd09-9b09-4fe4-b0e7-c1c4a5688e03@SpeedTest.net:80?headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v22.drlimit.net&path=&security=none&type=ws#United States
+vless://8baccd09-9b09-4fe4-b0e7-c1c4a5688e03@SpeedTest.net:443?encryption=none&fp=chrome&headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v17.drlimit.net&path=&security=tls&sni=speedtest.net&type=ws#United States
+vless://8baccd09-9b09-4fe4-b0e7-c1c4a5688e03@SpeedTest.net:80?headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.drlimit.net&path=&security=none&type=ws#United States
 vless://681a14c9-08fe-4aa6-a876-7f8491d4662b@www.speedtest.net:8443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=randomized&host=VPNCUSTOMIZE.speedtest.net.Naziitness.com&path=%2Fwww.speedtest.net%2FVPNCSTOMIZE%3Fed%3D8443&security=tls&sni=VPNCUSTOMIZE.speedtest.net.Naziitness.com&type=ws#United States
 vless://c5f67ba2-f20d-4d61-acb9-d107894a08db@www.speedtest.net:8443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&host=tel.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&path=%2Fwww.speedtest.net%2FVPNCSTOMIZE%3Fed%3D8443&security=tls&sni=tel.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&type=ws#United States
 vless://1cb98902-7795-4a80-b1d2-ad4055189384@www.speedtest.net:8443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&host=VPNCUSTOMIZEe.www.speedtest.net.Naziitness.com&path=%2Fwww.speedtest.net%2FVPNCSTOMIZE%3Fed%3D8443&security=tls&sni=VPNCUSTOMIZEe.www.speedtest.net.Naziitness.com&type=ws#United States
@@ -132,12 +132,12 @@ vless://cc876e84-66c4-4bd8-ac67-7d2efc9daac8@sky1.bbv2ry.pics:443?headerType=htt
 vless://18c680fc-f921-484c-85d3-ec191f7cc983@sky1.bbv2ry.pics:443?headerType=http&host=ghbi.ir&path=%2F&security=none&type=tcp#United States
 vless://494d65a9-f932-475c-a895-88eb985d49ea@speedtest.net:443?encryption=none&fp=firefox&host=vip-programs.ir&path=%2F&security=tls&sni=speedtest.net&type=ws#United States
 trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?headerType=http&security=none&type=tcp#UNKNOWN
-trojan://telegram-id-privatevpns@3.75.68.210:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Germany
-trojan://telegram-id-privatevpns@13.49.149.140:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Sweden
+trojan://telegram-id-privatevpns@15.188.0.248:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#France
+trojan://telegram-id-privatevpns@18.157.246.103:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Germany
 trojan://telegram-id-directvpn@3.146.106.75:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#United States
 trojan://telegram-id-directvpn@15.222.147.130:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Canada
-trojan://auto@162.159.138.232:8443?host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws#United States
 trojan://tg-dns68@162.159.153.192:443?host=vip.putata.eu.org&path=%2F&security=tls&sni=vip.putata.eu.org&type=ws#United States
+trojan://auto@172.66.44.131:443?host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws#United States
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#United States
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#United States
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#China
