@@ -88,9 +88,9 @@ vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@172.67.139.111:443?encryption=none&
 vless://e7cae227-ffda-4612-a76c-adcf3a9e49b6@79.127.70.80:2082?encryption=none&headerType=http&host=www.speedtest.net&security=none&type=tcp#Iran
 vless://43cbd73e-36ff-4fa0-9a80-280df505a08a@141.94.237.82:8880?flow=xtls-rprx-vision&fp=random&pbk=JG9LhBsn2LwpT3Iv4kk6oPql-rcPdxYYGVzUSnwxEmY&security=reality&sid=365302&sni=google.com&type=tcp#France
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.170.213:8080?host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048&type=ws#United States
-vless://e476b25d-c5e7-44e7-b7a7-63cd77c8ea5d@SpeedTest.net:443?encryption=none&fp=chrome&headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v10.drlimit.net&path=&security=tls&sni=speedtest.net&type=ws#United States
-vless://e476b25d-c5e7-44e7-b7a7-63cd77c8ea5d@SpeedTest.net:443?encryption=none&fp=chrome&headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v12.drlimit.net&path=&security=tls&sni=speedtest.net&type=ws#United States
-vless://e476b25d-c5e7-44e7-b7a7-63cd77c8ea5d@SpeedTest.net:80?headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v25.drlimit.net&path=&security=none&type=ws#United States
+vless://e476b25d-c5e7-44e7-b7a7-63cd77c8ea5d@SpeedTest.net:80?headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v21.drlimit.net&path=&security=none&type=ws#United States
+vless://e476b25d-c5e7-44e7-b7a7-63cd77c8ea5d@SpeedTest.net:80?headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.drlimit.net&path=&security=none&type=ws#United States
+vless://e476b25d-c5e7-44e7-b7a7-63cd77c8ea5d@SpeedTest.net:80?headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v05.drlimit.net&path=&security=none&type=ws#United States
 vless://4c74edf8-69ae-40f3-bc13-a22e9b31b751@104.18.218.118:8443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D8443&security=tls&sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&type=ws#United States
 vless://9feb5a6c-1b1c-4c76-b1a1-9054d340e016@www.speedtest.net:8443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&host=tel.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&path=%2Fwww.speedtest.net%2FVPNCSTOMIZE%3Fed%3D8443&security=tls&sni=tel.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&type=ws#United States
 vless://7710e1f2-ff0e-40c1-a9a4-156d0066412c@www.speedtest.net:8443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&host=VPNCUSTOMIZEe.www.speedtest.net.Naziitness.com&path=%2Fwww.speedtest.net%2FVPNCSTOMIZE%3Fed%3D8443&security=tls&sni=VPNCUSTOMIZEe.www.speedtest.net.Naziitness.com&type=ws#United States
@@ -121,16 +121,16 @@ vless://4c6451ba-6594-4d67-a8ae-4df79815a4e3@public.alpanel.top:1403?encryption=
 vless://Mahanvpn--insta@162.251.82.56:8080?encryption=none&host=dEbngCbC.kouRdspEed.ir&path=%2F%3Fed%3D2048&security=none&type=httpupgrade#United States
 vless://Mahanvpn-Team-4@185.146.173.95:2052?encryption=none&host=dEbngCbC.kouRdspEed.ir.&path=%2F%3Fed%3D2052&security=none&type=httpupgrade#Sweden
 vless://Mahanvpn-Team-3@185.146.173.16:2052?encryption=none&host=dEbngCbC.kouRdspEed.ir.&path=%2F%3Fed%3D2052&security=none&type=httpupgrade#Sweden
+vless://c8f1b30c-627e-40ec-bd39-db71dc68722e@185.146.173.58:8080?path=%2F&security=&type=ws#Sweden
 vless://697a8872-71d5-4686-a287-d348227b4178@176.124.202.240:30118?encryption=none&fp=firefox&pbk=kARv3BG0DtXiSIkFM9pTwOuHkR8vspYc73fvxprQaUw&security=reality&serviceName=%40Good_v2aryy-%40Good_v2aryy-%40Good_v2aryy-%40Good_v2aryy-%40Good_v2aryy%40Good_v2aryy-%40Good_v2aryy-%40Good_v2aryy-%40Good_v2aryy-%40Good_v2aryy-%3Fed%3D2053&sid=79ab97ea&sni=refersion.com&spx=%2F&type=grpc#Netherlands
 vless://6a4d8231-9e1b-4359-85d8-58822c211b82@speedtest.net:443?encryption=none&fp=firefox&host=abadis.ir&path=%2F%40Good_v2aryy-%40Good_v2aryy-%40Good_v2aryy-%40Good_v2aryy-%40Good_v2aryy-%3Fed%3D2053&security=tls&sni=speedtest.net&type=ws#United States
-vless://bdc32a6b-aaff-44f7-9739-86472afbb601@46.245.75.90:443?headerType=http&host=fast.com&path=%2F&security=none&type=tcp#Iran
 vless://4e3b8bd3-0342-44cd-ad87-cfe4ee426634@newochean.teslasolhtjet.ir:8888?mode=gun&serviceName=Telegram%3A%28&type=grpc#United States
 vless://4b05c4ff-6715-4bdf-9906-a9441cc59484@Sky1.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&path=%2F&security=tls&sni=web.bbv2ry.pics&type=ws#United States
 vless://cc876e84-66c4-4bd8-ac67-7d2efc9daac8@sky1.bbv2ry.pics:443?headerType=http&host=ghbi.ir&path=%2F&security=none&type=tcp#United States
 vless://18c680fc-f921-484c-85d3-ec191f7cc983@sky1.bbv2ry.pics:443?headerType=http&host=ghbi.ir&path=%2F&security=none&type=tcp#United States
 vless://3fedbd26-b4da-440e-9f7c-004d2463caec@zula.ir:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=DisVpn.us.kg&path=%2F---------Romax_VPN---------Romax_VPN---------Romax_VPN&security=tls&sni=DisVpn.us.kg&type=ws#United States
 vless://3fedbd26-b4da-440e-9f7c-004d2463caec@medium.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=DisVpn.us.kg&path=%2F---------TikTok_Proxy---------TikTok_Proxy---------TikTok_Proxy&security=tls&sni=DisVpn.us.kg&type=ws#United States
-trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?headerType=http&security=none&type=tcp#UNKNOWN
+trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?headerType=http&security=none&type=tcp#Iran
 trojan://telegram-id-privatevpns@35.181.188.78:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#France
 trojan://telegram-id-privatevpns@3.64.191.45:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Germany
 trojan://telegram-id-directvpn@52.47.184.2:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#France
