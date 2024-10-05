@@ -106,9 +106,8 @@ vless://b4db04e9-cbaa-47d9-8881-e6bf8479105f@89.22.238.133:8080?encryption=none&
 vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.47.155:443?encryption=none&fp=chrome&host=pardazesh18.pages.dev&path=%2F&security=tls&sni=pardazesh18.pages.dev&type=ws#United States
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=argodev11222.pages.dev&path=%2FTelegram%40%2F%3Fed%3D2560&security=tls&sni=ArGodev11222.PaGes.Dev&type=ws#United States
 vless://8953f5bd-6ac8-4a67-b23e-ad01770ae331@162.159.138.178:8443?encryption=none&host=vless.sub.amclubs.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=vless.sub.amclubs.us.kg&type=ws#United States
-vless://41a17d90-61ad-4d1d-9d09-a83729795c4e@185.146.173.58:8080?encryption=none&host=lc59.lebasnoo.ir.&path=%2Fservernett&security=none&type=ws#Sweden
-vless://b56dc46a-6fe6-4096-abdf-186a958b6445@[2a01:4f8?encryption=none&headerType=none&security=none&type=tcp#United States
-vless://96d10bdf-0df3-4c95-aa02-abf3414cae64@[2a01:4f8?encryption=none&headerType=none&security=none&type=tcp#United States
+vless://265ad2b9-edc8-452a-e0d2-aaf38f005cdd@tgju.org:2082?host=1S3-0MH-HJ1JAR06--BPKV6G4V--sWZW5eMD_QKJ__ZWB4FRTV7_KA7A.0912.ORG.&path=%2F%3Fed%3D2082%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2C%3Fed%3D2082&security=none&type=httpupgrade#United States
+vless://f70ccf22-c8c8-4911-f034-927a54d2bc2b@tgju.org:2082?host=1S3-0MH-HJ1JAR06--BPKV6G4V--sWZW5eMD_QKJ__ZWB4FRTV7_KA7A.0912.ORG.&path=%2F%3Fed%3D2082%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2C%3Fed%3D2082&security=none&type=httpupgrade#United States
 vless://1b5648b6-da73-4ffb-b964-46c6d3d52136@159.69.23.6:22531?encryption=none&fp=chrome&pbk=jb36M2GejuMVpv36Tx0zEAq5qPgF7Ux1pHoWre7moHE&security=reality&sid=4638b111&sni=zula.ir&type=grpc#Germany
 vless://783164cb-6410-4a96-e432-832489e4848c@ec76.kiava.fun:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wQGZ3Ppa4ajV1HrQUYdpZF9D6yejNt84iWv2fV3kVHc&security=reality&sid=5e&sni=coinmarketcap.com&type=tcp#United States
 vless://fbe02c0b-775f-4431-8615-a9497255c876@four.felinetest.site:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs&security=reality&sid=6f9deca7&sni=none.felinetest.site&type=tcp#United States
