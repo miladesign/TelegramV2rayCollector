@@ -13,14 +13,14 @@ vmess://eyJhaWQiOiIwIiwiaG9zdCI6Im9iZGlpLmNmZCIsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0
 vmess://eyJhaWQiOiIwIiwiaG9zdCI6Im1laHJqYXZhbi5pciIsImlkIjoiNTc3MjdkN2QtODg3My00MDAwLWIzZjQtMzNhOTNmY2ZkZDUxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9tMjhqY29aWlVoa3FnNnBrMTEiLCJwcyI6IklyYW4iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwiYWRkIjoic3BlZWR0ZXN0Lm5ldCIsInBvcnQiOiI0NDMifQ==
 vmess://eyJhaWQiOiIxIiwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBzIjoiVHVya2V5IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsImFkZCI6IjEwMy4yMTUuMjE4LjIyMiIsInBvcnQiOiI0NDMifQ==
 vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMjUwYjgxNTItM2NiMC00ZGFlLWIyMWMtNWNhNWQwYWNhMDYzIiwibmV0IjoiZ3JwYyIsInBhdGgiOiJATV9CdXkiLCJwcyI6IlBvbGFuZCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiZ3VuIiwidiI6IjIiLCJhZGQiOiIxMjguMjA0LjIyMy40MiIsInBvcnQiOiIyOTU5NCJ9
-vless://Parsashonam-97@[2a01:4f8?encryption=none&headerType=none&security=none&type=tcp#United States
-vless://Parsashonam-97@Zmaoz.Faculty.Ucdavis.Edu:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=Parsashonam0.com&path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&sni=Zmaoz.Faculty.Ucdavis.Edu.&type=ws#United States
-vless://Parsashonam-97@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade#Sweden
+vless://Parsashonam-98@[2a01:4f8?encryption=none&headerType=none&security=none&type=tcp#United States
+vless://Parsashonam-98@Zmaoz.Faculty.Ucdavis.Edu:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=Parsashonam0.com&path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&sni=Zmaoz.Faculty.Ucdavis.Edu.&type=ws#United States
+vless://Parsashonam-98@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade#Sweden
 vless://e74aa512-26fa-41ac-8709-77d4248461f1@www.speedtest.net:2082?encryption=none&host=xsv2ray.ir.xs2ray.ir.xsv2ray.ir.xsv2ray.ir.www.speedtest.net.www.zula.ir.cloudflare.com.de2.Meysaam.com.&path=%2Fnazan%2Fpedar%2Fsag&security=none&type=httpupgrade#United States
 vless://86795c84-2287-4198-9df3-2760926ef431@www.speedtest.net:2082?encryption=none&host=www.dash.cloudflare.com.www.speedtest.net.301.Meysaam.com.&path=%2Fnazan%2Fpedar%2Fsag&security=none&type=httpupgrade#United States
 vless://81dabced-dd35-445b-83fa-9ee3d786d97c@zula.ir:2083?alpn=h3%2Ch2%2Chttp%2F1.1&authority=&encryption=none&mode=multi&security=tls&serviceName=%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray&sni=Xs.bo3kot.com&type=grpc#United States
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.186.148:22222?encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws&security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws#France
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.99.91.40:22222?encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws&security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws#Canada
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.214.243:22222?encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws&security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws#United Kingdom
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.195.45:22222?encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws&security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws#France
 vless://e820d158-fb07-4baa-b82a-244736641ae0@151.101.3.8:80?encryption=none&host=barkatc1.ir&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#United States
 vless://d810397a-f423-45f4-b0fd-41fd8ecd28ee@151.101.3.8:80?encryption=none&host=barkatc2.ir&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#United States
 vless://06a42f28-ac67-46a4-b1f2-aafd34267d84@151.101.3.8:80?encryption=none&host=barkatc1.ir&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&type=ws#United States
@@ -119,9 +119,9 @@ vless://ca544ad7-181d-408f-8f95-8ce7c51cd399@web.bbv2ry.pics:443?alpn=http%2F1.1
 vless://c3d41415-59cb-40eb-b721-ffa87f95e454@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Skyy.bbv2ry.pics&path=%2F&security=tls&sni=Skyy.bbv2ry.pics&type=ws#United States
 vless://12e9debb-5f13-4981-b600-073f5e9307c9@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Sky1.bbv2ry.pics&path=%2F&security=tls&sni=Sky1.bbv2ry.pics&type=ws#United States
 trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?headerType=http&security=none&type=tcp#Iran
+trojan://telegram-id-privatevpns@3.11.159.0:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#United Kingdom
 trojan://telegram-id-privatevpns@15.237.68.100:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#France
-trojan://telegram-id-privatevpns@18.196.211.170:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Germany
-trojan://telegram-id-directvpn@3.146.134.127:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#United States
+trojan://telegram-id-directvpn@3.147.121.191:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#United States
 trojan://telegram-id-directvpn@35.182.25.73:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Canada
 trojan://auto@104.16.224.104:443?host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&sni=trojanmz.pages.dev&type=ws#United States
 trojan://auto@172.67.49.134:443?fp=randomized&host=trojanfree-76s.pages.dev&path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&security=tls&sni=trojanfree-76s.pages.dev&type=ws#United States
