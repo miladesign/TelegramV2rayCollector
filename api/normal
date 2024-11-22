@@ -102,6 +102,7 @@ vless://50b7fc84-85b4-4043-b1f7-6477c9017a44@162.159.152.2:443?encryption=none&h
 vless://80943f32-cdc8-44b4-b058-b0126e8daa39@hajlab.ucdavis.edu:80?headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v19.TzZLiMitTNeW.CoM&path=&security=none&type=ws#United States
 vless://80943f32-cdc8-44b4-b058-b0126e8daa39@hajlab.ucdavis.edu:443?encryption=none&fp=chrome&headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.TzZLiMitTNeW.CoM&path=&security=tls&sni=hajlab.ucdavis.edu&type=ws#United States
 vless://80943f32-cdc8-44b4-b058-b0126e8daa39@hajlab.ucdavis.edu:80?headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.TzZLiMitTNeW.CoM&path=&security=none&type=ws#United States
+vless://e446048f-725e-5d74-8c38-6e7f7b5dbfc9@104.18.165.39:80?encryption=none&host=rubika.ir.google.com.xn--cr8.xn--cr8VPNCUSTOMIZE.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8h.be2.vless.sitespeedtest.net&path=%2FTelegram-VPNCUSTOMIZE%2Fhttpupgrade%2FTelegram-VPNCUSTOMIZE%3Fed%3D2048&security=none&type=httpupgrade#United States
 vless://DIGIV2RAy@www.speedtest.net:2052?encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&type=ws#United States
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2053?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=bpb-worker-panel-bcr.pages.dev&path=%2FtvXfHqmZZxEe9SgL%3Fed%3D2560&security=tls&sni=bPb-wOrKeR-pANeL-bcr.PaGES.Dev&type=ws#United States
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.2:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=bpb-worker-panel-bcr.pages.dev&path=%2F9yNikZudtYoJdO4E%2FdGltZS5pcw%3D%3D%3Fed%3D2560&security=tls&sni=BpB-WORKER-PanEL-bcr.paGEs.dev&type=ws#United States
@@ -139,7 +140,6 @@ trojan://telegram-id-privatevpns@16.171.204.132:22222?alpn=http%2F1.1&headerType
 trojan://telegram-id-directvpn@63.177.2.147:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Germany
 trojan://telegram-id-directvpn@16.171.76.41:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Sweden
 trojan://bpb-trojan@185.176.24.2:443?alpn=h2%2Chttp%2F1.1&fp=randomized&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2Ftr9vfP2lflALkJrNsQ%3Fed%3D2560&security=tls&sni=403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV&type=ws#Netherlands
-trojan://578ade22-1e58-4c37-ce01-bfad51a72c62@104.17.147.22:8443?alpn=h2%2Chttp%2F1.1&fp=chrome&security=tls&sni=13l1.diginoshops10.ir&type=grpc#United States
 trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@132.145.84.172:20983#Republic of Korea
 trojan://auto@104.20.21.199:443?host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws#United States
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#United States
