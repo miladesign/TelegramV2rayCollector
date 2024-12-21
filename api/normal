@@ -92,9 +92,9 @@ vless://207c70c9-1f04-40bc-87ff-875e279694f3@162.159.153.4:443?encryption=none&f
 vless://ef212c2d-86a9-42b3-88af-26c73849008e@hajlab.ucdavis.edu:80?headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v14.drlimit.net&path=&security=none&type=ws#United States
 vless://ef212c2d-86a9-42b3-88af-26c73849008e@hajlab.ucdavis.edu:80?headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v15.drlimit.net&path=&security=none&type=ws#United States
 vless://ef212c2d-86a9-42b3-88af-26c73849008e@hajlab.ucdavis.edu:443?encryption=none&fp=chrome&headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v21.drlimit.net&path=&security=tls&sni=hajlab.ucdavis.edu&type=ws#United States
-vless://3d7fa427-3b13-4867-bb49-c45aa09bc974@151.101.128.254:80?host=edu.tabligh.au&path=%2F%3Fed%3D2048&type=ws#United States
-vless://6239e2ba-96a5-4cc0-a10f-743b31972c18@TLS.zeoaeriedo-saioesrio.ir:2000?authority=&security=none&serviceName=%2F%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray&type=grpc#Germany
-vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?encryption=none&host=irantvto.ir&path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&sni=zmaoz.faculty.ucdavis.edu&type=ws#United States
+vless://0bf30d6b-1fc6-47b7-99f7-e0fb277594bb@winston.ariankaku.top:443?headerType=http&host=alibaba.ir&path=%2F&security=none&type=tcp#Iran
+vless://b62853d6-b6ac-47ff-ec2d-4184f55a58b4@151.101.66.219:80?host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&security=none&type=ws#United States
+vless://e3998d85-0690-4d39-89c5-75b15f236632@167.82.71.119:443?allowInsecure=1&alpn=h3%2Ch2&encryption=none&fp=random&host=joinbedeee-daily-configs.net&path=%2F%40Daily_Configs--%40Daily_Configs--%40Daily_Configs--%40Daily_Configs--%40Daily_Configs--%40Daily_Configs%3Fed%3D2056&security=tls&type=ws#United States
 vless://156ffa16-9b2f-499b-aa5b-52d95c7a15de@haroz-baenrgy12.dirozemrozharozfarda.sbs:27817?encryption=none&headerType=http&host=speedtest.net&security=none&type=tcp#Iran
 vless://d7c8dc05-cde7-404a-9245-021b97fabe27@zarin3i1.alireza031.pw:49342?encryption=none&host=yBYTT.divarcdn.com%2CkDhBx.snappfood.ir%2CvOAjf.yjc.ir%2CLpi2l.digikala.com%2CN5NBR.tic.ir&path=%2FZarin3&security=none&type=ws#Iran
 vless://69814381-8366-4774-8bac-2dcee5a37eff@bg.com:80?encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g7h.com&path=%2F%3Fed%3D2056&security=none&type=ws#United States
@@ -132,10 +132,11 @@ trojan://telegram-id-directvpn@63.176.17.145:22222?alpn=http%2F1.1&headerType=no
 trojan://telegram-id-directvpn@16.16.48.176:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Sweden
 trojan://QwwHvrnN@223.113.54.145:36442?headerType=none&security=tls&type=tcp#China
 trojan://3648425794742788096@polished-ox.treefrog761.one:443?headerType=none&security=tls&sni=polished-ox.treefrog761.one&type=tcp#Singapore
+trojan://948b5904-d702-46c1-8f76-1c4d3ba01705@188.245.208.177:26745?headerType=http&host=speedtest.net&security=none&type=tcp#Germany
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#United States
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#United States
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#China
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYThkNjQ5Mi1mM2Y1LTQzNzYtYWE4OC0xYzNiZGE1N2E2ZDk3@jp.1.thap.xyz:58146#Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYThkNjQ5Mi1mM2Y1LTQzNzYtYWE4OC0xYzNiZGE1N2E2ZDk3@jp.1.thap.xyz:58146#Hong+Kong
 ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDU3@54.178.84.59:443#Japan
 ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDU3@54.184.77.199:443#United+States
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M3@37.19.198.236:443#United+States
