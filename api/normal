@@ -93,7 +93,6 @@ vless://ef212c2d-86a9-42b3-88af-26c73849008e@hajlab.ucdavis.edu:80?headerType=&h
 vless://ef212c2d-86a9-42b3-88af-26c73849008e@hajlab.ucdavis.edu:80?headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v15.drlimit.net&path=&security=none&type=ws#United States
 vless://ef212c2d-86a9-42b3-88af-26c73849008e@hajlab.ucdavis.edu:443?encryption=none&fp=chrome&headerType=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v21.drlimit.net&path=&security=tls&sni=hajlab.ucdavis.edu&type=ws#United States
 vless://6239e2ba-96a5-4cc0-a10f-743b31972c18@TLS.zeoaeriedo-saioesrio.ir:2000?authority=&security=none&serviceName=%2F%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray&type=grpc#Germany
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.21:443?host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi&security=tls&sni=aaa.zhuk.us.kg&type=ws#United States
 vless://3d7fa427-3b13-4867-bb49-c45aa09bc974@151.101.2.216:80?host=edu.tabligh.au&path=%2F%3Fed%3D2048&type=ws#United States
 vless://156ffa16-9b2f-499b-aa5b-52d95c7a15de@haroz-baenrgy12.dirozemrozharozfarda.sbs:27817?encryption=none&headerType=http&host=speedtest.net&security=none&type=tcp#Iran
 vless://d7c8dc05-cde7-404a-9245-021b97fabe27@zarin3i1.alireza031.pw:49342?encryption=none&host=yBYTT.divarcdn.com%2CkDhBx.snappfood.ir%2CvOAjf.yjc.ir%2CLpi2l.digikala.com%2CN5NBR.tic.ir&path=%2FZarin3&security=none&type=ws#Iran
@@ -134,7 +133,6 @@ trojan://QwwHvrnN@223.113.54.145:36442?headerType=none&security=tls&type=tcp#Chi
 trojan://3648425794742788096@polished-ox.treefrog761.one:443?headerType=none&security=tls&sni=polished-ox.treefrog761.one&type=tcp#Singapore
 trojan://telegram-id-directvpn@13.53.59.131:22222?alpn=http%2F1.1&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Sweden
 trojan://f8bb4ae1-2358-4a76-ab75-2a6bc94272d6@151.101.194.228:443?host=hgc6rct87gy.com&path=ws%2F%3Fed%3D2048&security=tls&sni=pscresearch.faculty.ucdavis.edu&type=ws#United States
-trojan://telegram-id-privatevpns@13.43.207.99:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#United Kingdom
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#United States
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#United States
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#China
