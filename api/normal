@@ -61,10 +61,11 @@ vless://ItsLegendaryking@pub2.legendaryking.link:443?encryption=none&fp=chrome&p
 vless://6f84b738-ca46-4fae-9b83-e6b17830474b@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Sky2.bbv2ry.pics&path=%2F&security=tls&sni=Sky2.bbv2ry.pics&type=ws#United States
 vless://b4989d33-3db4-4b14-b32a-9ade1cbf888d@188.245.184.26:1633?encryption=none&fp=chrome&headerType=none&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&security=reality&sid=9bc0a55a5379c0ed&sni=stackoverflow.com&type=tcp#Germany
 vless://4d8426b2-0af1-4eb5-a231-b62152d7b9b9@cloud.xmsvx.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=aft.fi&path=%2FTorCippyy%3Fed%3D2048&security=tls&sni=live.989bull.com&type=ws#United States
+vless://512e87d7-51bf-4e1e-99a5-0c0edc100080@mmd.fast.hosting-ip.com:80?encryption=none&host=mmd2.ir&path=%2FTELEGRAM-PROXY_MTM-KANAL-TELEGRAM-PROXY_MTM-KANAL-TELEGRAM-PROXY_MTM-TELEGRAM-PROXY_MTM%3Fed%3D2048&security=none&type=ws#United States
 vless://TELEGRAM-ServerNett@[2a01:4f8?encryption=none&headerType=none&security=none&type=tcp#United States
-vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?encryption=none&host=6.fidsxss2x.iR&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&type=ws#United States
-vless://d2093082-a38a-316b-adcb-71013e595bd0@sakura.aaaa.gay:443?encryption=none&flow=xtls-rprx-vision&fp=random&headerType=none&pbk=zRZhlkKjUeqtIk9j6yy95aX-2krqQVyWORLv5tQkQGM&security=reality&sni=tesla.com&type=tcp#Japan
-vless://11e5adbc-8b9e-4d71-9f27-7fc5224faa40@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?encryption=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none&type=ws#United States
+vless://68601963-27c2-4253-c784-914782ce09ef@speedtest.net:80?encryption=none&host=foffmelo.com&path=%2Folem%2Fws%3F&security=none&type=ws#United States
+vless://18758238-2625-2730-3689-f157ae275ad4@spain-01.ab-841.ip-ddns.com:443?alpn=h2&encryption=none&fp=random&mode=gun&security=tls&serviceName=grpc&sni=wrcgbsu.qwapples.com&type=grpc#United States
+vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.102:80?alpn=h2%2Chttp%2F1.1&encryption=none&fp=random&host=teleirani.ir&path=%2F%3Fed%3D2048&security=none&sni=teleirani.ir&type=ws#United States
 vless://6e7dde55-f681-4cd2-a8e1-2ff9b1df7b25@104.17.234.128:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&type=ws#United States
 vless://6e7dde55-f681-4cd2-a8e1-2ff9b1df7b25@104.18.165.38:8443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&type=ws#United States
 vless://6e7dde55-f681-4cd2-a8e1-2ff9b1df7b25@www.speedtest.net:8443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.de.Abrha.co.za&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.de.Abrha.co.za&type=ws#United States
@@ -88,8 +89,7 @@ vless://07ba7aaf-f180-413d-9e62-fded2788e9ce@168.119.101.219:443?encryption=none
 vless://d603cba7-4ec4-4744-a1df-1fcbec323066@172.67.68.157:2083?alpn=http%2F1.1&encryption=none&fp=randomized&host=germanhp.pages.dev&path=%2FqqNNQTl6DJ5lIGLb%2FMy4xMjYuMTU5LjEy&security=tls&sni=GERmAnHp.PAgES.dEv&type=ws#United States
 vless://b69f3e77-cdf1-4b84-851a-4b7ebede5433@91.184.241.49:1300?encryption=none&fp=chrome&mode=gun&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&security=reality&serviceName=1300vless&sid=765e8e700426816c&sni=rosbalt.ru&type=grpc#Sweden
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@3.92.200.30:1212?flow=xtls-rprx-vision&fp=chrome&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&security=reality&sid=a4844ba7&sni=stackoverflow.com&spx=&type=tcp#United States
-vless://d8eeb9a4-84b9-40eb-8de8-2d0fd558e106@151.101.66.228:443?allowInsecure=1&host=Bia2.Channel-ELiV2RaY.ir&security=tls&sni=Bia2.Channel-ELiV2RaY.ir&type=ws#United States
-vless://2a02a9a8-c952-401d-bb45-2c12c4c056ac@151.101.3.8:80?encryption=none&host=External_Net.org&path=%3F%3D9090&security=none&type=ws#United States
+vless://c831e441-42fb-40c2-9be5-7142c2e893d2@185.255.112.175:5610?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&security=reality&sni=refersion.com&type=tcp#France
 vless://4ca8471c-3e70-47e3-b09e-9541f259618b@138.124.24.252:8443?encryption=none&fp=chrome&mode=auto&path=%2F4ca8471c&pbk=AraqCk8OydZjw2ZT-9WEmt_D1vIrtOf88o5YlbKqgRM&security=reality&sid=1b7d7614d14c&sni=yahoo.com&spx=%2F&type=xhttp#Sweden
 vless://telegram-gozargah-azadi@persian--k2k.gamebaz98.ir:7870?encryption=none&flow=xtls-rprx-vision&fp=randomized&headerType=none&pbk=jM1gcVk2UnB4y8PimJ7FA4Y8gxLxBoxD-vg9YWH4jnM&security=reality&sid=5cebd3fd&sni=wordpress.org&spx=%2F&type=tcp#Germany
 vless://telegram-ArV2ray@151.101.2.216:80?encryption=none&host=4.fer58osowk.net&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry&security=none&type=ws#United States
@@ -123,6 +123,8 @@ trojan://telegram-id-directvpn@34.253.153.48:22222?alpn=http%2F1.1&headerType=no
 trojan://telegram-id-directvpn@13.41.84.47:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#United Kingdom
 trojan://23d58330-ceb8-11ef-af55-1239d0255272@fr1.test3.net:443?host=fr1.test3.net&path=%2Fhowdy&security=tls&sni=fr1.test3.net&type=ws#France
 trojan://d06a14d0-ceb9-11ef-a13e-1239d0255272@uk1.test3.net:443?headerType=none&security=tls&type=tcp#United Kingdom
+trojan://38571ca6-6692-4559-b901-0bc5826b7661@ru0195.alibabaokz.com:60194?allowInsecure=1&sni=ru0195.alibabaokz.com#China
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?allowInsecure=1#Japan
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#United States
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#United States
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#China
