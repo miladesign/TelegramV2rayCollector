@@ -91,9 +91,9 @@ vless://d603cba7-4ec4-4744-a1df-1fcbec323066@172.67.68.157:2083?alpn=http%2F1.1&
 vless://b69f3e77-cdf1-4b84-851a-4b7ebede5433@91.184.241.49:1300?encryption=none&fp=chrome&mode=gun&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&security=reality&serviceName=1300vless&sid=765e8e700426816c&sni=rosbalt.ru&type=grpc#Sweden
 vless://07ba7aaf-f180-413d-9e62-fded2788e9ce@188.245.247.73:443?encryption=none&host=188.245.247.73&path=%2F&security=none&type=ws#Germany
 vless://07ba7aaf-f180-413d-9e62-fded2788e9ce@159.69.206.4:443?encryption=none&host=159.69.206.4&path=%2F&security=none&type=ws#Germany
-vless://77f680d1-1881-4b16-9eac-b8882c05fe62@ns9.esfahansiman.com:1210?encryption=none&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&security=reality&serviceName=%40%40jet_config-%40jet_config-%40jet_config&sid=7fe29733&sni=ubuntu.com&type=grpc#Spain
-vless://77f680d1-1881-4b16-9eac-b8882c05fe62@ns4.esfahansiman.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=WWW.pegAh-Esfahan.De.&security=tls&sni=WWW.pegAh-Esfahan.De.&type=ws#Costa Rica
-vless://77f680d1-1881-4b16-9eac-b8882c05fe62@ns8.esfahansiman.com:1210?encryption=none&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&security=reality&serviceName=%40%40jet_config-%40jet_config-%40jet_config&sid=7fe29733&sni=ubuntu.com&type=grpc#United Kingdom
+vless://1c8ea5a2-e986-42d6-9039-867aed7ca528@178.128.236.252:443?encryption=none&fp=firefox&headerType=none&pbk=MM2ZuhIbjaM6h7NOhWQZM8R8hkSE7Qc0uaEwzZ9YuQ0&security=reality&sid=15bf9cd93a696bc5&sni=isna.ir&type=tcp#Canada
+vless://e994e1a7-5d8b-5520-b9ed-6c05b83e4660@95.164.34.105:2052?path=%2Fvless#Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&type=ws#Turkey
+vless://cf868aff-c26c-4a8d-be97-d69401758689@188.245.182.67:8880?encryption=none&headerType=http&host=eN.TwiTtER.cOM.%3A8880&security=none&type=tcp#Germany
 vless://4ca8471c-3e70-47e3-b09e-9541f259618b@138.124.24.252:8443?encryption=none&fp=chrome&mode=auto&path=%2F4ca8471c&pbk=AraqCk8OydZjw2ZT-9WEmt_D1vIrtOf88o5YlbKqgRM&security=reality&sid=1b7d7614d14c&sni=yahoo.com&spx=%2F&type=xhttp#Sweden
 vless://26a45f68-0dd0-4952-ab1e-2c3d023d2431@45.129.185.185:2087?encryption=none&fp=firefox&mode=gun&pbk=StgXQYbkKSkAHHzakVldKHVmrBXhe_J87e7bydUIOGw&security=reality&sid=83cdb009&sni=dash.cloudflare.com&type=grpc#Armenia
 vless://ae2228d1-9b8f-4914-9e0a-68a115f8dbe1@174.138.13.224:15891?encryption=none&fp=random&headerType=none&pbk=4FNDHgDP2lnetuRioH6DsE9kMnDyhkJ2NHLMpZgyci0&security=reality&sid=10f1&sni=ftp.debian.org&type=tcp#Netherlands
@@ -125,8 +125,8 @@ vless://c3d41415-59cb-40eb-b721-ffa87f95e454@web.bbv2ry.pics:443?alpn=http%2F1.1
 trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?headerType=http&security=none&type=tcp#UNKNOWN
 trojan://telegram-id-privatevpns@13.36.88.91:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#France
 trojan://telegram-id-privatevpns@3.72.208.108:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Germany
-trojan://telegram-id-directvpn@52.14.215.189:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#United States
 trojan://telegram-id-directvpn@52.60.111.198:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Canada
+trojan://telegram-id-directvpn@54.75.49.245:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Ireland
 trojan://23d58330-ceb8-11ef-af55-1239d0255272@fr1.test3.net:443?host=fr1.test3.net&path=%2Fhowdy&security=tls&sni=fr1.test3.net&type=ws#France
 trojan://d06a14d0-ceb9-11ef-a13e-1239d0255272@uk1.test3.net:443?headerType=none&security=tls&type=tcp#United Kingdom
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#United States
