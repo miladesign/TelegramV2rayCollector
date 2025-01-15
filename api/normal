@@ -93,9 +93,9 @@ vless://a8629b56-ea3f-41d9-8e42-e8ad84baaef6@all.vipxali.cfd:2083?alpn=http%2F1.
 vless://07ba7aaf-f180-413d-9e62-fded2788e9ce@168.119.101.219:443?encryption=none&host=168.119.101.219&path=%2F&security=none&type=ws#Germany
 vless://d603cba7-4ec4-4744-a1df-1fcbec323066@172.67.68.157:2083?alpn=http%2F1.1&encryption=none&fp=randomized&host=germanhp.pages.dev&path=%2FqqNNQTl6DJ5lIGLb%2FMy4xMjYuMTU5LjEy&security=tls&sni=GERmAnHp.PAgES.dEv&type=ws#United States
 vless://b69f3e77-cdf1-4b84-851a-4b7ebede5433@91.184.241.49:1300?encryption=none&fp=chrome&mode=gun&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&security=reality&serviceName=1300vless&sid=765e8e700426816c&sni=rosbalt.ru&type=grpc#Sweden
-vless://61fb4517-5141-493a-e392-66eb07a7cc1d@70.34.244.241:8080?path=%2F&security=none&type=ws#Poland
-vless://34bcafc0-20c8-4fe6-b392-78c44ab38a89@v03.blkrose.ir:2087?fp=chrome&headerType=&host=&path=&pbk=JUN-7HBeQ2lBDM-zUlzUyo3A8WK1AGzfbZLM9oqiwDA&security=reality&sid=36c4ca7c13dc640f&sni=sourceforge.net&type=tcp#Canada
-vless://2fa45aa2-bec9-4a40-a01d-4a8c5bc715fb@harlan.ns.cloudflare.com:443?alpn=http%2F1.1&encryption=none&host=frgwzm.alligator27.com&path=%2Fwss&security=tls&sni=frgwzm.alligator27.com&type=ws#United States
+vless://617d5079-9fae-494a-98ca-90da9e10cd70@68.183.159.22:80?alpn=&encryption=none&host=arvancloud.com&path=%2F%3Fed%3D2048&security=none&sni=&type=ws#United States
+vless://61560ad9-d553-4bb6-c169-dd1755abab01@199.247.29.45:8080?path=%2F&security=none&type=ws#Netherlands
+vless://121833de-9e06-4ffc-930e-8fc2361386f1@harlan.ns.cloudflare.com:443?alpn=http%2F1.1&encryption=none&host=rzw2uw.alligator27.com&path=%2Fwss&security=tls&sni=rzw2uw.alligator27.com&type=ws#United States
 vless://4ca8471c-3e70-47e3-b09e-9541f259618b@138.124.24.252:8443?encryption=none&fp=chrome&mode=auto&path=%2F4ca8471c&pbk=AraqCk8OydZjw2ZT-9WEmt_D1vIrtOf88o5YlbKqgRM&security=reality&sid=1b7d7614d14c&sni=yahoo.com&spx=%2F&type=xhttp#Sweden
 vless://telegram-gozargah-azadi@persian--k2k.gamebaz98.ir:7870?encryption=none&flow=xtls-rprx-vision&fp=randomized&headerType=none&pbk=jM1gcVk2UnB4y8PimJ7FA4Y8gxLxBoxD-vg9YWH4jnM&security=reality&sid=5cebd3fd&sni=wordpress.org&type=tcp#Germany
 vless://011d10db-1401-4573-b7b0-ba45ad4da4d4@join.kiava.cloud.ohbah.com:2083?alpn=h2&encryption=none&fp=chrome&host=01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live&mode=auto&path=%2F&security=tls&sni=01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live&type=xhttp#United States
@@ -124,7 +124,7 @@ vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?host=Bluewave.
 vless://8b53a7ba-acac-4765-96af-c2b92d141281@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Skyy.bbv2ry.pics&path=%2F&security=tls&sni=Skyy.bbv2ry.pics&type=ws#United States
 vless://ca544ad7-181d-408f-8f95-8ce7c51cd399@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Skyy.bbv2ry.pics&path=%2F&security=tls&sni=Skyy.bbv2ry.pics&type=ws#United States
 vless://c3d41415-59cb-40eb-b721-ffa87f95e454@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Skyy.bbv2ry.pics&path=%2F&security=tls&sni=Skyy.bbv2ry.pics&type=ws#United States
-trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?headerType=http&security=none&type=tcp#UNKNOWN
+trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?headerType=http&security=none&type=tcp#Iran
 trojan://telegram-id-privatevpns@51.44.136.97:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#France
 trojan://telegram-id-privatevpns@3.69.86.164:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Germany
 trojan://telegram-id-directvpn@35.181.185.17:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#France
