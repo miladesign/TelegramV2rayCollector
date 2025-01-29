@@ -86,9 +86,8 @@ vless://0295517a-ad9f-4b35-a811-2adec4133482@hajlab.ucdavis.edu:443?encryption=n
 vless://0295517a-ad9f-4b35-a811-2adec4133482@hajlab.ucdavis.edu:443?encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.feadlenetworkv2sa.net&path=%2F&security=tls&sni=hajlab.ucdavis.edu&type=ws#United States
 vless://7976f348-21e3-4688-8272-b8df34afc600@www.visa.com:80?encryption=none&host=0115.ubsrbac7.workers.dev&path=%2F%3Fed%3D2560&security=none&type=ws#United States
 vless://2dcb48d2-a32a-5a42-a076-9392cacdbfd1@live.skornorth.com:443?encryption=none&fp=qq&host=0-MO-SI-V2.COM&security=tls&sni=live.skornorth.com&type=ws#United States
-vless://5289833f-cb56-4722-b451-44a0d975e052@chloe.ns.cloudflare.com:443?alpn=http%2F1.1&encryption=none&host=w1ksi7.fivegravity.com&path=%2Fwss&security=tls&sni=w1ksi7.fivegravity.com&type=ws#United States
-vless://4cb812f6-3e01-41f9-98cc-c2e0c828a5ca@angelina.ns.cloudflare.com:443?alpn=http%2F1.1&encryption=none&host=cq5dwe.testsnew.com&path=%2Fwss&security=tls&sni=cq5dwe.testsnew.com&type=ws#United States
-vless://1ebdb351-110d-4918-c4e6-1a0fbddf116b@66.245.194.134:8080?path=%2F&security=none&type=ws#United Kingdom
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@sv1.cloudjetn.com:2222?security=none&type=tcp#United States
+vless://1840d031-fccf-4398-826a-c483e7217581@harlan.ns.cloudflare.com:443?alpn=http%2F1.1&encryption=none&host=hv1q4z.alligator27.com&path=%2Fwss&security=tls&sni=hv1q4z.alligator27.com&type=ws#United States
 vless://V2RAXX@SRCVPN.fastly80-3.hosting-ip.com:80?encryption=none&host=V2RAXX.ir&path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&type=ws#United States
 vless://Parsashonam-149@[2a01:4f8?encryption=none&headerType=none&security=none&type=tcp#United States
 vless://10ade744-d103-40d8-83e0-77a9bc343c07@156.229.163.157:12328?flow=xtls-rprx-vision&fp=chrome&pbk=0YSYFeihg5eJSBANonnWjrMl4SrWsZ0bdPOKhPdFpFI&security=reality&sid=6ba85179e30d4fc2&sni=www.swift.com&type=tcp#United States
