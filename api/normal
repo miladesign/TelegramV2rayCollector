@@ -82,8 +82,8 @@ vless://0295517a-ad9f-4b35-a811-2adec4133482@hajlab.ucdavis.edu:443?encryption=n
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.131:2087?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&sni=CdCyRiRd72.gOzAlBaLaBiYa-bEbInAm.cOm&type=grpc#United States
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638732516883233130.rome-mpl-dr.info:8880?encryption=none&mode=gun&security=none&type=grpc#Finland
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ip.payexaye.my:2053?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&sni=CdCyRiRd73.gOzAlBaLaBiYa-bEbInAm.cOm&type=grpc#United States
-vless://270515a2-1c50-43fd-8bd1-c45f69ac4aa9@v27.blkrose.ir:2053?authority=&fp=chrome&headerType=&mode=gun&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&security=reality&serviceName=2053vless&sid=5640288dca4f8519&sni=sourceforge.net&type=grpc#France
-vless://270515a2-1c50-43fd-8bd1-c45f69ac4aa9@v14.blkrose.ir:2053?authority=&fp=chrome&headerType=&mode=gun&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&security=reality&serviceName=2053vless&sid=5640288dca4f8519&sni=sourceforge.net&type=grpc#UNKNOWN
+vless://270515a2-1c50-43fd-8bd1-c45f69ac4aa9@v27.blkrose.ir:2053?authority=&fp=chrome&headerType=&mode=gun&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&security=reality&serviceName=2053vless&sid=5640288dca4f8519&sni=sourceforge.net&type=grpc#UNKNOWN
+vless://270515a2-1c50-43fd-8bd1-c45f69ac4aa9@v14.blkrose.ir:2053?authority=&fp=chrome&headerType=&mode=gun&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&security=reality&serviceName=2053vless&sid=5640288dca4f8519&sni=sourceforge.net&type=grpc#Germany
 vless://1fe198e3-a97e-4904-9070-2458ba0143ea@chloe.ns.cloudflare.com:443?alpn=http%2F1.1&encryption=none&host=14wgdl.gamvpn.com&path=%2Fwss&security=tls&sni=14wgdl.gamvpn.com&type=ws#United States
 vless://2a077ac8-d831-4a2f-8e58-d6da018f0102@g.soskom.ir:52439?fp=chrome&mode=gun&pbk=2Vxork2cQs-t5sqBYPt5ObPyex0jk7E2ND5we52m_0Y&security=reality&sid=2e094153c17b67&sni=yahoo.com&spx=%2F&type=grpc#Germany
 vless://7104da79-f958-40fd-96f2-d8f7396984f4@g.soskom.ir:52439?fp=chrome&mode=gun&pbk=2Vxork2cQs-t5sqBYPt5ObPyex0jk7E2ND5we52m_0Y&security=reality&sid=2e094153c17b67&sni=yahoo.com&spx=%2F&type=grpc#Germany
@@ -131,9 +131,9 @@ trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debia
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#China
 trojan://C9zSyneYN7Rl3K38qxu5y3axI82CaEXZ0SwjZFplDpYaTcOABDDOC6SeF4R3Ag@deliver.missionsec.io:28331?security=tls&sni=deliver.missionsec.io&type=tcp#United States
 trojan://03bb7640-df39-11ef-a9b1-1239d0255272@uk1.test3.net:443?headerType=none&security=tls&type=tcp#United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppWkRKczJDRGNrSEtxSjVXN2NwdkNxMnZlcXNxV245NWlxczZLcjZGM1lObnlNc2sydVBkUnJDaFFmU2h2SDF2NTZCcjFxV0VXNDRxSm5hNVFjTWNaRjdSQ0ptZHZ3dXE=@mx2.drawnrisha.one:55988#United+Kingdom
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.95:5498#United+States
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.102:8091#United+States
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.47:6697#United+States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.47:5003#United+States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#United+Kingdom
 ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDU3@34.218.246.104:443#United+States
 ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDU3@13.124.182.234:443#Republic+of+Korea
