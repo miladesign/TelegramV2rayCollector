@@ -13,9 +13,9 @@ vmess://eyJpZCI6IjVkMWVjNmU3LWZkNTgtNGU4NS05MWM1LTYzMzVhODZkMjc3NSIsIm5ldCI6InRj
 vmess://eyJhaWQiOiIwIiwiaG9zdCI6InRtcy5kaW5ndGFsay5jb20iLCJpZCI6IjQ2Y2ZjZmUxLWU0NTAtNDU5ZC1hM2FiLTk0MDYwMTFhYjNlYiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicHMiOiJVbml0ZWQgU3RhdGVzIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoyLCJhZGQiOiJkZGQ0NzQ4MS0wZDZmLTA4YjktNzIwOS1iMGRkYzBjNWZhNDUub25lcGx1cy5wdWIiLCJwb3J0IjoiODAifQ==
 vmess://eyJhaWQiOiIwIiwiaG9zdCI6IndhcC5ob3N0bWpqLmNvbSIsImlkIjoiMjJhMTNhYTItNDg1NC00NGNiLWUwOTAtZWM3MWFiODRiMWZmIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwcyI6IlVuaXRlZCBTdGF0ZXMiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOjIsImFkZCI6IjE3Mi42Ny4xMTYuNDgiLCJwb3J0IjoiODAifQ==
 vmess://eyJhaWQiOiIwIiwiaG9zdCI6InV5aGdpdXlmZXdkcmdmLXRvMTIzNDUueGlhb2hoaC54eXoiLCJpZCI6IjIwNjI1OWZkLTA5YWYtNDZlZS1lYzZkLTVhYzhhODI5MWQ2ZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvNjYiLCJwcyI6IlVuaXRlZCBTdGF0ZXMiLCJzY3kiOiJhdXRvIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOjIsImFkZCI6IjEwNC4yNi44LjIxMCIsInBvcnQiOiI0NDMifQ==
+vmess://eyJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYWJjYWJhYy1hYmNhLWFiY2EtY2RhYi1iYWFjYWNhYmJiY2MiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicHMiOiJVTktOT1dOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsImFkZCI6IjEyNy4wLjAuMSIsInBvcnQiOiI4MDgwIn0=
 vmess://eyJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiY2JhY2JhYS1hYmFjLWJhYWMtZGJhYy1hYmFhY2NjYmNiYWIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicHMiOiJVTktOT1dOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsImFkZCI6IjEyNy4wLjAuMSIsInBvcnQiOiIyMDgwIn0=
 vmess://eyJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiY2JiY2FhYS1jYWJhLWNiYWEtZGJjYS1hYmNiYmFhYWNiY2MiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicHMiOiJVTktOT1dOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsImFkZCI6IjEyNy4wLjAuMSIsInBvcnQiOiI4MDgwIn0=
-vmess://eyJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYWNhYmNiYS1iYWNhLWFhYmMtYmNhZC1iYWJhYWNhY2JjYmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicHMiOiJVTktOT1dOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsImFkZCI6IjEyNy4wLjAuMSIsInBvcnQiOiIxMDgwIn0=
 vless://Parsashonam-180@188.245.242.132:443?encryption=none&fp=chrome&host=Whatsapp.com&mode=stream-one&path=%2F%40Parsashonam&pbk=k4cuNLKyoRu4QKypn4DtwJPLBNuwXm5UHV0GJt3yuFI&security=reality&sid=7f338a&sni=Whatsapp.com&spx=%2F&type=xhttp#Germany
 vless://Parsashonam-180@Zmaoz.Faculty.Ucdavis.Edu:80?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=Parsashonam-DE.ir&path=%2F%40Parsashonam%3Fed%3D2048&security=none&sni=Zmaoz.Faculty.Ucdavis.Edu.&type=ws#United States
 vless://Parsashonam-180@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=%2F&security=none&type=httpupgrade#Sweden
@@ -89,8 +89,9 @@ vless://2805e3e5-25bc-4fea-9a5c-51eb800fe379@jermaine.ns.cloudflare.com:443?alpn
 vless://0295517a-ad9f-4b35-a811-2adec4133482@hajlab.ucdavis.edu:443?encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.feadlenetworkv2sa.net&path=%2F&security=tls&sni=hajlab.ucdavis.edu&type=ws#United States
 vless://0295517a-ad9f-4b35-a811-2adec4133482@hajlab.ucdavis.edu:443?encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.feadlenetworkv2sa.net&path=%2F&security=tls&sni=hajlab.ucdavis.edu&type=ws#United States
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?encryption=none&host=pormang.webhost99.workers.dev&path=%2F%3Fed%3D2560&security=none&type=ws#United States
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@35.95.123.81:80?security=none&type=tcp#United States
-vless://3dc9015f-20cb-42d6-adab-55ce831bae61@whatismyipaddress.com:2087?host=radrr.accra-ghashang.org&path=%2Fmorano&security=tls&sni=radrr.accra-ghashang.org&type=ws#United States
+vless://3dc9015f-20cb-42d6-adab-55ce831bae61@whatismyipaddress.com:2087?host=hbrwj.athens-amrikayekesafat.org&path=%2Fmorano&security=tls&sni=hbrwj.athens-amrikayekesafat.org&type=ws#United States
+vless://3dc9015f-20cb-42d6-adab-55ce831bae61@whatismyipaddress.com:2087?host=gansm.ankara-amrikayekesafat.org&path=%2Fmorano&security=tls&sni=gansm.ankara-amrikayekesafat.org&type=ws#United States
+vless://3dc9015f-20cb-42d6-adab-55ce831bae61@abuja-piqiu.info:2087?encryption=none&host=takdm.aleppo-amrikayekesafat.org&path=%2Fmorano&security=tls&sni=takdm.aleppo-amrikayekesafat.org&type=ws#United States
 vless://1937666c-9058-4f4a-bee6-cb31273cd3cd@104.248.168.91:443?encryption=none&headerType=none&security=none&type=tcp#United Kingdom
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.0.155:80?encryption=none&host=Join--E-L-i-V-2-R-A-Y.net&path=%2FJoin-ELiV2RAY%3Fed%3D2560&security=none&type=ws#United States
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@mods.lnmarketplace.net:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=randomized&headerType=none&host=Telegram+%3A&security=tls&sni=mods.lnmarketplace.net&type=tcp#Germany
@@ -115,7 +116,7 @@ vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?host=Bluewave.
 vless://8b53a7ba-acac-4765-96af-c2b92d141281@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Skyy.bbv2ry.pics&path=%2F&security=tls&sni=Skyy.bbv2ry.pics&type=ws#United States
 vless://ca544ad7-181d-408f-8f95-8ce7c51cd399@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Skyy.bbv2ry.pics&path=%2F&security=tls&sni=Skyy.bbv2ry.pics&type=ws#United States
 vless://c3d41415-59cb-40eb-b721-ffa87f95e454@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Skyy.bbv2ry.pics&path=%2F&security=tls&sni=Skyy.bbv2ry.pics&type=ws#United States
-trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?headerType=http&security=none&type=tcp#Iran
+trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?headerType=http&security=none&type=tcp#UNKNOWN
 trojan://telegram-id-privatevpns@51.44.152.197:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#France
 trojan://telegram-id-privatevpns@63.176.120.75:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Germany
 trojan://telegram-id-directvpn@13.39.66.84:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#France
