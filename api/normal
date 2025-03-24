@@ -87,9 +87,8 @@ vless://57d3cc07-b809-4ad8-a34d-5a5196e51611@all.vipxali.cfd:2083?alpn=http%2F1.
 vless://6e643b53-f30a-443d-a069-c5826f365403@1.windscribe.cam:2087?encryption=none&fp=chrome&host=sni2.tohid3aeed.com&path=%2F&security=tls&sni=sni2.tohid3aeed.com&type=ws#United States
 vless://10525b84-7f6e-43ef-912b-87434df813f4@172.64.34.232:443?alpn=http%2F1.1&encryption=none&host=news5.testsnew.com&path=%2Fwss&security=tls&sni=news5.testsnew.com&type=ws#United States
 vless://38f53254-2252-4497-a42a-bc07e087246b@104.17.122.209:443?encryption=none&host=test.digikala-aparat-zula.com&path=%2Fadmin&security=tls&sni=test.digikala-aparat-zula.com&type=ws#United States
-vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@52.15.32.8:80?security=none&type=tcp#United States
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@soccer120.info:8443?alpn=h3h2&encryption=none&host=09WeSb13I4.bIgCoMpAnYhArD2.oRg&path=%2F&security=tls&sni=09WeSb13I4.bIgCoMpAnYhArD2.oRg&type=ws#United States
-vless://12c859d0-b325-4baa-9474-4d7334043f35@tgju.org:80?encryption=none&host=GaInfuL-fiEld.oNEeAt.CO.&path=%2F%3Fed%3D2048&security=none&type=ws#United States
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@3.142.241.215:80?security=none&type=tcp#United States
+vless://3a1ad320-5019-494b-a9b5-282ee84bf523@tgju.org:80?encryption=none&host=UnusuAl-cLOUd.ONeEat.co.&path=%2F%3Fed%3D2048&security=none&type=ws#United States
 vless://b0b6a34e-0c93-457c-abc8-99c0ab3afdb4@cname.proxystore11.news:443?alpn=h3&encryption=none&fp=chrome&host=cdn1.proxystore11.news&mode=auto&path=%2FAZFlrd5mM4sTe3tLTdYD&security=tls&sni=cdn1.proxystore11.news&type=xhttp#United States
 vless://d11859ff-fb2f-4204-a44e-f673ea709ca5@ipv6.proxystore11.news:443?alpn=h2&encryption=none&fp=chrome&mode=gun&pbk=qTjnHPhsqfvEpnCP4cTXXvVQI34F2uXhWxl0ddtgpTc&security=reality&serviceName=L6ocyVFZGNHz4gxKwgJ&sid=b5f32071b5f64f&sni=www.afp.com&type=grpc#United States
 vless://e0c23a67-1fd3-4225-bf67-f1fdd465e9f7@91.107.156.176:443?fp=chrome&headerType=none&pbk=0sxnaKMU6kGtDElfjsdnNlL_7SxBq0QPhaaaWvAj9zw&security=reality&sid=ac&sni=mw5.baradshops.ir&type=tcp#Germany
