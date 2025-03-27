@@ -115,8 +115,9 @@ vless://1ae6e00e-467a-4be1-a957-eb90c09558c3@188.34.201.88:16072?encryption=none
 vless://671b9a72-7c75-46b9-be82-db2734bae2fc@public.alpanel.top:1403?encryption=none&fp=chrome&mode=gun&pbk=rCdor1DLbQcXbNBD9aiLIoCYHwqTMh8ao9MIPMXo0yA&security=reality&serviceName=%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam&sid=99&sni=tuyacn.com&spx=%2F&type=grpc#United States
 vless://da890efd-bb54-4264-d59b-257822039ac1@public.alpanel.top:1380?encryption=none&fp=chrome&mode=gun&pbk=u2Xf8Og6H4iPcoYIZC8Cm8ziH2LA4ifvpHxEpp8bfUw&security=reality&serviceName=%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam&sid=4c5aaad0&sni=www.iranserver.com&spx=%2F&type=grpc#United States
 vless://4c6451ba-6594-4d67-a8ae-4df79815a4e3@public.alpanel.top:1403?encryption=none&fp=chrome&mode=gun&pbk=rCdor1DLbQcXbNBD9aiLIoCYHwqTMh8ao9MIPMXo0yA&security=reality&serviceName=%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam%2C%40vmesskhodam&sid=99&sni=tuyacn.com&spx=%2F&type=grpc#United States
-vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.96.1:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=photographipictureai.ir&path=%2F3um9NK8jwisKz35E%3Fed%3D2560&security=tls&sni=pHOTOgrApHipiCTureaI.IR&type=ws#United States
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=redw.pooriam.ir&security=tls&sni=REDw.pOOriam.Ir&type=ws#United States
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.43.75:8880?encryption=none&mode=gun&security=none&type=grpc#Finland
+vless://670be98f-176a-4a21-82f9-d516c0e04232@178.62.112.47:443?encryption=none&fp=chrome&headerType=none&pbk=Ya3K9Ddp7WYOnePuHUG1h83Dkp3i0E3OxrohUWn0a38&security=reality&sni=TGju.org&type=tcp#United Kingdom
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.2.165:80?encryption=none&host=Join--E-L-i-V-2-R-A-Y.net&path=%2Fchannel%2CELiV2RAY-channel%2CELiV2RAY-channel%2CELiV2RAY&security=none&type=ws#United States
 vless://GozargahVPN@GozargahVPN.fastly80-3.hosting-ip.com:80?encryption=none&host=edu.arastoo.au&mode=auto&security=none&type=xhttp#United States
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443?fp=chrome&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&security=reality&sid=&sni=www.refersion.com&spx=%2F&type=tcp#Germany
 vless://SVNTEAM1@151.101.194.133:443?alpn=h2%2Chttp%2F1.1&fp=chrome&host=SVNTEAM.IR&path=%2FSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%3Fed%3D8880&security=tls&sni=mio.splashthat.com&type=ws#United States
@@ -124,7 +125,7 @@ vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?host=Bluewave.
 vless://8b53a7ba-acac-4765-96af-c2b92d141281@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Skyy.bbv2ry.pics&path=%2F&security=tls&sni=Skyy.bbv2ry.pics&type=ws#United States
 vless://ca544ad7-181d-408f-8f95-8ce7c51cd399@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Skyy.bbv2ry.pics&path=%2F&security=tls&sni=Skyy.bbv2ry.pics&type=ws#United States
 vless://c3d41415-59cb-40eb-b721-ffa87f95e454@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Skyy.bbv2ry.pics&path=%2F&security=tls&sni=Skyy.bbv2ry.pics&type=ws#United States
-trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?headerType=http&security=none&type=tcp#UNKNOWN
+trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?headerType=http&security=none&type=tcp#Iran
 trojan://telegram-id-privatevpns@35.179.211.231:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#United Kingdom
 trojan://telegram-id-privatevpns@15.236.215.26:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#France
 trojan://telegram-id-directvpn@13.37.189.228:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#France
@@ -141,8 +142,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.199:
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TnpNM00yUXdNV001TldFNE5ESTJOR0U1WkRJMk16WXhZalk1WW1Oa01qZz0=@pro.moon-night.ir:28910#Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#United+States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWQzZGFhNjE0YjRkYjRm@217.77.2.244:41747#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a1.samanehha.co:443#United+Kingdom
 ss://YWVzLTI1Ni1nY206OWFjZmM1NzQtYWNjMy00YzJiLWFiM2ItNDkxZDQzYTZlYjgz@okanc.node-is.green:21114#United+States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#United+Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M3@149.22.95.183:443#Canada
 tuic://
 hy2://
