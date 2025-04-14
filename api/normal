@@ -113,9 +113,9 @@ vless://4c6451ba-6594-4d67-a8ae-4df79815a4e3@public.alpanel.top:1403?encryption=
 vless://0ac7faff-5358-453e-a2a4-ef0818ca19f5@217.60.239.58:26165?encryption=none&path=telegram%3A+%40summertimeus&security=none&type=ws#Iran
 vless://dda234b4-3989-4db4-b3f8-b3ea2431e173@62.60.144.201:8080?encryption=none&headerType=http&security=none&type=tcp#Iran
 vless://GozargahVPN@GozargahVPN.fastly80-3.hosting-ip.com:80?encryption=none&host=edu.arastoo.au&mode=auto&security=none&type=xhttp#United States
-vless://88da5abf-08f2-44fe-951e-358e96bc86ba@SVNTEAM.MiSVN.iR:443?flow=xtls-rprx-vision&fp=chrome&headerType=&host=&path=&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&security=reality&sid=e54b5ad736ae4c38&sni=tgju.org&type=tcp#Germany
+vless://88da5abf-08f2-44fe-951e-358e96bc86ba@SVNTEAM.MiSVN.iR:443?flow=xtls-rprx-vision&fp=chrome&headerType=&host=&path=&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&security=reality&sid=e54b5ad736ae4c38&sni=tgju.org&type=tcp#UNKNOWN
 vless://SVNTEAM1@151.101.194.133:443?alpn=h2%2Chttp%2F1.1&fp=chrome&host=SVNTEAM.IR&path=%2FSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%3Fed%3D8880&security=tls&sni=mio.splashthat.com&type=ws#United States
-vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443?fp=chrome&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&security=reality&sid=&sni=www.refersion.com&spx=%2F&type=tcp#Germany
+vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443?fp=chrome&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&security=reality&sid=&sni=www.refersion.com&spx=%2F&type=tcp#UNKNOWN
 vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?host=Bluewave.ai&path=%2F%3Fed%3D1861&security=none&type=ws#Denmark
 vless://8b53a7ba-acac-4765-96af-c2b92d141281@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Skyy.bbv2ry.pics&path=%2F&security=tls&sni=Skyy.bbv2ry.pics&type=ws#United States
 vless://ca544ad7-181d-408f-8f95-8ce7c51cd399@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Skyy.bbv2ry.pics&path=%2F&security=tls&sni=Skyy.bbv2ry.pics&type=ws#United States
