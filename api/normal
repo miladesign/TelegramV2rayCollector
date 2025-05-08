@@ -31,8 +31,8 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.54.26:22224?path=%2Ftelegram
 vless://70558b53-e4fd-43d4-98b2-b7cf84de8276@website.acveo.ir:8080?encryption=none&host=website.acveo.ir&path=%2Ftelegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry%3Fed%3D2048&security=&type=httpupgrade#United States
 vless://e9277571-804d-4697-b673-70a4e318952f@website.acveo.ir:8080?encryption=none&host=website.acveo.ir&path=%2Ftelegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry%3Fed%3D2048&security=&type=httpupgrade#United States
 vless://1bc63b1b-5d65-4230-b6bd-84c141eb1da5@website.acveo.ir:8080?encryption=none&host=website.acveo.ir&path=%2Ftelegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry%3Fed%3D2048&security=&type=httpupgrade#United States
-vless://bedd9f06-f222-4c99-a00f-65e3667931ce@speedtest.net:80?encryption=none&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024&security=none&type=ws#United States
-vless://ca9074b2-2442-43b8-c7ab-5440cb7f3ef7@zmaoz.faculty.ucdavis.edu:80?encryption=none&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024&security=none&type=ws#United States
+vless://8d3e428a-c674-4fdb-d223-b94042dcf222@speedtest.net:80?encryption=none&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024&security=none&type=ws#United States
+vless://bedd9f06-f222-4c99-a00f-65e3667931ce@zmaoz.faculty.ucdavis.edu:80?encryption=none&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024&security=none&type=ws#United States
 vless://952d4280-2a79-4524-a32a-5d53512509ec@167.99.46.243:19506?encryption=none&mode=gun&security=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&type=grpc#Netherlands
 vless://0cc2605e-0ead-4396-b0d5-68ac136314ff@209.38.53.86:23969?encryption=none&mode=gun&security=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&type=grpc#Netherlands
 vless://847dbf20-4163-434d-83b8-86dd8bc13d7b@194.182.79.247:13479?encryption=none&mode=gun&security=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&type=grpc#Czech Republic
@@ -98,9 +98,9 @@ vless://727807ba-bd1e-4659-b5aa-68c45ece54e8@157.180.79.133:40387?encryption=non
 vless://872dc5ae-7d1e-49a6-8d94-d971a46a47ee@91.107.180.49:443?encryption=none&fp=chrome&headerType=none&host=%2FJoin_Bade_Channel%40JOKERRVPN&pbk=a1bbTrDkHqhQRm_1Q27z_7eZWaybtU7BWbwIRdmtkHE&security=reality&sid=e81f&sni=tgju.org&spx=%2FJoin_Bade_Channel%40JOKERRVPN&type=tcp#Germany
 vless://9c1cd140-4770-49b0-9340-16ac9fcfcd35@62.60.194.102:4405?encryption=none&headerType=http&host=varzesh3.com%2F%3FBIA_TELEGRAM%40MARAMBASHI&security=none&type=tcp#Iran
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&host=google.com&path=%2Fhttp&security=none&type=ws#Germany
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=ipsycho.suex12.ir&path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560&security=tls&sni=ipsychO.SUEx12.Ir&type=ws#United States
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:2096?encryption=none&fp=chrome&host=ScKzAhYz14.qUiCkOrA.OrG&path=%2F&security=tls&sni=ScKzAhYz14.qUiCkOrA.OrG&type=ws#United States
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.96.1:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=ipsycho.suex12.ir&path=%2FRiuadVWEiFmFyL3C%3Fed%3D2560&security=tls&sni=iPsyCHO.SUEx12.iR&type=ws#United States
-vless://3fafa6c0-7f0a-4149-bd8f-05fa19e11be7@57.129.55.24:21147?encryption=none&headerType=&security=&type=tcp#Germany
 vless://944d8b74-7a64-4b07-a278-9f968e9ef99c@mw5.asalemaraghe.ir:443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&host=mw5.asalemaraghe.ir&path=%2F&security=tls&sni=mw5.asalemaraghe.ir&type=ws#Germany
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?encryption=none&mode=gun&security=none&type=grpc#Finland
 vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?encryption=none&headerType=none&security=none&type=tcp#Turkey
@@ -124,7 +124,6 @@ trojan://telegram-id-privatevpns@56.228.72.135:22222?alpn=http%2F1.1&headerType=
 trojan://telegram-id-privatevpns@18.203.133.90:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Ireland
 trojan://telegram-id-directvpn@56.228.72.135:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Sweden
 trojan://telegram-id-directvpn@18.203.133.90:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Ireland
-trojan://Bc#??cut0k9l@www.speedtest.net:2053?path=/trfoKzrMN87amrjlOx?ed=2560&security=tls&alpn=http/1.1&host=g7tau5zf41eqnf9fpwj8rmqy3sfyei4l.prx11.workers.dev&fp=randomized&type=ws&sni=G7tAU5ZF41eqnF9FpwJ8rmQY3SFYEI4l.PRX11.wORKeRS.dEV#United States
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#United States
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#United States
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#Japan
