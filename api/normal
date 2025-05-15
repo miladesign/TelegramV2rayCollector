@@ -84,7 +84,7 @@ vless://058fed96-2eac-4c94-900d-122531de0d2b@all.vipxali.cfd:2083?alpn=http%2F1.
 vless://57d3cc07-b809-4ad8-a34d-5a5196e51611@all.vipxali.cfd:2083?alpn=http%2F1.1%2Ch2&encryption=none&fp=safari&mode=gun&security=tls&serviceName=%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray&sni=dm.XsV2ray.sbs&type=grpc#United States
 vless://6e643b53-f30a-443d-a069-c5826f365403@1.windscribe.cam:2087?encryption=none&fp=chrome&host=sni2.tohid3aeed.com&path=%2F&security=tls&sni=sni2.tohid3aeed.com&type=ws#United States
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.46:8880?encryption=none&mode=gun&security=none&type=grpc#Republic of Lithuania
-vless://dfe11ec9-6330-4e75-bada-ba8796eb71df@3900230223.torob.com.tr:1522?encryption=none&headerType=http&host=testspeed-foreign.tci.ir&security=none&type=tcp#Germany
+vless://dfe11ec9-6330-4e75-bada-ba8796eb71df@3900230223.torob.com.tr:1522?encryption=none&headerType=http&host=testspeed-foreign.tci.ir&security=none&type=tcp#Finland
 vless://99b7f7d7-0c5f-463c-8f3c-548e15f5ae28@91.107.244.16:443?encryption=none&fp=chrome&headerType=none&pbk=7Dd-Z14Mxvy_CJmFe5Q-StNR2ZloyDeMAC6MEVSq4yg&security=reality&sid=e9&sni=mw8.niassa.ir&type=tcp#Germany
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:8443?alpn=h3h2&encryption=none&host=KeMn02UcWh.AaAzZzAaA-8129.cOm&path=%2F&security=tls&sni=KeMn02UcWh.AaAzZzAaA-8129.cOm&type=ws#United States
 vless://152e5a3e-8e9e-4e37-f2e9-beac9e372796@45.76.76.152:8080?path=%2F&security=none&type=ws#United States
@@ -96,9 +96,9 @@ vless://fbf0444d-3941-45ca-a1b2-54f58fc8c43c@65.109.176.100:442?encryption=none&
 vless://de537efd-4d7c-4f3c-aea5-19d3f36c7b1b@154.92.9.2:8443?encryption=none&path=%2F%3Fed&security=tls&sni=txmt.conetcdata.dpdns.org&type=ws#Cyprus
 vless://588f094b-431b-422c-b80b-007945037072@lv01.abvpn.ru:443?encryption=none&host=lv01.abvpn.ru&path=%2Fwebsocket&security=tls&sni=lv01.abvpn.ru&type=ws#Latvia
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&host=google.com&path=%2Fhttp&security=none&type=ws#Germany
+vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.13.149:443?encryption=none&host=d1.medicaldream.ir&path=%2F&security=tls&sni=d1.medicaldream.ir&type=ws#United States
 vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?encryption=none&host=cr77.hedieh.dpdns.org&path=%2F&security=tls&sni=cr77.hedieh.dpdns.org&type=ws#United States
 vless://56652249-2e67-4429-b86c-3df8b838ad85@tgju.org:8080?encryption=none&host=4j.QBAo1g5z6k.ZulaIR.org.&security=none&type=ws#United States
-vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.12.149:443?encryption=none&fp=chrome&host=d1.medicaldream.ir&path=%2F&security=tls&sni=d1.medicaldream.ir&type=ws#United States
 vless://6351a164-aa3e-4702-9b7f-8f12328854c5@speedtest.net:80?encryption=none&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024&security=none&type=ws#United States
 vless://f7286f11-3b13-4342-a829-a8b1563146c7@website.acveo.ir:8080?encryption=none&host=website.acveo.ir&path=%2Ftelegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry%3Fed%3D2048&security=none&type=httpupgrade#United States
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@188.114.96.4:443?alpn=http%2F1.1&encryption=none&host=myphotograpicpicture.ir&path=%2FI4OZ4PupsElhvJ7c&security=tls&sni=MyphOTOgRApicpIcTUre.iR&type=ws#Canada
