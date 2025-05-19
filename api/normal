@@ -1,7 +1,6 @@
 vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTg1MzEwMDktYjY2NC00NDViLWI4OTYtN2JiOTAyNmI3NDRkIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicHMiOiJHZXJtYW55Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIiLCJhZGQiOiI4OC4xOTguOTMuMTc1IiwicG9ydCI6Ijg4ODAifQ==
 vmess://eyJhaWQiOiI2NCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwcyI6IkNoaW5hIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJhZGQiOiIxODMuMjM2LjUxLjIzIiwicG9ydCI6IjUyMTEyIn0=
 vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt2d3MiLCJwcyI6Ikdlcm1hbnkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidiI6IjIiLCJhZGQiOiI1Ny4xMjkuMjQuMTI1IiwicG9ydCI6IjQ0MyJ9
-vmess://eyJhaWQiOiIwIiwiaWQiOiJlZDFkN2VhOC1iZjQwLTRhNGEtOGVhYy04ZTU3Nzk4YmE2ZjciLCJuZXQiOiJyYXciLCJwcyI6IlNpbmdhcG9yZSIsInNjeSI6ImF1dG8iLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwiYWRkIjoiNjIuMTQ2LjIzMi4xNTkiLCJwb3J0IjoiMTQzNzIifQ==
 vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODM3MTE0NmItYTU3Ny00ZmZiLWJkMDQtYmZjYzQyZmRkMTBhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBzIjoiRnJhbmNlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJhZGQiOiJzcGVlZHRlc3QubmV0Lmdvb2dsZS5jb20uYm1pLmlyLmFsdGluc3RhcnQuaXIiLCJwb3J0IjoiODg3NCJ9
 vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzUzZTA3ODctNzFiYy00NDJkLTljOWQtOTAyZjkwMzU5ZWI1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBzIjoiR2VybWFueSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwiYWRkIjoiMzcuMjIxLjEyNS4xNTkiLCJwb3J0IjoiMzM5NDAifQ==
 vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyLnZtZXNzLmNvbW5wbWpzLmNvbSIsImlkIjoiNzA4MzU4YTUtOGM5YS01NWI4LWE1MjEtNzNiOGQ3YjYzZDNiIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzcyIsInBzIjoiRnJhbmNlIiwic2N5Ijoibm9uZSIsInNuaSI6ImZyLnZtZXNzLmNvbW5wbWpzLmNvbSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsImFkZCI6ImZyLnZtZXNzLmNvbW5wbWpzLmNvbSIsInBvcnQiOiIyMDk2In0=
@@ -32,6 +31,7 @@ vless://75f66308-eb61-418f-a0f0-3fe8d6158999@zmaoz.faculty.ucdavis.edu:80?encryp
 vless://0b872dc1-d11c-4a33-8c30-370cb42faafa@194.182.79.252:10785?encryption=none&mode=gun&security=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&type=grpc#Czech Republic
 vless://39984db4-f2e5-43c0-918e-665caf48a96c@194.182.79.218:19608?encryption=none&mode=gun&security=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&type=grpc#Czech Republic
 vless://ca8fbe4e-9743-4307-8956-852aa8abca84@194.182.79.252:10785?encryption=none&mode=gun&security=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&type=grpc#Czech Republic
+vless://telegram-id-ArV2ray@www.speedtest.net:8080?encryption=none&host=www.speedtest.net.b.8.salatinmaccv.ir.&path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry&security=none&type=ws#United States
 vless://telegram-id-ArV2ray5@151.101.64.155:80?encryption=none&host=mard.ankaboti.com.&path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry%3Fed%3D2048&security=none&type=ws#United States
 vless://telegram-id-ArV2ray@www.speedtest.net:8080?encryption=none&host=www.speedtest.net.a.8.salatinmaccv.ir.&path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry&security=none&type=ws#United States
 vless://6803d696-9541-4bab-8c90-e7f634513ec4@r.iphone-shopp.ir:5743?authority=&encryption=none&fp=chrome&mode=gun&pbk=keoiUuaCZJq789ifZNHJ9jNyI_GnI-R-iYtsDhzu0Qg&security=reality&serviceName=mgrpcm&sid=c8e110c0e0959f62&sni=refersion.com&type=grpc#Germany
@@ -120,10 +120,12 @@ trojan://telegram-id-directvpn@15.236.1.58:22223?alpn=http%2F1.1&headerType=none
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#United States
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#United States
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0UlZINlpWanRqV0N2UkVQdlNnVHg2andtZW5zYTZvZjl3MjZOd25aNW4xVjNiV2VOQnNxMkE4NkszUldHUnlqQTg5VHFpYm5yaTRIdUR0dkUyNEtVMlNiNjVSVWVWSno=@185.5.38.111:55988#Finland
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.154.136.132:5498#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.154:8080#United+States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxT0FFakxkQkRmUGM3@194.87.216.79:443#Netherlands
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#United+States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6cHBOdEVzMXdiaTk3@89.185.84.14:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#United+States
 tuic://
 hy2://
