@@ -1,4 +1,5 @@
 vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTg1MzEwMDktYjY2NC00NDViLWI4OTYtN2JiOTAyNmI3NDRkIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicHMiOiJHZXJtYW55Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIiLCJhZGQiOiI4OC4xOTguOTMuMTc1IiwicG9ydCI6Ijg4ODAifQ==
+vmess://eyJhaWQiOiI2NCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwcyI6IkNoaW5hIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJhZGQiOiIxODMuMjM2LjUxLjIzIiwicG9ydCI6IjUyMTEyIn0=
 vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODM3MTE0NmItYTU3Ny00ZmZiLWJkMDQtYmZjYzQyZmRkMTBhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBzIjoiRnJhbmNlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJhZGQiOiJzcGVlZHRlc3QubmV0Lmdvb2dsZS5jb20uYm1pLmlyLmFsdGluc3RhcnQuaXIiLCJwb3J0IjoiODg3NCJ9
 vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzUzZTA3ODctNzFiYy00NDJkLTljOWQtOTAyZjkwMzU5ZWI1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBzIjoiR2VybWFueSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwiYWRkIjoiMzcuMjIxLjEyNS4xNTkiLCJwb3J0IjoiMzM5NDAifQ==
 vmess://eyJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZWU3MTU2ZjUtYzU5NC00ZDdmLTllMjUtNWRlMDE0MDU5Yzg1IiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicHMiOiJJcmFuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJhZGQiOiIxOTQuNS4xNzguNzAiLCJwb3J0IjoiNDQyNjQifQ==
@@ -87,9 +88,7 @@ vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?headerType=&h
 vless://9116e758-76c5-4e9d-aef6-6fe6edd11163@local.connectix-d1.info:44444?encryption=none&flow=xtls-rprx-vision&fp=randomized&headerType=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&security=reality&sni=www.speedtest.net&spx=%2F&type=tcp#Iran
 vless://94e0acd7-aa2f-4a8a-abf6-921bbba18810@local.connectix-d1.info:44444?encryption=none&flow=xtls-rprx-vision&fp=randomized&headerType=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&security=reality&sni=www.speedtest.net&spx=%2F&type=tcp#Iran
 vless://9300ed1f-0ef3-414d-8cf7-1de35cc4548e@local.connectix-d1.info:44444?encryption=none&flow=xtls-rprx-vision&fp=randomized&headerType=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&security=reality&sni=www.speedtest.net&spx=%2F&type=tcp#Iran
-vless://24c0652b-a61d-425e-a737-cbf5f56b0d57@116.203.197.142:17321?encryption=none&headerType=http&host=www.uptvs.com&security=none&type=tcp#Germany
-vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?encryption=none&headerType=http&host=divarcdn.com&security=none&type=tcp#Turkey
-vless://e607e472-cee3-4ea7-c731-4a041a961a05@91.107.253.168:8880?authority=Join_Bade_Channel%40JOKERRVPN&encryption=none&mode=gun&security=none&type=grpc#Germany
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.95:80?encryption=none&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A&security=none&type=ws#Netherlands
 vless://2ff8e538-3109-4c13-a89a-4a7df6866a3a@www.speedtest.net:2095?headerType=&host=4.frsee.ir&path=%2F&security=none&type=httpupgrade#United States
 vless://711627d2-1662-4e98-a3d6-086fd4fd4d31@104.16.14.1:443?alpn=http%2F1.1&encryption=none&fp=randomized&host=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev&path=%2FiqySBCJZh3v7AmTx%3Fed%3D2560&security=tls&sni=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev&type=ws#United States
 vless://65343a27-de9d-4b0c-ab0a-562309c94d2b@157.180.81.95:8880?encryption=none&mode=gun&security=none&type=grpc#Finland
@@ -104,7 +103,7 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.80.111.113:8443?alpn=h2%2Chttp%2
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=ipsycho.suex12.ir&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=ipsychO.SUEx12.Ir&type=ws#United States
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?authority=JOKERRVPN&encryption=none&mode=gun&security=none&type=grpc#France
 vless://GozargahVPN@GozargahVPN.fastly80-3.hosting-ip.com:80?encryption=none&host=edu.arastoo.au&mode=auto&security=none&type=xhttp#United States
-vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443?fp=chrome&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&security=reality&sid=&sni=www.refersion.com&spx=%2F&type=tcp#UNKNOWN
+vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443?fp=chrome&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&security=reality&sid=&sni=www.refersion.com&spx=%2F&type=tcp#Germany
 vless://SVNTEAM1@151.101.194.133:443?alpn=h2%2Chttp%2F1.1&fp=chrome&host=SVNTEAM.IR&path=%2FSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%3Fed%3D8880&security=tls&sni=mio.splashthat.com&type=ws#United States
 vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?host=Bluewave.ai&path=%2F%3Fed%3D1861&security=none&type=ws#Italy
 vless://8b53a7ba-acac-4765-96af-c2b92d141281@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Skyy.bbv2ry.pics&path=%2F&security=tls&sni=Skyy.bbv2ry.pics&type=ws#United States
