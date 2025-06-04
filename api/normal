@@ -66,7 +66,7 @@ vless://telegram-id-ArV2ray@speedtest.net:443?alpn=h2%2Chttp%2F1.1&encryption=no
 vless://Telegram-MsV2ray@WwW.Speedtest.Net:8880?encryption=none&host=MsV2ray-MsV2ray-Fast.xMsVx.com&path=%2F%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray%3Fed%3D2560&security=none&type=httpupgrade#United States
 vless://MsV2ray-MsV2ray@WwW.Speedtest.Net:8880?encryption=none&host=MsV2ray-MsV2ray-Fast.xMsVx.com&path=%2F%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray-%40MsV2ray%3Fed%3D2560&security=none&type=httpupgrade#United States
 vless://9279b428-b53c-42a9-8b30-ed1f6f8af2be@MSV2RAY.fastly80-3.hosting-ip.com:80?encryption=none&host=6.fidsxss7x.iR&path=%2FMsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray%3Fed%3D80&security=none&type=ws#United States
-vless://840dc994-d232-4b71-b133-4f36a874c867@p9.punchline.ir:29570?encryption=none&fp=chrome&mode=auto&path=%2Fv2raybluecrystal&pbk=lOuhgB0K7paehmJFBxd0GxSY2Ax00niQGkpH3-8jKz4&security=reality&sid=37&sni=www.microsoft.com&spx=%2F&type=xhttp#UNKNOWN
+vless://840dc994-d232-4b71-b133-4f36a874c867@p9.punchline.ir:29570?encryption=none&fp=chrome&mode=auto&path=%2Fv2raybluecrystal&pbk=lOuhgB0K7paehmJFBxd0GxSY2Ax00niQGkpH3-8jKz4&security=reality&sid=37&sni=www.microsoft.com&spx=%2F&type=xhttp#United States
 vless://e6829971-e95c-4858-9f83-3a06466541cb@join.VPNCUSTOMIZE.fast.hosting-ip.com:80?encryption=none&host=Channel-VPNCUSTOMIZE.ir&path=%2FTelegram%E2%80%94VPNCUSTOMIZE%3Fed2048&security=none&type=ws#United States
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.46.20:8880?encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560&security=none&type=ws#United Kingdom
 vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?encryption=none&host=api.nhl2.ir&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&type=ws#United States
@@ -78,8 +78,8 @@ vless://6e643b53-f30a-443d-a069-c5826f365403@1.windscribe.cam:2087?encryption=no
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.108:8880?encryption=none&mode=gun&security=none&type=grpc#United States
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?encryption=none&mode=gun&security=none&type=grpc#Germany
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.146.173.63:2087?encryption=none&host=Tp006A9aAs.GoLaBkAsHaNiZ.iNfO&path=%2F&security=tls&sni=Tp006A9aAs.GoLaBkAsHaNiZ.iNfO&type=ws#Sweden
-vless://92fc3c1b-c409-4610-b1a6-9a8ef4287891@v05.vxlimir.com:1370?fp=chrome&headerType=none&host=&path=&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&security=reality&sid=e1afb93bfe75a34b&sni=refersion.com&type=tcp#UNKNOWN
-vless://92fc3c1b-c409-4610-b1a6-9a8ef4287891@v01.vxlimir.com:1370?fp=chrome&headerType=none&host=&path=&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&security=reality&sid=e1afb93bfe75a34b&sni=refersion.com&type=tcp#Germany
+vless://92fc3c1b-c409-4610-b1a6-9a8ef4287891@v05.vxlimir.com:1370?fp=chrome&headerType=none&host=&path=&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&security=reality&sid=e1afb93bfe75a34b&sni=refersion.com&type=tcp#Germany
+vless://92fc3c1b-c409-4610-b1a6-9a8ef4287891@v08.vxlimir.com:1370?fp=chrome&headerType=none&host=&path=&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&security=reality&sid=e1afb93bfe75a34b&sni=refersion.com&type=tcp#UNKNOWN
 vless://999ede55-0aaa-4b54-9dad-c2abe0188940@nwarne.fast.hosting-ip.com:80?encryption=none&host=okamigreen.com&path=%2Fde%3Fed%3D1048&security=&type=ws#United States
 vless://e74d7639-3755-4624-b770-efa6e7ec09a8@104.21.82.14:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=m3sdf.777259.xyz&path=%2FBt93qlsreYHzV5Ii9WW&security=tls&sni=m3sdf.777259.xyz&type=ws#United States
 vless://01be6498-eb5c-42c3-a84c-71879900f037@212.16.71.254:80?headerType=http&path=%2F&security=none&type=tcp#Iran
@@ -102,9 +102,9 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.95:80?encryption=none&ho
 vless://chan3l@V2rayvpn_official@n1.boutiqueman.shop:80?encryption=none&mode=gun&security=none&serviceName=n1.boutiqueman.shop&type=grpc#United States
 vless://91140646-4ee6-40d4-8103-69f79c8aebb5@159.223.28.7:443?authority=telegram%3Afergalvpnmod&encryption=none&mode=gun&security=none&serviceName=telegram%3Afergalvpnmod&type=grpc#Germany
 vless://GozargahVPN@GozargahVPN.fastly80-3.hosting-ip.com:80?encryption=none&host=edu.arastoo.au&mode=auto&security=none&type=xhttp#United States
-vless://bfc73db8-88ee-4739-844d-2a1aebda0671@SVNTEAM.MiSVN.iR:443?flow=xtls-rprx-vision&fp=chrome&headerType=&host=&path=&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&security=reality&sid=e54b5ad736ae4c38&sni=tgju.org&type=tcp#UNKNOWN
-vless://6c76ee27-5281-4d1f-9e28-9a33e0bb0820@SVNTEAM.MiSVN.iR:443?flow=xtls-rprx-vision&fp=chrome&headerType=&host=&path=&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&security=reality&sid=e54b5ad736ae4c38&sni=tgju.org&type=tcp#UNKNOWN
-vless://88da5abf-08f2-44fe-951e-358e96bc86ba@SVNTEAM.MiSVN.iR:443?flow=xtls-rprx-vision&fp=chrome&headerType=&host=&path=&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&security=reality&sid=e54b5ad736ae4c38&sni=tgju.org&type=tcp#UNKNOWN
+vless://bfc73db8-88ee-4739-844d-2a1aebda0671@SVNTEAM.MiSVN.iR:443?flow=xtls-rprx-vision&fp=chrome&headerType=&host=&path=&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&security=reality&sid=e54b5ad736ae4c38&sni=tgju.org&type=tcp#Germany
+vless://6c76ee27-5281-4d1f-9e28-9a33e0bb0820@SVNTEAM.MiSVN.iR:443?flow=xtls-rprx-vision&fp=chrome&headerType=&host=&path=&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&security=reality&sid=e54b5ad736ae4c38&sni=tgju.org&type=tcp#Germany
+vless://88da5abf-08f2-44fe-951e-358e96bc86ba@SVNTEAM.MiSVN.iR:443?flow=xtls-rprx-vision&fp=chrome&headerType=&host=&path=&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&security=reality&sid=e54b5ad736ae4c38&sni=tgju.org&type=tcp#Germany
 vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?host=Bluewave.ai&path=%2F%3Fed%3D1861&security=none&type=ws#Russia
 vless://8b53a7ba-acac-4765-96af-c2b92d141281@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Skyy.bbv2ry.pics&path=%2F&security=tls&sni=Skyy.bbv2ry.pics&type=ws#United States
 vless://ca544ad7-181d-408f-8f95-8ce7c51cd399@web.bbv2ry.pics:443?alpn=http%2F1.1%2Ch2&fp=chrome&host=Skyy.bbv2ry.pics&path=%2F&security=tls&sni=Skyy.bbv2ry.pics&type=ws#United States
