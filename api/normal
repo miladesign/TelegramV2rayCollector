@@ -88,9 +88,9 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@92.243.74.3:443?alpn=http%2F1.1&enc
 vless://SVNTEAM-2@public.misvn.ir:443?fp=chrome&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&security=reality&sid=&sni=tgju.org&spx=%2F&type=tcp#UNKNOWN
 vless://c106802e-577e-4dfd-ab45-c65d88af1ef9@104.16.98.3:2053?alpn=http%2F1.1&encryption=none&fp=randomized&host=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&path=%2FpBo4JI9ey63R7sN5%3Fed%3D2560&security=tls&sni=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&type=ws#United States
 vless://2ff8e538-3109-4c13-a89a-4a7df6866a3a@www.speedtest.net:2095?headerType=&host=4.frsee.ir&path=%2F&security=none&type=httpupgrade#United States
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.75:8880?encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F&security=none&type=ws#Russia
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.176.26.20:8880?encryption=none&host=reedfree8mahsang2.redorg.ir&security=none&type=ws#Kazakhstan
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.11.202.29:8880?encryption=none&host=hk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40MxlShare+%40WangCai2+%2F%3Fed%3D2560&security=none&type=ws#Hungary
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.107.152:80?encryption=none&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A+%40vpnAndroid2%2F%3Fed%3D2560&security=none&type=ws#Netherlands
 vless://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@199.232.13.59:80?encryption=none&host=JoinBede-ELiV2.Ray.io&path=%2F%3Fed%3D2048&security=none&type=ws#United States
 vless://e486066b-3308-4114-a9a6-5648750b071f@speedtest.net:80?encryption=none&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024&security=none&type=ws#United States
 vless://afb042e7-452f-4912-8db1-26d7759aa150@www.speedtest.net:8080?encryption=none&host=api.speedtest-divar.ir&path=%2FTelegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry%3Fed%3D2048&security=none&type=httpupgrade#United States
