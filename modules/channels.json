@@ -447,14 +447,20 @@
         "vmess",
         "shadowsucks"
     ],
+    "raze_vpn": [
+        "vmess",
+        "vless"
+    ],
     "vpnplusee_free": [
         "vless",
         "vmess",
         "shadowsucks",
         "ss"
     ],
-    "raze_vpn": [
+    "V2ray_official": [
+        "vless",
         "vmess",
-        "vless"
+        "shadowsucks",
+        "ss"
     ]
 }
