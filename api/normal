@@ -30,7 +30,7 @@ vless://435fab40-a9fb-4b45-b7c4-0aed8b63a3c2@www.speedtest.net:80?encryption=non
 vless://34a4cfb4-8b42-42ba-b087-6a338c2b3b4a@fast-01.saitsazs.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&host=Demon02.global.ssl.fastly.net&mode=auto&path=%2Fpath&security=none&type=xhttp#Italy
 vless://959eb33c-43f8-4f45-9de6-3ffd13319a79@nv73.momdping.com:443?encryption=none&path=%2F&security=tls&sni=nv73.momdping.com&type=ws#Iran
 vless://9718b260-03c9-4313-af0f-d08a0b5c859e@video-streaming.comtent-delivery.poshtibani.4b3a.com:23410?encryption=none&headerType=http&host=fonts.gstatic.com&security=none&type=tcp#Iran
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.143.163:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#France
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.98.61:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#France
 vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@151.101.3.8:80?encryption=none&host=fatmelo.com&path=%2Folem%2Fws%3Fed%3D1024&security=none&type=ws#United States
 vless://6fc3195e-e1ad-4e1b-8552-ac88e2780364@194.182.79.70:31516?encryption=none&fp=chrome&mode=gun&pbk=tUuTbwQPiJSQXexLrOXTo6DsoOsXw_TTRSormnX8emk&security=reality&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON&sid=5f3c96&sni=sourceforge.net&spx=%2F&type=grpc#Czech Republic
 vless://a879196c-d849-4416-9b87-464733270cc5@194.182.79.117:35307?encryption=none&fp=chrome&mode=gun&pbk=q9S56XnvF1SLqCwmld0MJ4TnpAu4PI2GKcl71fK4kAA&security=reality&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON&sid=df322bfe&sni=sourceforge.net&spx=%2F&type=grpc#Czech Republic
@@ -169,8 +169,8 @@ vless://e2a0b27d-1330-409e-876a-eacc7d833049@151.101.3.8:80?encryption=none&host
 vless://a20a281b-7f72-42e7-a1fd-73ed063c5681@91.107.254.202:2096?encryption=none&fp=chrome&host=firebase.googleapis.com&mode=auto&path=%2FTelegram---%40bluVPNir---Telegram---%40bluVPNir---Telegram---%40bluVPNir---Telegram---%40bluVPNir---Telegram---%40bluVPNir---Telegram---%40bluVPNir---Telegram---%40bluVPNir---Telegram---%40bluVPNir---Telegram---%40bluVPNir---%40bluVPNir&pbk=sPEQ8mlkuJQsGrMZux2g9EmXKztuXHwnyORJPwwznDQ&security=reality&sid=a0e13102&sni=firebase.googleapis.com&spx=%2F&type=xhttp#Germany
 vless://1203d6a8-e188-4419-bdc9-7e0cc73e4667@138.199.168.187:28153?encryption=none&fp=chrome&mode=auto&path=%2F%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec&pbk=wIyC9CuOB33Hx1HbHnx_0JZXypmEink7icN0rWmzTlE&security=reality&sid=b6f9&sni=zhaket.com&spx=%2F&type=xhttp#Germany
 trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?headerType=http&security=none&type=tcp#Iran
-trojan://telegram-id-privatevpns@52.47.143.163:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#France
-trojan://telegram-id-directvpn@52.47.143.163:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#France
+trojan://telegram-id-privatevpns@15.237.98.61:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#France
+trojan://telegram-id-directvpn@15.237.98.61:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#France
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#United States
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#United States
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#China
