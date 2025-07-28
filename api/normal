@@ -31,8 +31,8 @@ vless://8ca4ca74-fa0c-4c18-86c5-ce6d0382ff14@104.21.32.1:2096?encryption=none&fp
 vless://34a4cfb4-8b42-42ba-b087-6a338c2b3b4a@fast-01.saitsazs.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&host=Demon02.global.ssl.fastly.net&mode=auto&path=%2Fpath&security=none&type=xhttp#Italy
 vless://959eb33c-43f8-4f45-9de6-3ffd13319a79@nv73.momdping.com:443?encryption=none&path=%2F&security=tls&sni=nv73.momdping.com&type=ws#Iran
 vless://9718b260-03c9-4313-af0f-d08a0b5c859e@video-streaming.comtent-delivery.poshtibani.4b3a.com:23410?encryption=none&headerType=http&host=fonts.gstatic.com&security=none&type=tcp#Iran
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.157.93.118:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#Germany
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.41.119:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#France
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.162.83:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#France
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.77.32:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#Germany
 vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@151.101.3.8:80?encryption=none&host=fatmelo.com&path=%2Folem%2Fws%3Fed%3D1024&security=none&type=ws#United States
 vless://2c76fa28-ed80-4193-a2bf-827af55f22c0@www.speedtest.net:80?host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.&path=%2Fali&security=none&type=ws#United States
 vless://telegram-id-ArV2ray@104.18.26.90:80?encryption=none&host=www.speedtest.net.a.3.speedtest2029.com.&path=%2F-Arfilter%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter%3Fed%3D80&security=none&type=ws#United States
@@ -73,9 +73,9 @@ vless://167d9962-124b-4b12-8a8d-8dd32c774fd9@wifi6.iampr0.com:800?encryption=non
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?encryption=none&fp=random&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws#United States
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&path=%2F%3Fed%3D2048&security=none&type=ws#United States
 vless://cbfa8a4f-ca68-45b2-80b7-dbdf4d00dc95@104.24.150.187:2087?encryption=none&fp=chrome&host=vless1.chuyangz1.sbs&path=%2F&security=tls&sni=vless1.chuyangz1.sbs&type=ws#United States
-vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?PROT_TYPE=vless&encryption=none&host=azadnet-7py.pages.dev&path=%2Fazadnet-7py.pages.dev%2F%3Fed%3D2560&security=tls&sni=azadnet-7py.pages.dev&type=ws#United States
-vless://06edae88-3917-4853-a352-f70c2c6e14ae@viop.fast.hosting-ip.com:80?encryption=none&host=reasmodeus.global.ssl.fastly.net&mode=auto&path=%2Frezataheri%3Fed%3D2560&security=none&type=xhttp#United States
-vless://80d1fe59-60f4-4272-a280-820e1ef0a754@104.18.26.90:443?encryption=none&host=tfs733.pages.dev&path=%2FTelegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray%3Fed%3D2048&security=tls&sni=pages.dev&type=ws#United States
+vless://c6132f27-e603-4176-8b15-278907af7ead@test.leperfume.ir:443?encryption=none&fp=chrome&mode=gun&pbk=8eFzByo1ERD94b3SfZDmOoeykxKCXi8OpQhnSof5OQY&security=reality&sid=8e&sni=journalofbigdata.springeropen.com&spx=%2F&type=grpc#United States
+vless://5879d109-8c92-448a-801b-3f3989019934@www.speedtest.net:443?encryption=none&host=free-palestine.pages.dev&path=%2FTelegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray%3Fed%3D2048&security=tls&sni=pages.dev&type=ws#United States
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?encryption=none&fp=randomized&host=azadnet-7py.pages.dev&path=%2Fazadnet-7py.pages.dev%2F%3Fed%3D2560&security=tls&sni=azadnet-7py.pages.dev&type=ws#United States
 vless://3891b3ce-bb3a-45bf-bd8e-90e2487d121e@wouldyoumarriemepleasefuckthesystem3.siasia.ir:2053?path=%2Fapiii#Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&alpn=h3,h2&encryption=none&host=hheydudethisworldisshet.siasia.ir&fp=randomized&type=ws&sni=hheydudethisworldisshet.siasia.ir#United States
 vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk2v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&fp=qq&headerType=none&pbk=GcOtIhZbkznrBYohK7rvjV0oVoQvC4y38VIExs6KUwA&security=reality&sni=businessmadesimple.com&spx=%2F&type=tcp#United States
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?encryption=none&fp=random&host=vl.hongkong6.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=vl.hongkong6.qzz.io&type=ws#United States
@@ -98,8 +98,8 @@ vless://06fa2c71-38a0-4a4c-8493-8dc716ab1adf@speedtest.net:443?alpn=h3%2Ch2%2Cht
 vless://telegram-id-ArV2ray@speedtest.net:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=dwojwh14.ir&path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&sni=speedtest.net&type=ws#United States
 vless://MsV2ray-Telegram@www.speedtest.net:80?host=http-fast-de-speedtest.xqfactor.ir.&path=%2FMsV2ray%3Fed%3D80&security=none&type=httpupgrade#United States
 vless://Telegram-MsV2ray@www.speedtest.net:80?host=http-fast-de-speedtest.xqfactor.ir.&path=%2FMsV2ray%3Fed%3D80&security=none&type=httpupgrade#United States
-vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@5.75.198.47:443?encryption=none&fp=chrome&headerType=none&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&security=reality&sid=974a74bf&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&type=tcp#Germany
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?encryption=none&mode=gun&security=none&type=grpc#United Kingdom
+vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?encryption=none&host=azadnet05.pages.dev&path=%2FlZU7WqWIDqC1jRn6%3Fed%3D2560&security=tls&sni=azadnet05.pages.dev&type=ws#United States
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?encryption=none&host=vngsupply.ip-ddns.com&path=%2FfgvtHUpS6R8Rv8s5%3Fed%3D2560&security=none&type=ws#United States
 vless://d4363b0e-8672-43c6-af2a-30824d60e435@91.107.155.155:443?encryption=none&mode=gun&security=none&serviceName=%40Silver_v2ray%40Silver_v2ray%40Silver_v2ray%40Silver_v2ray&type=grpc#Germany
 vless://3c5e9486-df15-4544-98ff-edb57a2453d0@104.16.128.22:8880?encryption=none&host=cdcvdsf412s5f.jtip1.sbs.&security=none&type=httpupgrade#United States
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@162.159.153.2:80?encryption=none&host=csgo.mozilla.5.0.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.127.0.0.1.offlinespeedtest.netdown.user.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.0.2.1.xn--j9h1028mqmaoytii00aha21hfjrd.xn--m39h.tor.rubika.cloudns.ch.&id=dfc1a9ab-6241-4b73-92f7-b299fc6b7751&path=%2Fxmlrpc.php%3Fed%3D1080&security=none&type=ws#United States
@@ -117,6 +117,8 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?encryption=none&hos
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?encryption=none&fp=chrome&host=privasi.turah.my.id&path=%2FFree-CF-Proxy-AD192.3.113.4-19318&security=tls&sni=privasi.turah.my.id&type=ws#United States
 vless://ec76d7ac-f8dd-40f5-b28a-223bab8217ae@vip1.proxystore11.news:10358?flow=xtls-rprx-vision&fp=chrome&pbk=axD7U8DCmchSVZemN_DTRYdnNZ141CxTSkTabDdzNEk&security=reality&sid=b373044d&sni=zula.ir&spx=%2F&type=tcp#Germany
 vless://92c7897a-6494-4719-aefd-aea8280314ce@vip1.proxystore11.news:10358?encryption=none&fp=chrome&headerType=&pbk=axD7U8DCmchSVZemN_DTRYdnNZ141CxTSkTabDdzNEk&security=reality&sid=b373044d&sni=zula.ir&spx=%2F&type=tcp#Germany
+vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@5.75.198.47:443?encryption=none&fp=chrome&headerType=none&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&security=reality&sid=974a74bf&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&type=tcp#Germany
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?encryption=none&mode=gun&security=none&type=grpc#United Kingdom
 vless://Telegram@FNET00@Am20094@188.121.126.69:8081?security=none&type=tcp#Iran
 vless://e0dab845-5f26-4fe3-a158-1487adaa5389@ping.amirhossein.info:8443?encryption=none&host=ping.amirhossein.info&path=%2FTelegram%40Green_WPN%40Vijra_dev%2F%3Fed%3D2560&security=&type=ws#Iran
 vless://Telegram@FNET00@Am20094@151.101.3.8:80?encryption=none&host=fnet00.global.ssl.fastly.net&mode=auto&path=%2FTelegram%40FNET00-%40Am20094%2F%3Fed%3D2560&security=&type=xhttp#United States
@@ -129,8 +131,6 @@ vless://96095804-6e2b-4ed4-8bd5-49c28cb73679@194.182.79.64:14074?encryption=none
 vless://ce62ee5e-e316-46af-b967-4588a5e8e66c@wouldyoumarriemepleasefuckthesystem.siasia.ir:2053?alpn=h3%2Ch2&encryption=none&fp=randomized&host=hheydudethisworldisshet.siasia.ir&path=%2Fapiii&security=tls&sni=hheydudethisworldisshet.siasia.ir&type=ws#United States
 vless://bab6b157-a6e8-4756-a485-dcb4ca476eb9@server2.fergalvpnmod.com:25126?encryption=none&fp=chrome&mode=gun&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&security=reality&serviceName=Telegram%3A%40FergalVpnMod&sid=1e&sni=cloudflare.com&type=grpc#Netherlands
 vless://201c05a2-f76b-4088-bb1d-e4c8ee8909dd@germansana.kesslershop.ir:8997?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&pbk=UgwRcGmt9yqVzDac4KryRxQKvaVDi0eueJPPpmx7pW8&security=reality&sid=f23d09&sni=refersion.com&spx=%2FKesslerVPN&type=tcp#Germany
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?encryption=none&host=vngsupply.ip-ddns.com&path=%2FfgvtHUpS6R8Rv8s5%3Fed%3D2560&security=none&type=ws#United States
-vless://1dd49fb8-6570-4a2a-a236-f410b63159cf@OBEDiENT-detAiL.SEOTOOlSFOrYou.co.uk:80?encryption=none&path=%2F&security=none&type=ws#United States
 vless://bdb67bdd-9f24-4555-bdb4-b768567ae239@vioplex.fast.hosting-ip.com:80?encryption=none&host=Free_proxyu.org&mode=auto&path=%2Ffree%3Fed%3D2048&security=none&type=xhttp#United States
 vless://88720204-ebad-490f-94ad-146f7cebd25b@d1.marzano5.one:35273?encryption=none&fp=randomized&headerType=none&pbk=Pbw9c39ihEuOP53vnsbivCHh6Y11TdzYrfJ9RGVix1Y&security=reality&sid=281409ed&sni=zula.ir&spx=%2F&type=tcp#Switzerland
 vless://3e5e8070-39b4-4a25-94cf-43c629b54eea@151.101.120.1:80?encryption=none&host=Cloudshopservis.global.ssl.fastly.net&mode=auto&path=%2F&security=none&type=xhttp#France
@@ -158,10 +158,10 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@198.62.62.175:8880?encryption=none&
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?encryption=none&host=v2ngsupply2.ip-ddns.com&path=%2FijiDwDw8BcM9ieHc%3Fed%3D2560&security=&type=ws#United States
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?encryption=none&host=vngsupply.ip-ddns.com&path=%2F6TvG8D6HimXKgdp2%3Fed%3D2560&security=&type=ws#United States
 trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?headerType=http&security=none&type=tcp#Iran
-trojan://telegram-id-privatevpns@18.157.93.118:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Germany
-trojan://telegram-id-privatevpns@15.188.41.119:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#France
-trojan://telegram-id-directvpn@18.157.93.118:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Germany
-trojan://telegram-id-directvpn@15.188.41.119:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#France
+trojan://telegram-id-privatevpns@35.180.162.83:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#France
+trojan://telegram-id-privatevpns@18.159.77.32:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Germany
+trojan://telegram-id-directvpn@35.180.162.83:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#France
+trojan://telegram-id-directvpn@18.159.77.32:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Germany
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#United States
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#United States
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#China
