@@ -91,9 +91,9 @@ vless://0e00aafb-b813-42f8-bea5-dabae7a2d18b@104.16.85.3:8880?flow=&host=join-to
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?encryption=none&headerType=none&security=none&type=tcp#Germany
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?encryption=none&headerType=none&security=none&type=tcp#Germany
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=random&host=carlotta.shoorekeeper.cloudns.org&path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%40v2rayngzendegimamad&security=tls&sni=carlotta.shoorekeeper.cloudns.org&type=ws#United States
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.132.59:8443?encryption=none&mode=stream-one&path=%2Fxhttp&security=none&type=xhttp#Germany
-vless://b42fc0c6-beff-43ee-9bf7-0f9a4688120b@5.75.206.90:8440?encryption=none&headerType=http&host=telewebion.com&security=none&type=tcp#Germany
-vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?encryption=none&path=%2F&security=none&type=ws#United States
+vless://49a7f5d2-026e-4c17-8386-b3e073473a13@iran.shatak.top:11344?encryption=none&headerType=none&host=TELEGRAM--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY&security=none&type=tcp#Germany
+vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?encryption=none&host=TELEGRAM--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY&path=%2Flfcinsws&security=tls&type=ws#Turkey
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?encryption=none&mode=gun&security=none&type=grpc#United Kingdom
 vless://9a620099-7df2-4935-9c01-d52a3897512a@151.101.69.6:80?encryption=none&host=Zedmodeonjoiningyour-name.global.ssl.fastly.net&mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=none&type=xhttp#United States
 vless://91c2a01e-be0b-4296-bfd8-630e9ec6d8d5@sec.lucyshoping.ir:11885?host=&path=%2F&security=none&type=ws#Germany
 vless://4b8fa6eb-2834-4bc3-acf9-971819ae42a0@sedr-sehat.online:3060?encryption=none&headerType=http&host=speedtest.net&security=none&type=tcp#Iran
