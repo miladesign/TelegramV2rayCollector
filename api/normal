@@ -112,9 +112,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?authority=&encr
 vless://16c240d5-52d0-4863-bd24-b816df3a1fa0@151.101.3.8:80?encryption=none&host=fotofactory.pk&mode=auto&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&type=xhttp#United States
 vless://608a6bd2-8d2b-434b-ace6-02ad4c6ed970@151.101.3.8:80?encryption=none&host=fotofactory.pk&mode=auto&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&type=xhttp#United States
 vless://2471b831-2695-44c3-90bd-b9a7f31a9c8f@91.99.179.41:42671?security=none&type=tcp#Germany
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?encryption=none&headerType=none&security=none&type=tcp#France
-vless://2000ec36-ee09-40a3-8d37-ca5de1040b5d@cosmin.ns.cloudflare.com:443?encryption=none&path=%2Fbrxigzws&security=tls&sni=638996735062000656.highlander-amsih.info&type=ws#United States
-vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@nld26.luckernld.org:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.cybo.com&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp#Netherlands
+vless://d2ba4c20-6223-4d8c-a1f8-b7e8923f977c@169.150.236.107:443?allowInsecure=1&alpn=h2&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&fp=chrome&headerType=&host=Frost2.b-cdn.net&mode=packet-up&path=%2F&security=tls&sni=google.com&type=xhttp#United States
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.38.116:443?encryption=none&mode=gun&security=none&type=grpc#Germany
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.120:443?alpn=h3&fp=random&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&security=tls&sni=pages.teasalo.cloudns.org&type=ws#United States
 vless://1ab0cee7-7ac1-4480-be8a-6b4dab5f81c4@dkfdbnodbd.fastlynew.hosting-ip.com:80?encryption=none&host=freefree1213.global.ssl.fastly.net&mode=auto&path=%2F&security=none&type=xhttp#United States
 vless://cfe554a3-4cd5-4fe1-9951-e6b65fc52a74@91.107.139.110:8880?encryption=none&mode=gun&security=none&type=grpc#Germany
 vless://1ab0cee7-7ac1-4480-be8a-6b4dab5f81c4@dkfdbnodbd.fastlynew.hosting-ip.com:80?encryption=none&host=freefree1213.global.ssl.fastly.net&mode=auto&path=%2F&security=none&type=xhttp#Italy
@@ -165,6 +165,7 @@ trojan://f311aff6-6cd2-4d62-8765-25d879b2516a@83.217.9.110:24443?allowInsecure=1
 trojan://5fbEkKmVOdAY 8_-@217.69.10.156:16288?security=tls&sni=sweetdream.sweetthunder.click&type=tcp#France
 trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&security=tls&sni=kotlet.arshiacomplus.dpdns.org&type=ws#United States
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?headerType=none&security=tls&sni=runningshoes.purpletornado.click&type=tcp#Poland
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?headerType=none&path=%2F&security=tls&sni=shoppingmall.electricbanana.click&type=tcp#Canada
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#United States
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#United States
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#United States
