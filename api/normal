@@ -55,8 +55,6 @@ vless://@SEGVPN@85.234.69.163:10100?encryption=none&flow=xtls-rprx-vision&fp=chr
 vless://1af727c4-4076-43d9-907b-1b45f11a133e@f1.springpaatogh8.store:2087?allowInsecure=0&encryption=none&host=gamepc.sorza.ir&insecure=0&path=%2F%3Fed%3D2560&security=tls&sni=digikala.sorza.ir&type=ws#United States
 vless://1af727c4-4076-43d9-907b-1b45f11a133e@f1.springpaatogh8.store:8443?allowInsecure=0&encryption=none&host=digikala.sorza.ir&insecure=0&path=%2F%3Fed%3D2560&security=tls&sni=digikala.sorza.ir&type=ws#United States
 vless://ec8463ea-07b7-475b-b9f0-eeb98927f427@172.64.152.23:443?allowInsecure=0&encryption=none&insecure=0&path=%2F&security=tls&sni=myservicefid.get-service.ir&type=ws#United States
-vless://4d3b90a9-1b17-4fac-b514-3780d7170b3c@cloud.nexun.ir:443?allowInsecure=0&alpn=h2&encryption=none&fp=chrome&host=test.tan3.ir&insecure=0&mode=auto&path=%2FecoHTTP&security=tls&sni=test.tan3.ir&type=xhttp#United States
-vless://3412c147-a0fe-4951-8a11-9a975cc6fec8@vip-80.f-sub.cfd:1517?encryption=none&headerType=http&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&security=none&type=tcp#Germany
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?allowInsecure=0&alpn=h2&encryption=none&fp=chrome&insecure=0&mode=gun&security=tls&sni=pqh30v1.carwashipdir.shop&type=grpc#United States
 vless://c4a9c15c-2e49-44d5-b959-bf7e7d313054@meli.dataxshop.ir:2095?encryption=none&host=amsterdam.11.v.www.speedtest.net.nestle.ir.ftp.debian.org.tmo.docb.datax.click.dataxshop.ir&path=%2Fdatax_proxy&security=none&type=ws#United States
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?allowInsecure=0&encryption=none&insecure=0&path=%2F&security=tls&sni=dev.twistsparrow.xyz&type=ws#United States
@@ -83,8 +81,6 @@ vless://fe5612b7-be84-4b5c-bf24-edc1b736a226@88.210.6.30:14064?encryption=none&h
 vless://72d3ec61-cb2a-49cd-8c3a-d6b3c22ea923@vipde5.persianhostnet.ir:9093?encryption=none&headerType=http&host=filmnet.ir&security=none&type=tcp#Iran
 vless://27321d2d-1be0-4628-b45d-a24f95aba23a@Rose8.lhpuniversity.online:41488?encryption=none&headerType=http&host=aparat.com&security=none&type=tcp#Iran
 vless://98d677be-b14b-4c14-a96b-4a39a3be645a@chatgpt.com:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev&path=%2FeyJqdW5rIjoiZHJmTGlJSmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev&type=ws#United States
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?encryption=none&mode=gun&security=none&type=grpc#United States
-vless://4603e54d-b023-4947-83e7-70025416f306@212.111.84.187:51102?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&security=reality&sid=8f222b3475800821&sni=m.vk.ru&type=tcp#Russia
 vless://573c787d-d549-4171-b05f-29984bc0266c@45.85.118.209:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=ipv4.farazteams.ir&path=%2F%40AmirGeekTech-%40FNET00&security=tls&sni=ipv4.farazteams.ir&type=ws#United Kingdom
 vless://573c787d-d549-4171-b05f-29984bc0266c@104.16.139.160:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=ipv4.farazteams.ir&path=%2F%40AmirGeekTech-%40FNET00&security=tls&sni=ipv4.farazteams.ir&type=ws#United States
 vless://1b5648b6-da73-4ffb-b964-46c6d3d52136@159.69.23.6:22531?encryption=none&fp=chrome&pbk=jb36M2GejuMVpv36Tx0zEAq5qPgF7Ux1pHoWre7moHE&security=reality&sid=4638b111&sni=zula.ir&type=grpc#Germany
@@ -112,9 +108,9 @@ vless://671b9a72-7c75-46b9-be82-db2734bae2fc@public.alpanel.top:1403?encryption=
 vless://73130c36-8b0a-4f5a-865c-bf92c182c1a7@tiuvanm.amki.ir:8080?encryption=none&fp=firefox&headerType=none&pbk=-UukiBzugWD2vIyTqKN5L8i4TbneIekXDD9IEs3TiVw&security=reality&sid=98815cc9bcf5b56f&sni=JouRNaloFbIgdATA.SpRinGeropEn.coM&type=tcp#Republic of Lithuania
 vless://83d37a41-a326-4418-9502-a2fb7e2df812@bdir.team-pluss.com:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&pbk=UqOnYKBtVUADBnjVw1rS2ZYcMa0vsCFFe6c1OkFXzGM&security=reality&sid=49471179d2a8c88a&sni=tgju.org&spx=%2F&type=tcp#Netherlands
 vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?host=Bluewave.ai&path=%2F%3Fed%3D1861&security=none&type=ws#United States
-vless://f8157b85-ba98-436a-b868-e109947813fb@78.157.49.84:713?encryption=none&headerType=http&host=igap.net&security=none&type=tcp#Iran
+vless://fe595ea9-e641-46db-cf94-38afef601315@cf.mahdi383ir.website:443?allowInsecure=0&alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=kh2d2db3vlp4ldh885do6w0pp5286wqow0p0kdg.mahdi383ir.website&insecure=0&path=%2Fmahdi_383ir&security=tls&sni=kh2dmg6jzcc3tk5qjk88uua1mqmllu3ab8ftomg.mahdi383ir.website&type=ws#United States
 vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:8443?allowInsecure=0&encryption=none&fp=chrome&host=digikala.sorza.ir&insecure=0&path=%2F%3Fed%3D2560&security=tls&sni=digikala.sorza.ir&type=ws#United States
-vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@65.108.108.151:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&security=reality&sid=f8865ecbb9bc11a3&sni=fit.jojack.ru&type=tcp#Finland
+vless://f8157b85-ba98-436a-b868-e109947813fb@78.157.49.84:713?encryption=none&headerType=http&host=igap.net&security=none&type=tcp#Iran
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?authority=telegram%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray&encryption=none&mode=gun&security=&type=grpc#United States
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?authority=telegram%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray%2C%40MDv2ray&encryption=none&fp=chrome&mode=gun&security=&type=grpc#United States
 trojan://telegram-id-privatevpns@3.66.249.18:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#Germany
@@ -127,6 +123,7 @@ trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&fp=firefox&host=kot
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#United States
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#United States
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YzFmNzRjZGM1MWQ1@91.106.109.17:48210#Hashemite+Kingdom+of+Jordan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NjUzYzM3ZWRhMWMwY2Nh@66.94.121.161:20207#United+States
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#Iran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjg1M2Y5YmI4Nzc3NzM0@57.129.94.79:11207#Germany
